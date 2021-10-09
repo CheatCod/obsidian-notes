@@ -7,19 +7,25 @@
         "id": "11879299e56e3ee2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CS 246/Seperate Compilation.md",
+            "mode": "source"
+          }
         },
-        "group": "c1ea1456f8679f27"
+        "group": "055e0e1e5ac484ad"
       },
       {
-        "id": "6bee4742e3a12b4e",
+        "id": "ef8807bcc1cab2d8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CS 246/Seperate Compilation.md",
+            "mode": "preview"
+          }
         },
-        "group": "c1ea1456f8679f27"
+        "group": "055e0e1e5ac484ad"
       }
     ],
     "direction": "vertical"
@@ -75,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS 246/Seperate Compilation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,12 +99,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6bee4742e3a12b4e",
+  "active": "ef8807bcc1cab2d8",
   "lastOpenFiles": [
-    "CS 246/Drawing 2021-10-09 15.05.32.excalidraw.md",
     "CS 246/Seperate Compilation.md",
-    "Stat 230/Hypergeometric distribution.md",
     "CS 246/Preprocessor.md",
+    "CS 246/Drawing 2021-10-09 15.05.32.excalidraw.md",
+    "Stat 230/Hypergeometric distribution.md",
     "Seperate Compilation.md",
     "Untitled.md",
     "CS 246/Untitled.md",

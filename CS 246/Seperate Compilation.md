@@ -62,5 +62,3 @@ We only need to recompile ```vec.cc``` if only it has changed
 [main.o] -> [main.cc]
 [main.cc] -> [vec.h]
 ```
-
-test test
