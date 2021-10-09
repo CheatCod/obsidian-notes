@@ -63,3 +63,4 @@ We only need to recompile ```vec.cc``` if only it has changed
 [main.cc] -> [vec.h]
 ```
 
+test
