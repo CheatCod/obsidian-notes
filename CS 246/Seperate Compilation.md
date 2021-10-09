@@ -32,6 +32,16 @@ Vec operator+(const Vec &v1, const Vec &v2){
 }
 ```
 
+```nomnoml
+[vecs] -> [main.o]
+[main.cc] -> [vec.h]
+[vecs] -> [vec.o]
+[vec.o] -> [vec.cc]
+[vec.cc] -> [vec.h]
+[main.o] -> [main.cc]
+[main.cc] -> [vec.h]
+```
+
 ! an entity can be multiple times, but defined only once 
 
 Use ```-c``` flag to specify compiling a binary file without linking to create full executable.
@@ -53,12 +63,4 @@ g++ vec.o main.o -o main
 
 We only need to recompile ```vec.cc``` if only it has changed
 
-```nomnoml
-[vecs] -> [main.o]
-[main.cc] -> [vec.h]
-[vecs] -> [vec.o]
-[vec.o] -> [vec.cc]
-[vec.cc] -> [vec.h]
-[main.o] -> [main.cc]
-[main.cc] -> [vec.h]
-```
+
