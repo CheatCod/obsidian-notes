@@ -7,5 +7,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "nldates-obsidian",
   "obsidian-nomnoml-diagram",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "obsidian-git",
+  "obsidian-excalidraw-plugin"
 ]
