@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "5eac6d3b54de0a6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "11879299e56e3ee2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CS 246/Seperate Compilation.md",
+            "mode": "source"
+          }
+        },
+        "group": "c1ea1456f8679f27"
+      },
+      {
+        "id": "6bee4742e3a12b4e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CS 246/Seperate Compilation.md",
+            "mode": "preview"
+          }
+        },
+        "group": "c1ea1456f8679f27"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb990e344968e00f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0785f92eb5776c21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd5aa039e4cac461",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9abd58d37f749bb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2cf7b8401d7c4c48",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e9339e6b370e13a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c06a67a334e627de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS 246/Seperate Compilation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6bee4742e3a12b4e",
+  "lastOpenFiles": [
+    "CS 246/Seperate Compilation.md",
+    "Stat 230/Hypergeometric distribution.md",
+    "CS 246/Preprocessor.md",
+    "Seperate Compilation.md",
+    "Untitled.md",
+    "CS 246/Untitled.md",
+    "Stat 23-/Hypergeometric distribution.md"
+  ]
+}
