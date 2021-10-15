@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "90215cc85fd47863",
+        "id": "b309f72e29b4569f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ESC104/wtf.md",
+            "file": "Stat 230/Poisson Distribution.md",
             "mode": "source"
           }
         },
-        "group": "4eed113c146532f9"
+        "group": "e22968350bb4513f"
       },
       {
-        "id": "3e45f17443203102",
+        "id": "6c6c03a52d8028cd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ESC104/wtf.md",
+            "file": "Stat 230/Poisson Distribution.md",
             "mode": "preview"
           }
         },
-        "group": "4eed113c146532f9"
+        "group": "e22968350bb4513f"
       }
     ],
     "direction": "vertical"
@@ -56,7 +56,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2cf7b8401d7c4c48",
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESC104/wtf.md",
+                "file": "Stat 230/Poisson Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,24 +118,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "90215cc85fd47863",
+  "active": "b309f72e29b4569f",
   "lastOpenFiles": [
-    "ESC104/wtf.md",
-    "CS 246/OOP/Constructor.md",
-    "CS 246/OOP/Methods.md",
-    "CS 246/OOP/Classes.md",
-    "CS 246/Preprocessing/Seperate Compilation.md",
-    "CS 246/OOP/Cohesion & Coupling.md",
-    "CS 246/Preprocessing/Make.md",
-    "CS 246/Preprocessing/Preprocessor.md",
-    "CS 246/Preprocessing/Preprocessor guards.md",
-    "method.md"
+    "Stat 230/Poisson Distribution.md",
+    "Stat 230/Probability Function.md",
+    "Stat 230/Random Variables.md",
+    "Stat 230/Cumulative Distribution Function.md",
+    "Stat 230/Untitled.md",
+    "Stat 230/Negative Binomial Distribution.md",
+    "Stat 230/Hypergeometric distribution.md",
+    "Stat 230/Sample Space.md",
+    "Stat 230/Bernouli trials.md",
+    "Stat 230/sample space.md"
   ]
 }

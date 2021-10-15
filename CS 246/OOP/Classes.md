@@ -2,8 +2,7 @@
 aliases: [class]
 ---
 # Classes
-```ad-info
-title: Definition
+```ad-def
 **Class**: Generic template for objects. Composed of data(attributes) and operations([[methods]])
 ```
 

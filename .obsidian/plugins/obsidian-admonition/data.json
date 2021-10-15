@@ -1,10 +1,31 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "def": {
+      "type": "def",
+      "color": "223, 153, 71",
+      "icon": {
+        "name": "book-open",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Definition"
+    },
+    "thm": {
+      "type": "thm",
+      "color": "54, 83, 166",
+      "icon": {
+        "name": "bookmark",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Theorem"
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "6.3.3",
-  "autoCollapse": false,
+  "autoCollapse": true,
   "defaultCollapseType": "open",
-  "syncLinks": true,
+  "syncLinks": false,
   "enableMarkdownProcessor": false
 }

@@ -2,8 +2,7 @@
 alias: []
 ---
 # Title
-```ad-note
-title: Definitions
+```ad-def
 
 ```
 

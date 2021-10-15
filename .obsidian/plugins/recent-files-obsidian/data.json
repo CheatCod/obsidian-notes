@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "wtf",
-      "path": "ESC104/wtf.md"
+      "basename": "Poisson Distribution",
+      "path": "Stat 230/Poisson Distribution.md"
     },
     {
-      "basename": "Constructor",
-      "path": "CS 246/OOP/Constructor.md"
+      "basename": "Probability Function",
+      "path": "Stat 230/Probability Function.md"
     },
     {
-      "basename": "Methods",
-      "path": "CS 246/OOP/Methods.md"
+      "basename": "Random Variables",
+      "path": "Stat 230/Random Variables.md"
+    },
+    {
+      "basename": "Cumulative Distribution Function",
+      "path": "Stat 230/Cumulative Distribution Function.md"
+    },
+    {
+      "basename": "Negative Binomial Distribution",
+      "path": "Stat 230/Negative Binomial Distribution.md"
+    },
+    {
+      "basename": "Hypergeometric distribution",
+      "path": "Stat 230/Hypergeometric distribution.md"
+    },
+    {
+      "basename": "Sample Space",
+      "path": "Stat 230/Sample Space.md"
+    },
+    {
+      "basename": "Bernouli trials",
+      "path": "Stat 230/Bernouli trials.md"
     },
     {
       "basename": "Classes",
@@ -23,6 +43,30 @@
     {
       "basename": "Cohesion & Coupling",
       "path": "CS 246/OOP/Cohesion & Coupling.md"
+    },
+    {
+      "basename": "Constructor",
+      "path": "CS 246/OOP/Constructor.md"
+    },
+    {
+      "basename": "Combinational Circuits",
+      "path": "CS 245/Combinational Circuits.md"
+    },
+    {
+      "basename": "Boolean Algebra",
+      "path": "CS 245/Boolean Algebra.md"
+    },
+    {
+      "basename": "Alias&Def&Relate",
+      "path": "Templates/Alias&Def&Relate.md"
+    },
+    {
+      "basename": "wtf",
+      "path": "ESC104/wtf.md"
+    },
+    {
+      "basename": "Methods",
+      "path": "CS 246/OOP/Methods.md"
     },
     {
       "basename": "Make",

@@ -89,8 +89,7 @@ Student s1{ 60, 70, 80 }, s2, s3{60}, s4{60, 70};
 are all valid initializations.
 
 ## Default constructor 
-```ad-note 
-title: Definition
+```ad-def
 **Default constructor**: a constructor that has 0 parameter
 ```
 
