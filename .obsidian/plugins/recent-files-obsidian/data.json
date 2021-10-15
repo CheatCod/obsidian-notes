@@ -1,0 +1,42 @@
+{
+  "recentFiles": [
+    {
+      "basename": "wtf",
+      "path": "ESC104/wtf.md"
+    },
+    {
+      "basename": "Constructor",
+      "path": "CS 246/OOP/Constructor.md"
+    },
+    {
+      "basename": "Methods",
+      "path": "CS 246/OOP/Methods.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "CS 246/OOP/Classes.md"
+    },
+    {
+      "basename": "Seperate Compilation",
+      "path": "CS 246/Preprocessing/Seperate Compilation.md"
+    },
+    {
+      "basename": "Cohesion & Coupling",
+      "path": "CS 246/OOP/Cohesion & Coupling.md"
+    },
+    {
+      "basename": "Make",
+      "path": "CS 246/Preprocessing/Make.md"
+    },
+    {
+      "basename": "Preprocessor",
+      "path": "CS 246/Preprocessing/Preprocessor.md"
+    },
+    {
+      "basename": "Preprocessor guards",
+      "path": "CS 246/Preprocessing/Preprocessor guards.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

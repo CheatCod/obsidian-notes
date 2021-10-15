@@ -4,9 +4,13 @@
   "obsidian-autocomplete-plugin",
   "obsidian-underline",
   "remember-cursor-position",
-  "cm-editor-syntax-highlight-obsidian",
   "nldates-obsidian",
   "obsidian-nomnoml-diagram",
   "obsidian-admonition",
-  "obsidian-git"
+  "obsidian-markdown-formatting-assistant-plugin",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-dictionary-plugin",
+  "table-editor-obsidian",
+  "recent-files-obsidian",
+  "obsidian-icons-plugin"
 ]

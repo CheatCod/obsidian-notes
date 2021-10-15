@@ -12,3 +12,6 @@ f(x) &= \frac{\text{way to choose x type 1} \times \text{way to choose n -x type
 &=\frac{{r \choose x}{N - r \choose n -x}}{{N \choose n}} 
 \end{align*}$$
 
+
+
+
