@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "b309f72e29b4569f",
+        "id": "0d3d42e8c1187537",
         "type": "leaf",
+        "dimension": 50.090909090909086,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stat 230/Poisson Distribution.md",
+            "file": "PSYCH 101/Consciousness.md",
             "mode": "source"
           }
         },
-        "group": "e22968350bb4513f"
+        "group": "62ec9b00fb2fc0c6"
       },
       {
-        "id": "6c6c03a52d8028cd",
+        "id": "51a8ee2f0efcb067",
         "type": "leaf",
+        "dimension": 49.90909090909091,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stat 230/Poisson Distribution.md",
+            "file": "PSYCH 101/Consciousness.md",
             "mode": "preview"
           }
         },
-        "group": "e22968350bb4513f"
+        "group": "62ec9b00fb2fc0c6"
       }
     ],
     "direction": "vertical"
@@ -73,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2cf7b8401d7c4c48",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stat 230/Poisson Distribution.md",
+                "file": "PSYCH 101/Consciousness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b309f72e29b4569f",
+  "active": "0d3d42e8c1187537",
   "lastOpenFiles": [
-    "Stat 230/Poisson Distribution.md",
-    "Stat 230/Probability Function.md",
-    "Stat 230/Random Variables.md",
-    "Stat 230/Cumulative Distribution Function.md",
-    "Stat 230/Untitled.md",
-    "Stat 230/Negative Binomial Distribution.md",
-    "Stat 230/Hypergeometric distribution.md",
-    "Stat 230/Sample Space.md",
-    "Stat 230/Bernouli trials.md",
-    "Stat 230/sample space.md"
+    "PSYCH 101/Consciousness.md",
+    "CS 246/OOP/Constructor.md",
+    "CS 246/OOP/Classes.md",
+    "CS 246/OOP/Cohesion & Coupling.md",
+    "CS 246/OOP/Methods.md",
+    "CS 246/Preprocessing/Make.md",
+    "CS 246/Preprocessing/Preprocessor guards.md",
+    "CS 246/Preprocessing/Preprocessor.md",
+    "CS 245/Adders.md",
+    "CS 246/Preprocessing/Seperate Compilation.md"
   ]
 }

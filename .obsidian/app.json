@@ -9,5 +9,6 @@
   "alwaysUpdateLinks": true,
   "fileSortOrder": "alphabetical",
   "attachmentFolderPath": "Attachments",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "vimMode": false
 }
