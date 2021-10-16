@@ -5,6 +5,14 @@
       "path": "PSYCH 101/Consciousness.md"
     },
     {
+      "basename": "Make",
+      "path": "CS 246/Preprocessing/Make.md"
+    },
+    {
+      "basename": "Preprocessor",
+      "path": "CS 246/Preprocessing/Preprocessor.md"
+    },
+    {
       "basename": "Constructor",
       "path": "CS 246/OOP/Constructor.md"
     },
@@ -21,16 +29,8 @@
       "path": "CS 246/OOP/Methods.md"
     },
     {
-      "basename": "Make",
-      "path": "CS 246/Preprocessing/Make.md"
-    },
-    {
       "basename": "Preprocessor guards",
       "path": "CS 246/Preprocessing/Preprocessor guards.md"
-    },
-    {
-      "basename": "Preprocessor",
-      "path": "CS 246/Preprocessing/Preprocessor.md"
     },
     {
       "basename": "Adders",

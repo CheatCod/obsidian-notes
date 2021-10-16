@@ -13,5 +13,7 @@
   "table-editor-obsidian",
   "recent-files-obsidian",
   "obsidian-icons-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-kroki",
+  "extract-url"
 ]

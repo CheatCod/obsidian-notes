@@ -6,28 +6,20 @@
       {
         "id": "0d3d42e8c1187537",
         "type": "leaf",
-        "dimension": 50.090909090909086,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PSYCH 101/Consciousness.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
-        "group": "62ec9b00fb2fc0c6"
+        "group": "933df3a205776be1"
       },
       {
-        "id": "51a8ee2f0efcb067",
+        "id": "c0cc2627c96bef55",
         "type": "leaf",
-        "dimension": 49.90909090909091,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PSYCH 101/Consciousness.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
-        "group": "62ec9b00fb2fc0c6"
+        "group": "933df3a205776be1"
       }
     ],
     "direction": "vertical"
@@ -91,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 101/Consciousness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +119,15 @@
   },
   "active": "0d3d42e8c1187537",
   "lastOpenFiles": [
+    "PSYCH 101/Untitled.md",
     "PSYCH 101/Consciousness.md",
+    "CS 246/Preprocessing/Make.md",
+    "CS 246/Preprocessing/Preprocessor.md",
     "CS 246/OOP/Constructor.md",
     "CS 246/OOP/Classes.md",
     "CS 246/OOP/Cohesion & Coupling.md",
     "CS 246/OOP/Methods.md",
-    "CS 246/Preprocessing/Make.md",
     "CS 246/Preprocessing/Preprocessor guards.md",
-    "CS 246/Preprocessing/Preprocessor.md",
-    "CS 245/Adders.md",
-    "CS 246/Preprocessing/Seperate Compilation.md"
+    "CS 245/Adders.md"
   ]
 }

@@ -1,7 +1,7 @@
 
 # Make
 
-The relationship between files created a system of <u>dependencies</u>:"
+The relationship between files created a system of <u>dependencies</u>:
 
 ```nomnoml
 [vecs] -> [main.o]
