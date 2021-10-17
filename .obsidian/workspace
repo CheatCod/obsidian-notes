@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0d3d42e8c1187537",
+        "id": "5e811b97c33ed714",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "933df3a205776be1"
-      },
-      {
-        "id": "c0cc2627c96bef55",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "933df3a205776be1"
+          "type": "markdown",
+          "state": {
+            "file": "CS 245/Adders.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -83,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS 245/Adders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,26 +102,35 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "dfd4be36deb17662",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS 245/Adders.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "0d3d42e8c1187537",
+  "active": "5e811b97c33ed714",
   "lastOpenFiles": [
-    "PSYCH 101/Untitled.md",
+    "CS 245/Adders.md",
+    "CS 245/Untitled.md",
+    "CS 245/Logic Circuits.md",
+    "Stat 230/Cumulative Distribution Function.md",
+    "Stat 230/Negative Binomial Distribution.md",
+    "Stat 230/Random Variables.md",
+    "Stat 230/Sample Space.md",
     "PSYCH 101/Consciousness.md",
-    "CS 246/Preprocessing/Make.md",
-    "CS 246/Preprocessing/Preprocessor.md",
-    "CS 246/OOP/Constructor.md",
-    "CS 246/OOP/Classes.md",
-    "CS 246/OOP/Cohesion & Coupling.md",
-    "CS 246/OOP/Methods.md",
-    "CS 246/Preprocessing/Preprocessor guards.md",
-    "CS 245/Adders.md"
+    "PSYCH 101/Untitled.md",
+    "CS 246/Preprocessing/Make.md"
   ]
 }

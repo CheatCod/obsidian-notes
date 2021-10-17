@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Adders",
+      "path": "CS 245/Adders.md"
+    },
+    {
+      "basename": "Logic Circuits",
+      "path": "CS 245/Logic Circuits.md"
+    },
+    {
+      "basename": "Cumulative Distribution Function",
+      "path": "Stat 230/Cumulative Distribution Function.md"
+    },
+    {
+      "basename": "Negative Binomial Distribution",
+      "path": "Stat 230/Negative Binomial Distribution.md"
+    },
+    {
+      "basename": "Random Variables",
+      "path": "Stat 230/Random Variables.md"
+    },
+    {
+      "basename": "Sample Space",
+      "path": "Stat 230/Sample Space.md"
+    },
+    {
       "basename": "Consciousness",
       "path": "PSYCH 101/Consciousness.md"
     },
@@ -33,10 +57,6 @@
       "path": "CS 246/Preprocessing/Preprocessor guards.md"
     },
     {
-      "basename": "Adders",
-      "path": "CS 245/Adders.md"
-    },
-    {
       "basename": "Seperate Compilation",
       "path": "CS 246/Preprocessing/Seperate Compilation.md"
     },
@@ -49,28 +69,12 @@
       "path": "Stat 230/Poisson Distribution.md"
     },
     {
-      "basename": "Negative Binomial Distribution",
-      "path": "Stat 230/Negative Binomial Distribution.md"
-    },
-    {
       "basename": "Hypergeometric distribution",
       "path": "Stat 230/Hypergeometric distribution.md"
     },
     {
-      "basename": "Cumulative Distribution Function",
-      "path": "Stat 230/Cumulative Distribution Function.md"
-    },
-    {
       "basename": "Probability Function",
       "path": "Stat 230/Probability Function.md"
-    },
-    {
-      "basename": "Random Variables",
-      "path": "Stat 230/Random Variables.md"
-    },
-    {
-      "basename": "Sample Space",
-      "path": "Stat 230/Sample Space.md"
     },
     {
       "basename": "Bernouli trials",
