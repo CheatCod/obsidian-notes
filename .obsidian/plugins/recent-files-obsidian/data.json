@@ -1,16 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "Negative Binomial Distribution",
-      "path": "Stat 230/Week 5/Negative Binomial Distribution.md"
+      "basename": "Formal Deduction in Propositional Logic",
+      "path": "CS 245/Week 6/Formal Deduction in Propositional Logic.md"
+    },
+    {
+      "basename": "Week 6",
+      "path": "CS 245/Week 6/Week 6.md"
+    },
+    {
+      "basename": "Alias&Def&Relate",
+      "path": "Templates/Alias&Def&Relate.md"
+    },
+    {
+      "basename": "Gather",
+      "path": "Templates/Gather.md"
+    },
+    {
+      "basename": "Align",
+      "path": "Templates/Align.md"
+    },
+    {
+      "basename": "Week 5",
+      "path": "CS 245/Week 5/Week 5.md"
     },
     {
       "basename": "Week 5",
       "path": "Stat 230/Week 5/Week 5.md"
     },
     {
+      "basename": "Make",
+      "path": "CS 246/Week 4 - preprocessing/Make.md"
+    },
+    {
+      "basename": "Week 5 - OOP",
+      "path": "CS 246/Week 5 - OOP/Week 5 - OOP.md"
+    },
+    {
+      "basename": "Linking",
+      "path": "CS 246/Chunks/Linking.md"
+    },
+    {
+      "basename": "Preprocessor",
+      "path": "CS 246/Week 4 - preprocessing/Preprocessor.md"
+    },
+    {
+      "basename": "Seperate Compilation",
+      "path": "CS 246/Week 4 - preprocessing/Seperate Compilation.md"
+    },
+    {
+      "basename": "-c",
+      "path": "CS 246/list of g++ flags/-c.md"
+    },
+    {
+      "basename": "Keyword-extern",
+      "path": "CS 246/Chunks/Keyword-extern.md"
+    },
+    {
       "basename": "Constructor",
       "path": "CS 246/Week 5 - OOP/Constructor.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "CS 246/Week 5 - OOP/Classes.md"
+    },
+    {
+      "basename": "Cohesion & Coupling",
+      "path": "CS 246/Week 5 - OOP/Cohesion & Coupling.md"
+    },
+    {
+      "basename": "Methods",
+      "path": "CS 246/Week 5 - OOP/Methods.md"
+    },
+    {
+      "basename": "Preprocessor guards",
+      "path": "CS 246/Week 4 - preprocessing/Preprocessor guards.md"
+    },
+    {
+      "basename": "Week 4 - preprocessing",
+      "path": "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
+    },
+    {
+      "basename": "Combinational Circuits",
+      "path": "CS 245/Week 5/Combinational Circuits.md"
     },
     {
       "basename": "Dream",
@@ -21,32 +93,84 @@
       "path": "PSYCH 101/Consciousness.md"
     },
     {
-      "basename": "sample space",
-      "path": "Stat 230/sample space.md"
+      "basename": "Boolean Algebra",
+      "path": "CS 245/Week 5/Boolean Algebra.md"
     },
     {
-      "basename": "Random Variables",
-      "path": "Stat 230/Random Variables.md"
+      "basename": "Circuit Minimization",
+      "path": "CS 245/Week 5/Circuit Minimization.md"
+    },
+    {
+      "basename": "Adders",
+      "path": "CS 245/Week 5/Adders.md"
+    },
+    {
+      "basename": "Logic Circuits",
+      "path": "CS 245/Week 5/Logic Circuits.md"
+    },
+    {
+      "basename": "Analyze and Simplifying Code",
+      "path": "CS 245/Week 5/Analyze and Simplifying Code.md"
+    },
+    {
+      "basename": "Pasted image 20211017145248",
+      "path": "Attachments/Pasted image 20211017145248.png"
+    },
+    {
+      "basename": "Pasted image 20211016015923",
+      "path": "Attachments/Pasted image 20211016015923.png"
+    },
+    {
+      "basename": "Pasted image 20211013144700",
+      "path": "Attachments/Pasted image 20211013144700.png"
+    },
+    {
+      "basename": "Pasted image 20211013135058",
+      "path": "Attachments/Pasted image 20211013135058.png"
+    },
+    {
+      "basename": "Pasted image 20211013102153",
+      "path": "Attachments/Pasted image 20211013102153.png"
     },
     {
       "basename": "Cumulative Distribution Function",
       "path": "Stat 230/Cumulative Distribution Function.md"
     },
     {
-      "basename": "Sample Space",
-      "path": "Stat 230/Sample Space.md"
-    },
-    {
       "basename": "Hypergeometric distribution",
       "path": "Stat 230/Hypergeometric distribution.md"
     },
     {
-      "basename": "Probability Function",
-      "path": "Stat 230/Probability Function.md"
+      "basename": "Bernouli trials",
+      "path": "Stat 230/Week 5/Bernouli trials.md"
     },
     {
-      "basename": "Alias&Def&Relate",
-      "path": "Templates/Alias&Def&Relate.md"
+      "basename": "Poisson Distribution",
+      "path": "Stat 230/Week 5/Poisson Distribution.md"
+    },
+    {
+      "basename": "Object file",
+      "path": "CS 246/Chunks/Object file.md"
+    },
+    {
+      "basename": "Negative Binomial Distribution",
+      "path": "Stat 230/Week 5/Negative Binomial Distribution.md"
+    },
+    {
+      "basename": "-o",
+      "path": "CS 246/list of g++ flags/-o.md"
+    },
+    {
+      "basename": "Random Variables",
+      "path": "Stat 230/Random Variables.md"
+    },
+    {
+      "basename": "Sample Space",
+      "path": "Stat 230/Sample Space.md"
+    },
+    {
+      "basename": "Probability Function",
+      "path": "Stat 230/Probability Function.md"
     }
   ],
   "omittedPaths": [],

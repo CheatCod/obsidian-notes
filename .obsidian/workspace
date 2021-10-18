@@ -4,110 +4,146 @@
     "type": "split",
     "children": [
       {
-        "id": "e9335ce58b196020",
+        "id": "31682c88afeee639",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stat 230/Week 5/Negative Binomial Distribution.md",
+            "file": "CS 245/Week 6/Formal Deduction in Propositional Logic.md",
+            "mode": "source"
+          }
+        },
+        "group": "c8e9202d6c3b0519"
+      },
+      {
+        "id": "21cc7e99e9d132df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CS 245/Week 6/Formal Deduction in Propositional Logic.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "c8e9202d6c3b0519"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "51ea01106cef9384",
-    "type": "mobile-drawer",
+    "id": "ce442a914b1e10d5",
+    "type": "split",
     "children": [
       {
-        "id": "43a5be0e60e6ee84",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
-      },
-      {
-        "id": "52944373ec5d321b",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "5dc6319d756136ec",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "136a00237a00001a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "914e96105618b067",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c915065c2e0200b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a749424b8aca911",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 1
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "166b8991427eae25",
-    "type": "mobile-drawer",
+    "id": "8119af8b5c1d2920",
+    "type": "split",
     "children": [
       {
-        "id": "3706d3b9daccd4a8",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "0c3795156341defc",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Stat 230/Week 5/Negative Binomial Distribution.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "f8ac60dab6c144d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbf760c867f418a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS 245/Week 6/Formal Deduction in Propositional Logic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c17adaf8508b0719",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS 245/Week 6/Formal Deduction in Propositional Logic.md"
+              }
+            }
+          },
+          {
+            "id": "8fe06cf89ec90e13",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d3c6bf48e1eae47",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "8784c7c71228da87",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Stat 230/Week 5/Negative Binomial Distribution.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "e9335ce58b196020",
+  "active": "31682c88afeee639",
   "lastOpenFiles": [
-    "Stat 230/Week 5/Negative Binomial Distribution.md",
-    "Stat 230/Week 5/Week 5.md",
-    "CS 246/Week 5 - OOP/Constructor.md",
-    "CS 246/Week 5 - OOP/Methods.md",
-    "CS 246/Week 5 - OOP/Cohesion & Coupling.md",
-    "CS 246/Week 5 - OOP/Classes.md",
-    "CS 245/Week 6/Week 6.md",
-    "CS 245/Week 5/Combinational Circuits.md",
     "CS 245/Week 6/Formal Deduction in Propositional Logic.md",
-    "Attachments/CS245-Logic06-prop-logic-formal-deduction.pdf"
+    "CS 245/Week 6/Week 6.md",
+    "Templates/Alias&Def&Relate.md",
+    "Templates/Untitled.md",
+    "CS 245/Week 5/Week 5.md",
+    "Stat 230/Week 5/Week 5.md",
+    "CS 246/Week 4 - preprocessing/Make.md",
+    "CS 246/Week 5 - OOP/Week 5 - OOP.md",
+    "CS 246/Chunks/Linking.md",
+    "CS 246/Week 4 - preprocessing/Preprocessor.md"
   ]
 }

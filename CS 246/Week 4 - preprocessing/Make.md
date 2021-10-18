@@ -1,6 +1,7 @@
 
 # Make
 ![[Pasted image 20211017145311.png]]
+
 The relationship between files created a system of <u>dependencies</u>:
 
 ```nomnoml
