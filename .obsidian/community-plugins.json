@@ -19,5 +19,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-emoji-toolbar",
   "folder-note-plugin",
-  "obsidian-reading-time"
+  "obsidian-reading-time",
+  "obsidian-git",
+  "oz-image-plugin"
 ]

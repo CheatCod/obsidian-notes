@@ -190,10 +190,10 @@
       "obsidianBlockName": "nomnoml",
       "description": "",
       "url": "https://github.com/skanaar/nomnoml",
-      "enabled": true,
+      "enabled": false,
       "toggle": {
         "disabled": false,
-        "on": true,
+        "on": false,
         "toggleEl": {}
       }
     },

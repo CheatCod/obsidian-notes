@@ -19,10 +19,20 @@
       },
       "command": false,
       "title": "Theorem"
+    },
+    "syx": {
+      "type": "syx",
+      "color": "0, 0, 0",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAATCAYAAACKsM07AAAB30lEQVRIS63VS6iOURQG4OeUWylmIhkYSKIkpUSipBRicMitiDCREKVck4ESBgrpYOAWAzEQA1ESMhEGcikjEwMDAzNp1fq0z+475/y/7NG33n+t993rtv8e3Z9peIAPuI/zg1H0dM9vE64UcTPxdiCefxGIG+9Iwm+Y+D8zGI5XmJWkl7GlW4ERuI7POFAFz8ezAluNO1iGvdiNN2VMXaIxuIbl6XQGe4qAIDlV2OE/HS8S+4INeNn4lALj8uaLC4LbWFPZvWlHJgtwBEcLn+jLejwNrBGYhJuYVzhewrbCnoBPGJ3YYRzP7zqzH1iHhyEwJclnF2Sns6ZlOVfibgHMwevC3oq4VHN+hUgIPMHC4odI91jLZJzE/sS/YnKLT5Qvyvr3hMCqzGDkEBm8w4z0uYrNlUCdQfx8qOnB0hQZO0APgjgEmrMxp62x6x4Evi8mrpyiRbiB8QVRM0XbcSHx3+nzPe16igLeiXPxUe/B3BzVpr6xRLFM97AiCR+jHOVaIErV11yy7S2KZyA2+X2Sj8JPDMuggzhR1b8RiSWL2H5NbhmGftASPCqQeC6eDxU0WAZ17FnsSvAjpnZK3taDttggjWWMc7F4qjvS6eT/IKYhtjje/bW41RFzOv0Bmv9U38siNKcAAAAASUVORK5CYII=",
+        "type": "image"
+      },
+      "command": false,
+      "title": "Syntax"
     }
   },
   "syntaxHighlight": false,
-  "copyButton": false,
+  "copyButton": true,
   "version": "6.3.4",
   "autoCollapse": true,
   "defaultCollapseType": "open",
