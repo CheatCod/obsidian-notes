@@ -30,4 +30,4 @@ float Student::grade() {
 
 
 
-[[methods]]
+[[Methods]]

@@ -1,0 +1,91 @@
+---
+alias: []
+---
+# Formal Deduction in Propositional Logic
+❌✔️✅📗
+
+We have seen how to prove the validity  of arguments by using truth tables and other semantic methods. (tautological consequence, "$\vDash$"). We can use a purely syntactic approach, that is, we give **formal rules of deduction** which are purely **syntactic**
+```ad-def
+**Formal deducibility:** Denoted $\vdash$, this will allow us to **mechanically/syntactically** check the correctness of a proof that an arugment is valid.
+
+**Complete Definition:**. A formula $A$ is **formally deducible** from $\Sigma$,
+```
+
+```ad-note
+The intuitive meaning of $\vdash$ is similar to the meaning of $\vDash$, in that it signifies **argument validity**. However, the method of proving validity if very different.
+
+The word "formal" signifies that we will only be concerned with the *syntactic form* of formulas. The proofs themselves will *not refer to any semantic properties*. The correctness of proof can be checked mechanically.
+```
+
+Formal deducibility is a relation between a set of formulas $\sum$(called the premises) and a formula $A$ (called the conclusion).
+
+We use the symbol $\vdash$ to denote the relation of formal decuibility and write 
+$$\Sigma \vdash A$$
+to mean that $A$ is *formally deducible*, or *provable* from $\sum$
+
+For convenience, we will write sets as sequences:
+- If $\Sigma = \set {A_1, A_2, A_3,...}$ is a set of formulas, then $\Sigma$ may be written as a sequence, $A_1,A_2,...A_n$
+- Since the premises are elements of a set, the order in which the premises in $\Sigma$ *does not matter*
+- The set $\Sigma \cup \set A$, where $A$ is a formula, may be writte as $\Sigma, A$
+- $\Sigma \cup \Sigma$ may be written as $\Sigma, \Sigma'$
+
+## The 11 rules of formal deduction
+
+```ad-note
+This 11 rules are everything we accept, everything else must be prove using the 11 rules
+```
+
+For any formulas $A, B, C$, and any set $\Sigma$ of formulas:
+
+| Index, Notation                   | Rule                                                                                                                                     | Name                          |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| (1) (Ref)                         | $A \vdash A$ is a theorem                                                                                                                | Reflexivity                   |
+| (2) (+)                           | **IF** $\Sigma \vdash A$ is a theorem, <br /> **THEN** $\Sigma, \Sigma' \vdash A$ is a theorem                                                   | Addition of premises          |
+| (3) ($\neg \space -$)             | **IF** $\Sigma, \neg A \vdash B$ is a theorem and $\Sigma, \neg A \vdash \neg B$ is a theorem, <br />**THEN** $\Sigma \vdash A$ is a theorem     | Negation elimination          |
+| (4) ($\to \space -$)              | **IF** $\Sigma \vdash A \to B$ is a theorem and $\Sigma \vdash A$ is a theorem <br /> **THEN** $\Sigma \vdash B$ is a theorem                    | Implies elimination           |
+| (5) ($\to \space +$)              | **IF** $\Sigma, A \vdash B$ is a theorem, <br /> **THEN** $\Sigma \vdash A \to B$ is a theorem                                                   | Implies introduction          |
+| (6) ($\land \space -$)            | **IF** $\Sigma \vdash A \land B$ is a theorem, <br /> **THEN**   $\Sigma \vdash A$ is a theorem and $\Sigma \vdash B$ is a theorem.              | AND elimination               |
+| (7) ($\land \space +$)            | **IF** $\Sigma \vdash A$ and $\Sigma \vdash B$ is a theorem, <br /> **THEN** $\Sigma \vdash A \land B$ is a theorem                              | AND introduction              |
+| (8) ($\lor \space -$)             | **IF** $\Sigma, A \vdash C$ is a theorem and $\Sigma, B \vdash C$ is a theorem, <br /> **THEN** $\Sigma, A \lor B \vdash C$ is a theorem         | OR elimination                |
+| (9) ($\lor \space +$)             | **IF** $\Sigma \vdash A$ is a theorem <br />**THEN** $\Sigma \vdash A \lor B$ is a theorem and $\Sigma \vdash \lor A$ is a theorem               | OR introduction               |
+| (10) ($\leftrightarrow \space -$) | **IF** $\Sigma \vdash A \leftrightarrow B$ is a theorem and $\Sigma \vdash A$ is a theorem, <br /> **THEN** $\Sigma \vdash B$ is a theorem       |                               |
+| ($\leftrightarrow \space -$)      | **IF** $\Sigma \vdash A \leftrightarrow B$ is a theorem and $\Sigma \vdash A$ is a theorem, <br /> **THEN** $\Sigma \vdash A$ is a theorem       | $\leftrightarrow$ elimination |
+| (11) ($\leftrightarrow \space +$) | **IF** $\Sigma, A \vdash B$ is a theorem and $\Sigma, B \vdash A$ is a theorem <br /> **THEN** $\Sigma, \vdash A \leftrightarrow B$ is a theorem | $\leftrightarrow$ introduction     |
+|                                   |                                                                                                                                          |                               |
+(3) prove by contradiction
+
+```ad-example
+Prove the following theorem, called "membership rule":
+
+If $A \in \Sigma$
+Then $\Sigma \vdash A$
+
+**Proof:**
+Suppose $A \in \Sigma$ and $\Sigma' = \Sigma - \set A$ (thus, $\Sigma$ is $A, \Sigma'$)
+1. $A \vdash A$ (by Ref)
+2. $A, \Sigma' \vdash A$ (by (+),(1))
+
+Step 1 is generated directly by the rule (Ref)
+Step 2 is generated by the rule (+), which is then applied to Step (1).
+At each step, the rule is applied, and the preceding steps cited  (if any), form a justification for this step, and are written on the right.
+These steps constitute a *formal proof* of the last step, $\Sigma \vdash A$
+```
+
+```ad-example 
+Prove that $A \to B, B \to C \vdash A \to C$.
+1. $A \to B, B \to C, A \vdash A \to B$ (by $\in$)
+2. $A \to B, B \to C, A \vdash A$ (by $\in$)
+3. $A \to B, B \to C, A \vdash B$ (by ($\to \space -$), 1, 2)
+4. $A \to B, B \to C, A \vdash B \to C$ (by $\in$)
+5. $A \to B, B \to C, A \vdash C$ ($\to \space -$, 4, 3)
+6. $A \to B, B \to C \vdash A \to C$ ($\to \space +$, 5)
+```
+Each step applies either one of the rules of formal deduction, or a theorem which we have already proved
+
+On the right are written justifications for the steps
+
+These six steps form a formal proof of $A \to B, B \to C \vdash A \to C$
+```ad-note
+We can used previously proved theorems even though the formal rules of deduction do note specify the use of "proved theorems", since we can, instead of invoking a proved theorem, we could insert it's proof.
+```
+Relate: [[]]

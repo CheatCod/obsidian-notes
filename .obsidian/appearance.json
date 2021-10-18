@@ -1,11 +1,11 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": 24,
   "enabledCssSnippets": [
-    "notation-colour-blocks",
     "clutter-free-headings",
+    "notation-colour-blocks",
     "realistic-highlight"
   ],
   "translucency": false,
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "theme": "moonstone"
 }

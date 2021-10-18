@@ -1,20 +1,140 @@
 {
   "recentFiles": [
     {
+      "basename": "Formal Deduction in Propositional Logic",
+      "path": "CS 245/Week 6/Formal Deduction in Propositional Logic.md"
+    },
+    {
+      "basename": "Dream",
+      "path": "PSYCH 101/Dream.md"
+    },
+    {
+      "basename": "Consciousness",
+      "path": "PSYCH 101/Consciousness.md"
+    },
+    {
+      "basename": "Boolean Algebra",
+      "path": "CS 245/Week 5/Boolean Algebra.md"
+    },
+    {
+      "basename": "Circuit Minimization",
+      "path": "CS 245/Week 5/Circuit Minimization.md"
+    },
+    {
       "basename": "Adders",
-      "path": "CS 245/Adders.md"
+      "path": "CS 245/Week 5/Adders.md"
     },
     {
       "basename": "Logic Circuits",
-      "path": "CS 245/Logic Circuits.md"
+      "path": "CS 245/Week 5/Logic Circuits.md"
+    },
+    {
+      "basename": "Analyze and Simplifying Code",
+      "path": "CS 245/Week 5/Analyze and Simplifying Code.md"
+    },
+    {
+      "basename": "Pasted image 20211017145248",
+      "path": "Attachments/Pasted image 20211017145248.png"
+    },
+    {
+      "basename": "Pasted image 20211016015923",
+      "path": "Attachments/Pasted image 20211016015923.png"
+    },
+    {
+      "basename": "Pasted image 20211013144700",
+      "path": "Attachments/Pasted image 20211013144700.png"
+    },
+    {
+      "basename": "Pasted image 20211013135058",
+      "path": "Attachments/Pasted image 20211013135058.png"
+    },
+    {
+      "basename": "Pasted image 20211013102153",
+      "path": "Attachments/Pasted image 20211013102153.png"
+    },
+    {
+      "basename": "Combinational Circuits",
+      "path": "CS 245/Week 5/Combinational Circuits.md"
+    },
+    {
+      "basename": "Week 5",
+      "path": "CS 245/Week 5/Week 5.md"
+    },
+    {
+      "basename": "Alias&Def&Relate",
+      "path": "Templates/Alias&Def&Relate.md"
+    },
+    {
+      "basename": "Make",
+      "path": "CS 246/Week 4 - preprocessing/Make.md"
+    },
+    {
+      "basename": "Week 4 - preprocessing",
+      "path": "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
+    },
+    {
+      "basename": "Preprocessor",
+      "path": "CS 246/Week 4 - preprocessing/Preprocessor.md"
     },
     {
       "basename": "Cumulative Distribution Function",
       "path": "Stat 230/Cumulative Distribution Function.md"
     },
     {
+      "basename": "Hypergeometric distribution",
+      "path": "Stat 230/Hypergeometric distribution.md"
+    },
+    {
+      "basename": "Week 5",
+      "path": "Stat 230/Week 5/Week 5.md"
+    },
+    {
+      "basename": "Bernouli trials",
+      "path": "Stat 230/Week 5/Bernouli trials.md"
+    },
+    {
+      "basename": "Poisson Distribution",
+      "path": "Stat 230/Week 5/Poisson Distribution.md"
+    },
+    {
+      "basename": "Keyword-extern",
+      "path": "CS 246/Chunks/Keyword-extern.md"
+    },
+    {
+      "basename": "Linking",
+      "path": "CS 246/Chunks/Linking.md"
+    },
+    {
+      "basename": "Object file",
+      "path": "CS 246/Chunks/Object file.md"
+    },
+    {
+      "basename": "Seperate Compilation",
+      "path": "CS 246/Week 4 - preprocessing/Seperate Compilation.md"
+    },
+    {
+      "basename": "Preprocessor guards",
+      "path": "CS 246/Week 4 - preprocessing/Preprocessor guards.md"
+    },
+    {
+      "basename": "Cohesion & Coupling",
+      "path": "CS 246/Week 5 - OOP/Cohesion & Coupling.md"
+    },
+    {
       "basename": "Negative Binomial Distribution",
-      "path": "Stat 230/Negative Binomial Distribution.md"
+      "path": "Stat 230/Week 5/Negative Binomial Distribution.md"
+    },
+    {
+      "basename": "-o",
+      "path": "CS 246/list of g++ flags/-o.md"
+    },
+    {
+      "basename": "-c",
+      "path": "CS 246/list of g++ flags/-c.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "CS 246/Week 5 - OOP/Classes.md"
     },
     {
       "basename": "Random Variables",
@@ -25,72 +145,16 @@
       "path": "Stat 230/Sample Space.md"
     },
     {
-      "basename": "Consciousness",
-      "path": "PSYCH 101/Consciousness.md"
-    },
-    {
-      "basename": "Make",
-      "path": "CS 246/Preprocessing/Make.md"
-    },
-    {
-      "basename": "Preprocessor",
-      "path": "CS 246/Preprocessing/Preprocessor.md"
-    },
-    {
       "basename": "Constructor",
-      "path": "CS 246/OOP/Constructor.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "CS 246/OOP/Classes.md"
-    },
-    {
-      "basename": "Cohesion & Coupling",
-      "path": "CS 246/OOP/Cohesion & Coupling.md"
+      "path": "CS 246/Week 5 - OOP/Constructor.md"
     },
     {
       "basename": "Methods",
-      "path": "CS 246/OOP/Methods.md"
-    },
-    {
-      "basename": "Preprocessor guards",
-      "path": "CS 246/Preprocessing/Preprocessor guards.md"
-    },
-    {
-      "basename": "Seperate Compilation",
-      "path": "CS 246/Preprocessing/Seperate Compilation.md"
-    },
-    {
-      "basename": "wtf",
-      "path": "ESC104/wtf.md"
-    },
-    {
-      "basename": "Poisson Distribution",
-      "path": "Stat 230/Poisson Distribution.md"
-    },
-    {
-      "basename": "Hypergeometric distribution",
-      "path": "Stat 230/Hypergeometric distribution.md"
+      "path": "CS 246/Week 5 - OOP/Methods.md"
     },
     {
       "basename": "Probability Function",
       "path": "Stat 230/Probability Function.md"
-    },
-    {
-      "basename": "Bernouli trials",
-      "path": "Stat 230/Bernouli trials.md"
-    },
-    {
-      "basename": "Combinational Circuits",
-      "path": "CS 245/Combinational Circuits.md"
-    },
-    {
-      "basename": "Boolean Algebra",
-      "path": "CS 245/Boolean Algebra.md"
-    },
-    {
-      "basename": "Alias&Def&Relate",
-      "path": "Templates/Alias&Def&Relate.md"
     }
   ],
   "omittedPaths": [],

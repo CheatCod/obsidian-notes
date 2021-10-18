@@ -2,7 +2,7 @@
 alias: [Adder]
 ---
 # Adders
-[[Logic circuits]] can be used to carry out addition of two positive integer from their binary expansion.
+[[Logic Circuits]] can be used to carry out addition of two positive integer from their binary expansion.
 
 - First we build a circuit that can be used to find x + y when x and y are each a single bit (0 or 1)
 
