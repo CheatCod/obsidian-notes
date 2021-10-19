@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 30,
+  "baseFontSize": 28,
   "enabledCssSnippets": [
     "clutter-free-headings",
     "notation-colour-blocks",
@@ -7,5 +7,6 @@
   ],
   "translucency": false,
   "cssTheme": "Minimal",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSizeAction": true
 }

@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,14 +138,14 @@
   "active": "31682c88afeee639",
   "lastOpenFiles": [
     "CS 245/Week 6/Formal Deduction in Propositional Logic.md",
+    "Stat 230/Week 5/Negative Binomial Distribution.md",
+    "Stat 230/Week 5/Poisson Distribution.md",
+    "Stat 230/sample space(1).md",
+    "Stat 230/Sample Space.md",
     "CS 245/Week 6/Week 6.md",
-    "Templates/Alias&Def&Relate.md",
-    "Templates/Untitled.md",
-    "CS 245/Week 5/Week 5.md",
-    "Stat 230/Week 5/Week 5.md",
-    "CS 246/Week 4 - preprocessing/Make.md",
     "CS 246/Week 5 - OOP/Week 5 - OOP.md",
-    "CS 246/Chunks/Linking.md",
-    "CS 246/Week 4 - preprocessing/Preprocessor.md"
+    "CS 245/Week 5/Week 5.md",
+    "Templates/Alias&Def&Relate.md",
+    "Templates/Untitled.md"
   ]
 }
