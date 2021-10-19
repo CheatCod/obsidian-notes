@@ -7,7 +7,7 @@
   },
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byModifiedTime",
+  "fileSortOrder": "byCreatedTimeReverse",
   "attachmentFolderPath": "Attachments",
   "newFileLocation": "current",
   "vimMode": false
