@@ -2,7 +2,7 @@
 alias: [copy assignment operators]
 ---
 # Copy Assignment Operators
-❌✔️✅📗
+✔️✅📗
 
 Similar to [[Copy constructor]], default only performs shallow copying of data fields. 
 

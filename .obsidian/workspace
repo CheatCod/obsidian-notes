@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 246/Week 5 - OOP/Move Semantics.md",
+            "file": "CS 246/Week 5 - OOP/Member operators.md",
             "mode": "source"
           }
         },
-        "group": "ec15a087870bdb0d"
+        "group": "50d35bfd2d231e43"
       },
       {
-        "id": "321c71d5e94b309e",
+        "id": "ae632142016dc114",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 246/Week 5 - OOP/Move Semantics.md",
+            "file": "CS 246/Week 5 - OOP/Member operators.md",
             "mode": "preview"
           }
         },
-        "group": "ec15a087870bdb0d"
+        "group": "50d35bfd2d231e43"
       }
     ],
     "direction": "vertical"
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 246/Week 5 - OOP/Move Semantics.md",
+                "file": "CS 246/Week 5 - OOP/Member operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 246/Week 5 - OOP/Move Semantics.md"
+                "file": "CS 246/Week 5 - OOP/Member operators.md"
               }
             }
           },
@@ -126,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "321c71d5e94b309e",
+  "active": "168e93f5d82bffdf",
   "lastOpenFiles": [
-    "CS 246/Week 5 - OOP/Move Semantics.md",
+    "CS 246/Week 5 - OOP/Member operators.md",
+    "CS 246/Week 5 - OOP/Methods.md",
+    "CS 246/Week 5 - OOP/Rules for replacing default compiler operations.md",
+    "CS 246/Week 5 - OOP/Static fields.md",
     "CS 246/Week 5 - OOP/Week 5 - OOP.md",
-    "Stat 230/Week 5/Week 5.md",
-    "CS 246/Week 5 - OOP/Destructor.md",
+    "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md",
+    "CS 246/Week 5 - OOP/Copy&Move Elission.md",
+    "CS 246/Week 5 - OOP/Move Semantics.md",
     "CS 246/Week 5 - OOP/Copy Assignment Operator.md",
-    "Attachments/Drawing 2021-10-20 23.33.24.excalidraw.md",
-    "Attachments/Move Semantics_2021-10-20 18.43.14.excalidraw.md",
-    "Attachments/Move Semantics_2021-10-20 23.26.39.excalidraw.md",
-    "CS 246/Week 5 - OOP/Copy Constructor.md",
-    "Attachments/Move Semantics_2021-10-20 18.26.58.excalidraw.md"
+    "CS 246/Week 5 - OOP/Single Argument Constructor.md"
   ]
 }

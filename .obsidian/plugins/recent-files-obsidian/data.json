@@ -1,24 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Move Semantics",
-      "path": "CS 246/Week 5 - OOP/Move Semantics.md"
+      "basename": "Member operators",
+      "path": "CS 246/Week 5 - OOP/Member operators.md"
+    },
+    {
+      "basename": "Methods",
+      "path": "CS 246/Week 5 - OOP/Methods.md"
+    },
+    {
+      "basename": "Rules for replacing default compiler operations",
+      "path": "CS 246/Week 5 - OOP/Rules for replacing default compiler operations.md"
+    },
+    {
+      "basename": "Static fields",
+      "path": "CS 246/Week 5 - OOP/Static fields.md"
     },
     {
       "basename": "Week 5 - OOP",
       "path": "CS 246/Week 5 - OOP/Week 5 - OOP.md"
     },
     {
-      "basename": "Week 5",
-      "path": "Stat 230/Week 5/Week 5.md"
+      "basename": "Week 4 - preprocessing",
+      "path": "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
+    },
+    {
+      "basename": "Copy&Move Elission",
+      "path": "CS 246/Week 5 - OOP/Copy&Move Elission.md"
+    },
+    {
+      "basename": "Move Semantics",
+      "path": "CS 246/Week 5 - OOP/Move Semantics.md"
+    },
+    {
+      "basename": "Copy Assignment Operator",
+      "path": "CS 246/Week 5 - OOP/Copy Assignment Operator.md"
+    },
+    {
+      "basename": "Single Argument Constructor",
+      "path": "CS 246/Week 5 - OOP/Single Argument Constructor.md"
     },
     {
       "basename": "Destructor",
       "path": "CS 246/Week 5 - OOP/Destructor.md"
     },
     {
-      "basename": "Copy Assignment Operator",
-      "path": "CS 246/Week 5 - OOP/Copy Assignment Operator.md"
+      "basename": "Week 5",
+      "path": "Stat 230/Week 5/Week 5.md"
     },
     {
       "basename": "Drawing 2021-10-20 23.33.24.excalidraw",
@@ -85,20 +113,8 @@
       "path": "CS 246/Week 5 - OOP/A3.md"
     },
     {
-      "basename": "Single Argument Constructor",
-      "path": "CS 246/Week 5 - OOP/Single Argument Constructor.md"
-    },
-    {
-      "basename": "Methods",
-      "path": "CS 246/Week 5 - OOP/Methods.md"
-    },
-    {
       "basename": "Useful theorems",
       "path": "CS 245/Week 6/Useful theorems.md"
-    },
-    {
-      "basename": "Week 4 - preprocessing",
-      "path": "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
     },
     {
       "basename": "Q1",
@@ -183,22 +199,6 @@
     {
       "basename": "Seperate Compilation",
       "path": "CS 246/Week 4 - preprocessing/Seperate Compilation.md"
-    },
-    {
-      "basename": "-c",
-      "path": "CS 246/list of g++ flags/-c.md"
-    },
-    {
-      "basename": "Keyword-extern",
-      "path": "CS 246/Chunks/Keyword-extern.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "CS 246/Week 5 - OOP/Classes.md"
-    },
-    {
-      "basename": "Cohesion & Coupling",
-      "path": "CS 246/Week 5 - OOP/Cohesion & Coupling.md"
     }
   ],
   "omittedPaths": [],

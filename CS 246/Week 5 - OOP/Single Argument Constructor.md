@@ -2,7 +2,7 @@
 alias: [single argument constructors]
 ---
 # Single Argument Constructor
-❌✔️✅📗
+✔️✅📗
 ```ad-example
 ```c
 Student(int id);

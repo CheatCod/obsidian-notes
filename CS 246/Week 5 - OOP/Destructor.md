@@ -2,7 +2,7 @@
 alias: [destructors]
 ---
 # Destructor
-❌✔️✅📗
+✔️✅📗
 The compiler implicitly provides a destructor for your class that does nothing except for invoking the destructors on object data fields.
 
 Destructor is invoked automatically whenever an object on stack goes out of scope, or heap-allocated memory is freed.

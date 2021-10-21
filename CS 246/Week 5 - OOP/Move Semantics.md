@@ -2,7 +2,7 @@
 alias: []
 ---
 # Move Semantics
-❌✔️✅📗
+✔️✅📗
 
 Recall **lvalues** and **rvalues**
 ```ad-def
