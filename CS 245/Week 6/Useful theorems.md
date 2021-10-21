@@ -9,7 +9,7 @@
 | (6) ($\land \space -$)            | **IF** $\Sigma \vdash A \land B$ is a theorem, <br /> **THEN**   $\Sigma \vdash A$ is a theorem and $\Sigma \vdash B$ is a theorem.              | AND elimination                |
 | (7) ($\land \space +$)            | **IF** $\Sigma \vdash A$ and $\Sigma \vdash B$ is a theorem, <br /> **THEN** $\Sigma \vdash A \land B$ is a theorem                              | AND introduction               |
 | (8) ($\lor \space -$)             | **IF** $\Sigma, A \vdash C$ is a theorem and $\Sigma, B \vdash C$ is a theorem, <br /> **THEN** $\Sigma, A \lor B \vdash C$ is a theorem         | OR elimination                 |
-| (9) ($\lor \space +$)             | **IF** $\Sigma \vdash A$ is a theorem <br />**THEN** $\Sigma \vdash A \lor B$ is a theorem and $\Sigma B \vdash \lor A$ is a theorem             | OR introduction                |
+| (9) ($\lor \space +$)             | **IF** $\Sigma \vdash A$ is a theorem <br />**THEN** $\Sigma \vdash A \lor B$ is a theorem and $\Sigma \vdash B  \lor A$ is a theorem             | OR introduction                |
 | (10) ($\leftrightarrow \space -$) | **IF** $\Sigma \vdash A \leftrightarrow B$ is a theorem and $\Sigma \vdash A$ is a theorem, <br /> **THEN** $\Sigma \vdash B$ is a theorem       |                                |
 | ($\leftrightarrow \space -$)      | **IF** $\Sigma \vdash A \leftrightarrow B$ is a theorem and $\Sigma \vdash A$ is a theorem, <br /> **THEN** $\Sigma \vdash A$ is a theorem       | $\leftrightarrow$ elimination  |
 | (11) ($\leftrightarrow \space +$) | **IF** $\Sigma, A \vdash B$ is a theorem and $\Sigma, B \vdash A$ is a theorem <br /> **THEN** $\Sigma, \vdash A \leftrightarrow B$ is a theorem | $\leftrightarrow$ introduction |

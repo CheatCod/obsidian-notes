@@ -1,7 +1,7 @@
 ---
 alias: []
 ---
-# Title
+# <% tp.file.title %>
 ❌✔️✅📗
 ```ad-def
 

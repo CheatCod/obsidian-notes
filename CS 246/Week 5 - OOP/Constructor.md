@@ -5,6 +5,7 @@ alias: [constructors]
 
 A special type of [[Methods|method]] in C++ to initialize object upon creation.
 
+
 ```ad-syx
 ```c
 Name-of-Class-Type( parameter-list ) {
@@ -179,107 +180,11 @@ Vec{5} // the data field `x` will contain the value 5 but the data field `y` wil
 - if you need sophisticated logic, such as loops or conditions, to initialize your fields, use the body, but otherwise use the MIL
 ```
 
-## Copy constructor 
-The copy constructor's parameter is a constant reference to an object of the **same type**
-The default copy constructor just copies each field to the object.
-```ad-example
-```c
-Student( const Student & other ) 
-      : id{other.id} assns{other.assns}, mt{other.mt}, final{other.final} {}
-```
 
-Althought, it makes sense to not copy the student's id as they should be unique.
-```ad-example
-```c
-Student( const Student & other ) 
-      : assns{other.assns}, mt{other.mt}, final{other.final} {}
-```
 
-For something like a vector, we would want to copy every data field:
-```ad-example
-```c
-Vec( const Vec & other ) 
-      : x{other.x}, y{other.y} {}
-```
 
-### When to **NOT** use the default behavior?
-Consider linked list:
-```c
-struct Node {
-   int data;
-   Node * next;
-  
-   Node( int data = 0, Node * next = nullptr ) : data{data}, next{next} {}
-};  
-  
-ostream &operator<<(ostream &out, const Node &n) {
-  out << n.data;
-  if (n.next) {
-    out << ",";
-    out << *(n.next);
-  }
-  return out;
-}
-```
-The default constructor will only copy the contents of the data field. So we end up only with a copy of the first node and made a **shallow copy** of the rest. If we'd want the list to be independent of each other, we should make a **deep copy**:
-```c
-Node(const Node &n) {  
-   data = n.data;  
-   if ( n.next != nullptr ) {  
-      next = new Node{ *n.next };  
-   } else {  
-      next = nullptr;  
-   }  
-}
-```
 
-## Single-argument constructor
-```ad-example
-```c
-Student(int id);
-...
-Student s3{123}; // <- this is ok!
-Student s4 = 123; // !! 
-```
 
-Compiler will guess you are trying to pass an int as the parameter to the constructor, implicit conversion from int to Student.
-
-Uses ```explict``` to prevent this behavior.
-
-## Destructor
-The compiler implicitly provides a destructor for your class that does nothing except for invoking the destructors on object data fields.
-
-Destructor is invoked automatically whenever an object on stack goes out of scope, or heap-allocated memory is freed.
-
-The steps that occur when a destructor is run are:
-```nomnoml
-[1. Run the body of the destructor] -> [2. Invoke destructors for the object's data fields that are objects*]
-[2. Invoke destructors for the object's data fields that are objects*] -> [3.  Deallocate the space associated with the object]
-```
-*This will occur in reverse declaration order
-```ad-syx
-```c
-~class-name();
-```
-
-```ad-example
-```c
-~Node() { delete next; }
-```
-
-## Copy assignment operator
-Similar to [[#Copy constructor]], default only performs shallow copying of data fields. 
-
-Overwrite if we want deep copy such as fo ```Node``` object
-```ad-syx
-[_class-type_] & operator=( const [_class-type_] & [_parameter-name_] );
-```
-By definition, it takes a constant reference of the class type as its single parameter, and returns a reference of the class type, since it needs to be able to modify the object on the left-hand side of the assignment if it's part of a cascade/sequence of assignment operations. 
-```ad-example
-```c
-jane = bill = fatima;
-```
-would copy the contents of the `fatima` object into the `bill` object, then copy the contents of the `bill` object into the `jane` object.
 
 
 Relate: [[]]

@@ -29,13 +29,23 @@
       },
       "command": false,
       "title": "Syntax"
+    },
+    "digm": {
+      "type": "digm",
+      "color": "84, 168, 0",
+      "icon": {
+        "name": "image",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Diagram"
     }
   },
-  "syntaxHighlight": false,
-  "copyButton": true,
-  "version": "6.3.4",
+  "syntaxHighlight": true,
+  "copyButton": false,
+  "version": "6.3.5",
   "autoCollapse": true,
   "defaultCollapseType": "open",
-  "syncLinks": false,
+  "syncLinks": true,
   "enableMarkdownProcessor": false
 }
