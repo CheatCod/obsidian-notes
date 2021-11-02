@@ -39,11 +39,31 @@
       },
       "command": false,
       "title": "Diagram"
+    },
+    "concept": {
+      "type": "concept",
+      "color": "61, 103, 255",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAVCAYAAABc6S4mAAABh0lEQVRIS7XVv0tWcRTH8ZdzYBEEQmPlUENR+IP+ggqCCArCJcE1CBHJyUccjJaghsYawh6ScLLGHAQzBcUtMHCItoYEneU8fG9cHu5zn3vp8U7fyznf8/6e7/mez+lT/r3EQ+yjidc598+4jSW8xZeiUH0l8Z/gVZv9KnbxEQ9ytj1cqgp4iglcKdgwhVVsFdh+IbJ6gZ+ZvT2DWTRKsppLgK8lPsu43wkQwQPS6asCOMDpIsCZVKx7/wmI7eN4F4vsigbSK7jW5VVVySALEb6NDPAMC12Ch7kOYAOjGWARj3oMOMKpDHAHKz0GbON6AC6nxil69+3MOlcUe1s1eI+xCqevW4NWyAD8wdmTBHzDyEkCunVvnl23Bs3sFT1OXdwtkTqA55jJi91f9Pewk4exmQd8yqtgB1DVDH5jEId5wHm8wd2SLKaTXH8v8Qk1jUnYkv2iiXYBQ/hQEOQW1rCDi232GKcxOn8gZOJfH3Q6TAjgJM4lh5Y6pnXM4nncSP/ruFkU6BiR6lg5tO61WAAAAABJRU5ErkJggg==",
+        "type": "image"
+      },
+      "command": false,
+      "title": "Concept"
+    },
+    "obs": {
+      "type": "obs",
+      "color": "216, 171, 49",
+      "icon": {
+        "name": "eye",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Observation"
     }
   },
   "syntaxHighlight": true,
   "copyButton": false,
-  "version": "6.3.5",
+  "version": "6.4.1",
   "autoCollapse": true,
   "defaultCollapseType": "open",
   "syncLinks": true,

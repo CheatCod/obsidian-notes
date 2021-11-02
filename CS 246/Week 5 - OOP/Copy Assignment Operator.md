@@ -1,5 +1,5 @@
 ---
-alias: [copy assignment operators]
+alias: [copy assignment operator]
 ---
 # Copy Assignment Operators
 ✔️✅📗
@@ -53,6 +53,10 @@ struct Node {
 ```
 
 Since `tmp` now is a proper deep copy, we can swap the fields of `tmp` and `this` so that `tmp` now has the linked pointers of `this`, and `this` now have a proper deep copy of `tmp`. When the routine finish, since `tmp` is a local variable, compiler will call destructor on `tmp`, which frees up all the old memory of `this`
+
+```ad-warning
+This method requires the proper implementations of destructor to ensure proper clean up.
+```
 ```ad-digm
 collapse:
 ![[Drawing 2021-10-20 23.33.24.excalidraw]]

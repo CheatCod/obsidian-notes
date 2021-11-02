@@ -16,7 +16,7 @@ struct Student {
 	float grade();
 }
 
-
+```
 Implementation: (```student.cc```):
 
 ```c

@@ -10,5 +10,6 @@
   "fileSortOrder": "byCreatedTimeReverse",
   "attachmentFolderPath": "Attachments",
   "newFileLocation": "current",
-  "vimMode": false
+  "vimMode": false,
+  "autoConvertHtml": false
 }

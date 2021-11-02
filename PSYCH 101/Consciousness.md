@@ -12,3 +12,14 @@ When evaluating the attractiveness of a stranger, our brain “calculates” all
 The stream of consciousness also helps us to conceptualize two ways in which conscious thought can vary.
 
 ## Quantitative Changes in Consciousness
+_Quantitative_ changes in consciousness reflect changes in the stream’s depth. The magnitutde of consciousness increases as we rise to the surface and decreases as we sink to the depths.
+
+For ex, when writing an exam, a lot of consciousness is present (high magnitute).
+When we fall asleep, less consciousness -> low magnitute 
+
+![[Pasted image 20211022214736.png]]
+
+## Qualitative Changes in Consciousness
+_Qualitative_ changes in consciousness reflect changes in the essence of the stream itself.
+
+Dreams reflect a form of thought that is different from waking thought, thus dreams offer a different experience of consciouness, rather than more or less consciousness.

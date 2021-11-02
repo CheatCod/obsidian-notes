@@ -1,9 +1,10 @@
 {
-  "baseFontSize": 13,
+  "baseFontSize": 22,
   "enabledCssSnippets": [
     "clutter-free-headings",
     "notation-colour-blocks",
-    "realistic-highlight"
+    "realistic-highlight",
+    "bigger-preview"
   ],
   "translucency": false,
   "cssTheme": "Minimal",

@@ -64,8 +64,8 @@ class-type( class-type && parameter-name ) {...}
 ```
 
 ```ad-note
-Since we are creating a new object, we don't care about the old object, thus no `const`
-`&&` means a rvalue reference
+- Since we are creating a new object, we don't care about the old object, thus no `const`
+- `&&` means a rvalue reference
 ```
 
 ```ad-example

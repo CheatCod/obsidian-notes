@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "168e93f5d82bffdf",
+        "id": "5d0ae226ab3922fc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 246/Week 5 - OOP/Member operators.md",
+            "file": "CS 245/Week 8 - first order logic/Quantifiers.md",
             "mode": "source"
           }
-        },
-        "group": "50d35bfd2d231e43"
-      },
-      {
-        "id": "ae632142016dc114",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CS 246/Week 5 - OOP/Member operators.md",
-            "mode": "preview"
-          }
-        },
-        "group": "50d35bfd2d231e43"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cs25",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8119af8b5c1d2920",
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 246/Week 5 - OOP/Member operators.md",
+                "file": "CS 245/Week 8 - first order logic/Quantifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 246/Week 5 - OOP/Member operators.md"
+                "file": "CS 245/Week 8 - first order logic/Quantifiers.md"
               }
             }
           },
@@ -117,26 +105,51 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "17ed260359549960",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "4a4800f80fa4da0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1a7d25d4cf4b254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stat 230/Week 5/Poisson Distribution.md",
+                "mode": "source"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "168e93f5d82bffdf",
+  "active": "5d0ae226ab3922fc",
   "lastOpenFiles": [
-    "CS 246/Week 5 - OOP/Member operators.md",
-    "CS 246/Week 5 - OOP/Methods.md",
-    "CS 246/Week 5 - OOP/Rules for replacing default compiler operations.md",
-    "CS 246/Week 5 - OOP/Static fields.md",
-    "CS 246/Week 5 - OOP/Week 5 - OOP.md",
-    "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md",
-    "CS 246/Week 5 - OOP/Copy&Move Elission.md",
-    "CS 246/Week 5 - OOP/Move Semantics.md",
-    "CS 246/Week 5 - OOP/Copy Assignment Operator.md",
-    "CS 246/Week 5 - OOP/Single Argument Constructor.md"
+    "CS 245/Week 8 - first order logic/Quantifiers.md",
+    "CS 245/Midterm/Midterm.md",
+    "prereq graph/cs116.md",
+    "prereq graph/cs251.md",
+    "prereq graph/cs341.md",
+    "prereq graph/cs240.md",
+    "prereq graph/cs136.md",
+    "cs247.md",
+    "prereq graph/cs370.md",
+    "prereq graph/cs234.md"
   ]
 }

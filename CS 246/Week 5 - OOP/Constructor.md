@@ -145,7 +145,7 @@ Student::Student( const int id, int assns, int mt, int final )
 
 ```
 
-```ad-note
+
 -   The name _outside_ of the "`{}`" in the MIL is the data field, while the name _inside_ of the "`{}`" is the parameter name. 
 -   The MIL can be used to initialize other data fields, not just constants or references.
 -   Fields in the MIL are initialized _in the order in which they are declared in the class_, **not** in the order that they are listed in the MIL!
@@ -153,26 +153,28 @@ Student::Student( const int id, int assns, int mt, int final )
   Using the MIL can be **more efficient** than initializing in the body of the constructor. This is particularly true when the data field is an object that has a default constructor. The object will be first initialized with the default constructor when it is created, and then initialized again in the body of the constructor using the assignment operator. In other words, you've just initialized it twice!  
       
     Consider the following example:
-    ```c
+    ~~~c
     struct Student {
        string name;
        Student( const string & name ) {
           this->name = name;
        }
     };
-    ```
+    ~~~
     The data field `name` is initialized with the `std::string` default constructor, and then reassigned in the constructor body.
+
 - MIL initialization **takes precedence** over initialization in the class.
-  ```ad-example
-  ```c
+```ad-example
+~~~c
   struct Vec {
     int x = 0, y = 0;
     Vec() {}
     Vec( int x ) : x{x} {}
     Vec( int x, int y ) : x{x}, y{y} {}
 };
-Vec{5} // the data field `x` will contain the value 5 but the data field `y` will contain the value 0
-
+	Vec{5} // the data field `x` will contain the value 5 but the data field `y` will contain the value 0
+~~~
+```
 - MIL can **only** be used on constructors, not on any other method!
 
 - It is quite common for constructors to have a MIL and an empty body, and it is usually considered *poor practice* to use the body to do anything that the MIL could have done.

@@ -1,0 +1,7 @@
+.popover.hover-popover {
+border: 1px solid darkgrey;
+box-shadow: 3px 3px 7px darkgrey;
+border-radius: 3px;
+max-width: 50vw;
+min-width: 40vw;
+}
