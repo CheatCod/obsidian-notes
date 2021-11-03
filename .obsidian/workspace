@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "5d0ae226ab3922fc",
+        "id": "c11ad69e9334adc4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 245/Week 7/Davis-Putnam Procedure(DPP).md",
+            "file": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
+            "mode": "source"
+          }
+        },
+        "group": "824f100161c0318b"
+      },
+      {
+        "id": "7a7067d765188679",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "824f100161c0318b"
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cs25",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8119af8b5c1d2920",
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 245/Week 7/Davis-Putnam Procedure(DPP).md",
+                "file": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 245/Week 7/Davis-Putnam Procedure(DPP).md"
+                "file": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
               }
             }
           },
@@ -139,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5d0ae226ab3922fc",
+  "active": "c11ad69e9334adc4",
   "lastOpenFiles": [
-    "CS 245/Week 7/Davis-Putnam Procedure(DPP).md",
-    "CS 245/Week 7/Resolution.md",
-    "CS 245/Week 8 - first order logic/Syntax.md",
-    "CS 245/Week 8 - first order logic/Quantifiers.md",
-    "CS 245/Week 8 - first order logic/Domain and Relations.md",
-    "CS 245/Midterm/Midterm.md",
-    "prereq graph/cs116.md",
-    "prereq graph/cs251.md",
-    "prereq graph/cs341.md",
-    "prereq graph/cs240.md"
+    "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
+    "CS 246/Week 7 - polymorphism/Inheritance.md",
+    "CS 246/Week 7 - polymorphism/UML.md",
+    "Stat 230/Week 7/Continuous Distributions.md",
+    "Stat 230/Week 7/Variance of Standard Distribution.md",
+    "Stat 230/Week 6/Variance and Standard Deviation.md",
+    "Stat 230/Week 5/Bernouli trials.md",
+    "Stat 230/Week 5/Poisson Distribution.md",
+    "Stat 230/Week 6/Expect value of a Function.md",
+    "Stat 230/Week 6/Expected Value of p.f.s.md"
   ]
 }
