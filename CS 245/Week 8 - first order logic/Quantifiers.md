@@ -42,7 +42,11 @@ Let $A(u)$ represents a formla, and let *u* be a variable.
 
 $\exists x A(x)$ indicates that $A(u)$ is true for at least one value of $u$ in the [[First Order Logic#Domain|Domain]]
 
-The $\forall x$ is called existential quantifier, and $A(x)$ is called the **scope** of the quantifier 
+The $\forall x$ is called the existential quantifier, and $A(x)$ is called the **scope** of the quantifier 
+
+## Negation:
+for all, not
+
 
 # Bound and free variables
 
@@ -59,11 +63,30 @@ Whereas $forall xP(x) \lor Q(x)$ means "Everything is living, or $x$ is dead"
 Since the bound variable is just a placeholder, thus it can be replaced by any other symbol not appearing elsewhere in the formula.
 # Quantifying over a subset 
 
-## Restricting the universal Quantifier
-All dogs are mammal
+Sometimes we'd need quantification over a *subset* of the domain.
 
-If u is a dog, then u is a mammal
+If the domain is the set of all animals, 
 
+## Restricting the universal quantifier
+```ad-example	
+To say "All dogs are mammals", it's equivalence to "If $u$ is a dog, then $u$ is a mammal", which leads to the formula 
+
+$$\forall x(dog(x) \to mammal(x)))$$
+```
+
+
+## Restricting the existential quantifier
+```ad-example	
+To say "Some dogs are brown", it's equivalence to saying that some animals are dogs that are brown. "$u$ is a dog and $u$ is brown", which leads to the formula 
+
+$$\forall x(dog(x)\land brown(x))$$
+```
+
+# Nested Quantifier
+
+We can nest quantifier, but they don't commute
+
+a good analogy is nest loop
 
 
 Relate: [[]]

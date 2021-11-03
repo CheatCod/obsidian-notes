@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 245/Week 8 - first order logic/Quantifiers.md",
-            "mode": "source"
+            "file": "CS 245/Week 7/Davis-Putnam Procedure(DPP).md",
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 245/Week 8 - first order logic/Quantifiers.md",
+                "file": "CS 245/Week 7/Davis-Putnam Procedure(DPP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 245/Week 8 - first order logic/Quantifiers.md"
+                "file": "CS 245/Week 7/Davis-Putnam Procedure(DPP).md"
               }
             }
           },
@@ -141,15 +141,15 @@
   },
   "active": "5d0ae226ab3922fc",
   "lastOpenFiles": [
+    "CS 245/Week 7/Davis-Putnam Procedure(DPP).md",
+    "CS 245/Week 7/Resolution.md",
+    "CS 245/Week 8 - first order logic/Syntax.md",
     "CS 245/Week 8 - first order logic/Quantifiers.md",
+    "CS 245/Week 8 - first order logic/Domain and Relations.md",
     "CS 245/Midterm/Midterm.md",
     "prereq graph/cs116.md",
     "prereq graph/cs251.md",
     "prereq graph/cs341.md",
-    "prereq graph/cs240.md",
-    "prereq graph/cs136.md",
-    "cs247.md",
-    "prereq graph/cs370.md",
-    "prereq graph/cs234.md"
+    "prereq graph/cs240.md"
   ]
 }
