@@ -39,10 +39,18 @@ The public in `class Text:public book {` means to let the *maximum* visibility o
 ```
 
 With introduction of superclasses, the procedure in which an object is initialized has changed: 
-```nomnoml
+```nomnoml	
 [1. allocate space] -> [2. construct the data fields]
 [2. construct the data fields] -> [3. Invoke the superclass constructor to build the superclass portion of the object]
 [3. Invoke the superclass constructor to build the superclass portion of the object] -> [4.  run the constructor body]
+```
+
+Similarly, the steps in which objects are destroyed are changed too:
+
+```nomnoml
+[1. Run the body of the destructor] -> [2. Invoke destructors for the object's data fields that are objects*]
+[2. Invoke destructors for the object's data fields that are objects*] -> [3. The superclass component is destroyed]
+[3. The superclass component is destroyed] -> [4.  Deallocate the space associated with the object]
 ```
 
 So the following attempt at initializing `Text` is wrong for 2 reasons

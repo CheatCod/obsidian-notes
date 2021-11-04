@@ -108,4 +108,7 @@ Book <|-- Comic
 Book <|-- Text
 ```
 
+## Abstract classes 
+italicize the name
+
 Relate: [[]]

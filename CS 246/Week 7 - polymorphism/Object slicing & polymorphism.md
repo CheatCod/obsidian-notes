@@ -38,7 +38,7 @@ Although no more slicing occurs, the compiler still treat pb as a book, so will 
 
 The same object is behaving differently based on the type of the pointer used to access it.
 
-To make a `Comic` behaave like a Comic regardless of the type of pointer used to refer to it?
+To make a `Comic` behave like a Comic regardless of the type of pointer used to refer to it?
 
 # `virtual, override`
 
@@ -69,7 +69,7 @@ This code accommodates multiple types under one single abstraction - ***Polymorp
 ```ad-note
 When we override a method, the method signature must match **excatly**. So if the method is const in the parent, it must be const in the child too.
 
-We can use the keyword `override` into the signatures of the overriden methods to let compiler catch these kinds of errors
+We can use the keyword `override` into the signatures of the overriden methods to let compiler catch these kinds of errors. It **does not** change any behavior.
 ~~~c
 class Text:public book { // derived/sub subclass
 	string topic;
@@ -86,5 +86,9 @@ public:
 This could case data to be misaligned.
 
 Always use an array of pointers 
+
+**ALWAYS** make destructors virtual, even if they do nothing
 ```
+
+We can stop a class from being inherited by using the `final` specifier
 Relate: [[]]
