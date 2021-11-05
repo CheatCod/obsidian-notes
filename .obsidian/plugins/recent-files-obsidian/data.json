@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Move & Copy with Inheritance",
-      "path": "CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
+      "basename": "Expected Value of p.f.s",
+      "path": "Stat 230/Week 6/Expected Value of p.f.s.md"
+    },
+    {
+      "basename": "Expect value of a Function",
+      "path": "Stat 230/Week 6/Expect value of a Function.md"
+    },
+    {
+      "basename": "Poisson Distribution",
+      "path": "Stat 230/Week 5/Poisson Distribution.md"
+    },
+    {
+      "basename": "Variance and Standard Deviation",
+      "path": "Stat 230/Week 6/Variance and Standard Deviation.md"
+    },
+    {
+      "basename": "Negative Binomial Distribution",
+      "path": "Stat 230/Week 5/Negative Binomial Distribution.md"
+    },
+    {
+      "basename": "Week 5",
+      "path": "Stat 230/Week 5/Week 5.md"
+    },
+    {
+      "basename": "Variance of Standard Distribution",
+      "path": "Stat 230/Week 7/Variance of Standard Distribution.md"
+    },
+    {
+      "basename": "UML",
+      "path": "CS 246/Week 7 - polymorphism/UML.md"
+    },
+    {
+      "basename": "Observer",
+      "path": "CS 246/Week 8 - STL, exceptions, more design patterns/Observer.md"
+    },
+    {
+      "basename": "Exceptions",
+      "path": "CS 246/Week 8 - STL, exceptions, more design patterns/Exceptions.md"
+    },
+    {
+      "basename": "STL",
+      "path": "CS 246/Week 8 - STL, exceptions, more design patterns/STL.md"
+    },
+    {
+      "basename": "Templates",
+      "path": "CS 246/Week 8 - STL, exceptions, more design patterns/Templates.md"
     },
     {
       "basename": "Object slicing & polymorphism",
@@ -13,6 +57,14 @@
       "path": "CS 246/Week 7 - polymorphism/Abstract Class.md"
     },
     {
+      "basename": "Move & Copy with Inheritance",
+      "path": "CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
+    },
+    {
+      "basename": "Compilation Dependencies",
+      "path": "CS 246/Week 8 - STL, exceptions, more design patterns/Compilation Dependencies.md"
+    },
+    {
       "basename": "Inheritance",
       "path": "CS 246/Week 7 - polymorphism/Inheritance.md"
     },
@@ -21,16 +73,8 @@
       "path": "Stat 230/Week 1/Counting Techniques.md"
     },
     {
-      "basename": "Week 5",
-      "path": "Stat 230/Week 5/Week 5.md"
-    },
-    {
       "basename": "cs350",
       "path": "prereq graph/cs350.md"
-    },
-    {
-      "basename": "UML",
-      "path": "CS 246/Week 7 - polymorphism/UML.md"
     },
     {
       "basename": "Destructor",
@@ -41,36 +85,12 @@
       "path": "Stat 230/Week 7/Continuous Distributions.md"
     },
     {
-      "basename": "Variance of Standard Distribution",
-      "path": "Stat 230/Week 7/Variance of Standard Distribution.md"
-    },
-    {
-      "basename": "Variance and Standard Deviation",
-      "path": "Stat 230/Week 6/Variance and Standard Deviation.md"
-    },
-    {
       "basename": "Bernouli trials",
       "path": "Stat 230/Week 5/Bernouli trials.md"
     },
     {
-      "basename": "Poisson Distribution",
-      "path": "Stat 230/Week 5/Poisson Distribution.md"
-    },
-    {
-      "basename": "Expect value of a Function",
-      "path": "Stat 230/Week 6/Expect value of a Function.md"
-    },
-    {
-      "basename": "Expected Value of p.f.s",
-      "path": "Stat 230/Week 6/Expected Value of p.f.s.md"
-    },
-    {
       "basename": "Expected Value",
       "path": "Stat 230/Week 6/Expected Value.md"
-    },
-    {
-      "basename": "Negative Binomial Distribution",
-      "path": "Stat 230/Week 5/Negative Binomial Distribution.md"
     },
     {
       "basename": "Cumulative Distribution Function",
@@ -179,26 +199,6 @@
     {
       "basename": "cs330",
       "path": "prereq graph/cs330.md"
-    },
-    {
-      "basename": "cs335",
-      "path": "prereq graph/cs335.md"
-    },
-    {
-      "basename": "cs135",
-      "path": "prereq graph/cs135.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Q0",
-      "path": "CS 245/Midterm/Q0.md"
-    },
-    {
-      "basename": "Q5",
-      "path": "CS 245/Midterm/Q5.md"
     }
   ],
   "omittedPaths": [],

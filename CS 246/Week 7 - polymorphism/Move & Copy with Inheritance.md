@@ -76,9 +76,33 @@ We can now assign a `Text` object to another one using two pointers of type `Boo
 
 However, this introduces **mixed assignment**, as now we can assign a `Book` into a `Text`, or a `Comic` into a `Text` and vice-versa. Also, we can't correctly implement the operator since `Book` does not have the fields for `Text`.
 
+We should only allow assignment of the same type of objects.
+
+
 **Good solution:** All superclasses should be abstract. To implement this we should restructure the hierarchy. 
+
+```plantuml
+!theme materia-outline
+skinparam classAttributeIconSize 0
+
+class AbstractBook 
+class NormalBook
+class Text
+class Comic
+
+AbstractBook <-- NormalBook
+AbstractBook <-- Text
+AbstractBook <-- Comice
+
+```
+
+
 
 ![[Pasted image 20211104022821.png]]
 
+```ad-note
+If you need a PV method to make a class abstract, you can always make the destructor virtual. Due to the object destruction process, the implementation of it must be present (can be empty)
+```
 
+Now 
 Relate: [[]]
