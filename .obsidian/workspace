@@ -18,96 +18,137 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2f93ec65aa1d9da8",
-    "type": "mobile-drawer",
+    "id": "ce442a914b1e10d5",
+    "type": "split",
     "children": [
       {
-        "id": "17db189acd03148f",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
-      },
-      {
-        "id": "ca182e9f1fa4e8a8",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "588bfafeb8da8ab2",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "136a00237a00001a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "914e96105618b067",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c915065c2e0200b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a749424b8aca911",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 1
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "8ad8bab89cd2a99e",
-    "type": "mobile-drawer",
+    "id": "8119af8b5c1d2920",
+    "type": "split",
     "children": [
       {
-        "id": "a828342a22a68ba1",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
+        "id": "f8ac60dab6c144d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbf760c867f418a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Stat 230/Week 6/Expected Value of p.f.s.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c17adaf8508b0719",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stat 230/Week 6/Expected Value of p.f.s.md"
+              }
+            }
+          },
+          {
+            "id": "8fe06cf89ec90e13",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "17ed260359549960",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
       },
       {
-        "id": "1fa301f83d091d14",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Stat 230/Week 6/Expected Value of p.f.s.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "4a4800f80fa4da0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1a7d25d4cf4b254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stat 230/Week 5/Poisson Distribution.md",
+                "mode": "source"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "6e0ce2f837a863f4",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Stat 230/Week 6/Expected Value of p.f.s.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 2
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "7cbaaffc354e8c4c",
   "lastOpenFiles": [
     "Stat 230/Week 6/Expected Value of p.f.s.md",
     "Stat 230/Week 6/Expect value of a Function.md",
+    "Stat 230/Week 6/Expected Value.md",
+    "Stat 230/Week 5/Negative Binomial Distribution.md",
     "Stat 230/Week 5/Poisson Distribution.md",
     "Stat 230/Week 6/Variance and Standard Deviation.md",
-    "Stat 230/Week 5/Negative Binomial Distribution.md",
-    "Stat 230/Week 5/Week 5.md",
-    "Stat 230/Week 7/Variance of Standard Distribution.md",
+    "Stat 230/Week 5/Bernouli trials.md",
+    "CS 246/Week 7 - polymorphism/Abstract Class.md",
     "CS 246/Week 7 - polymorphism/UML.md",
-    "CS 246/Week 8 - STL, exceptions, more design patterns/Observer.md",
-    "CS 246/Week 8 - STL, exceptions, more design patterns/Exceptions.md"
+    "CS 246/Week 8 - STL, exceptions, more design patterns/Observer.md"
   ]
 }
