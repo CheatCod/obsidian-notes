@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "IO Psychology",
+      "path": "PSYCH 101/Week 7/IO Psychology.md"
+    },
+    {
+      "basename": "Psychoactive Substances",
+      "path": "PSYCH 101/Psychoactive Substances.md"
+    },
+    {
+      "basename": "Article Assignment Note",
+      "path": "PSYCH 101/Article Assignment Note.md"
+    },
+    {
+      "basename": "Make",
+      "path": "CS 246/Week 4 - preprocessing/Make.md"
+    },
+    {
+      "basename": "Week 4 - preprocessing",
+      "path": "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
+    },
+    {
       "basename": "A4",
       "path": "CS 246/Assignment/A4.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "cs234",
       "path": "prereq graph/cs234.md"
-    },
-    {
-      "basename": "cs371",
-      "path": "prereq graph/cs371.md"
-    },
-    {
-      "basename": "cs241",
-      "path": "prereq graph/cs241.md"
-    },
-    {
-      "basename": "cs245",
-      "path": "prereq graph/cs245.md"
-    },
-    {
-      "basename": "cs230",
-      "path": "prereq graph/cs230.md"
-    },
-    {
-      "basename": "cs231",
-      "path": "prereq graph/cs231.md"
     }
   ],
   "omittedPaths": [],
