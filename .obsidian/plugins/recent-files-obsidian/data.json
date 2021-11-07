@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Abstract Class",
+      "path": "CS 246/Week 7 - polymorphism/Abstract Class.md"
+    },
+    {
+      "basename": "Object slicing & polymorphism",
+      "path": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
+    },
+    {
+      "basename": "Move & Copy with Inheritance",
+      "path": "CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
+    },
+    {
+      "basename": "Exceptions",
+      "path": "CS 246/Week 8 - STL, exceptions, more design patterns/Exceptions.md"
+    },
+    {
+      "basename": "Observer",
+      "path": "CS 246/Week 8 - STL, exceptions, more design patterns/Observer.md"
+    },
+    {
+      "basename": "Dream",
+      "path": "PSYCH 101/Dream.md"
+    },
+    {
+      "basename": "Hypnosis",
+      "path": "PSYCH 101/Hypnosis.md"
+    },
+    {
+      "basename": "Poisson Distribution",
+      "path": "Stat 230/Week 5/Poisson Distribution.md"
+    },
+    {
       "basename": "IO Psychology",
       "path": "PSYCH 101/Week 7/IO Psychology.md"
     },
@@ -41,10 +73,6 @@
       "path": "Stat 230/Week 5/Negative Binomial Distribution.md"
     },
     {
-      "basename": "Poisson Distribution",
-      "path": "Stat 230/Week 5/Poisson Distribution.md"
-    },
-    {
       "basename": "Week 5",
       "path": "Stat 230/Week 5/Week 5.md"
     },
@@ -73,28 +101,8 @@
       "path": "Stat 230/Week 6/Expected Value.md"
     },
     {
-      "basename": "Abstract Class",
-      "path": "CS 246/Week 7 - polymorphism/Abstract Class.md"
-    },
-    {
       "basename": "UML",
       "path": "CS 246/Week 7 - polymorphism/UML.md"
-    },
-    {
-      "basename": "Observer",
-      "path": "CS 246/Week 8 - STL, exceptions, more design patterns/Observer.md"
-    },
-    {
-      "basename": "Exceptions",
-      "path": "CS 246/Week 8 - STL, exceptions, more design patterns/Exceptions.md"
-    },
-    {
-      "basename": "Object slicing & polymorphism",
-      "path": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
-    },
-    {
-      "basename": "Move & Copy with Inheritance",
-      "path": "CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
     },
     {
       "basename": "Compilation Dependencies",
@@ -191,14 +199,6 @@
     {
       "basename": "cs136",
       "path": "prereq graph/cs136.md"
-    },
-    {
-      "basename": "cs370",
-      "path": "prereq graph/cs370.md"
-    },
-    {
-      "basename": "cs234",
-      "path": "prereq graph/cs234.md"
     }
   ],
   "omittedPaths": [],
