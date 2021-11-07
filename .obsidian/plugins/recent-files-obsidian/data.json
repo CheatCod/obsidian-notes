@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Outline",
+      "path": "CS 246/Week 7 - polymorphism/Outline.md"
+    },
+    {
       "basename": "Abstract Class",
       "path": "CS 246/Week 7 - polymorphism/Abstract Class.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "cs240",
       "path": "prereq graph/cs240.md"
-    },
-    {
-      "basename": "cs136",
-      "path": "prereq graph/cs136.md"
     }
   ],
   "omittedPaths": [],

@@ -7,11 +7,8 @@
         "id": "7cbaaffc354e8c4c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CS 246/Week 7 - polymorphism/Abstract Class.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 246/Week 7 - polymorphism/Abstract Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS 246/Week 7 - polymorphism/Abstract Class.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,6 +117,7 @@
   },
   "active": "7cbaaffc354e8c4c",
   "lastOpenFiles": [
+    "CS 246/Week 7 - polymorphism/Outline.md",
     "CS 246/Week 7 - polymorphism/Abstract Class.md",
     "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
     "CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md",
@@ -131,7 +126,6 @@
     "PSYCH 101/Dream.md",
     "PSYCH 101/Hypnosis.md",
     "Stat 230/Week 5/Poisson Distribution.md",
-    "PSYCH 101/Week 7/IO Psychology.md",
-    "PSYCH 101/Psychoactive Substances.md"
+    "PSYCH 101/Week 7/IO Psychology.md"
   ]
 }
