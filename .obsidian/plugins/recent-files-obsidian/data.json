@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Outline",
-      "path": "CS 246/Week 7 - polymorphism/Outline.md"
+      "basename": "UML",
+      "path": "CS 246/Week 7 - polymorphism/UML.md"
+    },
+    {
+      "basename": "Week 5 - OOP",
+      "path": "CS 246/Week 5 - OOP/Week 5 - OOP.md"
+    },
+    {
+      "basename": "Constructor",
+      "path": "CS 246/Week 5 - OOP/Constructor.md"
+    },
+    {
+      "basename": "Methods",
+      "path": "CS 246/Week 5 - OOP/Methods.md"
+    },
+    {
+      "basename": "Inheritance",
+      "path": "CS 246/Week 7 - polymorphism/Inheritance.md"
+    },
+    {
+      "basename": "Object slicing & polymorphism",
+      "path": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
     },
     {
       "basename": "Abstract Class",
       "path": "CS 246/Week 7 - polymorphism/Abstract Class.md"
     },
     {
-      "basename": "Object slicing & polymorphism",
-      "path": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
+      "basename": "Copy Constructor",
+      "path": "CS 246/Week 5 - OOP/Copy Constructor.md"
+    },
+    {
+      "basename": "Week 4 - preprocessing",
+      "path": "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
+    },
+    {
+      "basename": "Compilation Dependencies",
+      "path": "CS 246/Week 8 - STL, exceptions, more design patterns/Compilation Dependencies.md"
+    },
+    {
+      "basename": "Outline",
+      "path": "CS 246/Week 7 - polymorphism/Outline.md"
     },
     {
       "basename": "Move & Copy with Inheritance",
@@ -51,10 +83,6 @@
     {
       "basename": "Make",
       "path": "CS 246/Week 4 - preprocessing/Make.md"
-    },
-    {
-      "basename": "Week 4 - preprocessing",
-      "path": "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
     },
     {
       "basename": "A4",
@@ -105,18 +133,6 @@
       "path": "Stat 230/Week 6/Expected Value.md"
     },
     {
-      "basename": "UML",
-      "path": "CS 246/Week 7 - polymorphism/UML.md"
-    },
-    {
-      "basename": "Compilation Dependencies",
-      "path": "CS 246/Week 8 - STL, exceptions, more design patterns/Compilation Dependencies.md"
-    },
-    {
-      "basename": "Inheritance",
-      "path": "CS 246/Week 7 - polymorphism/Inheritance.md"
-    },
-    {
       "basename": "cs350",
       "path": "prereq graph/cs350.md"
     },
@@ -139,14 +155,6 @@
     {
       "basename": "Hypergeometric distribution",
       "path": "Stat 230/Hypergeometric distribution.md"
-    },
-    {
-      "basename": "Constructor",
-      "path": "CS 246/Week 5 - OOP/Constructor.md"
-    },
-    {
-      "basename": "Week 5 - OOP",
-      "path": "CS 246/Week 5 - OOP/Week 5 - OOP.md"
     },
     {
       "basename": "UML",
@@ -191,14 +199,6 @@
     {
       "basename": "cs251",
       "path": "prereq graph/cs251.md"
-    },
-    {
-      "basename": "cs341",
-      "path": "prereq graph/cs341.md"
-    },
-    {
-      "basename": "cs240",
-      "path": "prereq graph/cs240.md"
     }
   ],
   "omittedPaths": [],

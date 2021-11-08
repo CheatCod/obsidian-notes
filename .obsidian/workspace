@@ -7,8 +7,11 @@
         "id": "7cbaaffc354e8c4c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CS 246/Week 7 - polymorphism/UML.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS 246/Week 7 - polymorphism/UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS 246/Week 7 - polymorphism/UML.md"
+              }
             }
           },
           {
@@ -117,15 +123,15 @@
   },
   "active": "7cbaaffc354e8c4c",
   "lastOpenFiles": [
-    "CS 246/Week 7 - polymorphism/Outline.md",
-    "CS 246/Week 7 - polymorphism/Abstract Class.md",
+    "CS 246/Week 7 - polymorphism/UML.md",
+    "CS 246/Week 5 - OOP/Week 5 - OOP.md",
+    "CS 246/Week 5 - OOP/Constructor.md",
+    "CS 246/Week 5 - OOP/Methods.md",
+    "CS 246/Week 7 - polymorphism/Inheritance.md",
     "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
-    "CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md",
-    "CS 246/Week 8 - STL, exceptions, more design patterns/Exceptions.md",
-    "CS 246/Week 8 - STL, exceptions, more design patterns/Observer.md",
-    "PSYCH 101/Dream.md",
-    "PSYCH 101/Hypnosis.md",
-    "Stat 230/Week 5/Poisson Distribution.md",
-    "PSYCH 101/Week 7/IO Psychology.md"
+    "CS 246/Week 7 - polymorphism/Abstract Class.md",
+    "CS 246/Week 5 - OOP/Copy Constructor.md",
+    "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md",
+    "CS 246/Week 8 - STL, exceptions, more design patterns/Compilation Dependencies.md"
   ]
 }
