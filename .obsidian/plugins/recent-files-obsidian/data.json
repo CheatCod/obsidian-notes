@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Resolution",
+      "path": "CS 245/Week 7/Resolution.md"
+    },
+    {
+      "basename": "Resolution Strategies",
+      "path": "CS 245/Week 7/Resolution Strategies.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "CS 245/Assignments/A04/Q2.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "CS 245/Assignments/A04/Q1.md"
+    },
+    {
+      "basename": "Quantifiers",
+      "path": "CS 245/Week 8 - first order logic/Quantifiers.md"
+    },
+    {
+      "basename": "Week 6",
+      "path": "CS 245/Week 6/Week 6.md"
+    },
+    {
+      "basename": "A03",
+      "path": "CS 245/Assignments/A03.md"
+    },
+    {
+      "basename": "Semantics",
+      "path": "CS 245/Week 8 - first order logic/Semantics.md"
+    },
+    {
+      "basename": "Syntax",
+      "path": "CS 245/Week 8 - first order logic/Syntax.md"
+    },
+    {
+      "basename": "Object slicing & polymorphism",
+      "path": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
+    },
+    {
+      "basename": "Abstract Class",
+      "path": "CS 246/Week 7 - polymorphism/Abstract Class.md"
+    },
+    {
       "basename": "UML",
       "path": "CS 246/Week 7 - polymorphism/UML.md"
     },
@@ -19,14 +63,6 @@
     {
       "basename": "Inheritance",
       "path": "CS 246/Week 7 - polymorphism/Inheritance.md"
-    },
-    {
-      "basename": "Object slicing & polymorphism",
-      "path": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
-    },
-    {
-      "basename": "Abstract Class",
-      "path": "CS 246/Week 7 - polymorphism/Abstract Class.md"
     },
     {
       "basename": "Copy Constructor",
@@ -159,46 +195,6 @@
     {
       "basename": "UML",
       "path": "Templates/UML.md"
-    },
-    {
-      "basename": "cs365",
-      "path": "prereq graph/cs365.md"
-    },
-    {
-      "basename": "cs247",
-      "path": "prereq graph/cs247.md"
-    },
-    {
-      "basename": "Davis-Putnam Procedure(DPP)",
-      "path": "CS 245/Week 7/Davis-Putnam Procedure(DPP).md"
-    },
-    {
-      "basename": "Resolution",
-      "path": "CS 245/Week 7/Resolution.md"
-    },
-    {
-      "basename": "Syntax",
-      "path": "CS 245/Week 8 - first order logic/Syntax.md"
-    },
-    {
-      "basename": "Quantifiers",
-      "path": "CS 245/Week 8 - first order logic/Quantifiers.md"
-    },
-    {
-      "basename": "Domain and Relations",
-      "path": "CS 245/Week 8 - first order logic/Domain and Relations.md"
-    },
-    {
-      "basename": "Midterm",
-      "path": "CS 245/Midterm/Midterm.md"
-    },
-    {
-      "basename": "cs116",
-      "path": "prereq graph/cs116.md"
-    },
-    {
-      "basename": "cs251",
-      "path": "prereq graph/cs251.md"
     }
   ],
   "omittedPaths": [],

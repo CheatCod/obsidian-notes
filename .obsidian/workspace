@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7cbaaffc354e8c4c",
+        "id": "f3495447d33e46c1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CS 246/Week 7 - polymorphism/UML.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 246/Week 7 - polymorphism/UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS 246/Week 7 - polymorphism/UML.md"
-              }
+              "state": {}
             }
           },
           {
@@ -115,23 +109,40 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "31f0d16e034e83c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8943ff5cf8197ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 245/Week 7/Resolution Strategies.md",
+                "mode": "source"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "7cbaaffc354e8c4c",
+  "active": "f3495447d33e46c1",
   "lastOpenFiles": [
-    "CS 246/Week 7 - polymorphism/UML.md",
-    "CS 246/Week 5 - OOP/Week 5 - OOP.md",
-    "CS 246/Week 5 - OOP/Constructor.md",
-    "CS 246/Week 5 - OOP/Methods.md",
-    "CS 246/Week 7 - polymorphism/Inheritance.md",
-    "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
-    "CS 246/Week 7 - polymorphism/Abstract Class.md",
-    "CS 246/Week 5 - OOP/Copy Constructor.md",
-    "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md",
-    "CS 246/Week 8 - STL, exceptions, more design patterns/Compilation Dependencies.md"
+    "CS 245/Week 7/Resolution.md",
+    "CS 245/Week 7/Resolution Strategies.md",
+    "CS 245/Assignments/A04/Untitled.md",
+    "CS 245/Assignments/A04/Q2.md",
+    "CS 245/Assignments/A04/Q1.md",
+    "CS 245/Week 8 - first order logic/Quantifiers.md",
+    "CS 245/Week 6/Week 6.md",
+    "CS 245/Assignments/A03.md",
+    "CS 245/Week 8 - first order logic/Semantics.md",
+    "CS 245/Week 8 - first order logic/Syntax.md"
   ]
 }
