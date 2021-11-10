@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Q5",
+      "path": "CS 245/Assignments/A04/Q5.md"
+    },
+    {
+      "basename": "Q3",
+      "path": "CS 245/Assignments/A04/Q3.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "CS 245/Assignments/A04/Q2.md"
+    },
+    {
       "basename": "Resolution",
       "path": "CS 245/Week 7/Resolution.md"
     },
     {
       "basename": "Resolution Strategies",
       "path": "CS 245/Week 7/Resolution Strategies.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "CS 245/Assignments/A04/Q2.md"
     },
     {
       "basename": "Q1",
@@ -191,10 +199,6 @@
     {
       "basename": "Hypergeometric distribution",
       "path": "Stat 230/Hypergeometric distribution.md"
-    },
-    {
-      "basename": "UML",
-      "path": "Templates/UML.md"
     }
   ],
   "omittedPaths": [],

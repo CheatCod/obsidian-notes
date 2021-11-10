@@ -7,8 +7,11 @@
         "id": "f3495447d33e46c1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CS 245/Assignments/A04/Q5.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS 245/Assignments/A04/Q5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS 245/Assignments/A04/Q5.md"
+              }
             }
           },
           {
@@ -134,15 +140,15 @@
   },
   "active": "f3495447d33e46c1",
   "lastOpenFiles": [
+    "CS 245/Assignments/A04/Q5.md",
+    "CS 245/Assignments/A04/Q3.md",
+    "CS 245/Assignments/A04/Q2.md",
     "CS 245/Week 7/Resolution.md",
     "CS 245/Week 7/Resolution Strategies.md",
-    "CS 245/Assignments/A04/Untitled.md",
-    "CS 245/Assignments/A04/Q2.md",
     "CS 245/Assignments/A04/Q1.md",
     "CS 245/Week 8 - first order logic/Quantifiers.md",
     "CS 245/Week 6/Week 6.md",
     "CS 245/Assignments/A03.md",
-    "CS 245/Week 8 - first order logic/Semantics.md",
-    "CS 245/Week 8 - first order logic/Syntax.md"
+    "CS 245/Week 8 - first order logic/Semantics.md"
   ]
 }
