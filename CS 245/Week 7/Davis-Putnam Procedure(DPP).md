@@ -19,7 +19,7 @@ In other words, the resolvent is the union of all literals in the parents clause
 Given as input a *nonempty set of clauses* in the propositional variables 
 **Eliminating the variable $p$**:
 $p_1,p_2...p_n$, the DPP repeats the following steps until no variables left:
-- Remove all clauses that have both a literal $p$ and its complement $\neg q$ in them, as $p \lor \neg p$ is a tautology, and will never lead to a contradiction
+- Remove all clauses that have both a literal $p$ and its complement $\neg p$ in them, as $p \lor \neg p$ is a tautology, and will never lead to a contradiction
 - **Choose a variable $p$** appearing in one the clauses.
 - Add all possible resolvents using resolution on $p$ to the set of clauses.
 - Discard all clauses with $p \lor \neg p$ in them
