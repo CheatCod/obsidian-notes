@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 245/Assignments/A04/Q5.md",
-            "mode": "source"
+            "file": "CS 245/Assignments/A04/Q2.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dpp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 245/Assignments/A04/Q5.md",
+                "file": "CS 245/Assignments/A04/Q2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 245/Assignments/A04/Q5.md"
+                "file": "CS 245/Assignments/A04/Q2.md"
               }
             }
           },
@@ -140,15 +140,15 @@
   },
   "active": "f3495447d33e46c1",
   "lastOpenFiles": [
-    "CS 245/Assignments/A04/Q5.md",
-    "CS 245/Assignments/A04/Q3.md",
     "CS 245/Assignments/A04/Q2.md",
-    "CS 245/Week 7/Resolution.md",
-    "CS 245/Week 7/Resolution Strategies.md",
-    "CS 245/Assignments/A04/Q1.md",
+    "CS 245/Week 7/Davis-Putnam Procedure(DPP).md",
+    "CS 245/Assignments/A04/Q6.md",
+    "CS 245/Assignments/A04/Q3.md",
+    "CS 245/Assignments/A04/Q5.md",
     "CS 245/Week 8 - first order logic/Quantifiers.md",
-    "CS 245/Week 6/Week 6.md",
-    "CS 245/Assignments/A03.md",
-    "CS 245/Week 8 - first order logic/Semantics.md"
+    "CS 245/Week 8 - first order logic/Syntax.md",
+    "CS 245/Week 8 - first order logic/Semantics.md",
+    "CS 245/Assignments/A04/Q1.md",
+    "CS 245/Week 9 - FOL logical consequence/Logical consequence in FOL.md"
   ]
 }
