@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e53d115e1fa52fcf",
+        "id": "e9da715dbc96a8c2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 245/Assignments/A04/Q6.md",
+            "file": "Stat 230/Week 8/Distributions of Transformed R.V..md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "2ef3842aec05dd86",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Stat 230/Week 7/Continuous Distributions.md",
             "mode": "preview"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dpp",
+                "query": "density",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 245/Assignments/A04/Q6.md",
+                "file": "Stat 230/Week 8/Distributions of Transformed R.V..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 245/Assignments/A04/Q6.md"
+                "file": "Stat 230/Week 8/Distributions of Transformed R.V..md"
               }
             }
           },
@@ -138,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e53d115e1fa52fcf",
+  "active": "e9da715dbc96a8c2",
   "lastOpenFiles": [
-    "CS 245/Assignments/A04/Q6.md",
-    "CS 245/Assignments/A03.md",
-    "CS 245/Assignments/A04/Q5.md",
-    "CS 245/Assignments/A04/Q3.md",
-    "CS 245/Assignments/A04/Q2.md",
-    "CS 245/Assignments/A04/Q1.md",
-    "CS 245/Week 7/Davis-Putnam Procedure(DPP).md",
-    "CS 245/Week 8 - first order logic/Quantifiers.md",
-    "CS 245/Week 8 - first order logic/Syntax.md",
-    "CS 245/Week 8 - first order logic/Semantics.md"
+    "Stat 230/Week 8/Distributions of Transformed R.V..md",
+    "Stat 230/Week 7/Continuous Distributions.md",
+    "Templates/equation.md",
+    "CS 245/Week 8 - first order logic/First Order Logic.md",
+    "Stat 230/Week 5/Week 5.md",
+    "Rand/Notes Outline.md",
+    "prereq graph/cs341.md",
+    "prereq graph/cs350.md",
+    "prereq graph/cs251.md",
+    "prereq graph/cs246.md"
   ]
 }

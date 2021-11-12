@@ -1,16 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Distributions of Transformed R.V.",
+      "path": "Stat 230/Week 8/Distributions of Transformed R.V..md"
+    },
+    {
+      "basename": "Continuous Distributions",
+      "path": "Stat 230/Week 7/Continuous Distributions.md"
+    },
+    {
+      "basename": "equation",
+      "path": "Templates/equation.md"
+    },
+    {
+      "basename": "First Order Logic",
+      "path": "CS 245/Week 8 - first order logic/First Order Logic.md"
+    },
+    {
+      "basename": "Week 5",
+      "path": "Stat 230/Week 5/Week 5.md"
+    },
+    {
+      "basename": "Notes Outline",
+      "path": "Rand/Notes Outline.md"
+    },
+    {
+      "basename": "cs341",
+      "path": "prereq graph/cs341.md"
+    },
+    {
+      "basename": "cs350",
+      "path": "prereq graph/cs350.md"
+    },
+    {
+      "basename": "cs251",
+      "path": "prereq graph/cs251.md"
+    },
+    {
+      "basename": "cs246",
+      "path": "prereq graph/cs246.md"
+    },
+    {
+      "basename": "cs245",
+      "path": "prereq graph/cs245.md"
+    },
+    {
+      "basename": "cs241",
+      "path": "prereq graph/cs241.md"
+    },
+    {
+      "basename": "cs240",
+      "path": "prereq graph/cs240.md"
+    },
+    {
+      "basename": "cs136",
+      "path": "prereq graph/cs136.md"
+    },
+    {
+      "basename": "cs135",
+      "path": "prereq graph/cs135.md"
+    },
+    {
       "basename": "Q6",
       "path": "CS 245/Assignments/A04/Q6.md"
     },
     {
-      "basename": "A03",
-      "path": "CS 245/Assignments/A03.md"
-    },
-    {
-      "basename": "Q5",
-      "path": "CS 245/Assignments/A04/Q5.md"
+      "basename": "Q1",
+      "path": "CS 245/Assignments/A04/Q1.md"
     },
     {
       "basename": "Q3",
@@ -21,8 +77,12 @@
       "path": "CS 245/Assignments/A04/Q2.md"
     },
     {
-      "basename": "Q1",
-      "path": "CS 245/Assignments/A04/Q1.md"
+      "basename": "A03",
+      "path": "CS 245/Assignments/A03.md"
+    },
+    {
+      "basename": "Q5",
+      "path": "CS 245/Assignments/A04/Q5.md"
     },
     {
       "basename": "Davis-Putnam Procedure(DPP)",
@@ -139,66 +199,6 @@
     {
       "basename": "Make",
       "path": "CS 246/Week 4 - preprocessing/Make.md"
-    },
-    {
-      "basename": "A4",
-      "path": "CS 246/Assignment/A4.md"
-    },
-    {
-      "basename": "A3",
-      "path": "CS 246/Week 5 - OOP/A3.md"
-    },
-    {
-      "basename": "STL",
-      "path": "CS 246/Week 8 - STL, exceptions, more design patterns/STL.md"
-    },
-    {
-      "basename": "Templates",
-      "path": "CS 246/Week 8 - STL, exceptions, more design patterns/Templates.md"
-    },
-    {
-      "basename": "Negative Binomial Distribution",
-      "path": "Stat 230/Week 5/Negative Binomial Distribution.md"
-    },
-    {
-      "basename": "Week 5",
-      "path": "Stat 230/Week 5/Week 5.md"
-    },
-    {
-      "basename": "Variance and Standard Deviation",
-      "path": "Stat 230/Week 6/Variance and Standard Deviation.md"
-    },
-    {
-      "basename": "Counting Techniques",
-      "path": "Stat 230/Week 1/Counting Techniques.md"
-    },
-    {
-      "basename": "Bernouli trials",
-      "path": "Stat 230/Week 5/Bernouli trials.md"
-    },
-    {
-      "basename": "Expected Value of p.f.s",
-      "path": "Stat 230/Week 6/Expected Value of p.f.s.md"
-    },
-    {
-      "basename": "Expect value of a Function",
-      "path": "Stat 230/Week 6/Expect value of a Function.md"
-    },
-    {
-      "basename": "Expected Value",
-      "path": "Stat 230/Week 6/Expected Value.md"
-    },
-    {
-      "basename": "cs350",
-      "path": "prereq graph/cs350.md"
-    },
-    {
-      "basename": "Destructor",
-      "path": "CS 246/Week 5 - OOP/Destructor.md"
-    },
-    {
-      "basename": "Continuous Distributions",
-      "path": "Stat 230/Week 7/Continuous Distributions.md"
     }
   ],
   "omittedPaths": [],
