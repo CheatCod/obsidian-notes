@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rand/Notes Outline.md",
+            "file": "CS 245/Assignments/A04/Q2.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rand/Notes Outline.md",
+                "file": "CS 245/Assignments/A04/Q2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rand/Notes Outline.md"
+                "file": "CS 245/Assignments/A04/Q2.md"
               }
             }
           },
@@ -140,15 +140,15 @@
   },
   "active": "e9da715dbc96a8c2",
   "lastOpenFiles": [
+    "CS 245/Assignments/A04/Q2.md",
+    "CS 245/Assignments/A04/Q3.md",
+    "CS 245/Assignments/A04/Q5.md",
+    "CS 245/Assignments/A04/Q6.md",
     "Rand/Notes Outline.md",
     "Stat 230/Week 5/Poisson Distribution.md",
     "Stat 230/Week 8/Exponential Distribution.md",
     "Stat 230/Week 6/Expected Value.md",
     "Stat 230/Week 6/Expected Value of p.f.s.md",
-    "Stat 230/Week 8/Distributions of Transformed R.V..md",
-    "Stat 230/Week 8/Moments and Continuous Uniform Distribution.md",
-    "Stat 230/Week 7/Continuous Distributions.md",
-    "Stat 230/Week 6/Variance and Standard Deviation.md",
-    "Stat 230/Week 7/Variance of Standard Distribution.md"
+    "Stat 230/Week 8/Distributions of Transformed R.V..md"
   ]
 }
