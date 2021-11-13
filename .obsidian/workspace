@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stat 230/Week 8/Exponential Distribution.md",
-            "mode": "source"
+            "file": "Rand/Notes Outline.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stat 230/Week 8/Exponential Distribution.md",
+                "file": "Rand/Notes Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stat 230/Week 8/Exponential Distribution.md"
+                "file": "Rand/Notes Outline.md"
               }
             }
           },
@@ -140,15 +140,15 @@
   },
   "active": "e9da715dbc96a8c2",
   "lastOpenFiles": [
+    "Rand/Notes Outline.md",
+    "Stat 230/Week 5/Poisson Distribution.md",
     "Stat 230/Week 8/Exponential Distribution.md",
-    "Stat 230/Week 8/Moments and Continuous Uniform Distribution.md",
+    "Stat 230/Week 6/Expected Value.md",
+    "Stat 230/Week 6/Expected Value of p.f.s.md",
     "Stat 230/Week 8/Distributions of Transformed R.V..md",
-    "CS 245/Week 6/Formal Deduction in Propositional Logic.md",
-    "CS 245/Week 5/Adders.md",
-    "CS 245/Week 5/Week 5.md",
-    "CS 245/Week 6/The system of formal deduction.md",
-    "CS 245/Week 6/Week 6.md",
-    "CS 245/Assignments/A03/Q5.md",
-    "CS 245/Assignments/A03/Q4.md"
+    "Stat 230/Week 8/Moments and Continuous Uniform Distribution.md",
+    "Stat 230/Week 7/Continuous Distributions.md",
+    "Stat 230/Week 6/Variance and Standard Deviation.md",
+    "Stat 230/Week 7/Variance of Standard Distribution.md"
   ]
 }

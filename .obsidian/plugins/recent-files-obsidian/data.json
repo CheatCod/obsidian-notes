@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Notes Outline",
+      "path": "Rand/Notes Outline.md"
+    },
+    {
+      "basename": "Poisson Distribution",
+      "path": "Stat 230/Week 5/Poisson Distribution.md"
+    },
+    {
       "basename": "Exponential Distribution",
       "path": "Stat 230/Week 8/Exponential Distribution.md"
+    },
+    {
+      "basename": "Expected Value",
+      "path": "Stat 230/Week 6/Expected Value.md"
+    },
+    {
+      "basename": "Expected Value of p.f.s",
+      "path": "Stat 230/Week 6/Expected Value of p.f.s.md"
+    },
+    {
+      "basename": "Distributions of Transformed R.V.",
+      "path": "Stat 230/Week 8/Distributions of Transformed R.V..md"
     },
     {
       "basename": "Moments and Continuous Uniform Distribution",
       "path": "Stat 230/Week 8/Moments and Continuous Uniform Distribution.md"
     },
     {
-      "basename": "Distributions of Transformed R.V.",
-      "path": "Stat 230/Week 8/Distributions of Transformed R.V..md"
+      "basename": "Continuous Distributions",
+      "path": "Stat 230/Week 7/Continuous Distributions.md"
+    },
+    {
+      "basename": "Variance and Standard Deviation",
+      "path": "Stat 230/Week 6/Variance and Standard Deviation.md"
+    },
+    {
+      "basename": "Variance of Standard Distribution",
+      "path": "Stat 230/Week 7/Variance of Standard Distribution.md"
+    },
+    {
+      "basename": "Week 5",
+      "path": "Stat 230/Week 5/Week 5.md"
+    },
+    {
+      "basename": "Expect value of a Function",
+      "path": "Stat 230/Week 6/Expect value of a Function.md"
     },
     {
       "basename": "Formal Deduction in Propositional Logic",
@@ -101,28 +137,12 @@
       "path": "CS 245/Midterm/Midterm.md"
     },
     {
-      "basename": "Variance of Standard Distribution",
-      "path": "Stat 230/Week 7/Variance of Standard Distribution.md"
-    },
-    {
-      "basename": "Notes Outline",
-      "path": "Rand/Notes Outline.md"
-    },
-    {
-      "basename": "Continuous Distributions",
-      "path": "Stat 230/Week 7/Continuous Distributions.md"
-    },
-    {
       "basename": "equation",
       "path": "Templates/equation.md"
     },
     {
       "basename": "First Order Logic",
       "path": "CS 245/Week 8 - first order logic/First Order Logic.md"
-    },
-    {
-      "basename": "Week 5",
-      "path": "Stat 230/Week 5/Week 5.md"
     },
     {
       "basename": "cs341",
@@ -179,26 +199,6 @@
     {
       "basename": "Semantics",
       "path": "CS 245/Week 8 - first order logic/Semantics.md"
-    },
-    {
-      "basename": "Logical consequence in FOL",
-      "path": "CS 245/Week 9 - FOL logical consequence/Logical consequence in FOL.md"
-    },
-    {
-      "basename": "Resolution",
-      "path": "CS 245/Week 7/Resolution.md"
-    },
-    {
-      "basename": "Resolution Strategies",
-      "path": "CS 245/Week 7/Resolution Strategies.md"
-    },
-    {
-      "basename": "Object slicing & polymorphism",
-      "path": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
-    },
-    {
-      "basename": "Abstract Class",
-      "path": "CS 246/Week 7 - polymorphism/Abstract Class.md"
     }
   ],
   "omittedPaths": [],
