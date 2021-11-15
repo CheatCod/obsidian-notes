@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 245/Assignments/A04/Q2.md",
+            "file": "CS 245/Week 8 - first order logic/First Order Logic.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 245/Assignments/A04/Q2.md",
+                "file": "CS 245/Week 8 - first order logic/First Order Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 245/Assignments/A04/Q2.md"
+                "file": "CS 245/Week 8 - first order logic/First Order Logic.md"
               }
             }
           },
@@ -140,6 +140,7 @@
   },
   "active": "e9da715dbc96a8c2",
   "lastOpenFiles": [
+    "CS 245/Week 8 - first order logic/First Order Logic.md",
     "CS 245/Assignments/A04/Q2.md",
     "CS 245/Assignments/A04/Q3.md",
     "CS 245/Assignments/A04/Q5.md",
@@ -148,7 +149,6 @@
     "Stat 230/Week 5/Poisson Distribution.md",
     "Stat 230/Week 8/Exponential Distribution.md",
     "Stat 230/Week 6/Expected Value.md",
-    "Stat 230/Week 6/Expected Value of p.f.s.md",
-    "Stat 230/Week 8/Distributions of Transformed R.V..md"
+    "Stat 230/Week 6/Expected Value of p.f.s.md"
   ]
 }
