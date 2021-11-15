@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 245/Week 8 - first order logic/First Order Logic.md",
-            "mode": "preview"
+            "file": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
+            "mode": "source"
           }
         }
       }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8119af8b5c1d2920",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 245/Week 8 - first order logic/First Order Logic.md",
+                "file": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 245/Week 8 - first order logic/First Order Logic.md"
+                "file": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
               }
             }
           },
@@ -140,15 +141,15 @@
   },
   "active": "e9da715dbc96a8c2",
   "lastOpenFiles": [
+    "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
+    "Rand/Notes Outline.md",
+    "CS 245/Week 6/Useful theorems.md",
+    "CS 245/Week 9 - FOL logical consequence/Logical consequence in FOL.md",
+    "CS 245/Week 8 - first order logic/Semantics.md",
     "CS 245/Week 8 - first order logic/First Order Logic.md",
     "CS 245/Assignments/A04/Q2.md",
     "CS 245/Assignments/A04/Q3.md",
     "CS 245/Assignments/A04/Q5.md",
-    "CS 245/Assignments/A04/Q6.md",
-    "Rand/Notes Outline.md",
-    "Stat 230/Week 5/Poisson Distribution.md",
-    "Stat 230/Week 8/Exponential Distribution.md",
-    "Stat 230/Week 6/Expected Value.md",
-    "Stat 230/Week 6/Expected Value of p.f.s.md"
+    "CS 245/Assignments/A04/Q6.md"
   ]
 }

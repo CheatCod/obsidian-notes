@@ -51,3 +51,23 @@ some first year courses in particular:
 -	If you HATE working and school back to back
 -	If you want to take quality non-STEM related electives, minors, specializations.
 -	No historic aspect (like UofT)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

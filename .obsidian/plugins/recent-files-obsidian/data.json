@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "FOL Formal Deduction",
+      "path": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
+    },
+    {
+      "basename": "Notes Outline",
+      "path": "Rand/Notes Outline.md"
+    },
+    {
+      "basename": "Useful theorems",
+      "path": "CS 245/Week 6/Useful theorems.md"
+    },
+    {
+      "basename": "Logical consequence in FOL",
+      "path": "CS 245/Week 9 - FOL logical consequence/Logical consequence in FOL.md"
+    },
+    {
+      "basename": "Semantics",
+      "path": "CS 245/Week 8 - first order logic/Semantics.md"
+    },
+    {
       "basename": "First Order Logic",
       "path": "CS 245/Week 8 - first order logic/First Order Logic.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "Q6",
       "path": "CS 245/Assignments/A04/Q6.md"
-    },
-    {
-      "basename": "Notes Outline",
-      "path": "Rand/Notes Outline.md"
     },
     {
       "basename": "Poisson Distribution",
@@ -183,22 +199,6 @@
     {
       "basename": "A03",
       "path": "CS 245/Assignments/A03.md"
-    },
-    {
-      "basename": "Davis-Putnam Procedure(DPP)",
-      "path": "CS 245/Week 7/Davis-Putnam Procedure(DPP).md"
-    },
-    {
-      "basename": "Quantifiers",
-      "path": "CS 245/Week 8 - first order logic/Quantifiers.md"
-    },
-    {
-      "basename": "Syntax",
-      "path": "CS 245/Week 8 - first order logic/Syntax.md"
-    },
-    {
-      "basename": "Semantics",
-      "path": "CS 245/Week 8 - first order logic/Semantics.md"
     }
   ],
   "omittedPaths": [],
