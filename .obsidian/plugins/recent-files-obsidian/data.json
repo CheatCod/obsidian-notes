@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "FOL Formal Deduction",
+      "path": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
+    },
+    {
+      "basename": "Smart Pointers",
+      "path": "CS 246/Week 10 - Advanced C++/Smart Pointers.md"
+    },
+    {
       "basename": "Exception Safety",
       "path": "CS 246/Week 10 - Advanced C++/Exception Safety.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "RAII",
       "path": "CS 246/Week 10 - Advanced C++/RAII.md"
-    },
-    {
-      "basename": "Smart Pointers",
-      "path": "CS 246/Week 10 - Advanced C++/Smart Pointers.md"
     },
     {
       "basename": "Object slicing & polymorphism",
@@ -35,10 +39,6 @@
     {
       "basename": "Week 5",
       "path": "CS 245/Week 5/Week 5.md"
-    },
-    {
-      "basename": "FOL Formal Deduction",
-      "path": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
     },
     {
       "basename": "Notes Outline",

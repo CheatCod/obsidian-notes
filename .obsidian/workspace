@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 246/Week 10 - Advanced C++/Exception Safety.md",
-            "mode": "source"
+            "file": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 246/Week 10 - Advanced C++/Exception Safety.md",
+                "file": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 246/Week 10 - Advanced C++/Exception Safety.md"
+                "file": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
               }
             }
           },
@@ -140,15 +140,15 @@
   },
   "active": "793f40f4edd0cbae",
   "lastOpenFiles": [
+    "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
+    "CS 246/Week 10 - Advanced C++/Smart Pointers.md",
     "CS 246/Week 10 - Advanced C++/Exception Safety.md",
     "CS 246/Week 10 - Advanced C++/Pimpl Idiom.md",
     "CS 246/Week 10 - Advanced C++/RAII.md",
-    "CS 246/Week 10 - Advanced C++/Smart Pointers.md",
     "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
     "CS 246/Week 7 - polymorphism/Abstract Class.md",
     "CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md",
     "CS 246/Week 7 - polymorphism/UML.md",
-    "CS 246/Untitled.md",
-    "CS 245/Week 5/Week 5.md"
+    "CS 246/Untitled.md"
   ]
 }
