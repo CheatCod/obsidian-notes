@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Exception Safety",
+      "path": "CS 246/Week 10 - Advanced C++/Exception Safety.md"
+    },
+    {
+      "basename": "Pimpl Idiom",
+      "path": "CS 246/Week 10 - Advanced C++/Pimpl Idiom.md"
+    },
+    {
+      "basename": "RAII",
+      "path": "CS 246/Week 10 - Advanced C++/RAII.md"
+    },
+    {
+      "basename": "Smart Pointers",
+      "path": "CS 246/Week 10 - Advanced C++/Smart Pointers.md"
+    },
+    {
+      "basename": "Object slicing & polymorphism",
+      "path": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
+    },
+    {
+      "basename": "Abstract Class",
+      "path": "CS 246/Week 7 - polymorphism/Abstract Class.md"
+    },
+    {
+      "basename": "Move & Copy with Inheritance",
+      "path": "CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
+    },
+    {
+      "basename": "UML",
+      "path": "CS 246/Week 7 - polymorphism/UML.md"
+    },
+    {
+      "basename": "Week 5",
+      "path": "CS 245/Week 5/Week 5.md"
+    },
+    {
       "basename": "FOL Formal Deduction",
       "path": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
     },
@@ -93,10 +129,6 @@
       "path": "CS 245/Week 5/Adders.md"
     },
     {
-      "basename": "Week 5",
-      "path": "CS 245/Week 5/Week 5.md"
-    },
-    {
       "basename": "The system of formal deduction",
       "path": "CS 245/Week 6/The system of formal deduction.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "cs350",
       "path": "prereq graph/cs350.md"
-    },
-    {
-      "basename": "cs251",
-      "path": "prereq graph/cs251.md"
-    },
-    {
-      "basename": "cs246",
-      "path": "prereq graph/cs246.md"
-    },
-    {
-      "basename": "cs245",
-      "path": "prereq graph/cs245.md"
-    },
-    {
-      "basename": "cs241",
-      "path": "prereq graph/cs241.md"
-    },
-    {
-      "basename": "cs240",
-      "path": "prereq graph/cs240.md"
-    },
-    {
-      "basename": "cs136",
-      "path": "prereq graph/cs136.md"
-    },
-    {
-      "basename": "cs135",
-      "path": "prereq graph/cs135.md"
-    },
-    {
-      "basename": "A03",
-      "path": "CS 245/Assignments/A03.md"
     }
   ],
   "omittedPaths": [],
