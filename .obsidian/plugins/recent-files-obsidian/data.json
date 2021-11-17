@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Q2",
+      "path": "CS 245/Assignments/A04/Q2.md"
+    },
+    {
+      "basename": "Q6",
+      "path": "CS 245/Assignments/A04/Q6.md"
+    },
+    {
+      "basename": "A03",
+      "path": "CS 245/Assignments/A03.md"
+    },
+    {
+      "basename": "Q3",
+      "path": "CS 245/Assignments/A04/Q3.md"
+    },
+    {
+      "basename": "Q5",
+      "path": "CS 245/Assignments/A04/Q5.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "CS 245/Assignments/A04/Q1.md"
+    },
+    {
       "basename": "FOL Formal Deduction",
       "path": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
+    },
+    {
+      "basename": "Object slicing & polymorphism",
+      "path": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
+    },
+    {
+      "basename": "Abstract Class",
+      "path": "CS 246/Week 7 - polymorphism/Abstract Class.md"
+    },
+    {
+      "basename": "Move & Copy with Inheritance",
+      "path": "CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Rand/Untitled.md"
+    },
+    {
+      "basename": "UML",
+      "path": "CS 246/Week 7 - polymorphism/UML.md"
     },
     {
       "basename": "Smart Pointers",
@@ -19,22 +63,6 @@
     {
       "basename": "RAII",
       "path": "CS 246/Week 10 - Advanced C++/RAII.md"
-    },
-    {
-      "basename": "Object slicing & polymorphism",
-      "path": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
-    },
-    {
-      "basename": "Abstract Class",
-      "path": "CS 246/Week 7 - polymorphism/Abstract Class.md"
-    },
-    {
-      "basename": "Move & Copy with Inheritance",
-      "path": "CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
-    },
-    {
-      "basename": "UML",
-      "path": "CS 246/Week 7 - polymorphism/UML.md"
     },
     {
       "basename": "Week 5",
@@ -59,22 +87,6 @@
     {
       "basename": "First Order Logic",
       "path": "CS 245/Week 8 - first order logic/First Order Logic.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "CS 245/Assignments/A04/Q2.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "CS 245/Assignments/A04/Q3.md"
-    },
-    {
-      "basename": "Q5",
-      "path": "CS 245/Assignments/A04/Q5.md"
-    },
-    {
-      "basename": "Q6",
-      "path": "CS 245/Assignments/A04/Q6.md"
     },
     {
       "basename": "Poisson Distribution",
@@ -146,10 +158,6 @@
     },
     {
       "basename": "Q1",
-      "path": "CS 245/Assignments/A04/Q1.md"
-    },
-    {
-      "basename": "Q1",
       "path": "CS 245/Midterm/Q1.md"
     },
     {
@@ -191,14 +199,6 @@
     {
       "basename": "equation",
       "path": "Templates/equation.md"
-    },
-    {
-      "basename": "cs341",
-      "path": "prereq graph/cs341.md"
-    },
-    {
-      "basename": "cs350",
-      "path": "prereq graph/cs350.md"
     }
   ],
   "omittedPaths": [],
