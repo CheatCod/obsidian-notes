@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "FOL Formal Deduction",
+      "path": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
+    },
+    {
+      "basename": "Logical consequence in FOL",
+      "path": "CS 245/Week 9 - FOL logical consequence/Logical consequence in FOL.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Rand/Untitled.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "CS 245/Assignments/A04/Q2.md"
+    },
+    {
       "basename": "Classes",
       "path": "CS 246/Week 5 - OOP/Classes.md"
     },
@@ -11,18 +27,6 @@
     {
       "basename": "Week 4 - preprocessing",
       "path": "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
-    },
-    {
-      "basename": "FOL Formal Deduction",
-      "path": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "CS 245/Assignments/A04/Q2.md"
-    },
-    {
-      "basename": "Logical consequence in FOL",
-      "path": "CS 245/Week 9 - FOL logical consequence/Logical consequence in FOL.md"
     },
     {
       "basename": "Q1",
@@ -59,10 +63,6 @@
     {
       "basename": "Move & Copy with Inheritance",
       "path": "CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Rand/Untitled.md"
     },
     {
       "basename": "UML",

@@ -54,3 +54,7 @@ Node <|-- MinusNode
 Node <|-- MultNode
 Node <|-- DivideNode
 ```
+
+$\set{A \land C, B}$
+
+$\set{A \land D, B}$

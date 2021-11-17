@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 246/Week 5 - OOP/Classes.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "e1987187a57d2164",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CS 245/Assignments/A04/Q2.md",
+            "file": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
             "mode": "preview"
           }
         }
@@ -87,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 246/Week 5 - OOP/Classes.md",
+                "file": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 246/Week 5 - OOP/Classes.md"
+                "file": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
               }
             }
           },
@@ -151,15 +140,15 @@
   },
   "active": "959f848f8b90b450",
   "lastOpenFiles": [
+    "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
+    "CS 245/Week 9 - FOL logical consequence/Logical consequence in FOL.md",
+    "Rand/Untitled.md",
+    "CS 245/Assignments/A04/Q2.md",
     "CS 246/Week 5 - OOP/Classes.md",
     "CS 246/Week 5 - OOP/Week 5 - OOP.md",
     "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md",
-    "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
-    "CS 245/Assignments/A04/Q2.md",
-    "CS 245/Week 9 - FOL logical consequence/Logical consequence in FOL.md",
     "CS 245/Assignments/A03/Q1.md",
     "CS 245/Assignments/A04/Q6.md",
-    "CS 245/Assignments/A03.md",
-    "CS 245/Assignments/A04/Q3.md"
+    "CS 245/Assignments/A03.md"
   ]
 }
