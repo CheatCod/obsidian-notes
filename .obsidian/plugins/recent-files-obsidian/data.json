@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Classes",
+      "path": "CS 246/Week 5 - OOP/Classes.md"
+    },
+    {
+      "basename": "Week 5 - OOP",
+      "path": "CS 246/Week 5 - OOP/Week 5 - OOP.md"
+    },
+    {
+      "basename": "Week 4 - preprocessing",
+      "path": "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
+    },
+    {
+      "basename": "FOL Formal Deduction",
+      "path": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
+    },
+    {
       "basename": "Q2",
       "path": "CS 245/Assignments/A04/Q2.md"
+    },
+    {
+      "basename": "Logical consequence in FOL",
+      "path": "CS 245/Week 9 - FOL logical consequence/Logical consequence in FOL.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "CS 245/Assignments/A03/Q1.md"
     },
     {
       "basename": "Q6",
@@ -23,10 +47,6 @@
     {
       "basename": "Q1",
       "path": "CS 245/Assignments/A04/Q1.md"
-    },
-    {
-      "basename": "FOL Formal Deduction",
-      "path": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
     },
     {
       "basename": "Object slicing & polymorphism",
@@ -75,10 +95,6 @@
     {
       "basename": "Useful theorems",
       "path": "CS 245/Week 6/Useful theorems.md"
-    },
-    {
-      "basename": "Logical consequence in FOL",
-      "path": "CS 245/Week 9 - FOL logical consequence/Logical consequence in FOL.md"
     },
     {
       "basename": "Semantics",
@@ -183,22 +199,6 @@
     {
       "basename": "Q2",
       "path": "CS 245/Assignments/A03/Q2.md"
-    },
-    {
-      "basename": "Q1",
-      "path": "CS 245/Assignments/A03/Q1.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "CS 245/Assignments/A03/Q3.md"
-    },
-    {
-      "basename": "Midterm",
-      "path": "CS 245/Midterm/Midterm.md"
-    },
-    {
-      "basename": "equation",
-      "path": "Templates/equation.md"
     }
   ],
   "omittedPaths": [],
