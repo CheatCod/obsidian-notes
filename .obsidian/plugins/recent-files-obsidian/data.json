@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Concept Map",
+      "path": "PSYCH 101/Concept Map.md"
+    },
+    {
+      "basename": "Untitled mindmap",
+      "path": "PSYCH 101/Untitled mindmap.md"
+    },
+    {
       "basename": "Normal Distribution",
       "path": "Stat 230/Week 9/Normal Distribution.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Q2",
       "path": "CS 245/Midterm/Q2.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "CS 245/Midterm/Q3.md"
-    },
-    {
-      "basename": "Q4",
-      "path": "CS 245/Midterm/Q4.md"
     }
   ],
   "omittedPaths": [],

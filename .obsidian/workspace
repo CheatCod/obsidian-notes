@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "959f848f8b90b450",
+        "id": "b656285ae3bff9fe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stat 230/Week 9/Normal Distribution.md",
+            "file": "PSYCH 101/Concept Map.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "9fcbc455dbfcd89a"
+      },
+      {
+        "id": "64de01dc10af5b5b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PSYCH 101/Concept Map.md",
+            "mode": "preview"
+          }
+        },
+        "group": "9fcbc455dbfcd89a"
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stat 230/Week 9/Normal Distribution.md",
+                "file": "PSYCH 101/Concept Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stat 230/Week 9/Normal Distribution.md"
+                "file": "PSYCH 101/Concept Map.md"
               }
             }
           },
@@ -115,31 +128,16 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "31f0d16e034e83c6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a8943ff5cf8197ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 245/Week 7/Resolution Strategies.md",
-                "mode": "source"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "959f848f8b90b450",
+  "active": "b656285ae3bff9fe",
   "lastOpenFiles": [
+    "PSYCH 101/Concept Map.md",
+    "PSYCH 101/Untitled mindmap.md",
     "Stat 230/Week 9/Normal Distribution.md",
     "Stat 230/Week 6/Variance and Standard Deviation.md",
     "Stat 230/Week 6/Expect value of a Function.md",
@@ -147,8 +145,6 @@
     "Stat 230/Week 5/Bernouli trials.md",
     "Stat 230/Week 5/Week 5.md",
     "Stat 230/Week 6/Expected Value of p.f.s.md",
-    "Stat 230/Week 9/Computer Generation of R.Vs..md",
-    "Stat 230/Week 8/Exponential Distribution.md",
-    "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
+    "Stat 230/Week 9/Computer Generation of R.Vs..md"
   ]
 }
