@@ -12,20 +12,7 @@
             "file": "PSYCH 101/Concept Map.md",
             "mode": "source"
           }
-        },
-        "group": "9fcbc455dbfcd89a"
-      },
-      {
-        "id": "64de01dc10af5b5b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PSYCH 101/Concept Map.md",
-            "mode": "preview"
-          }
-        },
-        "group": "9fcbc455dbfcd89a"
+        }
       }
     ],
     "direction": "vertical"
