@@ -1,7 +1,7 @@
-![[Untitled-2021-10-20-1835 2.png]]
+![[Untitled-2021-10-20-1835 3.png]]
 
 
 
 <div style="page-break-after: always;"></div>
 
-The concept map is made with top-down processing in mind, where it begins the most general concept, which in this case is consciousness. It's then broken down into more specific subtopics as you traverse down the graph. Every topic that are logically connected are labeled with an edge with an arrow indicating the relationship between the topics. The topics are all related to consciousness and personality, which span two unit and are topics I'm particularly interested in 
+The concept map is made with top-down processing in mind, where it begins with the most general concept, which in this case is consciousness, and is then broken down into more specific subtopics as you traverse down the graph. The map is primarily focused on the connections between different concepts from different units, and thus did not place  much emphasis on the authors of the concepts. As you traverse horizontally through the graph, the topics get broader in breadth. The map has 2 main sections, the left section is consisted of content from Unit 5, and follows a stricter hierarchy that places each concept as a parent/child relationship with others. The right section consists of personality concepts from Unit 9, and follows a more relational approach where concepts are grouped based on their relevancy. Each concept group is uniquely colored for organization, and similar concept groups, such as Freudian's theories on dreams and personality, are placed closer to each other. Every topic that is logically connected is labeled with an edge with an arrow and a comment indicating the relationship between them. 
