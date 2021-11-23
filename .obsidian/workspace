@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b656285ae3bff9fe",
+        "id": "2753040da91dd4e5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 245/Week 10 - FOL Resolution/existential-free PNF.md",
-            "mode": "source"
+            "file": "CS 245/Week 10 - Turing Machine/Turing Machine.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 245/Week 10 - FOL Resolution/existential-free PNF.md",
+                "file": "CS 245/Week 10 - Turing Machine/Turing Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 245/Week 10 - FOL Resolution/existential-free PNF.md"
+                "file": "CS 245/Week 10 - Turing Machine/Turing Machine.md"
               }
             }
           },
@@ -121,8 +121,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b656285ae3bff9fe",
+  "active": "2753040da91dd4e5",
   "lastOpenFiles": [
+    "CS 245/Week 10 - Turing Machine/Turing Machine.md",
+    "CS 245/Week 10 - Turing Machine/Undecidability.md",
     "CS 245/Week 10 - FOL Resolution/existential-free PNF.md",
     "CS 245/Week 10 - FOL Resolution/Prenex Normal Form.md",
     "CS 245/Assignments/A03.md",
@@ -130,8 +132,6 @@
     "PSYCH 101/Concept Map.md",
     "Rand/Untitled.md",
     "CS 246/Week 5 - OOP/Week 5 - OOP.md",
-    "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md",
-    "PSYCH 101/Dream.md",
-    "PSYCH 101/Consciousness.md"
+    "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
   ]
 }

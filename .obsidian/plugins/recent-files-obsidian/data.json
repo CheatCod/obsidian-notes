@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Turing Machine",
+      "path": "CS 245/Week 10 - Turing Machine/Turing Machine.md"
+    },
+    {
+      "basename": "Undecidability",
+      "path": "CS 245/Week 10 - Turing Machine/Undecidability.md"
+    },
+    {
       "basename": "existential-free PNF",
       "path": "CS 245/Week 10 - FOL Resolution/existential-free PNF.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Adders",
       "path": "CS 245/Week 5/Adders.md"
-    },
-    {
-      "basename": "The system of formal deduction",
-      "path": "CS 245/Week 6/The system of formal deduction.md"
-    },
-    {
-      "basename": "Week 6",
-      "path": "CS 245/Week 6/Week 6.md"
     }
   ],
   "omittedPaths": [],
