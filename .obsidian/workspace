@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PSYCH 101/Concept Map.md",
+            "file": "CS 245/Week 10 - FOL Resolution/existential-free PNF.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "density",
+                "query": "dash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 101/Concept Map.md",
+                "file": "CS 245/Week 10 - FOL Resolution/existential-free PNF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 101/Concept Map.md"
+                "file": "CS 245/Week 10 - FOL Resolution/existential-free PNF.md"
               }
             }
           },
@@ -123,15 +123,15 @@
   },
   "active": "b656285ae3bff9fe",
   "lastOpenFiles": [
+    "CS 245/Week 10 - FOL Resolution/existential-free PNF.md",
+    "CS 245/Week 10 - FOL Resolution/Prenex Normal Form.md",
+    "CS 245/Assignments/A03.md",
+    "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
     "PSYCH 101/Concept Map.md",
     "Rand/Untitled.md",
     "CS 246/Week 5 - OOP/Week 5 - OOP.md",
     "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md",
     "PSYCH 101/Dream.md",
-    "PSYCH 101/Consciousness.md",
-    "PSYCH 101/Untitled mindmap.md",
-    "Stat 230/Week 9/Normal Distribution.md",
-    "Stat 230/Week 6/Variance and Standard Deviation.md",
-    "Stat 230/Week 6/Expect value of a Function.md"
+    "PSYCH 101/Consciousness.md"
   ]
 }

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "existential-free PNF",
+      "path": "CS 245/Week 10 - FOL Resolution/existential-free PNF.md"
+    },
+    {
+      "basename": "Prenex Normal Form",
+      "path": "CS 245/Week 10 - FOL Resolution/Prenex Normal Form.md"
+    },
+    {
+      "basename": "A03",
+      "path": "CS 245/Assignments/A03.md"
+    },
+    {
+      "basename": "FOL Formal Deduction",
+      "path": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
+    },
+    {
       "basename": "Concept Map",
       "path": "PSYCH 101/Concept Map.md"
     },
@@ -65,10 +81,6 @@
       "path": "Stat 230/Week 8/Exponential Distribution.md"
     },
     {
-      "basename": "FOL Formal Deduction",
-      "path": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
-    },
-    {
       "basename": "Logical consequence in FOL",
       "path": "CS 245/Week 9 - FOL logical consequence/Logical consequence in FOL.md"
     },
@@ -87,10 +99,6 @@
     {
       "basename": "Q6",
       "path": "CS 245/Assignments/A04/Q6.md"
-    },
-    {
-      "basename": "A03",
-      "path": "CS 245/Assignments/A03.md"
     },
     {
       "basename": "Q3",
@@ -191,14 +199,6 @@
     {
       "basename": "Week 6",
       "path": "CS 245/Week 6/Week 6.md"
-    },
-    {
-      "basename": "Q5",
-      "path": "CS 245/Assignments/A03/Q5.md"
-    },
-    {
-      "basename": "Q4",
-      "path": "CS 245/Assignments/A03/Q4.md"
     }
   ],
   "omittedPaths": [],
