@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 245/Week 10 - Turing Machine/Turing Machine.md",
+            "file": "CS 245/Assignments/A5/Q2.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "6bbfeb0e61f3d92c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
             "mode": "preview"
           }
         }
@@ -76,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 245/Week 10 - Turing Machine/Turing Machine.md",
+                "file": "CS 245/Assignments/A5/Q2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 245/Week 10 - Turing Machine/Turing Machine.md"
+                "file": "CS 245/Assignments/A5/Q2.md"
               }
             }
           },
@@ -123,15 +134,15 @@
   },
   "active": "2753040da91dd4e5",
   "lastOpenFiles": [
-    "CS 245/Week 10 - Turing Machine/Turing Machine.md",
-    "CS 245/Week 10 - Turing Machine/Undecidability.md",
-    "CS 245/Week 10 - FOL Resolution/existential-free PNF.md",
-    "CS 245/Week 10 - FOL Resolution/Prenex Normal Form.md",
-    "CS 245/Assignments/A03.md",
+    "CS 245/Assignments/A5/Q2.md",
+    "CS 245/Assignments/A5/Q1.md",
     "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
-    "PSYCH 101/Concept Map.md",
-    "Rand/Untitled.md",
-    "CS 246/Week 5 - OOP/Week 5 - OOP.md",
-    "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
+    "CS 245/Assignments/A04/Q1.md",
+    "CS 245/Assignments/A04/Q5.md",
+    "CS 245/Assignments/A04/Q3.md",
+    "CS 245/Assignments/A04/Q2.md",
+    "CS 245/Assignments/A04/Q6.md",
+    "CS 246/Assignment/Final/UML.md",
+    "CS 246/Week 7 - polymorphism/UML.md"
   ]
 }
