@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Multinomial Distribution",
+      "path": "Stat 230/Week 10 - multivariable/Multinomial Distribution.md"
+    },
+    {
+      "basename": "Variance of Standard Distribution",
+      "path": "Stat 230/Week 7/Variance of Standard Distribution.md"
+    },
+    {
+      "basename": "Bernouli trials",
+      "path": "Stat 230/Week 5/Bernouli trials.md"
+    },
+    {
+      "basename": "Variance and Standard Deviation",
+      "path": "Stat 230/Week 6/Variance and Standard Deviation.md"
+    },
+    {
+      "basename": "Expected Value of p.f.s",
+      "path": "Stat 230/Week 6/Expected Value of p.f.s.md"
+    },
+    {
+      "basename": "Expect value of a Function",
+      "path": "Stat 230/Week 6/Expect value of a Function.md"
+    },
+    {
+      "basename": "Continuous Distributions",
+      "path": "Stat 230/Week 7/Continuous Distributions.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "Stat 230/Assignments/A2/Q2.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "Stat 230/Assignments/A2/Q1.md"
+    },
+    {
+      "basename": "A2",
+      "path": "Stat 230/Assignments/A2.md"
+    },
+    {
       "basename": "Joint Probability Functions",
       "path": "Stat 230/Week 10 - multivariable/Joint Probability Functions.md"
     },
     {
+      "basename": "Hypergeometric distribution",
+      "path": "Stat 230/Hypergeometric distribution.md"
+    },
+    {
       "basename": "A5Q5",
       "path": "CS 245/Assignments/A5/A5Q5.md"
+    },
+    {
+      "basename": "Q6",
+      "path": "CS 245/Assignments/A04/Q6.md"
+    },
+    {
+      "basename": "Turing Machine",
+      "path": "CS 245/Week 10 - Turing Machine/Turing Machine.md"
+    },
+    {
+      "basename": "Undecidability",
+      "path": "CS 245/Week 10 - Turing Machine/Undecidability.md"
     },
     {
       "basename": "A5Q4",
@@ -27,10 +83,6 @@
     {
       "basename": "Midterm",
       "path": "CS 245/Midterm/Midterm.md"
-    },
-    {
-      "basename": "Turing Machine",
-      "path": "CS 245/Week 10 - Turing Machine/Turing Machine.md"
     },
     {
       "basename": "Week 5",
@@ -65,10 +117,6 @@
       "path": "CS 245/Assignments/A04/Q2.md"
     },
     {
-      "basename": "Q6",
-      "path": "CS 245/Assignments/A04/Q6.md"
-    },
-    {
       "basename": "UML",
       "path": "CS 246/Assignment/Final/UML.md"
     },
@@ -79,10 +127,6 @@
     {
       "basename": "A4",
       "path": "CS 246/Assignment/A4.md"
-    },
-    {
-      "basename": "Undecidability",
-      "path": "CS 245/Week 10 - Turing Machine/Undecidability.md"
     },
     {
       "basename": "existential-free PNF",
@@ -125,24 +169,8 @@
       "path": "Stat 230/Week 9/Normal Distribution.md"
     },
     {
-      "basename": "Variance and Standard Deviation",
-      "path": "Stat 230/Week 6/Variance and Standard Deviation.md"
-    },
-    {
-      "basename": "Expect value of a Function",
-      "path": "Stat 230/Week 6/Expect value of a Function.md"
-    },
-    {
       "basename": "Expected Value",
       "path": "Stat 230/Week 6/Expected Value.md"
-    },
-    {
-      "basename": "Bernouli trials",
-      "path": "Stat 230/Week 5/Bernouli trials.md"
-    },
-    {
-      "basename": "Expected Value of p.f.s",
-      "path": "Stat 230/Week 6/Expected Value of p.f.s.md"
     },
     {
       "basename": "Computer Generation of R.Vs.",
@@ -171,34 +199,6 @@
     {
       "basename": "Move & Copy with Inheritance",
       "path": "CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
-    },
-    {
-      "basename": "Smart Pointers",
-      "path": "CS 246/Week 10 - Advanced C++/Smart Pointers.md"
-    },
-    {
-      "basename": "Exception Safety",
-      "path": "CS 246/Week 10 - Advanced C++/Exception Safety.md"
-    },
-    {
-      "basename": "Pimpl Idiom",
-      "path": "CS 246/Week 10 - Advanced C++/Pimpl Idiom.md"
-    },
-    {
-      "basename": "RAII",
-      "path": "CS 246/Week 10 - Advanced C++/RAII.md"
-    },
-    {
-      "basename": "Week 5",
-      "path": "CS 245/Week 5/Week 5.md"
-    },
-    {
-      "basename": "Notes Outline",
-      "path": "Rand/Notes Outline.md"
-    },
-    {
-      "basename": "Useful theorems",
-      "path": "CS 245/Week 6/Useful theorems.md"
     }
   ],
   "omittedPaths": [],
