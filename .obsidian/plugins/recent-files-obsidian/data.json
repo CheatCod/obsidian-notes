@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Copy Assignment Operator",
+      "path": "CS 246/Week 5 - OOP/Copy Assignment Operator.md"
+    },
+    {
+      "basename": "Move Semantics",
+      "path": "CS 246/Week 5 - OOP/Move Semantics.md"
+    },
+    {
+      "basename": "Copy&Move Elission",
+      "path": "CS 246/Week 5 - OOP/Copy&Move Elission.md"
+    },
+    {
+      "basename": "Destructor",
+      "path": "CS 246/Week 5 - OOP/Destructor.md"
+    },
+    {
+      "basename": "Copy Constructor",
+      "path": "CS 246/Week 5 - OOP/Copy Constructor.md"
+    },
+    {
+      "basename": "Single Argument Constructor",
+      "path": "CS 246/Week 5 - OOP/Single Argument Constructor.md"
+    },
+    {
+      "basename": "Week 5 - OOP",
+      "path": "CS 246/Week 5 - OOP/Week 5 - OOP.md"
+    },
+    {
       "basename": "A5Q4",
       "path": "CS 245/Assignments/A5/A5Q4.md"
     },
@@ -161,10 +189,6 @@
       "path": "Rand/Untitled.md"
     },
     {
-      "basename": "Week 5 - OOP",
-      "path": "CS 246/Week 5 - OOP/Week 5 - OOP.md"
-    },
-    {
       "basename": "Week 4 - preprocessing",
       "path": "CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Consciousness",
       "path": "PSYCH 101/Consciousness.md"
-    },
-    {
-      "basename": "Untitled mindmap",
-      "path": "PSYCH 101/Untitled mindmap.md"
-    },
-    {
-      "basename": "Normal Distribution",
-      "path": "Stat 230/Week 9/Normal Distribution.md"
-    },
-    {
-      "basename": "Computer Generation of R.Vs.",
-      "path": "Stat 230/Week 9/Computer Generation of R.Vs..md"
-    },
-    {
-      "basename": "Exponential Distribution",
-      "path": "Stat 230/Week 8/Exponential Distribution.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "CS 246/Week 5 - OOP/Classes.md"
-    },
-    {
-      "basename": "Q1",
-      "path": "CS 245/Assignments/A03/Q1.md"
     }
   ],
   "omittedPaths": [],
