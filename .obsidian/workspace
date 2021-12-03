@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 245/Assignments/A5/A5Q5.md",
+            "file": "Stat 230/Week 6/Variance and Standard Deviation.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 245/Assignments/A5/A5Q5.md",
+                "file": "Stat 230/Week 6/Variance and Standard Deviation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 245/Assignments/A5/A5Q5.md"
+                "file": "Stat 230/Week 6/Variance and Standard Deviation.md"
               }
             }
           },
@@ -123,6 +123,8 @@
   },
   "active": "00fcc86acfb24126",
   "lastOpenFiles": [
+    "Stat 230/Week 6/Variance and Standard Deviation.md",
+    "Stat 230/Week 7/Variance of Standard Distribution.md",
     "CS 245/Assignments/A5/A5Q5.md",
     "CS 245/Assignments/A5/A5Q4.md",
     "CS 245/Assignments/A5/A5Q3.md",
@@ -130,8 +132,6 @@
     "CS 245/Assignments/A5/A5Q1.md",
     "CS 245/Assignments/A03/Q2.md",
     "CS 245/Assignments/A03/Q3.md",
-    "CS 245/Assignments/A03/Q1.md",
-    "CS 245/Assignments/A04/Q1.md",
-    "CS 245/Assignments/A04/Q2.md"
+    "CS 245/Assignments/A03/Q1.md"
   ]
 }
