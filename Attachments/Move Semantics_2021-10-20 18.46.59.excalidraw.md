@@ -298,7 +298,7 @@ Only this node is destoryed ^ZoJIHh5J
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 16,
-			"height": 37,
+			"height": 36,
 			"seed": 831587611,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -330,7 +330,7 @@ Only this node is destoryed ^ZoJIHh5J
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 16,
-			"height": 37,
+			"height": 36,
 			"seed": 801222165,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -362,7 +362,7 @@ Only this node is destoryed ^ZoJIHh5J
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 16,
-			"height": 37,
+			"height": 36,
 			"seed": 1762109883,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -392,7 +392,7 @@ Only this node is destoryed ^ZoJIHh5J
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "transparent",
 			"width": 337,
-			"height": 37,
+			"height": 36,
 			"seed": 1273832309,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -597,7 +597,7 @@ Only this node is destoryed ^ZoJIHh5J
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 33,
-			"height": 37,
+			"height": 36,
 			"seed": 1242790805,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -627,7 +627,7 @@ Only this node is destoryed ^ZoJIHh5J
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 16,
-			"height": 37,
+			"height": 36,
 			"seed": 799241275,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -763,8 +763,8 @@ Only this node is destoryed ^ZoJIHh5J
 			"y": -444.9999898274739,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "#fab005",
-			"width": 376,
-			"height": 74,
+			"width": 377,
+			"height": 72,
 			"seed": 206562139,
 			"groupIds": [],
 			"strokeSharpness": "sharp",
@@ -773,7 +773,7 @@ Only this node is destoryed ^ZoJIHh5J
 			"fontFamily": 1,
 			"text": "Destructor runs, \nOnly this node is destoryed",
 			"rawText": "Destructor runs, \nOnly this node is destoryed",
-			"baseline": 62,
+			"baseline": 61,
 			"textAlign": "left",
 			"verticalAlign": "top"
 		}
@@ -796,7 +796,8 @@ Only this node is destoryed ^ZoJIHh5J
 		"currentItemEndArrowhead": "arrow",
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null
-	}
+	},
+	"files": {}
 }
 ```
 %%

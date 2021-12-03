@@ -63,9 +63,11 @@
   },
   "syntaxHighlight": true,
   "copyButton": false,
-  "version": "6.4.1",
+  "version": "6.7.1",
   "autoCollapse": true,
   "defaultCollapseType": "open",
   "syncLinks": true,
-  "enableMarkdownProcessor": false
+  "enableMarkdownProcessor": false,
+  "injectColor": true,
+  "parseTitles": true
 }

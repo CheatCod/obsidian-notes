@@ -778,7 +778,8 @@ Set next to nullptr ^jdKMGgyr
 		"currentItemEndArrowhead": "arrow",
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null
-	}
+	},
+	"files": {}
 }
 ```
 %%

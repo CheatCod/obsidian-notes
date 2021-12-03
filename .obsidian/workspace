@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stat 230/Week 6/Variance and Standard Deviation.md",
+            "file": "Stat 230/Assignments/A3/Q1.md",
+            "mode": "source"
+          }
+        },
+        "group": "87bc824313cbb3a5"
+      },
+      {
+        "id": "c79eaec9bbc296e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Stat 230/Assignments/A3/Q1.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "87bc824313cbb3a5"
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stat 230/Week 6/Variance and Standard Deviation.md",
+                "file": "Stat 230/Assignments/A3/Q1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stat 230/Week 6/Variance and Standard Deviation.md"
+                "file": "Stat 230/Assignments/A3/Q1.md"
               }
             }
           },
@@ -121,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "00fcc86acfb24126",
+  "active": "c79eaec9bbc296e2",
   "lastOpenFiles": [
+    "Stat 230/Assignments/A3/Q1.md",
+    "Stat 230/Week 7/Continuous Distributions.md",
+    "Stat 230/Week 8/Distributions of Transformed R.V..md",
     "Stat 230/Week 6/Variance and Standard Deviation.md",
     "Stat 230/Week 7/Variance of Standard Distribution.md",
     "CS 245/Assignments/A5/A5Q5.md",
     "CS 245/Assignments/A5/A5Q4.md",
     "CS 245/Assignments/A5/A5Q3.md",
     "CS 245/Assignments/A5/A5Q2.md",
-    "CS 245/Assignments/A5/A5Q1.md",
-    "CS 245/Assignments/A03/Q2.md",
-    "CS 245/Assignments/A03/Q3.md",
-    "CS 245/Assignments/A03/Q1.md"
+    "CS 245/Assignments/A5/A5Q1.md"
   ]
 }

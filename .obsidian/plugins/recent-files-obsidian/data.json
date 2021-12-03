@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Q1",
+      "path": "Stat 230/Assignments/A3/Q1.md"
+    },
+    {
+      "basename": "Continuous Distributions",
+      "path": "Stat 230/Week 7/Continuous Distributions.md"
+    },
+    {
+      "basename": "Distributions of Transformed R.V.",
+      "path": "Stat 230/Week 8/Distributions of Transformed R.V..md"
+    },
+    {
       "basename": "Variance and Standard Deviation",
       "path": "Stat 230/Week 6/Variance and Standard Deviation.md"
     },
@@ -149,10 +161,6 @@
       "path": "Stat 230/Week 6/Expected Value.md"
     },
     {
-      "basename": "Continuous Distributions",
-      "path": "Stat 230/Week 7/Continuous Distributions.md"
-    },
-    {
       "basename": "Q2",
       "path": "Stat 230/Assignments/A2/Q2.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "A4",
       "path": "CS 246/Assignment/A4.md"
-    },
-    {
-      "basename": "Concept Map",
-      "path": "PSYCH 101/Concept Map.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Rand/Untitled.md"
     }
   ],
   "omittedPaths": [],

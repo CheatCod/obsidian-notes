@@ -710,7 +710,8 @@ x ^QxNBlTO5
 		"currentItemEndArrowhead": "arrow",
 		"currentItemLinearStrokeSharpness": "round",
 		"gridSize": null
-	}
+	},
+	"files": {}
 }
 ```
 %%
