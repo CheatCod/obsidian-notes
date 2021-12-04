@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Q1",
+      "path": "Stat 230/Assignments/A3/Q1.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "Stat 230/Assignments/A2/Q1.md"
+    },
+    {
       "basename": "Q2",
       "path": "Stat 230/Assignments/A3/Q2.md"
     },
     {
-      "basename": "Week 5",
-      "path": "Stat 230/Week 5/Week 5.md"
+      "basename": "Q3",
+      "path": "Stat 230/Assignments/A2/Q3.md"
     },
     {
-      "basename": "Q1",
-      "path": "Stat 230/Assignments/A3/Q1.md"
+      "basename": "Week 5",
+      "path": "Stat 230/Week 5/Week 5.md"
     },
     {
       "basename": "Joint Probability Functions",
@@ -173,10 +181,6 @@
       "path": "Stat 230/Assignments/A2/Q2.md"
     },
     {
-      "basename": "Q1",
-      "path": "Stat 230/Assignments/A2/Q1.md"
-    },
-    {
       "basename": "A2",
       "path": "Stat 230/Assignments/A2.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "UML",
       "path": "CS 246/Assignment/Final/UML.md"
-    },
-    {
-      "basename": "UML",
-      "path": "CS 246/Week 7 - polymorphism/UML.md"
     }
   ],
   "omittedPaths": [],
