@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Variance of Standard Distribution",
+      "path": "Stat 230/Week 7/Variance of Standard Distribution.md"
+    },
+    {
+      "basename": "Expected Value of p.f.s",
+      "path": "Stat 230/Week 6/Expected Value of p.f.s.md"
+    },
+    {
       "basename": "Central Limit Theorem",
       "path": "Stat 230/Week 12/Central Limit Theorem.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "Variance and Standard Deviation",
       "path": "Stat 230/Week 6/Variance and Standard Deviation.md"
-    },
-    {
-      "basename": "Variance of Standard Distribution",
-      "path": "Stat 230/Week 7/Variance of Standard Distribution.md"
     },
     {
       "basename": "A5Q5",
@@ -171,10 +175,6 @@
     {
       "basename": "First Order Logic",
       "path": "CS 245/Week 8 - first order logic/First Order Logic.md"
-    },
-    {
-      "basename": "Expected Value of p.f.s",
-      "path": "Stat 230/Week 6/Expected Value of p.f.s.md"
     },
     {
       "basename": "Expect value of a Function",
