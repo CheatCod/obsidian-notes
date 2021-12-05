@@ -4,39 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a4e7715e747e7a22",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Stat 230/Assignments/A3/Q1.md",
-            "mode": "source"
-          }
-        },
-        "group": "e0d978d5b21c59bc"
-      },
-      {
         "id": "b9b78239e10fefb4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stat 230/Assignments/A3/Q1.md",
-            "mode": "preview"
+            "file": "Stat 230/Week 12/Central Limit Theorem.md",
+            "mode": "source"
           }
         },
-        "group": "e0d978d5b21c59bc"
+        "group": "55ffbb8244c1f6bd"
       },
       {
-        "id": "0b7b8f11edba4818",
+        "id": "35064bf789679bbc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stat 230/Week 10 - multivariable/Joint Probability Functions.md",
+            "file": "Stat 230/Week 12/Central Limit Theorem.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "55ffbb8244c1f6bd"
       }
     ],
     "direction": "vertical"
@@ -100,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stat 230/Assignments/A3/Q1.md",
+                "file": "Stat 230/Week 12/Central Limit Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stat 230/Assignments/A3/Q1.md"
+                "file": "Stat 230/Week 12/Central Limit Theorem.md"
               }
             }
           },
@@ -145,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4e7715e747e7a22",
+  "active": "b9b78239e10fefb4",
   "lastOpenFiles": [
+    "Stat 230/Week 12/Central Limit Theorem.md",
+    "Stat 230/Week 10 - multivariable/Joint Probability Functions.md",
+    "Stat 230/Resources/Formulas.md",
+    "Stat 230/Assignments/A3/Q2.md",
     "Stat 230/Assignments/A3/Q1.md",
     "Stat 230/Assignments/A2/Q1.md",
-    "Stat 230/Assignments/A3/Q2.md",
     "Stat 230/Assignments/A2/Q3.md",
     "Stat 230/Week 5/Week 5.md",
-    "Stat 230/Week 10 - multivariable/Joint Probability Functions.md",
     "Stat 230/Week 10 - multivariable/Multinomial Distribution.md",
-    "Stat 230/Week 8/Distributions of Transformed R.V..md",
-    "Stat 230/Week 7/Continuous Distributions.md",
-    "Stat 230/Week 6/Variance and Standard Deviation.md"
+    "Stat 230/Week 8/Distributions of Transformed R.V..md"
   ]
 }
