@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Q1",
+      "path": "CS 245/Assignments/A6/Q1.md"
+    },
+    {
+      "basename": "A5Q5",
+      "path": "CS 245/Assignments/A5/A5Q5.md"
+    },
+    {
+      "basename": "A5Q4",
+      "path": "CS 245/Assignments/A5/A5Q4.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "Stat 230/Assignments/A3/Q2.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "Stat 230/Assignments/A3/Q1.md"
+    },
+    {
+      "basename": "Q3",
+      "path": "Stat 230/Assignments/A2/Q3.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "Stat 230/Assignments/A2/Q2.md"
+    },
+    {
+      "basename": "A2",
+      "path": "Stat 230/Assignments/A2.md"
+    },
+    {
       "basename": "Variance of Standard Distribution",
       "path": "Stat 230/Week 7/Variance of Standard Distribution.md"
     },
@@ -21,20 +53,8 @@
       "path": "Stat 230/Resources/Formulas.md"
     },
     {
-      "basename": "Q2",
-      "path": "Stat 230/Assignments/A3/Q2.md"
-    },
-    {
-      "basename": "Q1",
-      "path": "Stat 230/Assignments/A3/Q1.md"
-    },
-    {
       "basename": "Q1",
       "path": "Stat 230/Assignments/A2/Q1.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "Stat 230/Assignments/A2/Q3.md"
     },
     {
       "basename": "Week 5",
@@ -55,14 +75,6 @@
     {
       "basename": "Variance and Standard Deviation",
       "path": "Stat 230/Week 6/Variance and Standard Deviation.md"
-    },
-    {
-      "basename": "A5Q5",
-      "path": "CS 245/Assignments/A5/A5Q5.md"
-    },
-    {
-      "basename": "A5Q4",
-      "path": "CS 245/Assignments/A5/A5Q4.md"
     },
     {
       "basename": "A5Q3",
@@ -185,20 +197,8 @@
       "path": "Stat 230/Week 6/Expected Value.md"
     },
     {
-      "basename": "Q2",
-      "path": "Stat 230/Assignments/A2/Q2.md"
-    },
-    {
-      "basename": "A2",
-      "path": "Stat 230/Assignments/A2.md"
-    },
-    {
       "basename": "Hypergeometric distribution",
       "path": "Stat 230/Hypergeometric distribution.md"
-    },
-    {
-      "basename": "Midterm",
-      "path": "CS 245/Midterm/Midterm.md"
     }
   ],
   "omittedPaths": [],
