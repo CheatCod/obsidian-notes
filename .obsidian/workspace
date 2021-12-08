@@ -9,13 +9,26 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 245/Assignments/A6/Q1.md",
-            "mode": "preview"
+            "file": "CS 245/Assignments/A6/Q4.md",
+            "mode": "source"
           }
-        }
+        },
+        "group": "4a13de59e931120d"
       },
       {
-        "id": "e459d0836695de31",
+        "id": "57e89c11d09101ca",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CS 245/Assignments/A6/Q4.md",
+            "mode": "preview"
+          }
+        },
+        "group": "4a13de59e931120d"
+      },
+      {
+        "id": "4f07dac1a69caeb6",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 245/Assignments/A6/Q1.md",
+                "file": "CS 245/Assignments/A6/Q4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 245/Assignments/A6/Q1.md"
+                "file": "CS 245/Assignments/A6/Q4.md"
               }
             }
           },
@@ -134,15 +147,15 @@
   },
   "active": "35064bf789679bbc",
   "lastOpenFiles": [
+    "CS 245/Assignments/A6/Q4.md",
+    "CS 245/Assignments/A6/Q5.md",
+    "CS 245/Assignments/A6/Q3.md",
     "CS 245/Assignments/A6/Q1.md",
+    "CS 245/Week 10 - Turing Machine/Turing Machine.md",
+    "CS 245/Week 10 - Turing Machine/Undecidability.md",
     "CS 245/Assignments/A5/A5Q5.md",
     "CS 245/Assignments/A5/A5Q4.md",
     "Stat 230/Assignments/A3/Q2.md",
-    "Stat 230/Assignments/A3/Q1.md",
-    "Stat 230/Assignments/A2/Q3.md",
-    "Stat 230/Assignments/A2/Q2.md",
-    "Stat 230/Assignments/A2.md",
-    "Stat 230/Week 7/Variance of Standard Distribution.md",
-    "Stat 230/Week 6/Expected Value of p.f.s.md"
+    "Stat 230/Assignments/A3/Q1.md"
   ]
 }
