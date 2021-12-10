@@ -5,6 +5,22 @@
       "path": "Stat 230/Week 12/Moment Generating Functions.md"
     },
     {
+      "basename": "Quantifiers",
+      "path": "CS 245/Week 8 - first order logic/Quantifiers.md"
+    },
+    {
+      "basename": "Domain and Relations",
+      "path": "CS 245/Week 8 - first order logic/Domain and Relations.md"
+    },
+    {
+      "basename": "First Order Logic",
+      "path": "CS 245/Week 8 - first order logic/First Order Logic.md"
+    },
+    {
+      "basename": "Week 6",
+      "path": "CS 245/Week 6/Week 6.md"
+    },
+    {
       "basename": "Central Limit Theorem",
       "path": "Stat 230/Week 12/Central Limit Theorem.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Copy Constructor",
       "path": "CS 246/Week 5 - OOP/Copy Constructor.md"
-    },
-    {
-      "basename": "Single Argument Constructor",
-      "path": "CS 246/Week 5 - OOP/Single Argument Constructor.md"
-    },
-    {
-      "basename": "Week 5 - OOP",
-      "path": "CS 246/Week 5 - OOP/Week 5 - OOP.md"
-    },
-    {
-      "basename": "Bernouli trials",
-      "path": "Stat 230/Week 5/Bernouli trials.md"
-    },
-    {
-      "basename": "Prenex Normal Form",
-      "path": "CS 245/Week 10 - FOL Resolution/Prenex Normal Form.md"
     }
   ],
   "omittedPaths": [],

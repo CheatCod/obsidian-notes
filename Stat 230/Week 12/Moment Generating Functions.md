@@ -13,7 +13,7 @@ The moment generating function of the random variable $X$ is the function of $t$
 We assume that this expected finite in some interval $t \in [-a, a]$
 
 ```ad-thm
-Suppose the moment generating function of the random variable $X$ is $M(t)=E(e^{Xt}).
+Suppose the moment generating function of the random variable $X$ is $M(t)=E(e^{Xt})$.
 
 Then
 
