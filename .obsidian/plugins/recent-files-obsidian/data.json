@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Q5",
-      "path": "CS 245/Assignments/A6/Q5.md"
+      "basename": "Object slicing & polymorphism",
+      "path": "CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
     },
     {
       "basename": "Q2",
       "path": "CS 245/Assignments/A6/Q2.md"
+    },
+    {
+      "basename": "Q5",
+      "path": "CS 245/Assignments/A6/Q5.md"
     },
     {
       "basename": "A5Q5",
@@ -195,10 +199,6 @@
     {
       "basename": "Q2",
       "path": "CS 245/Assignments/A04/Q2.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "CS 245/Assignments/A04/Q3.md"
     }
   ],
   "omittedPaths": [],
