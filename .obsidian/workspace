@@ -4,51 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "727ce9c7819245e1",
+        "id": "3a5b9f3aae6bca2e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 245/Assignments/Final/Q2.md",
-            "mode": "source"
-          }
-        },
-        "group": "cdac1ff63af79071"
-      },
-      {
-        "id": "eb853c7d9fc90a88",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CS 245/Assignments/Final/Q2.md",
+            "file": "CS 245/Assignments/Final/Q3.md",
             "mode": "preview"
           }
         },
-        "group": "cdac1ff63af79071"
+        "group": "b8d9df2a1ba82670"
       },
       {
-        "id": "12b0a3589f08d04e",
+        "id": "13927c6699afbe7b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "ea73a930fb807164",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CS 245/Assignments/Final/Q2.md",
+            "file": "CS 245/Assignments/Final/Q3.md",
             "mode": "preview"
           }
         },
-        "group": "cdac1ff63af79071"
+        "group": "b8d9df2a1ba82670"
       }
     ],
     "direction": "vertical"
@@ -112,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 245/Assignments/Final/Q2.md",
+                "file": "CS 245/Assignments/Final/Q3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 245/Assignments/Final/Q2.md"
+                "file": "CS 245/Assignments/Final/Q3.md"
               }
             }
           },
@@ -157,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "727ce9c7819245e1",
+  "active": "3a5b9f3aae6bca2e",
   "lastOpenFiles": [
+    "CS 245/Assignments/Final/Q3.md",
+    "CS 245/Assignments/Final/Q4.md",
+    "CS 245/Assignments/Final/Q7.md",
+    "CS 245/Assignments/Final/Q6.md",
+    "CS 245/Assignments/Final/Q5.md",
     "CS 245/Assignments/Final/Q2.md",
     "CS 245/Assignments/Final/Q1.md",
-    "CS 245/Assignments/Final/Q3.md",
-    "CS 245/Assignments/A5/A5Q3.md",
-    "CS 245/Assignments/A5/A5Q2.md",
-    "CS 245/Assignments/A5/A5Q1.md",
-    "CS 245/Assignments/A6/Q1.md",
-    "CS 245/Assignments/A6/Q5.md",
-    "CS 245/Assignments/A04/Q5.md",
-    "CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
+    "CS 245/Assignments/A6/Q3.md",
+    "CS 245/Assignments/A03/Q5.md",
+    "CS 245/Assignments/A03/Q1.md"
   ]
 }
