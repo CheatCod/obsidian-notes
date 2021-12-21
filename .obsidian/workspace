@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 245/Assignments/Final/Q3.md",
-            "mode": "preview"
+            "file": "CS 245/Assignments/Final/Q5.md",
+            "mode": "source"
           }
         },
         "group": "b8d9df2a1ba82670"
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 245/Assignments/Final/Q3.md",
+            "file": "CS 245/Assignments/Final/Q5.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 245/Assignments/Final/Q3.md",
+                "file": "CS 245/Assignments/Final/Q5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 245/Assignments/Final/Q3.md"
+                "file": "CS 245/Assignments/Final/Q5.md"
               }
             }
           },
@@ -134,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a5b9f3aae6bca2e",
+  "active": "13927c6699afbe7b",
   "lastOpenFiles": [
+    "CS 245/Assignments/Final/Q5.md",
+    "CS 245/Assignments/A5/A5Q4.md",
+    "CS 245/Assignments/A5/A5Q5.md",
+    "CS 245/Assignments/A6/Q4.md",
+    "CS 245/Assignments/A6/Q2.md",
+    "CS 245/Assignments/A6/Q1.md",
+    "CS 245/Assignments/A6/Q3.md",
     "CS 245/Assignments/Final/Q3.md",
     "CS 245/Assignments/Final/Q4.md",
-    "CS 245/Assignments/Final/Q7.md",
-    "CS 245/Assignments/Final/Q6.md",
-    "CS 245/Assignments/Final/Q5.md",
-    "CS 245/Assignments/Final/Q2.md",
-    "CS 245/Assignments/Final/Q1.md",
-    "CS 245/Assignments/A6/Q3.md",
-    "CS 245/Assignments/A03/Q5.md",
-    "CS 245/Assignments/A03/Q1.md"
+    "CS 245/Assignments/Final/Q6.md"
   ]
 }
