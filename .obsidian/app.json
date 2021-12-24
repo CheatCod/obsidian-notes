@@ -11,5 +11,7 @@
   "attachmentFolderPath": "Attachments",
   "newFileLocation": "current",
   "vimMode": false,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "legacyEditor": false,
+  "livePreview": true
 }
