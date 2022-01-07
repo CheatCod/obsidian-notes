@@ -6,7 +6,7 @@ alias: []
 
 ## Average of a Sample
 
-Consider a sample of $n = 1,000,000$ [[random variables]] $X_i, i = 1,2,...n$ obtained from a distribution with [[probability function]] $f(x)$, for example the Poisson random variables.
+Consider a sample of $n = 1,000,000$ [[Random Variables]] $X_i, i = 1,2,...n$ obtained from a distribution with [[Probability Function]] $f(x)$, for example the Poisson random variables.
 
 In a sample of $n$ values of the random variable $X$, relative frequencies:
 $$

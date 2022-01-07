@@ -4,7 +4,7 @@ alias: [copy assignment operator]
 # Copy Assignment Operators
 ✔️✅📗
 
-Similar to [[Copy constructor]], default only performs shallow copying of data fields. 
+Similar to [[Copy Constructor]], default only performs shallow copying of data fields. 
 
 Overwrite if we want deep copy such as fo ```Node``` object
 ```ad-syx

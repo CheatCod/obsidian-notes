@@ -29,7 +29,7 @@ $F(1.2) = P(X \le 1.2) = \frac{4}{8}$, $F(-1) = 0, F(3.2) = 1$, etc
 2. $0 \le F(x) \le 1$ for all $x\in\mathbb{R}$
 3. $\lim_{x \to -\infty}{F(x)} = 0$ and  $\lim_{x \to \infty}{F(x)} = 1$
 
-## Relation between $F(x)$ and $f(x)$ ([[probability function]])
+## Relation between $F(x)$ and $f(x)$ ([[Probability Function]])
 1. If a [[Random Variables|random variable]], $X$, takes only non-negative integer values, then $F(x)$ is the probability of the values **less than or equal to $x$**
 2. $f(x) = F(x) - F(x - 1)$ is the size of the **jump in** $F$ at the point x
 3. $F(x) = \sum_{z \le x}{f(z)})$

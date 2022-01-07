@@ -42,7 +42,7 @@ int main() {
 ```
 
 We note that `plusOne()` is pass-by-value, and return `n` by value. 
-So, on line `23`, the compiler creates a *temporary*  `Node` object as the return value of `plusOne()`, then the [[copy constructor]] of `n2` runs, copying everything over from the temporary object, then the temporary object is discarded.
+So, on line `23`, the compiler creates a *temporary*  `Node` object as the return value of `plusOne()`, then the [[Copy Constructor]] of `n2` runs, copying everything over from the temporary object, then the temporary object is discarded.
 
 ```nomnoml
 [line 21 executes with 2 calls of ctor] -> [plusOne(n) is called, n is copied to stack frame with 2 calls of ctor]

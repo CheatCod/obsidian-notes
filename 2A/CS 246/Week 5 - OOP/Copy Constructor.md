@@ -3,7 +3,7 @@ alias: [copy constructors]
 ---
 # Copy Constructor
 ❌✔️✅📗
-The copy constructor is a [[constructor]]. 
+The copy constructor is a [[Constructor]]. 
 The copy constructor's parameter is a constant reference to an object of the **same type**
 The default copy constructor just copies each field to the object.
 ```ad-example
