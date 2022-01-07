@@ -1,7 +1,6 @@
 [
   "obsidian-pluck",
   "obsidian-languagetool-plugin",
-  "obsidian-autocomplete-plugin",
   "obsidian-underline",
   "remember-cursor-position",
   "nldates-obsidian",
@@ -25,5 +24,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-truth-table-plugin",
-  "obsidian-enhancing-mindmap"
+  "obsidian-enhancing-mindmap",
+  "obsidian-autocomplete-plugin"
 ]
