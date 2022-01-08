@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Asymptotic Notation",
-      "path": "CS 240/Module 1 Asymptotic Analysis/Asymptotic Notation.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "Untitled",
-      "path": "CS 240/Untitled.md"
+      "basename": "Friend Classes and Functions",
+      "path": "2A/CS 246/Week 6  - design patterns/Friend Classes and Functions.md"
+    },
+    {
+      "basename": "Accessor and Mutator",
+      "path": "2A/CS 246/Week 6  - design patterns/Accessor and Mutator.md"
+    },
+    {
+      "basename": "Invariants and Encapsulation",
+      "path": "2A/CS 246/Week 6  - design patterns/Invariants and Encapsulation.md"
+    },
+    {
+      "basename": "Week 5 - OOP",
+      "path": "2A/CS 246/Week 5 - OOP/Week 5 - OOP.md"
+    },
+    {
+      "basename": "Asymptotic Notation",
+      "path": "CS 240/Module 1 Asymptotic Analysis/Asymptotic Notation.md"
     },
     {
       "basename": "Prenex Normal Form",
@@ -183,22 +199,6 @@
     {
       "basename": "Distributions of Transformed R.V.",
       "path": "2A/Stat 230/Week 8/Distributions of Transformed R.V..md"
-    },
-    {
-      "basename": "Moments and Continuous Uniform Distribution",
-      "path": "2A/Stat 230/Week 8/Moments and Continuous Uniform Distribution.md"
-    },
-    {
-      "basename": "Variance of Standard Distribution",
-      "path": "2A/Stat 230/Week 7/Variance of Standard Distribution.md"
-    },
-    {
-      "basename": "Continuous Distributions",
-      "path": "2A/Stat 230/Week 7/Continuous Distributions.md"
-    },
-    {
-      "basename": "Expect value of a Function",
-      "path": "2A/Stat 230/Week 6/Expect value of a Function.md"
     }
   ],
   "omittedPaths": [],
