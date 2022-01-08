@@ -59,6 +59,19 @@
       },
       "command": false,
       "title": "Observation"
+    },
+    "proof": {
+      "type": "proof",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABPElEQVRIS93VrUptURDA8d/pPoDhBoNJMYhP4AsYLYIgiGAym9QmZhExmATh3mQ3GGx+ckWT4GMYlTm4YLvd5zhLTnKlzWL2/79mZn30jG5MYQNr2MRuoHsj4gf8L6YbvH9YHIWgC148e0WwhVX8SWTUX9lHXMDLaGfQnw/BCZYS4AhpwwMaowjbkqMQvGAiIeiCl5o/dkj6cyF4a8AzPRlU87YksnqqFQxraKyzKXkqPchm8B28KejDawQ/gmcFtfBJPGczqIWP4xTzWcE15oZs4dLUqPkYzvGaFcziNgmPsDMs4CIrWMHxAEFz5SWk7Ma04ADrHYIueIRVC/5jpiW4wXKc0A5xtSB+eMAlrnCPuyE9qRYk7r9PIb9YkH0PsiX7sk1rXrSMZBs7zasivmve5EGSOB/7OGwGvANCemRk5e2FWQAAAABJRU5ErkJggg==",
+        "type": "image"
+      },
+      "command": false,
+      "title": "Proof",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": true,

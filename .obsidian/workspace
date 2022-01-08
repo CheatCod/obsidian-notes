@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Math 239/Module 1 counting, bijections and combinatorial proofs/Counting.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Math 239/Module 1 counting, bijections and combinatorial proofs/Counting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Math 239/Module 1 counting, bijections and combinatorial proofs/Counting.md"
               }
             }
           },
@@ -124,15 +124,15 @@
   },
   "active": "92a6a3d1ac163bb8",
   "lastOpenFiles": [
+    "Math 239/Module 1 counting, bijections and combinatorial proofs/Counting.md",
     "README.md",
+    "Untitled.md",
     "2A/CS 246/Week 6  - design patterns/Friend Classes and Functions.md",
     "2A/CS 246/Week 6  - design patterns/Accessor and Mutator.md",
     "2A/CS 246/Week 6  - design patterns/Invariants and Encapsulation.md",
     "2A/CS 246/Week 5 - OOP/Week 5 - OOP.md",
     "CS 240/Untitled.md",
     "CS 240/Module 1 Asymptotic Analysis/Asymptotic Notation.md",
-    "Rust/Concurrency.md",
-    "2A/CS 245/Week 10 - FOL Resolution/Prenex Normal Form.md",
-    "2A/CS 245/Week 10 - FOL Resolution/existential-free PNF.md"
+    "Rust/Concurrency.md"
   ]
 }
