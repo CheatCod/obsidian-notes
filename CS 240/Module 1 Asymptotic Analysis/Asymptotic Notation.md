@@ -49,5 +49,11 @@ By order notation, we have $2n^2 + 3n + 11 \in O(n^2)$ but also $O(n^{10})$
 
 We would really like a tight asymptotic bound.
 
+```ad-def
+$\Omega$-notation: $f(n) \in \Omega(g(n))$ if there exist constants $c>0$ and $n_0>0$ such that $c|g(n) \le f(n)|$ for all $n \ge n_0$. In other words, $f(n)$ grows no slower than $g(n)$, or $g(n)$ is a lower bound of the growth rate.
+
+$\Theta$-notation: $f(n) \in \Theta(g(n))$ if there exist constants $c_1,c_2>0$ and $n_0>0$ such that $c_1|g(n)| \le |f(n)| \le c_2|g(n)|$ for all $n \ge n_0$. In other words,  $f(n)$ grows at the same rate as $g(n)$, or the upper bound and lower bound are the same.
+```
+
 
 Relate: [[]]
