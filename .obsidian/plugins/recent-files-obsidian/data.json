@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "UML",
+      "path": "2A/CS 246/Week 7 - polymorphism/UML.md"
+    },
+    {
+      "basename": "Week 5 - OOP",
+      "path": "2A/CS 246/Week 5 - OOP/Week 5 - OOP.md"
+    },
+    {
       "basename": "Asymptotic Notation",
       "path": "CS 240/Module 1 Asymptotic Analysis/Asymptotic Notation.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "Invariants and Encapsulation",
       "path": "2A/CS 246/Week 6  - design patterns/Invariants and Encapsulation.md"
-    },
-    {
-      "basename": "Week 5 - OOP",
-      "path": "2A/CS 246/Week 5 - OOP/Week 5 - OOP.md"
     },
     {
       "basename": "Prenex Normal Form",
@@ -195,10 +199,6 @@
     {
       "basename": "Exponential Distribution",
       "path": "2A/Stat 230/Week 8/Exponential Distribution.md"
-    },
-    {
-      "basename": "Negative Binomial Distribution",
-      "path": "2A/Stat 230/Week 5/Negative Binomial Distribution.md"
     }
   ],
   "omittedPaths": [],
