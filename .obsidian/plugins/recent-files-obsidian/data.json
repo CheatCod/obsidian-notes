@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "MIPS Hardware",
+      "path": "CS 241/Module 2 - Machine Language/MIPS Hardware.md"
+    },
+    {
+      "basename": "Signed Integer",
+      "path": "CS 241/Module 1 - Data Representation/Signed Integer.md"
+    },
+    {
+      "basename": "Copy Assignment Operator",
+      "path": "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
+    },
+    {
+      "basename": "Destructor",
+      "path": "2A/CS 246/Week 5 - OOP/Destructor.md"
+    },
+    {
+      "basename": "Single Argument Constructor",
+      "path": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md"
+    },
+    {
+      "basename": "Copy Constructor",
+      "path": "2A/CS 246/Week 5 - OOP/Copy Constructor.md"
+    },
+    {
+      "basename": "A3",
+      "path": "2A/CS 246/Week 5 - OOP/A3.md"
+    },
+    {
+      "basename": "Methods",
+      "path": "2A/CS 246/Week 5 - OOP/Methods.md"
+    },
+    {
+      "basename": "Constructor",
+      "path": "2A/CS 246/Week 5 - OOP/Constructor.md"
+    },
+    {
+      "basename": "Cohesion & Coupling",
+      "path": "2A/CS 246/Week 5 - OOP/Cohesion & Coupling.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "2A/CS 246/Week 5 - OOP/Classes.md"
+    },
+    {
+      "basename": "Week 4 - preprocessing",
+      "path": "2A/CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
+    },
+    {
       "basename": "UML",
       "path": "2A/CS 246/Week 7 - polymorphism/UML.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "Q5",
       "path": "2A/CS 245/Assignments/A04/Q5.md"
-    },
-    {
-      "basename": "Q6",
-      "path": "2A/CS 245/Assignments/A04/Q6.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "2A/CS 245/Assignments/A04/Q3.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "2A/CS 245/Assignments/A04/Q2.md"
-    },
-    {
-      "basename": "Q1",
-      "path": "2A/CS 245/Assignments/A04/Q1.md"
-    },
-    {
-      "basename": "Q4",
-      "path": "2A/CS 245/Assignments/A03/Q4.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "2A/CS 245/Assignments/A03/Q3.md"
-    },
-    {
-      "basename": "Resolution",
-      "path": "2A/CS 245/Week 7/Resolution.md"
-    },
-    {
-      "basename": "A03",
-      "path": "2A/CS 245/Assignments/A03.md"
-    },
-    {
-      "basename": "Object slicing & polymorphism",
-      "path": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
-    },
-    {
-      "basename": "Poisson Distribution",
-      "path": "2A/Stat 230/Week 5/Poisson Distribution.md"
-    },
-    {
-      "basename": "Week 6",
-      "path": "2A/CS 245/Week 6/Week 6.md"
-    },
-    {
-      "basename": "Exponential Distribution",
-      "path": "2A/Stat 230/Week 8/Exponential Distribution.md"
     }
   ],
   "omittedPaths": [],
