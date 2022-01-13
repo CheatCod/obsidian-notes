@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 241/Module 2 - Machine Language/MIPS Hardware.md",
+            "file": "2A/Stat 230/Week 6/Variance and Standard Deviation.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 241/Module 2 - Machine Language/MIPS Hardware.md",
+                "file": "2A/Stat 230/Week 6/Variance and Standard Deviation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 241/Module 2 - Machine Language/MIPS Hardware.md"
+                "file": "2A/Stat 230/Week 6/Variance and Standard Deviation.md"
               }
             }
           },
@@ -124,15 +124,15 @@
   },
   "active": "92a6a3d1ac163bb8",
   "lastOpenFiles": [
+    "2A/Stat 230/Week 6/Variance and Standard Deviation.md",
+    "2A/Stat 230/Resources/Formulas.md",
+    "2A/Stat 230/Week 6/Expected Value of p.f.s.md",
+    "2A/Stat 230/Week 6/Expect value of a Function.md",
+    "2A/Stat 230/Week 5/Week 5.md",
+    "2A/Stat 230/Week 7/Variance of Standard Distribution.md",
     "CS 241/Module 2 - Machine Language/MIPS Hardware.md",
     "CS 241/Module 1 - Data Representation/Signed Integer.md",
     "CS 241/Module 1 - Data Representation/Untitled 1.md",
-    "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md",
-    "2A/CS 246/Week 5 - OOP/Destructor.md",
-    "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
-    "2A/CS 246/Week 5 - OOP/Copy Constructor.md",
-    "2A/CS 246/Week 5 - OOP/A3.md",
-    "2A/CS 246/Week 5 - OOP/Methods.md",
-    "2A/CS 246/Week 5 - OOP/Constructor.md"
+    "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
   ]
 }

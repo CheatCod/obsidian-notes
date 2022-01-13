@@ -30,6 +30,8 @@ The square root of variance is called the **standard deviation**, denoted $\sigm
 
 ## Simpler Formulas For Var(x)
 $Var(X) = E(X^2)-\mu^2$
+$Var(X) = E(X^2)-E(X)^2$
+
 ```ad-thm
 For many standard distributions, with $E(X) = \mu$, we can use 
 $$Var(x=E[X(X-1)]+\mu-\mu^2$$
