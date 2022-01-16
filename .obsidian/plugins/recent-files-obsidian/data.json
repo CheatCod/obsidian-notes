@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "T2",
+      "path": "Math 239/Tut/T2.md"
+    },
+    {
       "basename": "Exceptions",
       "path": "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Exceptions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Q2",
       "path": "2A/CS 245/Assignments/Final/Q2.md"
-    },
-    {
-      "basename": "A5Q4",
-      "path": "2A/CS 245/Assignments/A5/A5Q4.md"
     }
   ],
   "omittedPaths": [],

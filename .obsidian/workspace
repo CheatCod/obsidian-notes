@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Exceptions.md",
+            "file": "Math 239/Tut/T2.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Exceptions.md",
+                "file": "Math 239/Tut/T2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Exceptions.md"
+                "file": "Math 239/Tut/T2.md"
               }
             }
           },
@@ -124,6 +124,7 @@
   },
   "active": "92a6a3d1ac163bb8",
   "lastOpenFiles": [
+    "Math 239/Tut/T2.md",
     "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Exceptions.md",
     "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Templates.md",
     "2A/CS 245/Assignments/A6/Q5.md",
@@ -132,7 +133,6 @@
     "2A/CS 245/Assignments/A6/Q1.md",
     "2A/Stat 230/Week 6/Variance and Standard Deviation.md",
     "2A/Stat 230/Resources/Formulas.md",
-    "2A/Stat 230/Week 6/Expected Value of p.f.s.md",
-    "2A/Stat 230/Week 6/Expect value of a Function.md"
+    "2A/Stat 230/Week 6/Expected Value of p.f.s.md"
   ]
 }
