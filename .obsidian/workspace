@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "92a6a3d1ac163bb8",
+        "id": "0b618501389d0b62",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math 239/Tut/T2.md",
+            "file": "Math 239/Assignment/A1/Q1.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.0078125,
-    "collapsed": true
+    "width": 300.0078125
   },
   "right": {
     "id": "8119af8b5c1d2920",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 239/Tut/T2.md",
+                "file": "Math 239/Assignment/A1/Q1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 239/Tut/T2.md"
+                "file": "Math 239/Assignment/A1/Q1.md"
               }
             }
           },
@@ -123,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "92a6a3d1ac163bb8",
+  "active": "0b618501389d0b62",
   "lastOpenFiles": [
+    "Math 239/Assignment/A1/Q1.md",
+    "Math 239/Module 1 counting, bijections and combinatorial proofs/Counting.md",
+    "Math 239/Assignment/A.md",
     "Math 239/Tut/T2.md",
     "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Exceptions.md",
     "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Templates.md",
     "2A/CS 245/Assignments/A6/Q5.md",
     "2A/CS 245/Assignments/A6/Q4.md",
     "2A/CS 245/Assignments/A6/Q3.md",
-    "2A/CS 245/Assignments/A6/Q1.md",
-    "2A/Stat 230/Week 6/Variance and Standard Deviation.md",
-    "2A/Stat 230/Resources/Formulas.md",
-    "2A/Stat 230/Week 6/Expected Value of p.f.s.md"
+    "2A/CS 245/Assignments/A6/Q1.md"
   ]
 }

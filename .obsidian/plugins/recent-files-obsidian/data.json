@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Q1",
+      "path": "Math 239/Assignment/A1/Q1.md"
+    },
+    {
+      "basename": "Counting",
+      "path": "Math 239/Module 1 counting, bijections and combinatorial proofs/Counting.md"
+    },
+    {
       "basename": "T2",
       "path": "Math 239/Tut/T2.md"
     },
@@ -125,10 +133,6 @@
       "path": "2A/CS 245/Assignments/A6/Q2.md"
     },
     {
-      "basename": "Counting",
-      "path": "Math 239/Module 1 counting, bijections and combinatorial proofs/Counting.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Q3",
       "path": "2A/CS 245/Assignments/Final/Q3.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "2A/CS 245/Assignments/Final/Q2.md"
     }
   ],
   "omittedPaths": [],
