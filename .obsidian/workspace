@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math 239/Assignment/A1/Q1.md",
+            "file": "Math 239/Assignment/A1/Q2.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 239/Assignment/A1/Q1.md",
+                "file": "Math 239/Assignment/A1/Q2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 239/Assignment/A1/Q1.md"
+                "file": "Math 239/Assignment/A1/Q2.md"
               }
             }
           },
@@ -124,6 +124,7 @@
   },
   "active": "0b618501389d0b62",
   "lastOpenFiles": [
+    "Math 239/Assignment/A1/Q2.md",
     "Math 239/Assignment/A1/Q1.md",
     "Math 239/Module 1 counting, bijections and combinatorial proofs/Counting.md",
     "Math 239/Assignment/A.md",
@@ -132,7 +133,6 @@
     "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Templates.md",
     "2A/CS 245/Assignments/A6/Q5.md",
     "2A/CS 245/Assignments/A6/Q4.md",
-    "2A/CS 245/Assignments/A6/Q3.md",
-    "2A/CS 245/Assignments/A6/Q1.md"
+    "2A/CS 245/Assignments/A6/Q3.md"
   ]
 }

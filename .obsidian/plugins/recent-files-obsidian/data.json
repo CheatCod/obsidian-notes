@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Q2",
+      "path": "Math 239/Assignment/A1/Q2.md"
+    },
+    {
       "basename": "Q1",
       "path": "Math 239/Assignment/A1/Q1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Q4",
       "path": "2A/CS 245/Assignments/Final/Q4.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "2A/CS 245/Assignments/Final/Q3.md"
     }
   ],
   "omittedPaths": [],
