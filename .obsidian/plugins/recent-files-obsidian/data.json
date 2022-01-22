@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Q2",
+      "path": "2A/CS 245/Assignments/A04/Q2.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "2A/CS 245/Assignments/A04/Q1.md"
+    },
+    {
+      "basename": "A5Q2",
+      "path": "2A/CS 245/Assignments/A5/A5Q2.md"
+    },
+    {
+      "basename": "A5Q5",
+      "path": "2A/CS 245/Assignments/A5/A5Q5.md"
+    },
+    {
+      "basename": "A5Q4",
+      "path": "2A/CS 245/Assignments/A5/A5Q4.md"
+    },
+    {
+      "basename": "Q3",
+      "path": "2A/CS 245/Assignments/A6/Q3.md"
+    },
+    {
+      "basename": "Q4",
+      "path": "2A/CS 245/Assignments/A6/Q4.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "2A/CS 245/Assignments/Final/Q1.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "2A/CS 245/Assignments/A6/Q1.md"
+    },
+    {
+      "basename": "Q5",
+      "path": "2A/CS 245/Assignments/A03/Q5.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "2A/CS 245/Assignments/A03/Q1.md"
+    },
+    {
       "basename": "Q3",
       "path": "Math 239/Assignment/A1/Q3.md"
     },
@@ -25,28 +69,8 @@
       "path": "2A/CS 245/Assignments/Final/Q2.md"
     },
     {
-      "basename": "Q1",
-      "path": "2A/CS 245/Assignments/Final/Q1.md"
-    },
-    {
-      "basename": "A5Q5",
-      "path": "2A/CS 245/Assignments/A5/A5Q5.md"
-    },
-    {
       "basename": "A5Q1",
       "path": "2A/CS 245/Assignments/A5/A5Q1.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "2A/CS 245/Assignments/A6/Q3.md"
-    },
-    {
-      "basename": "Q1",
-      "path": "2A/CS 245/Assignments/A6/Q1.md"
-    },
-    {
-      "basename": "A5Q2",
-      "path": "2A/CS 245/Assignments/A5/A5Q2.md"
     },
     {
       "basename": "Q4",
@@ -71,10 +95,6 @@
     {
       "basename": "Q5",
       "path": "2A/CS 245/Assignments/A6/Q5.md"
-    },
-    {
-      "basename": "Q4",
-      "path": "2A/CS 245/Assignments/A6/Q4.md"
     },
     {
       "basename": "Variance and Standard Deviation",
@@ -165,10 +185,6 @@
       "path": "2A/CS 245/Assignments/A03/Q2.md"
     },
     {
-      "basename": "Q1",
-      "path": "2A/CS 245/Assignments/A03/Q1.md"
-    },
-    {
       "basename": "Q2",
       "path": "2A/CS 245/Assignments/A6/Q2.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Friend Classes and Functions",
       "path": "2A/CS 246/Week 6  - design patterns/Friend Classes and Functions.md"
-    },
-    {
-      "basename": "Accessor and Mutator",
-      "path": "2A/CS 246/Week 6  - design patterns/Accessor and Mutator.md"
-    },
-    {
-      "basename": "Invariants and Encapsulation",
-      "path": "2A/CS 246/Week 6  - design patterns/Invariants and Encapsulation.md"
-    },
-    {
-      "basename": "Prenex Normal Form",
-      "path": "2A/CS 245/Week 10 - FOL Resolution/Prenex Normal Form.md"
-    },
-    {
-      "basename": "existential-free PNF",
-      "path": "2A/CS 245/Week 10 - FOL Resolution/existential-free PNF.md"
     }
   ],
   "omittedPaths": [],
