@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS 251/Assignments/A1/Q2.md",
+            "file": "CS 251/AIS.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS 251/Assignments/A1/Q2.md",
+                "file": "CS 251/AIS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 251/Assignments/A1/Q2.md"
+                "file": "CS 251/AIS.md"
               }
             }
           },
@@ -124,15 +124,15 @@
   },
   "active": "02480ea4a12198c9",
   "lastOpenFiles": [
+    "CS 251/AIS.md",
+    "CS 251/Assignments/A1/Q4.md",
+    "CS 251/Assignments/A1/Q3.md",
     "CS 251/Assignments/A1/Q2.md",
     "CS 251/Assignments/A1/Q1.md",
-    "CS 251/Assignments/Untitled.md",
-    "2A/CS 245/Assignments/A04/Q2.md",
-    "2A/CS 245/Assignments/A04/Q1.md",
-    "2A/CS 245/Assignments/A5/A5Q2.md",
-    "2A/CS 245/Assignments/A5/A5Q5.md",
-    "2A/CS 245/Assignments/A5/A5Q4.md",
-    "2A/CS 245/Assignments/A6/Q3.md",
-    "2A/CS 245/Assignments/A6/Q4.md"
+    "2A/CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md",
+    "2A/CS 245/Week 9 - FOL logical consequence/Logical consequence in FOL.md",
+    "2A/CS 245/Week 8 - first order logic/Semantics.md",
+    "2A/CS 245/Week 8 - first order logic/Syntax.md",
+    "2A/CS 245/Week 8 - first order logic/Quantifiers.md"
   ]
 }

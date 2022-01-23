@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "AIS",
+      "path": "CS 251/AIS.md"
+    },
+    {
+      "basename": "Q4",
+      "path": "CS 251/Assignments/A1/Q4.md"
+    },
+    {
+      "basename": "Q3",
+      "path": "CS 251/Assignments/A1/Q3.md"
+    },
+    {
       "basename": "Q2",
       "path": "CS 251/Assignments/A1/Q2.md"
     },
     {
       "basename": "Q1",
       "path": "CS 251/Assignments/A1/Q1.md"
+    },
+    {
+      "basename": "FOL Formal Deduction",
+      "path": "2A/CS 245/Week 9 - FOL logical consequence/FOL Formal Deduction.md"
+    },
+    {
+      "basename": "Logical consequence in FOL",
+      "path": "2A/CS 245/Week 9 - FOL logical consequence/Logical consequence in FOL.md"
+    },
+    {
+      "basename": "Semantics",
+      "path": "2A/CS 245/Week 8 - first order logic/Semantics.md"
+    },
+    {
+      "basename": "Syntax",
+      "path": "2A/CS 245/Week 8 - first order logic/Syntax.md"
+    },
+    {
+      "basename": "Quantifiers",
+      "path": "2A/CS 245/Week 8 - first order logic/Quantifiers.md"
+    },
+    {
+      "basename": "Domain and Relations",
+      "path": "2A/CS 245/Week 8 - first order logic/Domain and Relations.md"
+    },
+    {
+      "basename": "First Order Logic",
+      "path": "2A/CS 245/Week 8 - first order logic/First Order Logic.md"
     },
     {
       "basename": "Q2",
@@ -159,46 +199,6 @@
     {
       "basename": "Methods",
       "path": "2A/CS 246/Week 5 - OOP/Methods.md"
-    },
-    {
-      "basename": "Constructor",
-      "path": "2A/CS 246/Week 5 - OOP/Constructor.md"
-    },
-    {
-      "basename": "Cohesion & Coupling",
-      "path": "2A/CS 246/Week 5 - OOP/Cohesion & Coupling.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "2A/CS 246/Week 5 - OOP/Classes.md"
-    },
-    {
-      "basename": "Week 4 - preprocessing",
-      "path": "2A/CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
-    },
-    {
-      "basename": "UML",
-      "path": "2A/CS 246/Week 7 - polymorphism/UML.md"
-    },
-    {
-      "basename": "Week 5 - OOP",
-      "path": "2A/CS 246/Week 5 - OOP/Week 5 - OOP.md"
-    },
-    {
-      "basename": "Asymptotic Notation",
-      "path": "CS 240/Module 1 Asymptotic Analysis/Asymptotic Notation.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "2A/CS 245/Assignments/A03/Q2.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "2A/CS 245/Assignments/A6/Q2.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
