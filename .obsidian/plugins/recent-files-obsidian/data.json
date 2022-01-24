@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "T3",
+      "path": "Math 239/Tut/T3.md"
+    },
+    {
+      "basename": "T2",
+      "path": "Math 239/Tut/T2.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "Math 239/Assignment/A1/Q1.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "Math 239/Assignment/A1/Q2.md"
+    },
+    {
+      "basename": "Q3",
+      "path": "Math 239/Assignment/A1/Q3.md"
+    },
+    {
       "basename": "AIS",
       "path": "CS 251/AIS.md"
     },
@@ -93,18 +113,6 @@
       "path": "2A/CS 245/Assignments/A03/Q1.md"
     },
     {
-      "basename": "Q3",
-      "path": "Math 239/Assignment/A1/Q3.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "Math 239/Assignment/A1/Q2.md"
-    },
-    {
-      "basename": "Q1",
-      "path": "Math 239/Assignment/A1/Q1.md"
-    },
-    {
       "basename": "Q6",
       "path": "2A/CS 245/Assignments/Final/Q6.md"
     },
@@ -127,10 +135,6 @@
     {
       "basename": "Counting",
       "path": "Math 239/Module 1 counting, bijections and combinatorial proofs/Counting.md"
-    },
-    {
-      "basename": "T2",
-      "path": "Math 239/Tut/T2.md"
     },
     {
       "basename": "Exceptions",
@@ -195,10 +199,6 @@
     {
       "basename": "A3",
       "path": "2A/CS 246/Week 5 - OOP/A3.md"
-    },
-    {
-      "basename": "Methods",
-      "path": "2A/CS 246/Week 5 - OOP/Methods.md"
     }
   ],
   "omittedPaths": [],
