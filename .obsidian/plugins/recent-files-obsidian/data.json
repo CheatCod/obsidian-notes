@@ -5,6 +5,18 @@
       "path": "CS 251/Assignments/A1/Q4.md"
     },
     {
+      "basename": "Q3",
+      "path": "CS 251/Assignments/A1/Q3.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "CS 251/Assignments/A1/Q2.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "CS 251/Assignments/A1/Q1.md"
+    },
+    {
       "basename": "T3",
       "path": "Math 239/Tut/T3.md"
     },
@@ -27,18 +39,6 @@
     {
       "basename": "AIS",
       "path": "CS 251/AIS.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "CS 251/Assignments/A1/Q3.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "CS 251/Assignments/A1/Q2.md"
-    },
-    {
-      "basename": "Q1",
-      "path": "CS 251/Assignments/A1/Q1.md"
     },
     {
       "basename": "FOL Formal Deduction",
