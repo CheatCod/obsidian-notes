@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Q4",
+      "path": "CS 240/Assignments/A1/Q4.md"
+    },
+    {
       "basename": "Q3",
       "path": "CS 240/Assignments/A1/Q3.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Signed Integer",
       "path": "CS 241/Module 1 - Data Representation/Signed Integer.md"
-    },
-    {
-      "basename": "Copy Assignment Operator",
-      "path": "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
     }
   ],
   "omittedPaths": [],
