@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Q4",
-      "path": "CS 240/Assignments/A1/Q4.md"
+      "basename": "Q2",
+      "path": "CS 240/Assignments/A1/Q2.md"
     },
     {
       "basename": "Q3",
       "path": "CS 240/Assignments/A1/Q3.md"
     },
     {
-      "basename": "Q2",
-      "path": "CS 240/Assignments/A1/Q2.md"
+      "basename": "Q4",
+      "path": "CS 240/Assignments/A1/Q4.md"
+    },
+    {
+      "basename": "Q5",
+      "path": "CS 240/Assignments/A1/Q5.md"
     },
     {
       "basename": "Q1",
@@ -195,10 +199,6 @@
     {
       "basename": "MIPS Hardware",
       "path": "CS 241/Module 2 - Machine Language/MIPS Hardware.md"
-    },
-    {
-      "basename": "Signed Integer",
-      "path": "CS 241/Module 1 - Data Representation/Signed Integer.md"
     }
   ],
   "omittedPaths": [],
