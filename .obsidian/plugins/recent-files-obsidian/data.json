@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Destructor",
+      "path": "2A/CS 246/Week 5 - OOP/Destructor.md"
+    },
+    {
+      "basename": "Copy Assignment Operator",
+      "path": "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
+    },
+    {
+      "basename": "Object slicing & polymorphism",
+      "path": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
+    },
+    {
+      "basename": "Inheritance",
+      "path": "2A/CS 246/Week 7 - polymorphism/Inheritance.md"
+    },
+    {
+      "basename": "Abstract Class",
+      "path": "2A/CS 246/Week 7 - polymorphism/Abstract Class.md"
+    },
+    {
       "basename": "Q2",
       "path": "CS 240/Assignments/A1/Q2.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Formulas",
       "path": "2A/Stat 230/Resources/Formulas.md"
-    },
-    {
-      "basename": "Expected Value of p.f.s",
-      "path": "2A/Stat 230/Week 6/Expected Value of p.f.s.md"
-    },
-    {
-      "basename": "Expect value of a Function",
-      "path": "2A/Stat 230/Week 6/Expect value of a Function.md"
-    },
-    {
-      "basename": "Week 5",
-      "path": "2A/Stat 230/Week 5/Week 5.md"
-    },
-    {
-      "basename": "Variance of Standard Distribution",
-      "path": "2A/Stat 230/Week 7/Variance of Standard Distribution.md"
-    },
-    {
-      "basename": "MIPS Hardware",
-      "path": "CS 241/Module 2 - Machine Language/MIPS Hardware.md"
     }
   ],
   "omittedPaths": [],
