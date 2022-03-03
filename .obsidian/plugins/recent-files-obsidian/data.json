@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Q2",
+      "path": "Math 239/Assignment/A6/Q2.md"
+    },
+    {
+      "basename": "Q3",
+      "path": "Math 239/Assignment/A6/Q3.md"
+    },
+    {
       "basename": "Q1",
       "path": "Math 239/Assignment/A6/Q1.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Q1",
       "path": "2A/CS 245/Assignments/A03/Q1.md"
-    },
-    {
-      "basename": "Q6",
-      "path": "2A/CS 245/Assignments/Final/Q6.md"
-    },
-    {
-      "basename": "Q7",
-      "path": "2A/CS 245/Assignments/Final/Q7.md"
     }
   ],
   "omittedPaths": [],
