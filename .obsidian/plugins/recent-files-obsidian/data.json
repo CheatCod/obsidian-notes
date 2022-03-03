@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Q1",
+      "path": "Math 239/Assignment/A6/Q1.md"
+    },
+    {
       "basename": "Copy&Move Elission",
       "path": "2A/CS 246/Week 5 - OOP/Copy&Move Elission.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Q7",
       "path": "2A/CS 245/Assignments/Final/Q7.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "2A/CS 245/Assignments/Final/Q2.md"
     }
   ],
   "omittedPaths": [],
