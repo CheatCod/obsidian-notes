@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Readme",
+      "path": "Untitled/Readme.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled/Untitled.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Q2",
@@ -187,18 +199,6 @@
     {
       "basename": "Q4",
       "path": "2A/CS 245/Assignments/A6/Q4.md"
-    },
-    {
-      "basename": "Q1",
-      "path": "2A/CS 245/Assignments/Final/Q1.md"
-    },
-    {
-      "basename": "Q1",
-      "path": "2A/CS 245/Assignments/A6/Q1.md"
-    },
-    {
-      "basename": "Q5",
-      "path": "2A/CS 245/Assignments/A03/Q5.md"
     }
   ],
   "omittedPaths": [],
