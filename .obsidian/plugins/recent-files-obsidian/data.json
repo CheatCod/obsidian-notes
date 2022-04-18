@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Q1",
+      "path": "Math 239/Assignment/A6/Q1.md"
+    },
+    {
+      "basename": "Counting",
+      "path": "Math 239/Module 1 counting, bijections and combinatorial proofs/Counting.md"
+    },
+    {
+      "basename": "Q3",
+      "path": "Math 239/Assignment/A6/Q3.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "Math 239/Assignment/A6/Q2.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "Math 239/Assignment/A1/Q1.md"
+    },
+    {
       "basename": "Readme",
       "path": "Untitled/Readme.md"
     },
@@ -15,18 +35,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "Math 239/Assignment/A6/Q2.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "Math 239/Assignment/A6/Q3.md"
-    },
-    {
-      "basename": "Q1",
-      "path": "Math 239/Assignment/A6/Q1.md"
     },
     {
       "basename": "Copy&Move Elission",
@@ -129,10 +137,6 @@
       "path": "Math 239/Tut/T2.md"
     },
     {
-      "basename": "Q1",
-      "path": "Math 239/Assignment/A1/Q1.md"
-    },
-    {
       "basename": "Q2",
       "path": "Math 239/Assignment/A1/Q2.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Q3",
       "path": "2A/CS 245/Assignments/A6/Q3.md"
-    },
-    {
-      "basename": "Q4",
-      "path": "2A/CS 245/Assignments/A6/Q4.md"
     }
   ],
   "omittedPaths": [],
