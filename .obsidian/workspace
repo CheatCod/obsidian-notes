@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math 239/Assignment/A6/Q1.md",
+            "file": "2A/CS 245/Assignments/Final/Q6.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 239/Assignment/A6/Q1.md",
+                "file": "2A/CS 245/Assignments/Final/Q6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 239/Assignment/A6/Q1.md"
+                "file": "2A/CS 245/Assignments/Final/Q6.md"
               }
             }
           },
@@ -124,15 +124,15 @@
   },
   "active": "062c950d0ee686e7",
   "lastOpenFiles": [
-    "Math 239/Assignment/A6/Q1.md",
-    "Math 239/Module 1 counting, bijections and combinatorial proofs/Counting.md",
-    "Math 239/Assignment/A6/Q3.md",
-    "Math 239/Assignment/A6/Q2.md",
-    "Math 239/Assignment/A1/Q1.md",
-    "Untitled/Readme.md",
-    "Untitled/Untitled.md",
-    "Untitled.md",
-    "README.md",
-    "Math 239/Assignment/Untitled.md"
+    "2A/CS 245/Assignments/Final/Q6.md",
+    "2A/CS 245/Assignments/Final/Q7.md",
+    "2A/CS 245/Assignments/Final/Q5.md",
+    "2A/CS 245/Assignments/Final/Q4.md",
+    "2A/CS 245/Assignments/Final/Q3.md",
+    "2A/CS 245/Assignments/Final/Q1.md",
+    "2A/CS 245/Assignments/Final/Q2.md",
+    "2A/CS 245/Assignments/A6/Q1.md",
+    "2A/CS 245/Assignments/A5/A5Q4.md",
+    "2A/CS 245/Assignments/A5/A5Q3.md"
   ]
 }
