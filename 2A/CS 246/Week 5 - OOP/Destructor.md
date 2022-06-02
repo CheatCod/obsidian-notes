@@ -24,17 +24,5 @@ The steps that occur when a destructor is run are:
 ```
 
 
-$$
- \begin{algorithme}
-    $\alg{HalfSort}(A)$\\
-    $A$: an array of size $n\geq 2$ storing distinct numbers\\
-     \lign    $i \gets 1$\\
-     \lign \pc{while} $i < n $ \\
-     \lign  \hspace{5ex} \pc{if} $A[i-1] > A[i]$\\
-      \lign \hspace{10ex} \pc{return} false\\
-      \lign  \hspace{5ex}  $i \gets i+2$\\
-        \lign  \pc{return} true\\
-   \end{algorithme}
-$$
 
 Relate: [[]]
