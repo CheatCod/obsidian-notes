@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2A/CS 246/Week 10 - Advanced C++/Exception Safety.md",
+            "file": "2A/CS 245/Assignments/A04/Q2.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "swap",
+                "query": "DPP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/CS 246/Week 10 - Advanced C++/Exception Safety.md",
+                "file": "2A/CS 245/Assignments/A04/Q2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/CS 246/Week 10 - Advanced C++/Exception Safety.md"
+                "file": "2A/CS 245/Assignments/A04/Q2.md"
               }
             }
           },
@@ -124,15 +124,15 @@
   },
   "active": "062c950d0ee686e7",
   "lastOpenFiles": [
-    "2A/CS 246/Week 10 - Advanced C++/Exception Safety.md",
-    "2A/CS 246/Week 10 - Advanced C++/Pimpl Idiom.md",
-    "2A/CS 246/Week 10 - Advanced C++/RAII.md",
-    "2A/CS 246/Week 10 - Advanced C++/Smart Pointers.md",
-    "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Observer.md",
-    "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Exceptions.md",
-    "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Templates.md",
-    "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/STL.md",
-    "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Compilation Dependencies.md",
-    "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
+    "2A/CS 245/Assignments/A04/Q2.md",
+    "2A/CS 245/Week 7/Davis-Putnam Procedure(DPP).md",
+    "2A/CS 245/Assignments/A04/Q1.md",
+    "2A/CS 245/Assignments/A03/Q3.md",
+    "2A/CS 245/Assignments/A03/Q4.md",
+    "2A/CS 245/Assignments/A03/Q5.md",
+    "2A/CS 245/Assignments/A6/Q5.md",
+    "2A/CS 245/Assignments/A6/Q2.md",
+    "2A/CS 245/Assignments/A5/A5Q5.md",
+    "2A/CS 245/Assignments/A5/A5Q4.md"
   ]
 }
