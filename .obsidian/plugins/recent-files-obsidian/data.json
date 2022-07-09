@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Move & Copy with Inheritance",
+      "path": "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
+    },
+    {
+      "basename": "Abstract Class",
+      "path": "2A/CS 246/Week 7 - polymorphism/Abstract Class.md"
+    },
+    {
+      "basename": "Object slicing & polymorphism",
+      "path": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
+    },
+    {
+      "basename": "Inheritance",
+      "path": "2A/CS 246/Week 7 - polymorphism/Inheritance.md"
+    },
+    {
       "basename": "Q2",
       "path": "2A/CS 245/Assignments/A04/Q2.md"
     },
@@ -111,22 +127,6 @@
     {
       "basename": "Compilation Dependencies",
       "path": "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Compilation Dependencies.md"
-    },
-    {
-      "basename": "Move & Copy with Inheritance",
-      "path": "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
-    },
-    {
-      "basename": "Abstract Class",
-      "path": "2A/CS 246/Week 7 - polymorphism/Abstract Class.md"
-    },
-    {
-      "basename": "Object slicing & polymorphism",
-      "path": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
-    },
-    {
-      "basename": "Inheritance",
-      "path": "2A/CS 246/Week 7 - polymorphism/Inheritance.md"
     },
     {
       "basename": "UML",
