@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md",
+            "file": "2A/CS 246/Week 4 - preprocessing/Seperate Compilation.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md",
+                "file": "2A/CS 246/Week 4 - preprocessing/Seperate Compilation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
+                "file": "2A/CS 246/Week 4 - preprocessing/Seperate Compilation.md"
               }
             }
           },
@@ -124,6 +124,8 @@
   },
   "active": "062c950d0ee686e7",
   "lastOpenFiles": [
+    "2A/CS 246/Week 4 - preprocessing/Preprocessor.md",
+    "Math 239/Assignment/A6/Q1.md",
     "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md",
     "2A/CS 246/Week 7 - polymorphism/Abstract Class.md",
     "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
@@ -131,8 +133,6 @@
     "2A/CS 245/Assignments/A04/Q2.md",
     "2A/CS 245/Week 7/Davis-Putnam Procedure(DPP).md",
     "2A/CS 245/Assignments/A04/Q1.md",
-    "2A/CS 245/Assignments/A03/Q3.md",
-    "2A/CS 245/Assignments/A03/Q4.md",
-    "2A/CS 245/Assignments/A03/Q5.md"
+    "2A/CS 245/Assignments/A03/Q3.md"
   ]
 }

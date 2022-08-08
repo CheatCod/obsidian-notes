@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Seperate Compilation",
+      "path": "2A/CS 246/Week 4 - preprocessing/Seperate Compilation.md"
+    },
+    {
+      "basename": "Preprocessor",
+      "path": "2A/CS 246/Week 4 - preprocessing/Preprocessor.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "Math 239/Assignment/A6/Q1.md"
+    },
+    {
       "basename": "Move & Copy with Inheritance",
       "path": "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "A3",
       "path": "2A/CS 246/Week 5 - OOP/A3.md"
-    },
-    {
-      "basename": "Methods",
-      "path": "2A/CS 246/Week 5 - OOP/Methods.md"
-    },
-    {
-      "basename": "Constructor",
-      "path": "2A/CS 246/Week 5 - OOP/Constructor.md"
-    },
-    {
-      "basename": "Cohesion & Coupling",
-      "path": "2A/CS 246/Week 5 - OOP/Cohesion & Coupling.md"
     }
   ],
   "omittedPaths": [],
