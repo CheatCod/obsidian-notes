@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "GUI Interface",
+      "path": "3A/CS 349/Week 2/GUI Interface.md"
+    },
+    {
+      "basename": "Window Manager",
+      "path": "3A/CS 349/Week 2/Window Manager.md"
+    },
+    {
+      "basename": "Project Plan",
+      "path": "3A/CS 346/Week 2/Project Plan.md"
+    },
+    {
       "basename": "Agile",
       "path": "3A/CS 346/Week 1/Agile.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Iterator",
       "path": "2A/CS 246/Week 6  - design patterns/Iterator.md"
-    },
-    {
-      "basename": "Friend Classes and Functions",
-      "path": "2A/CS 246/Week 6  - design patterns/Friend Classes and Functions.md"
-    },
-    {
-      "basename": "Accessor and Mutator",
-      "path": "2A/CS 246/Week 6  - design patterns/Accessor and Mutator.md"
-    },
-    {
-      "basename": "Invariants and Encapsulation",
-      "path": "2A/CS 246/Week 6  - design patterns/Invariants and Encapsulation.md"
     }
   ],
   "omittedPaths": [],
