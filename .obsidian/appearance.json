@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 34,
+  "baseFontSize": 19,
   "enabledCssSnippets": [
     "clutter-free-headings",
     "notation-colour-blocks",
@@ -7,7 +7,7 @@
     "bigger-preview"
   ],
   "translucency": false,
-  "cssTheme": "Minimal",
-  "theme": "moonstone",
+  "cssTheme": "Things",
+  "theme": "obsidian",
   "baseFontSizeAction": true
 }

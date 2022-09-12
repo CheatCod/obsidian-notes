@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Agile",
+      "path": "3A/CS 346/Week 1/Agile.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "2B/CS 240/Assignments/A1/Q1.md"
+    },
+    {
+      "basename": "Intro",
+      "path": "3A/CS 240/Week 1/Intro.md"
+    },
+    {
+      "basename": "Gather",
+      "path": "Templates/Gather.md"
+    },
+    {
+      "basename": "Align",
+      "path": "Templates/Align.md"
+    },
+    {
+      "basename": "Alias&Def&Relate",
+      "path": "Templates/Alias&Def&Relate.md"
+    },
+    {
+      "basename": "cs135",
+      "path": "prereq graph/cs135.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled/Untitled.md"
+    },
+    {
+      "basename": "Readme",
+      "path": "Untitled/Readme.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Seperate Compilation",
       "path": "2A/CS 246/Week 4 - preprocessing/Seperate Compilation.md"
     },
@@ -10,7 +50,7 @@
     },
     {
       "basename": "Q1",
-      "path": "Math 239/Assignment/A6/Q1.md"
+      "path": "2B/Math 239/Assignment/A6/Q1.md"
     },
     {
       "basename": "Move & Copy with Inheritance",
@@ -159,46 +199,6 @@
     {
       "basename": "Invariants and Encapsulation",
       "path": "2A/CS 246/Week 6  - design patterns/Invariants and Encapsulation.md"
-    },
-    {
-      "basename": "Member operators",
-      "path": "2A/CS 246/Week 5 - OOP/Member operators.md"
-    },
-    {
-      "basename": "Rules for replacing default compiler operations",
-      "path": "2A/CS 246/Week 5 - OOP/Rules for replacing default compiler operations.md"
-    },
-    {
-      "basename": "Static fields",
-      "path": "2A/CS 246/Week 5 - OOP/Static fields.md"
-    },
-    {
-      "basename": "Copy Assignment Operator",
-      "path": "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
-    },
-    {
-      "basename": "Move Semantics",
-      "path": "2A/CS 246/Week 5 - OOP/Move Semantics.md"
-    },
-    {
-      "basename": "Copy&Move Elission",
-      "path": "2A/CS 246/Week 5 - OOP/Copy&Move Elission.md"
-    },
-    {
-      "basename": "Destructor",
-      "path": "2A/CS 246/Week 5 - OOP/Destructor.md"
-    },
-    {
-      "basename": "Single Argument Constructor",
-      "path": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md"
-    },
-    {
-      "basename": "Copy Constructor",
-      "path": "2A/CS 246/Week 5 - OOP/Copy Constructor.md"
-    },
-    {
-      "basename": "A3",
-      "path": "2A/CS 246/Week 5 - OOP/A3.md"
     }
   ],
   "omittedPaths": [],
