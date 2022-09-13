@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Run Time Analysis",
+      "path": "3A/CS 240/Week 2/Run Time Analysis.md"
+    },
+    {
+      "basename": "Relational Data Model",
+      "path": "3A/CS 348/Week 2/Relational Data Model.md"
+    },
+    {
+      "basename": "Algorithm Design",
+      "path": "3A/CS 240/Week 2/Algorithm Design.md"
+    },
+    {
+      "basename": "Intro",
+      "path": "3A/CS 240/Week 1/Intro.md"
+    },
+    {
+      "basename": "Relational Algebra",
+      "path": "3A/CS 348/Week 2/Relational Algebra.md"
+    },
+    {
+      "basename": "cs135",
+      "path": "prereq graph/cs135.md"
+    },
+    {
+      "basename": "Project Plan",
+      "path": "3A/CS 346/Week 2/Project Plan.md"
+    },
+    {
       "basename": "GUI Interface",
       "path": "3A/CS 349/Week 2/GUI Interface.md"
     },
@@ -9,20 +37,12 @@
       "path": "3A/CS 349/Week 2/Window Manager.md"
     },
     {
-      "basename": "Project Plan",
-      "path": "3A/CS 346/Week 2/Project Plan.md"
-    },
-    {
       "basename": "Agile",
       "path": "3A/CS 346/Week 1/Agile.md"
     },
     {
       "basename": "Q1",
       "path": "2B/CS 240/Assignments/A1/Q1.md"
-    },
-    {
-      "basename": "Intro",
-      "path": "3A/CS 240/Week 1/Intro.md"
     },
     {
       "basename": "Gather",
@@ -35,10 +55,6 @@
     {
       "basename": "Alias&Def&Relate",
       "path": "Templates/Alias&Def&Relate.md"
-    },
-    {
-      "basename": "cs135",
-      "path": "prereq graph/cs135.md"
     },
     {
       "basename": "Untitled",
@@ -183,22 +199,6 @@
     {
       "basename": "Templates",
       "path": "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Templates.md"
-    },
-    {
-      "basename": "STL",
-      "path": "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/STL.md"
-    },
-    {
-      "basename": "Compilation Dependencies",
-      "path": "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Compilation Dependencies.md"
-    },
-    {
-      "basename": "UML",
-      "path": "2A/CS 246/Week 7 - polymorphism/UML.md"
-    },
-    {
-      "basename": "Iterator",
-      "path": "2A/CS 246/Week 6  - design patterns/Iterator.md"
     }
   ],
   "omittedPaths": [],
