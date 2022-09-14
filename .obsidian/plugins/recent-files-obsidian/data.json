@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Interaction",
+      "path": "3A/CS 349/Week 2/Interaction.md"
+    },
+    {
+      "basename": "GUI Interface",
+      "path": "3A/CS 349/Week 2/GUI Interface.md"
+    },
+    {
+      "basename": "UX",
+      "path": "3A/CS 346/Week 2/UX.md"
+    },
+    {
+      "basename": "Requirements",
+      "path": "3A/CS 346/Week 2/Requirements.md"
+    },
+    {
       "basename": "Run Time Analysis",
       "path": "3A/CS 240/Week 2/Run Time Analysis.md"
     },
@@ -27,10 +43,6 @@
     {
       "basename": "Project Plan",
       "path": "3A/CS 346/Week 2/Project Plan.md"
-    },
-    {
-      "basename": "GUI Interface",
-      "path": "3A/CS 349/Week 2/GUI Interface.md"
     },
     {
       "basename": "Window Manager",
@@ -187,18 +199,6 @@
     {
       "basename": "Smart Pointers",
       "path": "2A/CS 246/Week 10 - Advanced C++/Smart Pointers.md"
-    },
-    {
-      "basename": "Observer",
-      "path": "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Observer.md"
-    },
-    {
-      "basename": "Exceptions",
-      "path": "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Exceptions.md"
-    },
-    {
-      "basename": "Templates",
-      "path": "2A/CS 246/Week 8 & 9 - STL, exceptions, more design patterns/Templates.md"
     }
   ],
   "omittedPaths": [],

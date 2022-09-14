@@ -31,3 +31,11 @@ Bad in terms of interaction design, requires knowledge of text editor, SVG file
 - Incremental actions
 - Physical actions instead of complex syntax
 
+### Adaption to the Dekstop
+
+Modern GUIs do not always use direct manipulation:
+
+- Due to the complexity of the digital world, many objects have properties that cannot be easily represented using DM
+- Many commands are invoked indirectly (menu, dialogue boxes)
+- Many objects in the interface are not object of interest
+

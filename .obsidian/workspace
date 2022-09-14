@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3A/CS 240/Week 2/Run Time Analysis.md",
+            "file": "3A/CS 349/Week 2/Interaction.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/CS 240/Week 2/Run Time Analysis.md",
+                "file": "3A/CS 349/Week 2/Interaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/CS 240/Week 2/Run Time Analysis.md"
+                "file": "3A/CS 349/Week 2/Interaction.md"
               }
             }
           },
@@ -124,15 +124,15 @@
   },
   "active": "30d24ac5c8db42f7",
   "lastOpenFiles": [
-    "3A/CS 348/Week 2/Relational Data Model.md",
+    "3A/CS 349/Week 2/GUI Interface.md",
+    "3A/CS 346/Week 2/UX.md",
+    "3A/CS 346/Week 2/Requirements.md",
     "3A/CS 240/Week 2/Run Time Analysis.md",
+    "3A/CS 348/Week 2/Relational Data Model.md",
     "3A/CS 240/Week 2/Algorithm Design.md",
     "3A/CS 240/Week 1/Intro.md",
     "3A/CS 348/Week 2/Relational Algebra.md",
     "prereq graph/cs135.md",
-    "3A/CS 346/Week 2/Project Plan.md",
-    "3A/CS 349/Week 2/GUI Interface.md",
-    "3A/CS 349/Week 2/Window Manager.md",
-    "3A/CS 346/Week 1/Agile.md"
+    "3A/CS 346/Week 2/Project Plan.md"
   ]
 }
