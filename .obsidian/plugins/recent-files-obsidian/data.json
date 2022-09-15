@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "A-1-2",
+      "path": "3A/Math 239/Assignments/A1/A-1-2.md"
+    },
+    {
+      "basename": "A-1-1",
+      "path": "3A/Math 239/Assignments/A1/A-1-1.md"
+    },
+    {
+      "basename": "Assignment 1",
+      "path": "3A/Math 239/Assignments/Assignment 1.md"
+    },
+    {
       "basename": "Interaction",
       "path": "3A/CS 349/Week 2/Interaction.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Exception Safety",
       "path": "2A/CS 246/Week 10 - Advanced C++/Exception Safety.md"
-    },
-    {
-      "basename": "Pimpl Idiom",
-      "path": "2A/CS 246/Week 10 - Advanced C++/Pimpl Idiom.md"
-    },
-    {
-      "basename": "RAII",
-      "path": "2A/CS 246/Week 10 - Advanced C++/RAII.md"
-    },
-    {
-      "basename": "Smart Pointers",
-      "path": "2A/CS 246/Week 10 - Advanced C++/Smart Pointers.md"
     }
   ],
   "omittedPaths": [],
