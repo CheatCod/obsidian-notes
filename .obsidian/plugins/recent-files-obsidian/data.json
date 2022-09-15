@@ -5,8 +5,16 @@
       "path": "3A/Math 239/Assignments/A1/A-1-2.md"
     },
     {
+      "basename": "A-1-3",
+      "path": "3A/Math 239/Assignments/A1/A-1-3.md"
+    },
+    {
       "basename": "A-1-1",
       "path": "3A/Math 239/Assignments/A1/A-1-1.md"
+    },
+    {
+      "basename": "Algorithm Analysis",
+      "path": "3A/CS 240/Week 2/Algorithm Analysis.md"
     },
     {
       "basename": "Assignment 1",
@@ -191,14 +199,6 @@
     {
       "basename": "The Pigeonhole Principle",
       "path": "2A/CS 245/Week 7/The Pigeonhole Principle.md"
-    },
-    {
-      "basename": "Resolution Strategies",
-      "path": "2A/CS 245/Week 7/Resolution Strategies.md"
-    },
-    {
-      "basename": "Exception Safety",
-      "path": "2A/CS 246/Week 10 - Advanced C++/Exception Safety.md"
     }
   ],
   "omittedPaths": [],
