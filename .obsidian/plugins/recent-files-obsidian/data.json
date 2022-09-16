@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "A-1-2",
-      "path": "3A/Math 239/Assignments/A1/A-1-2.md"
+      "basename": "SPATIAL SYSTEMS",
+      "path": "random/SPATIAL SYSTEMS.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "A-1-3",
       "path": "3A/Math 239/Assignments/A1/A-1-3.md"
     },
     {
+      "basename": "A-1-2",
+      "path": "3A/Math 239/Assignments/A1/A-1-2.md"
+    },
+    {
       "basename": "A-1-1",
       "path": "3A/Math 239/Assignments/A1/A-1-1.md"
+    },
+    {
+      "basename": "A-1-4",
+      "path": "3A/Math 239/Assignments/A1/A-1-4.md"
     },
     {
       "basename": "Algorithm Analysis",
@@ -95,10 +111,6 @@
     {
       "basename": "Readme",
       "path": "Untitled/Readme.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Seperate Compilation",
@@ -187,18 +199,6 @@
     {
       "basename": "Q5",
       "path": "2A/CS 245/Assignments/A04/Q5.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "2A/CS 245/Assignments/A04/Q3.md"
-    },
-    {
-      "basename": "Q1",
-      "path": "2A/CS 245/Assignments/A6/Q1.md"
-    },
-    {
-      "basename": "The Pigeonhole Principle",
-      "path": "2A/CS 245/Week 7/The Pigeonhole Principle.md"
     }
   ],
   "omittedPaths": [],
