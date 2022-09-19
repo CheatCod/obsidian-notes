@@ -21,9 +21,9 @@ for c = 1 to n
 $$\Sigma_{j=1}1 = i$$
 ## Asymptotic Analysis
 
-> [!def]  Big-O ()
-> Let $f(n)$ and $g(n)$ be functions we say $f(n) \in O(g(n))$
-> if there exists constant $C > 0$ and $n_0 > 0$ s.t. $0 \le f(n) \le cg(n)$ for all $n \ge n_0$
+> [!def]  $O$-notation
+> Let $f(n)$ and $g(n)$ be functions. 
+> We say $f(n) \in O(g(n))$ if there exists constant $c > 0$ and $n_0 > 0$ s.t. $0 \le f(n) \le cg(n)$ for all $n \ge n_0$
 
 > [!example] 
 > $f(n) = 2n^2 + 3n+11, g(n) = n^2$, show that $f(n) \in O(g(n))$
@@ -37,8 +37,9 @@ $$\Sigma_{j=1}1 = i$$
 
 We know that $2n^2 + 3n + 11 \in O(n^2)$, but also that $\in O(n^{100})$
 
+What we want is a tighter bound.
 
-> [!info] Tight O-bounds ($\Omega$)
+> [!info] $\Omega$-notation
 > Let $f(n)$ and $g(n)$ be functions
 > We say that $f(n) \in \Omega(g(n))$ if there exists constants $c > 0$ and $n_0 > 0$ s.t. $0 \le c g(n) \le f(n)$ for all $n \ge n_0$
 
@@ -55,7 +56,7 @@ We know that $2n^2 + 3n + 11 \in O(n^2)$, but also that $\in O(n^{100})$
 
 ## Strictly Smaller Aymptotic Notation
 
-e.g. $2n^2$ is strictly smaller tan $n^3$
+e.g. $2n^2$ is strictly smaller than $n^3$
 
 > [!info] Small-O
 > $f(n) \le o(g(n))$ : $f(n)$ grows much smaller than $g(n)$
