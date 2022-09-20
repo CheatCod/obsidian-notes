@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "SPATIAL SYSTEMS",
+      "path": "random/SPATIAL SYSTEMS.md"
+    },
+    {
+      "basename": "a1q2",
+      "path": "3A/CS 240/Assignments/A1/a1q2.md"
+    },
+    {
+      "basename": "a1q1",
+      "path": "3A/CS 240/Assignments/A1/a1q1.md"
+    },
+    {
+      "basename": "Q3",
+      "path": "2B/CS 240/Assignments/A1/Q3.md"
+    },
+    {
+      "basename": "Tut1",
+      "path": "3A/CS 240/Tut/Tut1.md"
+    },
+    {
+      "basename": "Run Time Analysis",
+      "path": "3A/CS 240/Week 2/Run Time Analysis.md"
+    },
+    {
       "basename": "Poisson Distribution",
       "path": "2A/Stat 230/Week 5/Poisson Distribution.md"
     },
@@ -53,14 +77,6 @@
       "path": "2A/Stat 230/Week 9/Computer Generation of R.Vs..md"
     },
     {
-      "basename": "Run Time Analysis",
-      "path": "3A/CS 240/Week 2/Run Time Analysis.md"
-    },
-    {
-      "basename": "a1q1",
-      "path": "3A/CS 240/Assignments/A1/a1q1.md"
-    },
-    {
       "basename": "Q1",
       "path": "2B/CS 240/Assignments/A1/Q1.md"
     },
@@ -81,20 +97,12 @@
       "path": "3A/CS 240/Week 2/Algorithm Analysis.md"
     },
     {
-      "basename": "Tut1",
-      "path": "3A/CS 240/Tut/Tut1.md"
-    },
-    {
       "basename": "Q5",
       "path": "2B/CS 240/Assignments/A1/Q5.md"
     },
     {
       "basename": "Q4",
       "path": "2B/CS 240/Assignments/A1/Q4.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "2B/CS 240/Assignments/A1/Q3.md"
     },
     {
       "basename": "Q2",
@@ -107,10 +115,6 @@
     {
       "basename": "Multiset",
       "path": "3A/Math 239/Week 2/Multiset.md"
-    },
-    {
-      "basename": "SPATIAL SYSTEMS",
-      "path": "random/SPATIAL SYSTEMS.md"
     },
     {
       "basename": "Untitled",
@@ -195,10 +199,6 @@
     {
       "basename": "Alias&Def&Relate",
       "path": "Templates/Alias&Def&Relate.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled/Untitled.md"
     }
   ],
   "omittedPaths": [],

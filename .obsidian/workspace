@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f6536a4c4ec34b8f",
+        "id": "b1b923a7993174cc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2A/Stat 230/Week 5/Poisson Distribution.md",
+            "file": "random/SPATIAL SYSTEMS.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/Stat 230/Week 5/Poisson Distribution.md",
+                "file": "random/SPATIAL SYSTEMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/Stat 230/Week 5/Poisson Distribution.md"
+                "file": "random/SPATIAL SYSTEMS.md"
               }
             }
           },
@@ -122,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6536a4c4ec34b8f",
+  "active": "b1b923a7993174cc",
   "lastOpenFiles": [
+    "3A/CS 240/Assignments/A1/a1q2.md",
+    "3A/CS 240/Assignments/A1/a1q1.md",
+    "2B/CS 240/Assignments/A1/Q3.md",
+    "3A/CS 240/Tut/Tut1.md",
+    "3A/CS 240/Week 2/Run Time Analysis.md",
+    "2A/Stat 230/Week 5/Poisson Distribution.md",
     "2A/Stat 230/Week 5/Negative Binomial Distribution.md",
     "2A/Stat 230/Week 5/Week 5.md",
     "2A/Stat 230/Week 6/Expected Value of p.f.s.md",
-    "2A/Stat 230/Week 6/Expect value of a Function.md",
-    "2A/Stat 230/Week 6/Variance and Standard Deviation.md",
-    "2A/Stat 230/Week 7/Variance of Standard Distribution.md",
-    "2A/Stat 230/Week 7/Continuous Distributions.md",
-    "2A/Stat 230/Week 8/Distributions of Transformed R.V..md",
-    "2A/Stat 230/Week 8/Moments and Continuous Uniform Distribution.md",
-    "2A/Stat 230/Week 8/Exponential Distribution.md"
+    "2A/Stat 230/Week 6/Expect value of a Function.md"
   ]
 }

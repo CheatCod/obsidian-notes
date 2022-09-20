@@ -68,7 +68,7 @@ e.g. $2n^2$ is strictly smaller than $n^3$
 > $$\begin{align*}
 > f(n) &= n \\
 > &= n \cdot c \cdot \frac{1}{c} \\
-> &< cn^2, n_0 \ge \frac{1}{c} \\
+> &< cn^2, n_0 > \frac{1}{c} \\
 > \end{align*}$$
 
 
