@@ -1,0 +1,20 @@
+- Recipe finder
+	- Filter calories
+	- Given set of ingredients, give recipes
+- Craft database
+	- Given set of materials, give possible crafts
+- E-commerce x
+- Rental database
+	- Distance to universities
+	- Rating
+	- Filter by bedrooms, roommates
+- Waterlooacuallyworks
+	- Filter by rating
+	- Filter by remote/inperson
+	- Filter by location
+	- Filter by technlogy required
+- Course database
+	- Graph view 
+	- Filter by professor
+	- Professor review
+	- Filter by time slot

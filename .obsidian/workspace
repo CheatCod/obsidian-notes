@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "random/SPATIAL SYSTEMS.md",
+            "file": "3A/CS 240/Assignments/A1/a1q2.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "random/SPATIAL SYSTEMS.md",
+                "file": "3A/CS 240/Assignments/A1/a1q2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "random/SPATIAL SYSTEMS.md"
+                "file": "3A/CS 240/Assignments/A1/a1q2.md"
               }
             }
           },
@@ -124,15 +124,15 @@
   },
   "active": "b1b923a7993174cc",
   "lastOpenFiles": [
-    "3A/CS 240/Assignments/A1/a1q2.md",
     "3A/CS 240/Assignments/A1/a1q1.md",
+    "3A/CS 240/Assignments/A1/a1q2.md",
+    "3A/CS 240/Week 3/Abstract Data Type.md",
+    "3A/CS 348/Project/ideas.md",
+    "prereq graph/cs116.md",
+    "random/SPATIAL SYSTEMS.md",
     "2B/CS 240/Assignments/A1/Q3.md",
     "3A/CS 240/Tut/Tut1.md",
     "3A/CS 240/Week 2/Run Time Analysis.md",
-    "2A/Stat 230/Week 5/Poisson Distribution.md",
-    "2A/Stat 230/Week 5/Negative Binomial Distribution.md",
-    "2A/Stat 230/Week 5/Week 5.md",
-    "2A/Stat 230/Week 6/Expected Value of p.f.s.md",
-    "2A/Stat 230/Week 6/Expect value of a Function.md"
+    "2A/Stat 230/Week 5/Poisson Distribution.md"
   ]
 }

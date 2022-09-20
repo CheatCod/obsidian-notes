@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "SPATIAL SYSTEMS",
-      "path": "random/SPATIAL SYSTEMS.md"
-    },
-    {
       "basename": "a1q2",
       "path": "3A/CS 240/Assignments/A1/a1q2.md"
     },
     {
       "basename": "a1q1",
       "path": "3A/CS 240/Assignments/A1/a1q1.md"
+    },
+    {
+      "basename": "Abstract Data Type",
+      "path": "3A/CS 240/Week 3/Abstract Data Type.md"
+    },
+    {
+      "basename": "ideas",
+      "path": "3A/CS 348/Project/ideas.md"
+    },
+    {
+      "basename": "cs116",
+      "path": "prereq graph/cs116.md"
+    },
+    {
+      "basename": "SPATIAL SYSTEMS",
+      "path": "random/SPATIAL SYSTEMS.md"
     },
     {
       "basename": "Q3",
@@ -187,18 +199,6 @@
     {
       "basename": "Agile",
       "path": "3A/CS 346/Week 1/Agile.md"
-    },
-    {
-      "basename": "Gather",
-      "path": "Templates/Gather.md"
-    },
-    {
-      "basename": "Align",
-      "path": "Templates/Align.md"
-    },
-    {
-      "basename": "Alias&Def&Relate",
-      "path": "Templates/Alias&Def&Relate.md"
     }
   ],
   "omittedPaths": [],
