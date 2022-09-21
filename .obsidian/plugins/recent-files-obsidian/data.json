@@ -1,12 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "a1q2",
-      "path": "3A/CS 240/Assignments/A1/a1q2.md"
+      "basename": "Q3",
+      "path": "2A/CS 245/Assignments/Final/Q3.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "2A/CS 245/Assignments/Final/Q2.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "2A/CS 245/Assignments/Final/Q1.md"
+    },
+    {
+      "basename": "Q5",
+      "path": "2A/CS 245/Assignments/A6/Q5.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "2A/CS 245/Assignments/A6/Q2.md"
+    },
+    {
+      "basename": "Q4",
+      "path": "2A/CS 245/Assignments/A6/Q4.md"
+    },
+    {
+      "basename": "Q3",
+      "path": "2A/CS 245/Assignments/A6/Q3.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "2A/CS 245/Assignments/A6/Q1.md"
+    },
+    {
+      "basename": "A5Q2",
+      "path": "2A/CS 245/Assignments/A5/A5Q2.md"
+    },
+    {
+      "basename": "A5Q3",
+      "path": "2A/CS 245/Assignments/A5/A5Q3.md"
+    },
+    {
+      "basename": "A5Q5",
+      "path": "2A/CS 245/Assignments/A5/A5Q5.md"
+    },
+    {
+      "basename": "A5Q4",
+      "path": "2A/CS 245/Assignments/A5/A5Q4.md"
+    },
+    {
+      "basename": "Q6",
+      "path": "2A/CS 245/Assignments/A04/Q6.md"
+    },
+    {
+      "basename": "Q5",
+      "path": "2A/CS 245/Assignments/A04/Q5.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "2A/CS 245/Assignments/A04/Q2.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "2A/CS 245/Assignments/A04/Q1.md"
+    },
+    {
+      "basename": "A5Q1",
+      "path": "2A/CS 245/Assignments/A5/A5Q1.md"
+    },
+    {
+      "basename": "Week 5",
+      "path": "2A/CS 245/Week 5/Week 5.md"
+    },
+    {
+      "basename": "a1q5",
+      "path": "3A/CS 240/Assignments/A1/a1q5.md"
+    },
+    {
+      "basename": "a1q4",
+      "path": "3A/CS 240/Assignments/A1/a1q4.md"
+    },
+    {
+      "basename": "Tut1",
+      "path": "3A/CS 240/Tut/Tut1.md"
     },
     {
       "basename": "a1q1",
       "path": "3A/CS 240/Assignments/A1/a1q1.md"
+    },
+    {
+      "basename": "a1q2",
+      "path": "3A/CS 240/Assignments/A1/a1q2.md"
+    },
+    {
+      "basename": "a1q3",
+      "path": "3A/CS 240/Assignments/A1/a1q3.md"
+    },
+    {
+      "basename": "Asymptotic Notation",
+      "path": "2B/CS 240/Module 1 Asymptotic Analysis/Asymptotic Notation.md"
+    },
+    {
+      "basename": "Algorithm Analysis",
+      "path": "3A/CS 240/Week 2/Algorithm Analysis.md"
+    },
+    {
+      "basename": "Run Time Analysis",
+      "path": "3A/CS 240/Week 2/Run Time Analysis.md"
+    },
+    {
+      "basename": "Syntactic equivalence",
+      "path": "2A/CS 245/Week 6/Syntactic equivalence.md"
+    },
+    {
+      "basename": "Week 6",
+      "path": "2A/CS 245/Week 6/Week 6.md"
+    },
+    {
+      "basename": "Midterm",
+      "path": "2A/CS 245/Midterm/Midterm.md"
     },
     {
       "basename": "Abstract Data Type",
@@ -27,14 +139,6 @@
     {
       "basename": "Q3",
       "path": "2B/CS 240/Assignments/A1/Q3.md"
-    },
-    {
-      "basename": "Tut1",
-      "path": "3A/CS 240/Tut/Tut1.md"
-    },
-    {
-      "basename": "Run Time Analysis",
-      "path": "3A/CS 240/Week 2/Run Time Analysis.md"
     },
     {
       "basename": "Poisson Distribution",
@@ -95,110 +199,6 @@
     {
       "basename": "Generating Series",
       "path": "3A/Math 239/Week 3/Generating Series.md"
-    },
-    {
-      "basename": "Power Series",
-      "path": "3A/Math 239/Week 3/Power Series.md"
-    },
-    {
-      "basename": "Assignment 1",
-      "path": "3A/Math 239/Assignments/Assignment 1.md"
-    },
-    {
-      "basename": "Algorithm Analysis",
-      "path": "3A/CS 240/Week 2/Algorithm Analysis.md"
-    },
-    {
-      "basename": "Q5",
-      "path": "2B/CS 240/Assignments/A1/Q5.md"
-    },
-    {
-      "basename": "Q4",
-      "path": "2B/CS 240/Assignments/A1/Q4.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "2B/CS 240/Assignments/A1/Q2.md"
-    },
-    {
-      "basename": "Binomial Series",
-      "path": "3A/Math 239/Week 2/Binomial Series.md"
-    },
-    {
-      "basename": "Multiset",
-      "path": "3A/Math 239/Week 2/Multiset.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "A-1-3",
-      "path": "3A/Math 239/Assignments/A1/A-1-3.md"
-    },
-    {
-      "basename": "A-1-2",
-      "path": "3A/Math 239/Assignments/A1/A-1-2.md"
-    },
-    {
-      "basename": "A-1-1",
-      "path": "3A/Math 239/Assignments/A1/A-1-1.md"
-    },
-    {
-      "basename": "A-1-4",
-      "path": "3A/Math 239/Assignments/A1/A-1-4.md"
-    },
-    {
-      "basename": "Interaction",
-      "path": "3A/CS 349/Week 2/Interaction.md"
-    },
-    {
-      "basename": "GUI Interface",
-      "path": "3A/CS 349/Week 2/GUI Interface.md"
-    },
-    {
-      "basename": "UX",
-      "path": "3A/CS 346/Week 2/UX.md"
-    },
-    {
-      "basename": "Requirements",
-      "path": "3A/CS 346/Week 2/Requirements.md"
-    },
-    {
-      "basename": "Relational Data Model",
-      "path": "3A/CS 348/Week 2/Relational Data Model.md"
-    },
-    {
-      "basename": "Algorithm Design",
-      "path": "3A/CS 240/Week 2/Algorithm Design.md"
-    },
-    {
-      "basename": "Intro",
-      "path": "3A/CS 240/Week 1/Intro.md"
-    },
-    {
-      "basename": "Relational Algebra",
-      "path": "3A/CS 348/Week 2/Relational Algebra.md"
-    },
-    {
-      "basename": "cs135",
-      "path": "prereq graph/cs135.md"
-    },
-    {
-      "basename": "Project Plan",
-      "path": "3A/CS 346/Week 2/Project Plan.md"
-    },
-    {
-      "basename": "Window Manager",
-      "path": "3A/CS 349/Week 2/Window Manager.md"
-    },
-    {
-      "basename": "Agile",
-      "path": "3A/CS 346/Week 1/Agile.md"
     }
   ],
   "omittedPaths": [],
