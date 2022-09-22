@@ -62,7 +62,6 @@ Facts:
 if $n \ge 2$ then
 floor(n/2), ceil(n/2) < n
 floor(n/2) + ceil(n/2) = n
-$\lfloor{} \rfloor$
 
 Analyze runtime:
 

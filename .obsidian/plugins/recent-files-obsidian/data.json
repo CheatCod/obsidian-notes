@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Binary Heaps",
+      "path": "3A/CS 240/Week 3/Binary Heaps.md"
+    },
+    {
+      "basename": "Abstract Data Type",
+      "path": "3A/CS 240/Week 3/Abstract Data Type.md"
+    },
+    {
+      "basename": "ideas",
+      "path": "3A/CS 348/Project/ideas.md"
+    },
+    {
+      "basename": "a1q6",
+      "path": "3A/CS 240/Assignments/A1/a1q6.md"
+    },
+    {
+      "basename": "a1q7",
+      "path": "3A/CS 240/Assignments/A1/a1q7.md"
+    },
+    {
+      "basename": "Algorithm Analysis",
+      "path": "3A/CS 240/Week 2/Algorithm Analysis.md"
+    },
+    {
+      "basename": "A-1-1",
+      "path": "3A/Math 239/Assignments/A1/A-1-1.md"
+    },
+    {
       "basename": "A-2-2",
       "path": "3A/Math 239/Assignments/A2/A-2-2.md"
     },
@@ -19,14 +47,6 @@
     {
       "basename": "a1q4",
       "path": "3A/CS 240/Assignments/A1/a1q4.md"
-    },
-    {
-      "basename": "a1q7",
-      "path": "3A/CS 240/Assignments/A1/a1q7.md"
-    },
-    {
-      "basename": "a1q6",
-      "path": "3A/CS 240/Assignments/A1/a1q6.md"
     },
     {
       "basename": "a1q5",
@@ -145,10 +165,6 @@
       "path": "2B/CS 240/Module 1 Asymptotic Analysis/Asymptotic Notation.md"
     },
     {
-      "basename": "Algorithm Analysis",
-      "path": "3A/CS 240/Week 2/Algorithm Analysis.md"
-    },
-    {
       "basename": "Syntactic equivalence",
       "path": "2A/CS 245/Week 6/Syntactic equivalence.md"
     },
@@ -159,14 +175,6 @@
     {
       "basename": "Midterm",
       "path": "2A/CS 245/Midterm/Midterm.md"
-    },
-    {
-      "basename": "Abstract Data Type",
-      "path": "3A/CS 240/Week 3/Abstract Data Type.md"
-    },
-    {
-      "basename": "ideas",
-      "path": "3A/CS 348/Project/ideas.md"
     },
     {
       "basename": "cs116",
@@ -191,14 +199,6 @@
     {
       "basename": "Expected Value of p.f.s",
       "path": "2A/Stat 230/Week 6/Expected Value of p.f.s.md"
-    },
-    {
-      "basename": "Expect value of a Function",
-      "path": "2A/Stat 230/Week 6/Expect value of a Function.md"
-    },
-    {
-      "basename": "Variance and Standard Deviation",
-      "path": "2A/Stat 230/Week 6/Variance and Standard Deviation.md"
     }
   ],
   "omittedPaths": [],
