@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "a1q1",
+      "path": "3A/CS 240/Assignments/A1/a1q1.md"
+    },
+    {
+      "basename": "a1q4",
+      "path": "3A/CS 240/Assignments/A1/a1q4.md"
+    },
+    {
+      "basename": "a1q2",
+      "path": "3A/CS 240/Assignments/A1/a1q2.md"
+    },
+    {
+      "basename": "a1q5",
+      "path": "3A/CS 240/Assignments/A1/a1q5.md"
+    },
+    {
+      "basename": "a1q6",
+      "path": "3A/CS 240/Assignments/A1/a1q6.md"
+    },
+    {
+      "basename": "a1q7",
+      "path": "3A/CS 240/Assignments/A1/a1q7.md"
+    },
+    {
+      "basename": "a1q3",
+      "path": "3A/CS 240/Assignments/A1/a1q3.md"
+    },
+    {
+      "basename": "Composition",
+      "path": "3A/Math 239/Week 3/Composition.md"
+    },
+    {
+      "basename": "Generating Series",
+      "path": "3A/Math 239/Week 3/Generating Series.md"
+    },
+    {
+      "basename": "Run Time Analysis",
+      "path": "3A/CS 240/Week 2/Run Time Analysis.md"
+    },
+    {
       "basename": "Q3",
       "path": "2A/CS 245/Assignments/Final/Q3.md"
     },
@@ -73,28 +113,8 @@
       "path": "2A/CS 245/Week 5/Week 5.md"
     },
     {
-      "basename": "a1q5",
-      "path": "3A/CS 240/Assignments/A1/a1q5.md"
-    },
-    {
-      "basename": "a1q4",
-      "path": "3A/CS 240/Assignments/A1/a1q4.md"
-    },
-    {
       "basename": "Tut1",
       "path": "3A/CS 240/Tut/Tut1.md"
-    },
-    {
-      "basename": "a1q1",
-      "path": "3A/CS 240/Assignments/A1/a1q1.md"
-    },
-    {
-      "basename": "a1q2",
-      "path": "3A/CS 240/Assignments/A1/a1q2.md"
-    },
-    {
-      "basename": "a1q3",
-      "path": "3A/CS 240/Assignments/A1/a1q3.md"
     },
     {
       "basename": "Asymptotic Notation",
@@ -103,10 +123,6 @@
     {
       "basename": "Algorithm Analysis",
       "path": "3A/CS 240/Week 2/Algorithm Analysis.md"
-    },
-    {
-      "basename": "Run Time Analysis",
-      "path": "3A/CS 240/Week 2/Run Time Analysis.md"
     },
     {
       "basename": "Syntactic equivalence",
@@ -183,22 +199,6 @@
     {
       "basename": "Exponential Distribution",
       "path": "2A/Stat 230/Week 8/Exponential Distribution.md"
-    },
-    {
-      "basename": "Normal Distribution",
-      "path": "2A/Stat 230/Week 9/Normal Distribution.md"
-    },
-    {
-      "basename": "Computer Generation of R.Vs.",
-      "path": "2A/Stat 230/Week 9/Computer Generation of R.Vs..md"
-    },
-    {
-      "basename": "Q1",
-      "path": "2B/CS 240/Assignments/A1/Q1.md"
-    },
-    {
-      "basename": "Generating Series",
-      "path": "3A/Math 239/Week 3/Generating Series.md"
     }
   ],
   "omittedPaths": [],

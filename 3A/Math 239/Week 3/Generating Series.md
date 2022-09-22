@@ -46,6 +46,54 @@ This only makes sense if its finite, so we assume each of these sets $A_n$ is fi
 
 
 
+## Sum Lemma
+
+Let $A, B$ be sets with weight functions $w : A \to \mathbb{N}$, $v : B \to \mathbb{N}$
+
+Define $\theta : A \times B \to \mathbb{N}$ as follows:
+
+for $(a,b) \in A \times B$, let $\theta(a, b) = w(a) + v(b)$
+
+Then
+$$\Phi_{A \times B} (x) = \Phi_{A}(x)\Phi_{B}(x)$$
+
+## Product Lemma
+
+
+
+
+## String Lemma
+
+Let $A$ be a set with a weight function $w : A \to \mathbb{N}$
+
+such that $A_0 = \emptyset$ (there are no elements of weight 0)
+
+> [!note] Why no elements of weight 0?
+> ex.
+> $A = {0, 1}, w(a) = a$
+> $\Phi_A(X) = 1 + x$
+> $\frac{1}{1-\Phi_A(x)} = -\frac{1}{x} = -x^{-1}$
+> 
+> There are infinitely many elements of $A*$ of weight 0.
+> $w*(0,0,0,0,0,...) = 0$ for any finite sequene of 0s
+> So $w*$ is not a valid weight function on $A*$
+> 
+
+
+
+Let $A(x) = \Phi_A(x)$
+
+
+for $k \in \mathbb{N}$, $A \times A \times... A$ $k$ times = $A^k$ has generating series $A(x)^k$
+
+Let $A* = A^0 \cup A^1 \cup ... A^k$
+
+For $\sigma = (a_1, a_2, a_3...) \in A^k$,
+
+Its weight is $w*(\sigma) = w(a_1) + w(a_2)...$
+Then
+
+$$\Phi_{A*}(x) = \frac{1}{1-A(x)}$$
 
 
 
