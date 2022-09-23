@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b1b923a7993174cc",
+        "id": "46a9d7eed8fed725",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3A/CS 240/Week 3/Binary Heaps.md",
+            "file": "3A/Math 239/Assignments/A2/A-2-2.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/CS 240/Week 3/Binary Heaps.md",
+                "file": "3A/Math 239/Assignments/A2/A-2-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/CS 240/Week 3/Binary Heaps.md"
+                "file": "3A/Math 239/Assignments/A2/A-2-2.md"
               }
             }
           },
@@ -122,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b1b923a7993174cc",
+  "active": "46a9d7eed8fed725",
   "lastOpenFiles": [
-    "3A/CS 240/Week 3/Abstract Data Type.md",
-    "3A/CS 240/Week 3/Binary Heaps.md",
-    "3A/CS 348/Project/ideas.md",
-    "3A/CS 240/Assignments/A1/a1q6.md",
-    "3A/CS 240/Assignments/A1/a1q7.md",
-    "3A/CS 240/Week 2/Algorithm Analysis.md",
-    "3A/Math 239/Assignments/A1/A-1-1.md",
+    "3A/Math 239/Week 3/Generating Series.md",
     "3A/Math 239/Assignments/A2/A-2-2.md",
     "3A/Math 239/Assignments/A2/A-2-1.md",
-    "3A/Math 239/Assignments/A2/A-2-3.md"
+    "3A/Math 239/Week 3/Composition.md",
+    "3A/Math 239/Assignments/A2/A-2-3.md",
+    "3A/Math 239/Assignments/A1/A-1-1.md",
+    "3A/Math 239/Assignments/Assignment 1.md",
+    "3A/CS 240/Week 3/Binary Heaps.md",
+    "3A/CS 240/Week 3/Abstract Data Type.md",
+    "3A/CS 348/Project/ideas.md"
   ]
 }

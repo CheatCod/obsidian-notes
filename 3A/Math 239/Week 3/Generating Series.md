@@ -43,10 +43,10 @@ This only makes sense if its finite, so we assume each of these sets $A_n$ is fi
 > [x^n]\Phi_A(x) &= [x^n]\sum_{a \in A} x^{\omega(a)} = [x^n] \sum_{k=0}^\inf \sum_{a \in A_k}x^{\omega(a)}
 > \end{align*}$$
 
-
-
-
 ## Sum Lemma
+
+
+## Product Lemma
 
 Let $A, B$ be sets with weight functions $w : A \to \mathbb{N}$, $v : B \to \mathbb{N}$
 
@@ -56,9 +56,6 @@ for $(a,b) \in A \times B$, let $\theta(a, b) = w(a) + v(b)$
 
 Then
 $$\Phi_{A \times B} (x) = \Phi_{A}(x)\Phi_{B}(x)$$
-
-## Product Lemma
-
 
 
 
