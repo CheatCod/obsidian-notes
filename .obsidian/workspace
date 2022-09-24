@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3A/Math 239/Assignments/A2/A-2-2.md",
+            "file": "3A/Math 239/Week 3/Composition.md",
             "mode": "source",
             "source": false
           }
@@ -56,6 +56,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "fbf894acba9972a6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Assignments/A2/A-2-2.md",
+                "file": "3A/Math 239/Week 3/Composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Assignments/A2/A-2-2.md"
+                "file": "3A/Math 239/Week 3/Composition.md"
               }
             }
           },
@@ -113,6 +121,29 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "ad3602903c4e137e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3A/Math 239/Week 3/Composition.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56735f9fec94c048",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -122,17 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46a9d7eed8fed725",
+  "active": "914e96105618b067",
   "lastOpenFiles": [
-    "3A/Math 239/Assignments/A2/A-2-3.md",
     "3A/Math 239/Assignments/A2/A-2-2.md",
+    "3A/Math 239/Assignments/A2/A-2-3.md",
     "3A/Math 239/Assignments/A2/A-2-1.md",
-    "3A/Math 239/Week 3/Generating Series.md",
     "3A/Math 239/Week 3/Composition.md",
+    "3A/Math 239/Week 3/Untitled.md",
+    "3A/Math 239/Week 3/Generating Series.md",
     "3A/Math 239/Assignments/A1/A-1-1.md",
     "3A/Math 239/Assignments/Assignment 1.md",
     "3A/CS 240/Week 3/Binary Heaps.md",
-    "3A/CS 240/Week 3/Abstract Data Type.md",
-    "3A/CS 348/Project/ideas.md"
+    "3A/CS 240/Week 3/Abstract Data Type.md"
   ]
 }
