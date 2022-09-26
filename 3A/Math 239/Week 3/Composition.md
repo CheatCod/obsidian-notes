@@ -104,7 +104,7 @@ $$
 > [!example] 
 > Let $L$ be the set of compositions in which each part is odd. 
 > 1. Allowed parts: $P = \set{1,3,5,7,9..}$
->  $Phi_P(x) = c \sum_{j=0}^\infty(x^2)j = \frac{x}{1-x^2}$
+>  $\Phi_P(x) = c \sum_{j=0}^\infty(x^2)j = \frac{x}{1-x^2}$
 >2. The length has no constraint, $P^k$ has generating series $(\frac{x}{1-x^2})^k$
 >3. $L = \cup_{k=0}^\infty P^k = P^*$ (String lemma)
 >4. $$\Phi_L(x) = \frac{1}{1-\frac{x}{1-x^2}} = \frac{1-x^2}{1-x-x^2}$$
@@ -143,11 +143,41 @@ f_0x^0 + (f_1-f_0)x + (f_2-f_1-f_0)x^2 + \sum_{n=3}^\infty(f_n - f_{n-1} - f_{n-
 \end{align*}$$
 
 
-> 
-> 
+ 
+
+$$\begin{align*}
+\frac{x-2x^3+x^5}{1-3x^2-x^3+3x^4-x^6} &= \sum_{n=0}^\infty |Q_n|x^n \\
+x-2x^3+x^5& = (1-3x^2-x^3+3x^4-x^6) \sum_{n=0}^\infty q_nx^n \\
+
+&= \sum_{n=0}^\infty q_nx^n - 3 \sum_{n=0}^\infty q_nx^{n+2} - \sum_{n=0}^\infty q_nx^{n+3} + 3\sum_{n=0}^\infty q_nx^{n+4} - \sum_{n=0}^\infty q_nx^{n+6} \\
+&= \sum_{n=0}^\infty q_nx^n - 3 \sum_{n=2}^\infty q_nx^{n} - \sum_{n=3}^\infty q_nx^{n} + 3\sum_{n=4}^\infty q_nx^{n} - \sum_{n=6}^\infty q_nx^{n}
+\end{align*}$$
 
 
+Coefficient of $x^n$ in RHS:
+
+| n       | Coefficient                                     |     |
+| ------- | ----------------------------------------------- | --- |
+| 0       | $q_0$                                           | 0   |
+| 1       | $q_1$                                           | 1   |
+| 2       | $q_2 - 3q_0$                                    | 0   |
+| 3       | $q_3 - 3q_1 - q_0$                              | -2  |
+| 4       | $q_4 -3q_2 - q_1 + 3q_0$                        | 0   |
+| 5       | $q_5 - 3q_3 - q_2 + 3q_1$                       | 1   |
+| $\ge 6$ | $q_n - 3q_{n-2} - q_{n-3} + 3q_{n-4} - q_{n-6}$ | 0   |
 
 
+This determines all the numbers $q_n$ by induction on $n$
 
+Thus
 
+$$\begin{gather}
+q_0 = 0 \\
+q_1 = 1 \\
+q_2-3q_0 = 0 \to q_2 = 0 \\
+q_3- 3q_1 - q_0 = -2  \to q_3 = 3 + 0 - 2 = 1\\
+q_4 - q_2 - q_1 + 3q_0 = 0  \to q_4 = 0 + 1 + 0 = 1\\
+q_5 - 3q_3 - q_2 + 3q_1 = 1  \to q_5 = 3 + 0 - 3 + 1 = 1\\
+q_n = 3q_{n-2} + q_{n-3}- 3q_{n-4} + q_{n-6}
+
+\end{gather}$$

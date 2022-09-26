@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "A-2-2",
+      "path": "3A/Math 239/Assignments/A2/A-2-2.md"
+    },
+    {
+      "basename": "A-2-1",
+      "path": "3A/Math 239/Assignments/A2/A-2-1.md"
+    },
+    {
+      "basename": "Composition",
+      "path": "3A/Math 239/Week 3/Composition.md"
+    },
+    {
+      "basename": "Binary String",
+      "path": "3A/Math 239/Week 4/Binary String.md"
+    },
+    {
+      "basename": "Tut2",
+      "path": "3A/CS 240/Tut/Tut2.md"
+    },
+    {
+      "basename": "Tut1",
+      "path": "3A/CS 240/Tut/Tut1.md"
+    },
+    {
+      "basename": "Binary Heaps",
+      "path": "3A/CS 240/Week 3/Binary Heaps.md"
+    },
+    {
+      "basename": "Wigets",
+      "path": "3A/CS 349/Week 4/Wigets.md"
+    },
+    {
+      "basename": "JavaFX",
+      "path": "3A/CS 349/Week 4/JavaFX.md"
+    },
+    {
+      "basename": "Gradle",
+      "path": "3A/CS 346/Week 4/Gradle.md"
+    },
+    {
       "basename": "Generating Series",
       "path": "3A/Math 239/Week 3/Generating Series.md"
     },
@@ -25,24 +65,8 @@
       "path": "3A/CS 349/Week 2/Window Manager.md"
     },
     {
-      "basename": "Composition",
-      "path": "3A/Math 239/Week 3/Composition.md"
-    },
-    {
-      "basename": "A-2-2",
-      "path": "3A/Math 239/Assignments/A2/A-2-2.md"
-    },
-    {
       "basename": "A-2-3",
       "path": "3A/Math 239/Assignments/A2/A-2-3.md"
-    },
-    {
-      "basename": "A-2-1",
-      "path": "3A/Math 239/Assignments/A2/A-2-1.md"
-    },
-    {
-      "basename": "Binary Heaps",
-      "path": "3A/CS 240/Week 3/Binary Heaps.md"
     },
     {
       "basename": "Abstract Data Type",
@@ -173,32 +197,8 @@
       "path": "2A/CS 245/Week 5/Week 5.md"
     },
     {
-      "basename": "Tut1",
-      "path": "3A/CS 240/Tut/Tut1.md"
-    },
-    {
       "basename": "Asymptotic Notation",
       "path": "2B/CS 240/Module 1 Asymptotic Analysis/Asymptotic Notation.md"
-    },
-    {
-      "basename": "Syntactic equivalence",
-      "path": "2A/CS 245/Week 6/Syntactic equivalence.md"
-    },
-    {
-      "basename": "Week 6",
-      "path": "2A/CS 245/Week 6/Week 6.md"
-    },
-    {
-      "basename": "Midterm",
-      "path": "2A/CS 245/Midterm/Midterm.md"
-    },
-    {
-      "basename": "cs116",
-      "path": "prereq graph/cs116.md"
-    },
-    {
-      "basename": "SPATIAL SYSTEMS",
-      "path": "random/SPATIAL SYSTEMS.md"
     }
   ],
   "omittedPaths": [],

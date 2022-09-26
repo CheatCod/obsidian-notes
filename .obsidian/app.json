@@ -13,5 +13,8 @@
   "vimMode": false,
   "autoConvertHtml": false,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "spellcheckDictionary": [
+    "JavaFX applications"
+  ]
 }
