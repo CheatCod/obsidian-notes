@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Generating Series",
+      "path": "3A/Math 239/Week 3/Generating Series.md"
+    },
+    {
+      "basename": "A-1-1",
+      "path": "3A/Math 239/Assignments/A1/A-1-1.md"
+    },
+    {
+      "basename": "Power Series",
+      "path": "3A/Math 239/Week 3/Power Series.md"
+    },
+    {
+      "basename": "Interaction",
+      "path": "3A/CS 349/Week 2/Interaction.md"
+    },
+    {
+      "basename": "GUI Interface",
+      "path": "3A/CS 349/Week 2/GUI Interface.md"
+    },
+    {
+      "basename": "Window Manager",
+      "path": "3A/CS 349/Week 2/Window Manager.md"
+    },
+    {
       "basename": "Composition",
       "path": "3A/Math 239/Week 3/Composition.md"
     },
@@ -15,14 +39,6 @@
     {
       "basename": "A-2-1",
       "path": "3A/Math 239/Assignments/A2/A-2-1.md"
-    },
-    {
-      "basename": "Generating Series",
-      "path": "3A/Math 239/Week 3/Generating Series.md"
-    },
-    {
-      "basename": "A-1-1",
-      "path": "3A/Math 239/Assignments/A1/A-1-1.md"
     },
     {
       "basename": "Binary Heaps",
@@ -183,18 +199,6 @@
     {
       "basename": "SPATIAL SYSTEMS",
       "path": "random/SPATIAL SYSTEMS.md"
-    },
-    {
-      "basename": "Poisson Distribution",
-      "path": "2A/Stat 230/Week 5/Poisson Distribution.md"
-    },
-    {
-      "basename": "Negative Binomial Distribution",
-      "path": "2A/Stat 230/Week 5/Negative Binomial Distribution.md"
-    },
-    {
-      "basename": "Week 5",
-      "path": "2A/Stat 230/Week 5/Week 5.md"
     }
   ],
   "omittedPaths": [],

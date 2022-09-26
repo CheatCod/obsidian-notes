@@ -23,5 +23,6 @@
   "obsidian-git",
   "obsidian-truth-table-plugin",
   "obsidian-enhancing-mindmap",
-  "obsidian-autocomplete-plugin"
+  "obsidian-autocomplete-plugin",
+  "obsidian-pandoc"
 ]
