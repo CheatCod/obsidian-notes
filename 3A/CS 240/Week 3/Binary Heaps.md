@@ -143,7 +143,7 @@ Why is fix-down linear?
 	- Thus
 $$\begin{align*}
 \text{\# key comp} &\le \sum_{l=0}^{h} 2(h-l)2^l\\
-&=\sum_{l=0}^{h} l2^{h-l+1} \\
+&=\sum_{l=0}^{h} l\cdot2^{h-l+1} \tag{sum in reverse order} \\
 &=2^{h+1} \sum_{l=0}^{h}\frac{l}{2^l} \\
 &\le2^{h+1} \sum_{l=0}^{\infty}\frac{l}{2^l} \\
 \end{align*}$$
