@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Relational Algebra",
+      "path": "3A/CS 348/Week 2/Relational Algebra.md"
+    },
+    {
       "basename": "A-2-2",
       "path": "3A/Math 239/Assignments/A2/A-2-2.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Week 5",
       "path": "2A/CS 245/Week 5/Week 5.md"
-    },
-    {
-      "basename": "Asymptotic Notation",
-      "path": "2B/CS 240/Module 1 Asymptotic Analysis/Asymptotic Notation.md"
     }
   ],
   "omittedPaths": [],
