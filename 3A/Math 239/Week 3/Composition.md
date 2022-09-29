@@ -143,6 +143,7 @@ f_0x^0 + (f_1-f_0)x + (f_2-f_1-f_0)x^2 + \sum_{n=3}^\infty(f_n - f_{n-1} - f_{n-
 \end{align*}$$
 
 
+Composition in which every part is odd and length = 1 mod 3
  
 
 $$\begin{align*}
