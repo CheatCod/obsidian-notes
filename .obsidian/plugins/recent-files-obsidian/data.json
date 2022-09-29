@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "SQL",
-      "path": "3A/CS 348/Week 3/SQL.md"
+      "basename": "Expected Runtime",
+      "path": "3A/CS 240/Week 4/Expected Runtime.md"
+    },
+    {
+      "basename": "Sorting & Randomized Algo",
+      "path": "3A/CS 240/Week 4/Sorting & Randomized Algo.md"
+    },
+    {
+      "basename": "SQL Programming",
+      "path": "3A/CS 348/Week 4/SQL Programming.md"
     },
     {
       "basename": "SQL, Triggers, VIew, Indexes",
       "path": "3A/CS 348/Week 4/SQL, Triggers, VIew, Indexes.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "3A/CS 348/Week 3/SQL.md"
     },
     {
       "basename": "a3e",
@@ -55,10 +67,6 @@
     {
       "basename": "Power Series",
       "path": "3A/Math 239/Week 3/Power Series.md"
-    },
-    {
-      "basename": "Sorting & Randomized Algo",
-      "path": "3A/CS 240/Week 4/Sorting & Randomized Algo.md"
     },
     {
       "basename": "Binary Heaps",
@@ -191,14 +199,6 @@
     {
       "basename": "Q2",
       "path": "2B/CS 240/Assignments/A1/Q2.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "2A/CS 245/Assignments/Final/Q3.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "2A/CS 245/Assignments/Final/Q2.md"
     }
   ],
   "omittedPaths": [],

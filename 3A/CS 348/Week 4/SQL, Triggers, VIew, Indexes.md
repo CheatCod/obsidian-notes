@@ -63,3 +63,28 @@
 ## Modifying views
 - Makes sense if we want users to really see views as tables
 - Goal
+
+...
+
+## INSTEAD OF triggers
+
+# Indexes
+
+```sql
+SELECT * FROM User WHERE name = 'Bart';
+```
+^^^ will scan the entire table instead of going directly to the rows
+
+Can we go directly to the rows? → Build index on User.name
+
+- An index is an axuiliary persistent data structure
+	- Search tree, lookup table, etc
+- Typically, the DBMS will automatically create indexes for the primary key and the unique constraint declaration
+- An index on $R.A$ can speed up access of the form
+	- $R.A$ = value
+	- $R.a >$ value (sometimes, depending on the index type)
+- An index on $(R.A_1,...,R.A_n)$ can speed up 
+	- $R.A_1 = value_1 \land ... \land R.A_n = value_n$
+	- $(R.A_1,..,R.A_n) > (value_1,...,value_n)$ <- depends
+- Ordering of index columns is important
+
