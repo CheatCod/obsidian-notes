@@ -1,6 +1,36 @@
 # SQL
 
-...
+The SQL language has many parts:
+
+- Data definition language (DDL): define/modify schemas, delete relations
+- Data manipulation language (DML): query information, insert/delete/modify tuple
+- Integrity constraints: specify constraints that data stored in the database must satisify
+
+## DDL
+
+```sql
+CREATE TABLE name(column name, columne type)
+```
+
+### DML
+
+**SFW** (SELECT FROM WHERE):
+
+SELECT $A_1,A_2...$
+FROM $R_1,R_2..$
+WHERE $CONDITION$
+
+> [!example] 
+> - List all rows in the User table:
+>  SELECT * FROM USER
+
+**Join**:
+
+
+
+
+
+
 
 ## INSERT
 - Insert one row
