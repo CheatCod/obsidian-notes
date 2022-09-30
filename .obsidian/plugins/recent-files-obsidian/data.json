@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Expected Runtime",
-      "path": "3A/CS 240/Week 4/Expected Runtime.md"
+      "basename": "A-3-3",
+      "path": "3A/Math 239/Assignments/A3/A-3-3.md"
     },
     {
-      "basename": "Sorting & Randomized Algo",
-      "path": "3A/CS 240/Week 4/Sorting & Randomized Algo.md"
+      "basename": "A-3-1",
+      "path": "3A/Math 239/Assignments/A3/A-3-1.md"
     },
     {
-      "basename": "SQL Programming",
-      "path": "3A/CS 348/Week 4/SQL Programming.md"
+      "basename": "Composition",
+      "path": "3A/Math 239/Week 3/Composition.md"
     },
     {
-      "basename": "SQL, Triggers, VIew, Indexes",
-      "path": "3A/CS 348/Week 4/SQL, Triggers, VIew, Indexes.md"
+      "basename": "Power Series",
+      "path": "3A/Math 239/Week 3/Power Series.md"
     },
     {
-      "basename": "SQL",
-      "path": "3A/CS 348/Week 3/SQL.md"
+      "basename": "Generating Series",
+      "path": "3A/Math 239/Week 3/Generating Series.md"
+    },
+    {
+      "basename": "Binomial Series",
+      "path": "3A/Math 239/Week 2/Binomial Series.md"
     },
     {
       "basename": "a3e",
@@ -41,38 +45,6 @@
       "path": "3A/CS 348/Assignment/A1/q3/q3a.md"
     },
     {
-      "basename": "Relational Data Model",
-      "path": "3A/CS 348/Week 2/Relational Data Model.md"
-    },
-    {
-      "basename": "Relational Algebra",
-      "path": "3A/CS 348/Week 2/Relational Algebra.md"
-    },
-    {
-      "basename": "q2a",
-      "path": "3A/CS 348/Assignment/A1/q2/q2a.md"
-    },
-    {
-      "basename": "Binary String",
-      "path": "3A/Math 239/Week 4/Binary String.md"
-    },
-    {
-      "basename": "Composition",
-      "path": "3A/Math 239/Week 3/Composition.md"
-    },
-    {
-      "basename": "Generating Series",
-      "path": "3A/Math 239/Week 3/Generating Series.md"
-    },
-    {
-      "basename": "Power Series",
-      "path": "3A/Math 239/Week 3/Power Series.md"
-    },
-    {
-      "basename": "Binary Heaps",
-      "path": "3A/CS 240/Week 3/Binary Heaps.md"
-    },
-    {
       "basename": "a2e",
       "path": "3A/CS 348/Assignment/A1/q2/a2e.md"
     },
@@ -89,12 +61,52 @@
       "path": "3A/CS 348/Assignment/A1/q2/q2b.md"
     },
     {
+      "basename": "q2a",
+      "path": "3A/CS 348/Assignment/A1/q2/q2a.md"
+    },
+    {
       "basename": "q1b",
       "path": "3A/CS 348/Assignment/A1/q1/q1b.md"
     },
     {
       "basename": "q1a",
       "path": "3A/CS 348/Assignment/A1/q1/q1a.md"
+    },
+    {
+      "basename": "Expected Runtime",
+      "path": "3A/CS 240/Week 4/Expected Runtime.md"
+    },
+    {
+      "basename": "Sorting & Randomized Algo",
+      "path": "3A/CS 240/Week 4/Sorting & Randomized Algo.md"
+    },
+    {
+      "basename": "SQL Programming",
+      "path": "3A/CS 348/Week 4/SQL Programming.md"
+    },
+    {
+      "basename": "SQL, Triggers, VIew, Indexes",
+      "path": "3A/CS 348/Week 4/SQL, Triggers, VIew, Indexes.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "3A/CS 348/Week 3/SQL.md"
+    },
+    {
+      "basename": "Relational Data Model",
+      "path": "3A/CS 348/Week 2/Relational Data Model.md"
+    },
+    {
+      "basename": "Relational Algebra",
+      "path": "3A/CS 348/Week 2/Relational Algebra.md"
+    },
+    {
+      "basename": "Binary String",
+      "path": "3A/Math 239/Week 4/Binary String.md"
+    },
+    {
+      "basename": "Binary Heaps",
+      "path": "3A/CS 240/Week 3/Binary Heaps.md"
     },
     {
       "basename": "A-2-2",
@@ -187,18 +199,6 @@
     {
       "basename": "Algorithm Design",
       "path": "3A/CS 240/Week 2/Algorithm Design.md"
-    },
-    {
-      "basename": "Run Time Analysis",
-      "path": "3A/CS 240/Week 2/Run Time Analysis.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "2B/CS 240/Assignments/A1/Q3.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "2B/CS 240/Assignments/A1/Q2.md"
     }
   ],
   "omittedPaths": [],

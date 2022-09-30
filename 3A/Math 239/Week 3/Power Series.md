@@ -12,9 +12,9 @@ A(x) + B(x) &= \sum_{i -> \inf} a_ix^i + \sum_{j -> \inf} a_jx^j \\
 
 ## Product:
 $$\begin{align*}
-A(x)B(x) &= \sum_{i -> \inf} a_ix^i \sum_{j -> \inf} a_jx^j \\
-&= \sum_{i -> \inf} \sum_{j -> \inf}  a_ix^i \cdot a_jx^j \\ 
-&= \sum_{i -> \inf} \sum_{j -> \inf}  a_i a_j x^{i+j} \\ 
+A(x)B(x) &= \sum_{i -> \inf} a_ix^i \sum_{j -> \inf} b_jx^j \\
+&= \sum_{i -> \inf} \sum_{j -> \inf}  a_ix^i \cdot b_jx^j \\ 
+&= \sum_{i -> \inf} \sum_{j -> \inf}  a_i b_j x^{i+j} \\ 
 \end{align*}$$
 
 Reindex this to collect all terms which give the same exponenet of x:
