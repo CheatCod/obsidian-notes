@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Ambiguity",
+      "path": "3A/Math 239/Week 4/Ambiguity.md"
+    },
+    {
+      "basename": "Binary String",
+      "path": "3A/Math 239/Week 4/Binary String.md"
+    },
+    {
       "basename": "A-3-2",
       "path": "3A/Math 239/Assignments/A3/A-3-2.md"
     },
@@ -105,10 +113,6 @@
       "path": "3A/CS 348/Week 2/Relational Algebra.md"
     },
     {
-      "basename": "Binary String",
-      "path": "3A/Math 239/Week 4/Binary String.md"
-    },
-    {
       "basename": "Binary Heaps",
       "path": "3A/CS 240/Week 3/Binary Heaps.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "a1q3",
       "path": "3A/CS 240/Assignments/A1/a1q3.md"
-    },
-    {
-      "basename": "a1q1",
-      "path": "3A/CS 240/Assignments/A1/a1q1.md"
     }
   ],
   "omittedPaths": [],
