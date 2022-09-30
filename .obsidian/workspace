@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3A/Math 239/Assignments/A3/A-3-3.md",
+            "file": "3A/Math 239/Assignments/A3/A-3-2.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Assignments/A3/A-3-3.md",
+                "file": "3A/Math 239/Assignments/A3/A-3-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Assignments/A3/A-3-3.md"
+                "file": "3A/Math 239/Assignments/A3/A-3-2.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Assignments/A3/A-3-3.md",
+                "file": "3A/Math 239/Assignments/A3/A-3-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,15 +155,15 @@
   },
   "active": "ec26d74d3f122f5c",
   "lastOpenFiles": [
+    "3A/Math 239/Assignments/A3/A-3-3.md",
     "3A/Math 239/Assignments/A3/A-3-1.md",
+    "3A/Math 239/Assignments/A3/A-3-2.md",
     "3A/Math 239/Week 3/Composition.md",
-    "3A/Math 239/Week 3/Power Series.md",
     "3A/Math 239/Week 3/Generating Series.md",
+    "3A/Math 239/Week 3/Power Series.md",
     "3A/Math 239/Week 2/Binomial Series.md",
     "3A/CS 348/Assignment/A1/q3/a3e.md",
     "3A/CS 348/Assignment/A1/q3/a3d.md",
-    "3A/CS 348/Assignment/A1/q3/a3c.md",
-    "3A/CS 348/Assignment/A1/q3/q3b.md",
-    "3A/CS 348/Assignment/A1/q3/q3a.md"
+    "3A/CS 348/Assignment/A1/q3/a3c.md"
   ]
 }

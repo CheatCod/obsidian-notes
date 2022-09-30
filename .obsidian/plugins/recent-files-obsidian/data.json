@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "A-3-2",
+      "path": "3A/Math 239/Assignments/A3/A-3-2.md"
+    },
+    {
       "basename": "A-3-3",
       "path": "3A/Math 239/Assignments/A3/A-3-3.md"
     },
@@ -13,12 +17,12 @@
       "path": "3A/Math 239/Week 3/Composition.md"
     },
     {
-      "basename": "Power Series",
-      "path": "3A/Math 239/Week 3/Power Series.md"
-    },
-    {
       "basename": "Generating Series",
       "path": "3A/Math 239/Week 3/Generating Series.md"
+    },
+    {
+      "basename": "Power Series",
+      "path": "3A/Math 239/Week 3/Power Series.md"
     },
     {
       "basename": "Binomial Series",
@@ -195,10 +199,6 @@
     {
       "basename": "a1q1",
       "path": "3A/CS 240/Assignments/A1/a1q1.md"
-    },
-    {
-      "basename": "Algorithm Design",
-      "path": "3A/CS 240/Week 2/Algorithm Design.md"
     }
   ],
   "omittedPaths": [],
