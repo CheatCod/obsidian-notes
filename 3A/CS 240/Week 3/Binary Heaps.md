@@ -128,7 +128,7 @@ A: an array
 Why is fix-down linear?
 
 - The lower bound should be clear: for loop goes from $floor(\frac{n}{2})$ down to 0
-- Upper bound needs mote work
+- Upper bound needs more work
 - First observation: we can count the key-comparisons:
 (# of other operations will be proportional to # of key comparison)
 - let $h$ be the height of the heap

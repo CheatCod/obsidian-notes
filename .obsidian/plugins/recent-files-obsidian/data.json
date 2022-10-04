@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "a2q2",
+      "path": "3A/CS 240/Assignments/A2/a2q2.md"
+    },
+    {
+      "basename": "Binary Heaps",
+      "path": "3A/CS 240/Week 3/Binary Heaps.md"
+    },
+    {
+      "basename": "Abstract Data Type",
+      "path": "3A/CS 240/Week 3/Abstract Data Type.md"
+    },
+    {
       "basename": "Ambiguity",
       "path": "3A/Math 239/Week 4/Ambiguity.md"
+    },
+    {
+      "basename": "Block Decomposition",
+      "path": "3A/Math 239/Week 5/Block Decomposition.md"
+    },
+    {
+      "basename": "Tut3",
+      "path": "3A/CS 240/Tut/Tut3.md"
+    },
+    {
+      "basename": "Containers",
+      "path": "3A/CS 349/Week 4/Containers.md"
+    },
+    {
+      "basename": "Wigets",
+      "path": "3A/CS 349/Week 4/Wigets.md"
     },
     {
       "basename": "Binary String",
@@ -113,10 +141,6 @@
       "path": "3A/CS 348/Week 2/Relational Algebra.md"
     },
     {
-      "basename": "Binary Heaps",
-      "path": "3A/CS 240/Week 3/Binary Heaps.md"
-    },
-    {
       "basename": "A-2-2",
       "path": "3A/Math 239/Assignments/A2/A-2-2.md"
     },
@@ -131,10 +155,6 @@
     {
       "basename": "Tut1",
       "path": "3A/CS 240/Tut/Tut1.md"
-    },
-    {
-      "basename": "Wigets",
-      "path": "3A/CS 349/Week 4/Wigets.md"
     },
     {
       "basename": "JavaFX",
@@ -165,10 +185,6 @@
       "path": "3A/Math 239/Assignments/A2/A-2-3.md"
     },
     {
-      "basename": "Abstract Data Type",
-      "path": "3A/CS 240/Week 3/Abstract Data Type.md"
-    },
-    {
       "basename": "ideas",
       "path": "3A/CS 348/Project/ideas.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Algorithm Analysis",
       "path": "3A/CS 240/Week 2/Algorithm Analysis.md"
-    },
-    {
-      "basename": "a1q2",
-      "path": "3A/CS 240/Assignments/A1/a1q2.md"
-    },
-    {
-      "basename": "a1q4",
-      "path": "3A/CS 240/Assignments/A1/a1q4.md"
-    },
-    {
-      "basename": "a1q5",
-      "path": "3A/CS 240/Assignments/A1/a1q5.md"
-    },
-    {
-      "basename": "a1q3",
-      "path": "3A/CS 240/Assignments/A1/a1q3.md"
     }
   ],
   "omittedPaths": [],
