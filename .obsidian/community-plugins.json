@@ -1,5 +1,4 @@
 [
-  "obsidian-pluck",
   "obsidian-languagetool-plugin",
   "obsidian-underline",
   "remember-cursor-position",
@@ -13,7 +12,6 @@
   "calendar",
   "sliding-panes-obsidian",
   "obsidian-nomnoml-diagram",
-  "cm-editor-syntax-highlight-obsidian",
   "obsidian-emoji-toolbar",
   "folder-note-plugin",
   "obsidian-reading-time",

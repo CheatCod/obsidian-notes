@@ -1,24 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Non CMP based sorting",
-      "path": "3A/CS 240/Week 5/Non CMP based sorting.md"
+      "basename": "A-4-1",
+      "path": "3A/Math 239/Assignments/A4/A-4-1.md"
     },
     {
-      "basename": "Lower bound of CMP based sort",
-      "path": "3A/CS 240/Week 5/Lower bound of CMP based sort.md"
+      "basename": "Binary String",
+      "path": "3A/Math 239/Week 4/Binary String.md"
     },
     {
-      "basename": "a2q2",
-      "path": "3A/CS 240/Assignments/A2/a2q2.md"
+      "basename": "Ambiguity",
+      "path": "3A/Math 239/Week 4/Ambiguity.md"
+    },
+    {
+      "basename": "Block Decomposition",
+      "path": "3A/Math 239/Week 5/Block Decomposition.md"
+    },
+    {
+      "basename": "A-4-3",
+      "path": "3A/Math 239/Assignments/A4/A-4-3.md"
+    },
+    {
+      "basename": "A-4-2",
+      "path": "3A/Math 239/Assignments/A4/A-4-2.md"
+    },
+    {
+      "basename": "a2q1",
+      "path": "3A/CS 240/Assignments/A2/a2q1.md"
+    },
+    {
+      "basename": "a2q4",
+      "path": "3A/CS 240/Assignments/A2/a2q4.md"
+    },
+    {
+      "basename": "a2q5",
+      "path": "3A/CS 240/Assignments/A2/a2q5.md"
     },
     {
       "basename": "a2p3",
       "path": "3A/CS 240/Assignments/A2/a2p3.md"
     },
     {
-      "basename": "a2q4",
-      "path": "3A/CS 240/Assignments/A2/a2q4.md"
+      "basename": "a2q2",
+      "path": "3A/CS 240/Assignments/A2/a2q2.md"
+    },
+    {
+      "basename": "Non CMP based sorting",
+      "path": "3A/CS 240/Week 5/Non CMP based sorting.md"
+    },
+    {
+      "basename": "Lower bound of CMP based sort",
+      "path": "3A/CS 240/Week 5/Lower bound of CMP based sort.md"
     },
     {
       "basename": "Database Design",
@@ -33,14 +65,6 @@
       "path": "3A/CS 240/Week 3/Abstract Data Type.md"
     },
     {
-      "basename": "Ambiguity",
-      "path": "3A/Math 239/Week 4/Ambiguity.md"
-    },
-    {
-      "basename": "Block Decomposition",
-      "path": "3A/Math 239/Week 5/Block Decomposition.md"
-    },
-    {
       "basename": "Tut3",
       "path": "3A/CS 240/Tut/Tut3.md"
     },
@@ -51,10 +75,6 @@
     {
       "basename": "Wigets",
       "path": "3A/CS 349/Week 4/Wigets.md"
-    },
-    {
-      "basename": "Binary String",
-      "path": "3A/Math 239/Week 4/Binary String.md"
     },
     {
       "basename": "A-3-2",
@@ -179,26 +199,6 @@
     {
       "basename": "JavaFX",
       "path": "3A/CS 349/Week 4/JavaFX.md"
-    },
-    {
-      "basename": "Gradle",
-      "path": "3A/CS 346/Week 4/Gradle.md"
-    },
-    {
-      "basename": "A-1-1",
-      "path": "3A/Math 239/Assignments/A1/A-1-1.md"
-    },
-    {
-      "basename": "Interaction",
-      "path": "3A/CS 349/Week 2/Interaction.md"
-    },
-    {
-      "basename": "GUI Interface",
-      "path": "3A/CS 349/Week 2/GUI Interface.md"
-    },
-    {
-      "basename": "Window Manager",
-      "path": "3A/CS 349/Week 2/Window Manager.md"
     }
   ],
   "omittedPaths": [],
