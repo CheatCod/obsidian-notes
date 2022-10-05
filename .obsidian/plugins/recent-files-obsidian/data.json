@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Block Decomposition",
-      "path": "3A/Math 239/Week 5/Block Decomposition.md"
-    },
-    {
-      "basename": "A-4-2",
-      "path": "3A/Math 239/Assignments/A4/A-4-2.md"
+      "basename": "A-4-4",
+      "path": "3A/Math 239/Assignments/A4/A-4-4.md"
     },
     {
       "basename": "Ambiguity",
       "path": "3A/Math 239/Week 4/Ambiguity.md"
     },
     {
-      "basename": "A-4-1",
-      "path": "3A/Math 239/Assignments/A4/A-4-1.md"
+      "basename": "Binary String Exvlusion",
+      "path": "3A/Math 239/Week 5/Binary String Exvlusion.md"
+    },
+    {
+      "basename": "Block Decomposition",
+      "path": "3A/Math 239/Week 5/Block Decomposition.md"
+    },
+    {
+      "basename": "Composition",
+      "path": "3A/Math 239/Week 3/Composition.md"
+    },
+    {
+      "basename": "A-4-2",
+      "path": "3A/Math 239/Assignments/A4/A-4-2.md"
     },
     {
       "basename": "Binary String",
@@ -23,6 +31,14 @@
     {
       "basename": "A-4-3",
       "path": "3A/Math 239/Assignments/A4/A-4-3.md"
+    },
+    {
+      "basename": "A-4-1",
+      "path": "3A/Math 239/Assignments/A4/A-4-1.md"
+    },
+    {
+      "basename": "MVC",
+      "path": "3A/CS 349/Week 5/MVC.md"
     },
     {
       "basename": "a2q1",
@@ -87,10 +103,6 @@
     {
       "basename": "A-3-1",
       "path": "3A/Math 239/Assignments/A3/A-3-1.md"
-    },
-    {
-      "basename": "Composition",
-      "path": "3A/Math 239/Week 3/Composition.md"
     },
     {
       "basename": "Generating Series",
@@ -187,18 +199,6 @@
     {
       "basename": "A-2-1",
       "path": "3A/Math 239/Assignments/A2/A-2-1.md"
-    },
-    {
-      "basename": "Tut2",
-      "path": "3A/CS 240/Tut/Tut2.md"
-    },
-    {
-      "basename": "Tut1",
-      "path": "3A/CS 240/Tut/Tut1.md"
-    },
-    {
-      "basename": "JavaFX",
-      "path": "3A/CS 349/Week 4/JavaFX.md"
     }
   ],
   "omittedPaths": [],
