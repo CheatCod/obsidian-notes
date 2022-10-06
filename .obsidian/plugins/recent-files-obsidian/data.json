@@ -5,28 +5,8 @@
       "path": "3A/Math 239/Assignments/A4/A-4-4.md"
     },
     {
-      "basename": "Ambiguity",
-      "path": "3A/Math 239/Week 4/Ambiguity.md"
-    },
-    {
-      "basename": "Binary String Exvlusion",
-      "path": "3A/Math 239/Week 5/Binary String Exvlusion.md"
-    },
-    {
-      "basename": "Block Decomposition",
-      "path": "3A/Math 239/Week 5/Block Decomposition.md"
-    },
-    {
-      "basename": "Composition",
-      "path": "3A/Math 239/Week 3/Composition.md"
-    },
-    {
       "basename": "A-4-2",
       "path": "3A/Math 239/Assignments/A4/A-4-2.md"
-    },
-    {
-      "basename": "Binary String",
-      "path": "3A/Math 239/Week 4/Binary String.md"
     },
     {
       "basename": "A-4-3",
@@ -35,6 +15,46 @@
     {
       "basename": "A-4-1",
       "path": "3A/Math 239/Assignments/A4/A-4-1.md"
+    },
+    {
+      "basename": "A-4-1",
+      "path": "3A/Math 239/Assignments/A4/A-4-1.pdf"
+    },
+    {
+      "basename": "A-3-1",
+      "path": "3A/Math 239/Assignments/A3/A-3-1.md"
+    },
+    {
+      "basename": "A-3-3",
+      "path": "3A/Math 239/Assignments/A3/A-3-3.md"
+    },
+    {
+      "basename": "A-2-2",
+      "path": "3A/Math 239/Assignments/A2/A-2-2.md"
+    },
+    {
+      "basename": "A-3-2",
+      "path": "3A/Math 239/Assignments/A3/A-3-2.md"
+    },
+    {
+      "basename": "Block Decomposition",
+      "path": "3A/Math 239/Week 5/Block Decomposition.md"
+    },
+    {
+      "basename": "Ambiguity",
+      "path": "3A/Math 239/Week 4/Ambiguity.md"
+    },
+    {
+      "basename": "Binary String",
+      "path": "3A/Math 239/Week 4/Binary String.md"
+    },
+    {
+      "basename": "Binary String Exvlusion",
+      "path": "3A/Math 239/Week 5/Binary String Exvlusion.md"
+    },
+    {
+      "basename": "Composition",
+      "path": "3A/Math 239/Week 3/Composition.md"
     },
     {
       "basename": "MVC",
@@ -91,18 +111,6 @@
     {
       "basename": "Wigets",
       "path": "3A/CS 349/Week 4/Wigets.md"
-    },
-    {
-      "basename": "A-3-2",
-      "path": "3A/Math 239/Assignments/A3/A-3-2.md"
-    },
-    {
-      "basename": "A-3-3",
-      "path": "3A/Math 239/Assignments/A3/A-3-3.md"
-    },
-    {
-      "basename": "A-3-1",
-      "path": "3A/Math 239/Assignments/A3/A-3-1.md"
     },
     {
       "basename": "Generating Series",
@@ -191,14 +199,6 @@
     {
       "basename": "Relational Algebra",
       "path": "3A/CS 348/Week 2/Relational Algebra.md"
-    },
-    {
-      "basename": "A-2-2",
-      "path": "3A/Math 239/Assignments/A2/A-2-2.md"
-    },
-    {
-      "basename": "A-2-1",
-      "path": "3A/Math 239/Assignments/A2/A-2-1.md"
     }
   ],
   "omittedPaths": [],
