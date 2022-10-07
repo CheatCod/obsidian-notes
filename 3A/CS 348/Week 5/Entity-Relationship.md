@@ -77,7 +77,7 @@ Let $E$ and $F$ be entity sets
 
 ## ISA Relationships
 - Similar to the idea of subclasses in OO
-- A specialization, ewer entities, an dpossibly more properties
+- A specialization, ewer entities, and possibly more properties
 - Ex. paid uers are users but they also get avatars
 ![[Pasted image 20221004093219.png]]
 (direction of triangle is important!!)
@@ -86,4 +86,16 @@ Let $E$ and $F$ be entity sets
 - Generalizations: serveral entity sets can be abstracted by a more general entit set
 	- Ex. a vehicle abstract the notion of truck and car
 ![[Pasted image 20221004093448.png]]
+
+
+**A simple methodologu**
+1. Recognize entity sets
+2. Recognize relationsuip sets and participating entity sets
+3. Recognize attributes of entity and relationship sets
+4. Define relationship types and existence dependencies
+5. Define general cardinality constraints, keys, and discriminators
+6. Draw diagram.
+
+For each step, maintain a log of assumptions motivating the choice
+
 

@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Translate ER to relational schema",
+      "path": "3A/CS 348/Week 5/Translate ER to relational schema.md"
+    },
+    {
+      "basename": "Entity-Relationship",
+      "path": "3A/CS 348/Week 5/Entity-Relationship.md"
+    },
+    {
+      "basename": "Dictionary ADT",
+      "path": "3A/CS 240/Week 5/Dictionary ADT.md"
+    },
+    {
       "basename": "A-4-4",
       "path": "3A/Math 239/Assignments/A4/A-4-4.md"
+    },
+    {
+      "basename": "Block Decomposition",
+      "path": "3A/Math 239/Week 5/Block Decomposition.md"
     },
     {
       "basename": "A-4-2",
@@ -35,10 +51,6 @@
     {
       "basename": "A-3-2",
       "path": "3A/Math 239/Assignments/A3/A-3-2.md"
-    },
-    {
-      "basename": "Block Decomposition",
-      "path": "3A/Math 239/Week 5/Block Decomposition.md"
     },
     {
       "basename": "Ambiguity",
@@ -87,10 +99,6 @@
     {
       "basename": "Lower bound of CMP based sort",
       "path": "3A/CS 240/Week 5/Lower bound of CMP based sort.md"
-    },
-    {
-      "basename": "Database Design",
-      "path": "3A/CS 348/Week 5/Database Design.md"
     },
     {
       "basename": "Binary Heaps",
@@ -191,14 +199,6 @@
     {
       "basename": "SQL",
       "path": "3A/CS 348/Week 3/SQL.md"
-    },
-    {
-      "basename": "Relational Data Model",
-      "path": "3A/CS 348/Week 2/Relational Data Model.md"
-    },
-    {
-      "basename": "Relational Algebra",
-      "path": "3A/CS 348/Week 2/Relational Algebra.md"
     }
   ],
   "omittedPaths": [],

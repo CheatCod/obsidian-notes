@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3A/Math 239/Assignments/A4/A-4-4.md",
+            "file": "3A/CS 348/Week 5/Translate ER to relational schema.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Assignments/A4/A-4-4.md",
+                "file": "3A/CS 348/Week 5/Translate ER to relational schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Assignments/A4/A-4-4.md"
+                "file": "3A/CS 348/Week 5/Translate ER to relational schema.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Assignments/A4/A-4-4.md",
+                "file": "3A/CS 348/Week 5/Translate ER to relational schema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,73 +153,17 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "b4bad9cdaae0c0a6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ad185694b04b948f",
-        "type": "window",
-        "children": [
-          {
-            "id": "6725a8bc6be8d89d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/Math 239/Week 4/Ambiguity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "vertical",
-        "x": 700,
-        "y": 392,
-        "width": 1024,
-        "height": 808,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "b730d44c7510f2a1",
-        "type": "window",
-        "children": [
-          {
-            "id": "3bb41d2084bff37a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/Math 239/Week 5/Block Decomposition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 305,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "9db6de3f1f3da515",
   "lastOpenFiles": [
+    "3A/CS 348/Week 5/Entity-Relationship.md",
+    "3A/CS 348/Week 5/Translate ER to relational schema.md",
+    "3A/CS 240/Week 5/Dictionary ADT.md",
+    "3A/Math 239/Assignments/A4/A-4-4.md",
+    "3A/Math 239/Week 5/Block Decomposition.md",
     "3A/Math 239/Assignments/A4/A-4-2.md",
     "3A/Math 239/Assignments/A4/A-4-3.md",
     "3A/Math 239/Assignments/A4/A-4-1.md",
-    "3A/Math 239/Assignments/A4/A-4-4.md",
     "3A/Math 239/Assignments/A4/A-4-1.pdf",
-    "3A/Math 239/Assignments/A3/A-3-1.md",
-    "3A/Math 239/Assignments/A3/A-3-3.md",
-    "3A/Math 239/Assignments/A2/A-2-2.md",
-    "3A/Math 239/Assignments/A3/A-3-2.md",
-    "3A/Math 239/Week 5/Block Decomposition.md"
+    "3A/Math 239/Assignments/A3/A-3-1.md"
   ]
 }
