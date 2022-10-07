@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "A-4-2",
+      "path": "3A/Math 239/Assignments/A4/A-4-2.md"
+    },
+    {
+      "basename": "A-4-3",
+      "path": "3A/Math 239/Assignments/A4/A-4-3.md"
+    },
+    {
+      "basename": "Ambiguity",
+      "path": "3A/Math 239/Week 4/Ambiguity.md"
+    },
+    {
+      "basename": "Binary String",
+      "path": "3A/Math 239/Week 4/Binary String.md"
+    },
+    {
+      "basename": "Composition",
+      "path": "3A/Math 239/Week 3/Composition.md"
+    },
+    {
+      "basename": "A-4-4",
+      "path": "3A/Math 239/Assignments/A4/A-4-4.pdf"
+    },
+    {
+      "basename": "A-4-4",
+      "path": "3A/Math 239/Assignments/A4/A-4-4.md"
+    },
+    {
+      "basename": "A-4-1",
+      "path": "3A/Math 239/Assignments/A4/A-4-1.md"
+    },
+    {
+      "basename": "A-4-1",
+      "path": "3A/Math 239/Assignments/A4/A-4-1.pdf"
+    },
+    {
       "basename": "Translate ER to relational schema",
       "path": "3A/CS 348/Week 5/Translate ER to relational schema.md"
     },
@@ -13,28 +49,8 @@
       "path": "3A/CS 240/Week 5/Dictionary ADT.md"
     },
     {
-      "basename": "A-4-4",
-      "path": "3A/Math 239/Assignments/A4/A-4-4.md"
-    },
-    {
       "basename": "Block Decomposition",
       "path": "3A/Math 239/Week 5/Block Decomposition.md"
-    },
-    {
-      "basename": "A-4-2",
-      "path": "3A/Math 239/Assignments/A4/A-4-2.md"
-    },
-    {
-      "basename": "A-4-3",
-      "path": "3A/Math 239/Assignments/A4/A-4-3.md"
-    },
-    {
-      "basename": "A-4-1",
-      "path": "3A/Math 239/Assignments/A4/A-4-1.md"
-    },
-    {
-      "basename": "A-4-1",
-      "path": "3A/Math 239/Assignments/A4/A-4-1.pdf"
     },
     {
       "basename": "A-3-1",
@@ -53,20 +69,8 @@
       "path": "3A/Math 239/Assignments/A3/A-3-2.md"
     },
     {
-      "basename": "Ambiguity",
-      "path": "3A/Math 239/Week 4/Ambiguity.md"
-    },
-    {
-      "basename": "Binary String",
-      "path": "3A/Math 239/Week 4/Binary String.md"
-    },
-    {
       "basename": "Binary String Exvlusion",
       "path": "3A/Math 239/Week 5/Binary String Exvlusion.md"
-    },
-    {
-      "basename": "Composition",
-      "path": "3A/Math 239/Week 3/Composition.md"
     },
     {
       "basename": "MVC",
@@ -195,10 +199,6 @@
     {
       "basename": "SQL, Triggers, VIew, Indexes",
       "path": "3A/CS 348/Week 4/SQL, Triggers, VIew, Indexes.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "3A/CS 348/Week 3/SQL.md"
     }
   ],
   "omittedPaths": [],
