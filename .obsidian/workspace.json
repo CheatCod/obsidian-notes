@@ -25,14 +25,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/Math 239/Assignments/A5/A-5-1.md",
+                "file": "3A/Math 239/Week 6/Partial Fraction.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b03e8610e469682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/Math 239/Assignments/A5/A-5-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01639c3ab7d09ac1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3A/Math 239/Assignments/A5/A-5-3.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Assignments/A5/A-5-1.md",
+                "file": "3A/Math 239/Assignments/A5/A-5-3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Assignments/A5/A-5-1.md"
+                "file": "3A/Math 239/Assignments/A5/A-5-3.pdf"
               }
             }
           },
@@ -149,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Assignments/A5/A-5-1.md",
+                "file": "3A/Math 239/Assignments/A5/A-5-3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,17 +199,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "536d2479a93c8dd6",
+  "active": "01639c3ab7d09ac1",
   "lastOpenFiles": [
+    "3A/Math 239/Assignments/A5/A-5-1.md",
+    "3A/Math 239/Assignments/A5/A-5-3.md",
+    "3A/Math 239/Assignments/A5/A-5-2.md",
+    "3A/Math 239/Assignments/A5/A-5-3.pdf",
     "3A/Math 239/Week 6/Partial Fraction.md",
-    "3A/Math 239/Week 6/Recursive Decomp.md",
-    "3A/Math 239/Week 4/Ambiguity.md",
-    "3A/Math 239/Week 4/Binary String.md",
-    "3A/Math 239/Week 5/Binary String Exvlusion.md",
-    "3A/Math 239/Week 5/Block Decomposition.md",
-    "3A/Math 239/Assignments/A4/A-4-2.md",
-    "3A/Math 239/Assignments/A4/A-4-3.md",
-    "3A/Math 239/Week 3/Composition.md",
-    "3A/Math 239/Assignments/A4/A-4-4.pdf"
+    "2A/CS 246/Week 5 - OOP/Move Semantics.md",
+    "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md",
+    "2A/CS 246/Week 5 - OOP/Destructor.md",
+    "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
+    "2A/CS 246/Week 5 - OOP/Copy Constructor.md"
   ]
 }
