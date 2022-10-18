@@ -9,5 +9,6 @@
   "translucency": false,
   "cssTheme": "Things",
   "theme": "obsidian",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "accentColor": ""
 }
