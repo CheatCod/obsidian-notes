@@ -25,31 +25,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/Math 239/Week 6/Partial Fraction.md",
+                "file": "3A/CS 240/Week 2/Algorithm Design.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6b03e8610e469682",
+            "id": "0cf06775349631f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/Math 239/Assignments/A5/A-5-2.md",
+                "file": "3A/CS 240/Week 6/AVL Balancing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "01639c3ab7d09ac1",
+            "id": "9fc81a6cd65dde55",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3A/Math 239/Assignments/A5/A-5-3.pdf"
+                "file": "3A/CS 348/Week 6/Functional Dependencies.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Assignments/A5/A-5-3.pdf",
+                "file": "3A/CS 348/Week 6/Functional Dependencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Assignments/A5/A-5-3.pdf"
+                "file": "3A/CS 348/Week 6/Functional Dependencies.md"
               }
             }
           },
@@ -171,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Assignments/A5/A-5-3.pdf",
+                "file": "3A/CS 348/Week 6/Functional Dependencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,17 +201,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "01639c3ab7d09ac1",
+  "active": "9fc81a6cd65dde55",
   "lastOpenFiles": [
-    "3A/Math 239/Assignments/A5/A-5-1.md",
-    "3A/Math 239/Assignments/A5/A-5-3.md",
-    "3A/Math 239/Assignments/A5/A-5-2.md",
-    "3A/Math 239/Assignments/A5/A-5-3.pdf",
+    "3A/CS 240/Week 6/AVL Balancing.md",
+    "3A/CS 240/Week 2/Algorithm Design.md",
     "3A/Math 239/Week 6/Partial Fraction.md",
-    "2A/CS 246/Week 5 - OOP/Move Semantics.md",
-    "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md",
-    "2A/CS 246/Week 5 - OOP/Destructor.md",
-    "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
-    "2A/CS 246/Week 5 - OOP/Copy Constructor.md"
+    "3A/CS 240/Week 3/Abstract Data Type.md",
+    "3A/CS 240/Week 2/Algorithm Analysis.md",
+    "3A/CS 240/Week 2/Run Time Analysis.md",
+    "3A/CS 240/Assignments/A2/a2p3.md",
+    "3A/CS 240/Assignments/A2/a2q2.md",
+    "3A/CS 240/Assignments/A1/a1q7.md",
+    "3A/CS 240/Assignments/A1/a1q6.md"
   ]
 }

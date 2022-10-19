@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Functional Dependencies",
+      "path": "3A/CS 348/Week 6/Functional Dependencies.md"
+    },
+    {
+      "basename": "AVL Balancing",
+      "path": "3A/CS 240/Week 6/AVL Balancing.md"
+    },
+    {
+      "basename": "Algorithm Design",
+      "path": "3A/CS 240/Week 2/Algorithm Design.md"
+    },
+    {
+      "basename": "Partial Fraction",
+      "path": "3A/Math 239/Week 6/Partial Fraction.md"
+    },
+    {
+      "basename": "Abstract Data Type",
+      "path": "3A/CS 240/Week 3/Abstract Data Type.md"
+    },
+    {
+      "basename": "Algorithm Analysis",
+      "path": "3A/CS 240/Week 2/Algorithm Analysis.md"
+    },
+    {
+      "basename": "Run Time Analysis",
+      "path": "3A/CS 240/Week 2/Run Time Analysis.md"
+    },
+    {
+      "basename": "a2p3",
+      "path": "3A/CS 240/Assignments/A2/a2p3.md"
+    },
+    {
+      "basename": "a2q2",
+      "path": "3A/CS 240/Assignments/A2/a2q2.md"
+    },
+    {
+      "basename": "a1q7",
+      "path": "3A/CS 240/Assignments/A1/a1q7.md"
+    },
+    {
+      "basename": "a1q6",
+      "path": "3A/CS 240/Assignments/A1/a1q6.md"
+    },
+    {
+      "basename": "a1q3",
+      "path": "3A/CS 240/Assignments/A1/a1q3.md"
+    },
+    {
+      "basename": "a1q4",
+      "path": "3A/CS 240/Assignments/A1/a1q4.md"
+    },
+    {
+      "basename": "a1q2",
+      "path": "3A/CS 240/Assignments/A1/a1q2.md"
+    },
+    {
+      "basename": "a1q1",
+      "path": "3A/CS 240/Assignments/A1/a1q1.md"
+    },
+    {
+      "basename": "A-5-2",
+      "path": "3A/Math 239/Assignments/A5/A-5-2.md"
+    },
+    {
       "basename": "A-5-3",
-      "path": "3A/Math 239/Assignments/A5/A-5-3.pdf"
+      "path": "3A/Math 239/Assignments/A5/A-5-3.md"
     },
     {
       "basename": "A-5-1",
@@ -10,15 +74,7 @@
     },
     {
       "basename": "A-5-3",
-      "path": "3A/Math 239/Assignments/A5/A-5-3.md"
-    },
-    {
-      "basename": "A-5-2",
-      "path": "3A/Math 239/Assignments/A5/A-5-2.md"
-    },
-    {
-      "basename": "Partial Fraction",
-      "path": "3A/Math 239/Week 6/Partial Fraction.md"
+      "path": "3A/Math 239/Assignments/A5/A-5-3.pdf"
     },
     {
       "basename": "Move Semantics",
@@ -143,62 +199,6 @@
     {
       "basename": "A-3-2",
       "path": "3A/Math 239/Assignments/A3/A-3-2.md"
-    },
-    {
-      "basename": "MVC",
-      "path": "3A/CS 349/Week 5/MVC.md"
-    },
-    {
-      "basename": "a2q1",
-      "path": "3A/CS 240/Assignments/A2/a2q1.md"
-    },
-    {
-      "basename": "a2q4",
-      "path": "3A/CS 240/Assignments/A2/a2q4.md"
-    },
-    {
-      "basename": "a2q5",
-      "path": "3A/CS 240/Assignments/A2/a2q5.md"
-    },
-    {
-      "basename": "a2p3",
-      "path": "3A/CS 240/Assignments/A2/a2p3.md"
-    },
-    {
-      "basename": "a2q2",
-      "path": "3A/CS 240/Assignments/A2/a2q2.md"
-    },
-    {
-      "basename": "Non CMP based sorting",
-      "path": "3A/CS 240/Week 5/Non CMP based sorting.md"
-    },
-    {
-      "basename": "Lower bound of CMP based sort",
-      "path": "3A/CS 240/Week 5/Lower bound of CMP based sort.md"
-    },
-    {
-      "basename": "Binary Heaps",
-      "path": "3A/CS 240/Week 3/Binary Heaps.md"
-    },
-    {
-      "basename": "Abstract Data Type",
-      "path": "3A/CS 240/Week 3/Abstract Data Type.md"
-    },
-    {
-      "basename": "Tut3",
-      "path": "3A/CS 240/Tut/Tut3.md"
-    },
-    {
-      "basename": "Containers",
-      "path": "3A/CS 349/Week 4/Containers.md"
-    },
-    {
-      "basename": "Wigets",
-      "path": "3A/CS 349/Week 4/Wigets.md"
-    },
-    {
-      "basename": "Generating Series",
-      "path": "3A/Math 239/Week 3/Generating Series.md"
     }
   ],
   "omittedPaths": [],
