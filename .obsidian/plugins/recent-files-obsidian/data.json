@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Midterm",
+      "path": "3A/Math 239/Midterm/Midterm.md"
+    },
+    {
+      "basename": "Well Formed Parenthesis",
+      "path": "3A/Math 239/Week 6/Well Formed Parenthesis.md"
+    },
+    {
+      "basename": "Partial Fraction",
+      "path": "3A/Math 239/Week 6/Partial Fraction.md"
+    },
+    {
       "basename": "Functional Dependencies",
       "path": "3A/CS 348/Week 6/Functional Dependencies.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Algorithm Design",
       "path": "3A/CS 240/Week 2/Algorithm Design.md"
-    },
-    {
-      "basename": "Partial Fraction",
-      "path": "3A/Math 239/Week 6/Partial Fraction.md"
     },
     {
       "basename": "Abstract Data Type",
@@ -191,14 +199,6 @@
     {
       "basename": "A-3-3",
       "path": "3A/Math 239/Assignments/A3/A-3-3.md"
-    },
-    {
-      "basename": "A-2-2",
-      "path": "3A/Math 239/Assignments/A2/A-2-2.md"
-    },
-    {
-      "basename": "A-3-2",
-      "path": "3A/Math 239/Assignments/A3/A-3-2.md"
     }
   ],
   "omittedPaths": [],
