@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 240/Assignments/A2/a2q5.md",
+                "file": "3A/CS 240/Tut/Tut3.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/CS 240/Assignments/A2/a2q5.md",
+                "file": "3A/CS 240/Tut/Tut3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/CS 240/Assignments/A2/a2q5.md"
+                "file": "3A/CS 240/Tut/Tut3.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/CS 240/Assignments/A2/a2q5.md",
+                "file": "3A/CS 240/Tut/Tut3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,15 +227,15 @@
   },
   "active": "4cd62b70b15cb77b",
   "lastOpenFiles": [
+    "3A/CS 240/Assignments/A2/a2q1.md",
+    "3A/CS 240/Assignments/A2/a2q5.md",
     "3A/CS 240/Assignments/A2/a2q4.md",
     "3A/CS 240/Assignments/A2/a2p3.md",
     "3A/CS 240/Assignments/A2/a2q2.md",
-    "2B/Math 239/Module 1 counting, bijections and combinatorial proofs/Counting.md",
-    "2B/Math 239/Assignment/A6/Q1.md",
-    "3A/Math 239/Midterm/Midterm.md",
-    "3A/Math 239/Week 6/Well Formed Parenthesis.md",
-    "3A/Math 239/Week 6/Partial Fraction.md",
-    "3A/CS 348/Week 6/Functional Dependencies.md",
-    "3A/CS 240/Week 6/AVL Balancing.md"
+    "3A/CS 240/Assignments/A1/a1q6.md",
+    "3A/CS 240/Assignments/A1/a1q7.md",
+    "3A/CS 240/Assignments/A1/a1q5.md",
+    "3A/CS 240/Assignments/A1/a1q4.md",
+    "3A/CS 240/Week 4/Sorting & Randomized Algo.md"
   ]
 }

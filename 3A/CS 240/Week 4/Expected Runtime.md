@@ -29,7 +29,7 @@ Prove $\Omega$
 2. On the first level down, we still have $n-1$ items left (unknown split)
 3. Second level down, $n-3$ items remain
 4. Third level down, $n-7$ items remain
-5. On level $l$, *at least\** $n-(2^l -1)$ items remain, pslit into $2^l$ subarray
+5. On level $l$, *at least\** $n-(2^l -1)$ items remain, split into $2^l$ subarray
 6. Doing paritition takes at least $n-2^l+1$ key comparisons in total
 7. Let $l = floor(\log n) -1$, then $2^l \le \frac{n}{2} \to n - 2^l + 1 \ge \frac{n}{2} + 1$
 8. Therefore at least $n-2^l + 1 \ge \frac{n}{2} + 1$ comparison per level

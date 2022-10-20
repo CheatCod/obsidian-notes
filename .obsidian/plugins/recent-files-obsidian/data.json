@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Tut3",
+      "path": "3A/CS 240/Tut/Tut3.md"
+    },
+    {
+      "basename": "a2q1",
+      "path": "3A/CS 240/Assignments/A2/a2q1.md"
+    },
+    {
       "basename": "a2q5",
       "path": "3A/CS 240/Assignments/A2/a2q5.md"
     },
@@ -15,6 +23,42 @@
     {
       "basename": "a2q2",
       "path": "3A/CS 240/Assignments/A2/a2q2.md"
+    },
+    {
+      "basename": "a1q6",
+      "path": "3A/CS 240/Assignments/A1/a1q6.md"
+    },
+    {
+      "basename": "a1q7",
+      "path": "3A/CS 240/Assignments/A1/a1q7.md"
+    },
+    {
+      "basename": "a1q5",
+      "path": "3A/CS 240/Assignments/A1/a1q5.md"
+    },
+    {
+      "basename": "a1q4",
+      "path": "3A/CS 240/Assignments/A1/a1q4.md"
+    },
+    {
+      "basename": "Sorting & Randomized Algo",
+      "path": "3A/CS 240/Week 4/Sorting & Randomized Algo.md"
+    },
+    {
+      "basename": "Expected Runtime",
+      "path": "3A/CS 240/Week 4/Expected Runtime.md"
+    },
+    {
+      "basename": "a1q3",
+      "path": "3A/CS 240/Assignments/A1/a1q3.md"
+    },
+    {
+      "basename": "a1q2",
+      "path": "3A/CS 240/Assignments/A1/a1q2.md"
+    },
+    {
+      "basename": "a1q1",
+      "path": "3A/CS 240/Assignments/A1/a1q1.md"
     },
     {
       "basename": "Counting",
@@ -59,30 +103,6 @@
     {
       "basename": "Run Time Analysis",
       "path": "3A/CS 240/Week 2/Run Time Analysis.md"
-    },
-    {
-      "basename": "a1q7",
-      "path": "3A/CS 240/Assignments/A1/a1q7.md"
-    },
-    {
-      "basename": "a1q6",
-      "path": "3A/CS 240/Assignments/A1/a1q6.md"
-    },
-    {
-      "basename": "a1q3",
-      "path": "3A/CS 240/Assignments/A1/a1q3.md"
-    },
-    {
-      "basename": "a1q4",
-      "path": "3A/CS 240/Assignments/A1/a1q4.md"
-    },
-    {
-      "basename": "a1q2",
-      "path": "3A/CS 240/Assignments/A1/a1q2.md"
-    },
-    {
-      "basename": "a1q1",
-      "path": "3A/CS 240/Assignments/A1/a1q1.md"
     },
     {
       "basename": "A-5-2",
@@ -179,26 +199,6 @@
     {
       "basename": "Composition",
       "path": "3A/Math 239/Week 3/Composition.md"
-    },
-    {
-      "basename": "A-4-4",
-      "path": "3A/Math 239/Assignments/A4/A-4-4.pdf"
-    },
-    {
-      "basename": "A-4-4",
-      "path": "3A/Math 239/Assignments/A4/A-4-4.md"
-    },
-    {
-      "basename": "A-4-1",
-      "path": "3A/Math 239/Assignments/A4/A-4-1.md"
-    },
-    {
-      "basename": "A-4-1",
-      "path": "3A/Math 239/Assignments/A4/A-4-1.pdf"
-    },
-    {
-      "basename": "Translate ER to relational schema",
-      "path": "3A/CS 348/Week 5/Translate ER to relational schema.md"
     }
   ],
   "omittedPaths": [],
