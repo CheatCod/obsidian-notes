@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "a2q5",
+      "path": "3A/CS 240/Assignments/A2/a2q5.md"
+    },
+    {
+      "basename": "a2q4",
+      "path": "3A/CS 240/Assignments/A2/a2q4.md"
+    },
+    {
+      "basename": "a2p3",
+      "path": "3A/CS 240/Assignments/A2/a2p3.md"
+    },
+    {
+      "basename": "a2q2",
+      "path": "3A/CS 240/Assignments/A2/a2q2.md"
+    },
+    {
+      "basename": "Counting",
+      "path": "2B/Math 239/Module 1 counting, bijections and combinatorial proofs/Counting.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "2B/Math 239/Assignment/A6/Q1.md"
+    },
+    {
       "basename": "Midterm",
       "path": "3A/Math 239/Midterm/Midterm.md"
     },
@@ -35,14 +59,6 @@
     {
       "basename": "Run Time Analysis",
       "path": "3A/CS 240/Week 2/Run Time Analysis.md"
-    },
-    {
-      "basename": "a2p3",
-      "path": "3A/CS 240/Assignments/A2/a2p3.md"
-    },
-    {
-      "basename": "a2q2",
-      "path": "3A/CS 240/Assignments/A2/a2q2.md"
     },
     {
       "basename": "a1q7",
@@ -183,22 +199,6 @@
     {
       "basename": "Translate ER to relational schema",
       "path": "3A/CS 348/Week 5/Translate ER to relational schema.md"
-    },
-    {
-      "basename": "Entity-Relationship",
-      "path": "3A/CS 348/Week 5/Entity-Relationship.md"
-    },
-    {
-      "basename": "Dictionary ADT",
-      "path": "3A/CS 240/Week 5/Dictionary ADT.md"
-    },
-    {
-      "basename": "A-3-1",
-      "path": "3A/Math 239/Assignments/A3/A-3-1.md"
-    },
-    {
-      "basename": "A-3-3",
-      "path": "3A/Math 239/Assignments/A3/A-3-3.md"
     }
   ],
   "omittedPaths": [],
