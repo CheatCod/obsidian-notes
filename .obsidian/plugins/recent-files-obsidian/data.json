@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "A-5-1",
+      "path": "3A/Math 239/Assignments/A5/A-5-1.md"
+    },
+    {
+      "basename": "A-5-2",
+      "path": "3A/Math 239/Assignments/A5/A-5-2.md"
+    },
+    {
+      "basename": "A-5-2",
+      "path": "3A/Math 239/Assignments/A5/A-5-2.pdf"
+    },
+    {
+      "basename": "Well Formed Parenthesis",
+      "path": "3A/Math 239/Week 6/Well Formed Parenthesis.md"
+    },
+    {
+      "basename": "AVL Balancing",
+      "path": "3A/CS 240/Week 6/AVL Balancing.md"
+    },
+    {
+      "basename": "Partial Fraction",
+      "path": "3A/Math 239/Week 6/Partial Fraction.md"
+    },
+    {
+      "basename": "A-5-1",
+      "path": "3A/Math 239/Assignments/A5/A-5-1.pdf"
+    },
+    {
+      "basename": "A-5-3",
+      "path": "3A/Math 239/Assignments/A5/A-5-3.pdf"
+    },
+    {
+      "basename": "A-5-3",
+      "path": "3A/Math 239/Assignments/A5/A-5-3.md"
+    },
+    {
+      "basename": "A-1-4",
+      "path": "3A/Math 239/Assignments/A1/A-1-4.md"
+    },
+    {
+      "basename": "A-1-3",
+      "path": "3A/Math 239/Assignments/A1/A-1-3.md"
+    },
+    {
+      "basename": "A-1-2",
+      "path": "3A/Math 239/Assignments/A1/A-1-2.md"
+    },
+    {
+      "basename": "A-1-1",
+      "path": "3A/Math 239/Assignments/A1/A-1-1.md"
+    },
+    {
       "basename": "Tut3",
       "path": "3A/CS 240/Tut/Tut3.md"
     },
@@ -73,20 +125,8 @@
       "path": "3A/Math 239/Midterm/Midterm.md"
     },
     {
-      "basename": "Well Formed Parenthesis",
-      "path": "3A/Math 239/Week 6/Well Formed Parenthesis.md"
-    },
-    {
-      "basename": "Partial Fraction",
-      "path": "3A/Math 239/Week 6/Partial Fraction.md"
-    },
-    {
       "basename": "Functional Dependencies",
       "path": "3A/CS 348/Week 6/Functional Dependencies.md"
-    },
-    {
-      "basename": "AVL Balancing",
-      "path": "3A/CS 240/Week 6/AVL Balancing.md"
     },
     {
       "basename": "Algorithm Design",
@@ -103,22 +143,6 @@
     {
       "basename": "Run Time Analysis",
       "path": "3A/CS 240/Week 2/Run Time Analysis.md"
-    },
-    {
-      "basename": "A-5-2",
-      "path": "3A/Math 239/Assignments/A5/A-5-2.md"
-    },
-    {
-      "basename": "A-5-3",
-      "path": "3A/Math 239/Assignments/A5/A-5-3.md"
-    },
-    {
-      "basename": "A-5-1",
-      "path": "3A/Math 239/Assignments/A5/A-5-1.md"
-    },
-    {
-      "basename": "A-5-3",
-      "path": "3A/Math 239/Assignments/A5/A-5-3.pdf"
     },
     {
       "basename": "Move Semantics",
@@ -175,30 +199,6 @@
     {
       "basename": "Ambiguity",
       "path": "3A/Math 239/Week 4/Ambiguity.md"
-    },
-    {
-      "basename": "Binary String",
-      "path": "3A/Math 239/Week 4/Binary String.md"
-    },
-    {
-      "basename": "Binary String Exvlusion",
-      "path": "3A/Math 239/Week 5/Binary String Exvlusion.md"
-    },
-    {
-      "basename": "Block Decomposition",
-      "path": "3A/Math 239/Week 5/Block Decomposition.md"
-    },
-    {
-      "basename": "A-4-2",
-      "path": "3A/Math 239/Assignments/A4/A-4-2.md"
-    },
-    {
-      "basename": "A-4-3",
-      "path": "3A/Math 239/Assignments/A4/A-4-3.md"
-    },
-    {
-      "basename": "Composition",
-      "path": "3A/Math 239/Week 3/Composition.md"
     }
   ],
   "omittedPaths": [],
