@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/Math 239/Assignments/A5/A-5-3.md",
+                "file": "3A/Math 239/Week 6/Well Formed Parenthesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e759a874a3fa496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/Math 239/Week 6/Graph Theory Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Assignments/A5/A-5-3.md",
+                "file": "3A/Math 239/Week 6/Graph Theory Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Assignments/A5/A-5-3.md"
+                "file": "3A/Math 239/Week 6/Graph Theory Intro.md"
               }
             }
           },
@@ -197,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Assignments/A5/A-5-3.md",
+                "file": "3A/Math 239/Week 6/Graph Theory Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,17 +237,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4cd62b70b15cb77b",
+  "active": "9e759a874a3fa496",
   "lastOpenFiles": [
+    "3A/Math 239/Week 6/Well Formed Parenthesis.md",
+    "3A/Math 239/Week 6/Recursive Decomp.md",
+    "3A/Math 239/Assignments/A5/A-5-3.md",
     "3A/Math 239/Assignments/A5/A-5-1.md",
     "3A/Math 239/Assignments/A5/A-5-2.md",
     "3A/Math 239/Assignments/A5/A-5-2.pdf",
-    "3A/Math 239/Week 6/Well Formed Parenthesis.md",
     "3A/CS 240/Week 6/AVL Balancing.md",
     "3A/Math 239/Week 6/Partial Fraction.md",
     "3A/Math 239/Assignments/A5/A-5-1.pdf",
-    "3A/Math 239/Assignments/A5/A-5-3.pdf",
-    "3A/Math 239/Assignments/A5/A-5-3.md",
-    "3A/Math 239/Assignments/A1/A-1-4.md"
+    "3A/Math 239/Assignments/A5/A-5-3.pdf"
   ]
 }
