@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Copy Assignment Operator",
+      "path": "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
+    },
+    {
+      "basename": "Static fields",
+      "path": "2A/CS 246/Week 5 - OOP/Static fields.md"
+    },
+    {
+      "basename": "Destructor",
+      "path": "2A/CS 246/Week 5 - OOP/Destructor.md"
+    },
+    {
       "basename": "Graph Theory Intro",
       "path": "3A/Math 239/Week 6/Graph Theory Intro.md"
     },
@@ -157,14 +169,6 @@
       "path": "2A/CS 246/Week 5 - OOP/Move Semantics.md"
     },
     {
-      "basename": "Copy Assignment Operator",
-      "path": "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
-    },
-    {
-      "basename": "Destructor",
-      "path": "2A/CS 246/Week 5 - OOP/Destructor.md"
-    },
-    {
       "basename": "Single Argument Constructor",
       "path": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Preprocessor guards",
       "path": "2A/CS 246/Week 4 - preprocessing/Preprocessor guards.md"
-    },
-    {
-      "basename": "Make",
-      "path": "2A/CS 246/Week 4 - preprocessing/Make.md"
     }
   ],
   "omittedPaths": [],
