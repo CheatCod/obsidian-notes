@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Skip List",
+      "path": "3A/CS 240/Week 7/Skip List.md"
+    },
+    {
+      "basename": "AVL Balancing",
+      "path": "3A/CS 240/Week 6/AVL Balancing.md"
+    },
+    {
+      "basename": "a2q5",
+      "path": "3A/CS 240/Assignments/A2/a2q5.md"
+    },
+    {
+      "basename": "a2q4",
+      "path": "3A/CS 240/Assignments/A2/a2q4.md"
+    },
+    {
+      "basename": "a2p3",
+      "path": "3A/CS 240/Assignments/A2/a2p3.md"
+    },
+    {
+      "basename": "a2q2",
+      "path": "3A/CS 240/Assignments/A2/a2q2.md"
+    },
+    {
+      "basename": "a2q1",
+      "path": "3A/CS 240/Assignments/A2/a2q1.md"
+    },
+    {
       "basename": "Walks",
       "path": "3A/Math 239/Week 7/Walks.md"
     },
@@ -57,10 +85,6 @@
       "path": "3A/Math 239/Assignments/A5/A-5-2.pdf"
     },
     {
-      "basename": "AVL Balancing",
-      "path": "3A/CS 240/Week 6/AVL Balancing.md"
-    },
-    {
       "basename": "Partial Fraction",
       "path": "3A/Math 239/Week 6/Partial Fraction.md"
     },
@@ -91,26 +115,6 @@
     {
       "basename": "Tut3",
       "path": "3A/CS 240/Tut/Tut3.md"
-    },
-    {
-      "basename": "a2q1",
-      "path": "3A/CS 240/Assignments/A2/a2q1.md"
-    },
-    {
-      "basename": "a2q5",
-      "path": "3A/CS 240/Assignments/A2/a2q5.md"
-    },
-    {
-      "basename": "a2q4",
-      "path": "3A/CS 240/Assignments/A2/a2q4.md"
-    },
-    {
-      "basename": "a2p3",
-      "path": "3A/CS 240/Assignments/A2/a2p3.md"
-    },
-    {
-      "basename": "a2q2",
-      "path": "3A/CS 240/Assignments/A2/a2q2.md"
     },
     {
       "basename": "a1q6",
@@ -195,10 +199,6 @@
     {
       "basename": "Methods",
       "path": "2A/CS 246/Week 5 - OOP/Methods.md"
-    },
-    {
-      "basename": "Constructor",
-      "path": "2A/CS 246/Week 5 - OOP/Constructor.md"
     }
   ],
   "omittedPaths": [],

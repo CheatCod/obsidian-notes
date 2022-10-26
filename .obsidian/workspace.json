@@ -133,14 +133,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/Math 239/Week 7/Walks.md",
+                "file": "3A/CS 240/Assignments/A2/a2q5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf7e92a394fafa93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/CS 240/Week 7/Skip List.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Week 7/Walks.md",
+                "file": "3A/CS 240/Week 7/Skip List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Week 7/Walks.md"
+                "file": "3A/CS 240/Week 7/Skip List.md"
               }
             }
           },
@@ -257,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Week 7/Walks.md",
+                "file": "3A/CS 240/Week 7/Skip List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,17 +297,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ab56e4d37a8a026a",
+  "active": "bf7e92a394fafa93",
   "lastOpenFiles": [
+    "3A/CS 240/Week 6/AVL Balancing.md",
+    "3A/CS 240/Week 7/Skip List.md",
+    "3A/CS 240/Assignments/A2/a2q5.md",
+    "3A/CS 240/Assignments/A2/a2q4.md",
+    "3A/CS 240/Assignments/A2/a2p3.md",
+    "3A/CS 240/Assignments/A2/a2q2.md",
+    "3A/CS 240/Assignments/A2/a2q1.md",
+    "3A/Math 239/Week 7/Walks.md",
     "3A/Math 239/Week 7/Subgraph.md",
-    "3A/Math 239/Week 7/Bipartite Graphs.md",
-    "3A/CS 349/Week 7/Hit Testing.md",
-    "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md",
-    "2A/CS 246/Week 5 - OOP/Static fields.md",
-    "2A/CS 246/Week 5 - OOP/Destructor.md",
-    "3A/Math 239/Week 6/Graph Theory Intro.md",
-    "3A/Math 239/Week 6/Well Formed Parenthesis.md",
-    "3A/Math 239/Week 6/Recursive Decomp.md",
-    "3A/Math 239/Assignments/A5/A-5-3.md"
+    "3A/Math 239/Week 7/Bipartite Graphs.md"
   ]
 }
