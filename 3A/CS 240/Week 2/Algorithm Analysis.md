@@ -11,7 +11,7 @@ for i = 1 to n
 			print("hello")
 ```
 
-Upper bound:
+	Upper bound:
 
 Lower bound:
 

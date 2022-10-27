@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Run Time Analysis",
+      "path": "3A/CS 240/Week 2/Run Time Analysis.md"
+    },
+    {
+      "basename": "Algorithm Analysis",
+      "path": "3A/CS 240/Week 2/Algorithm Analysis.md"
+    },
+    {
+      "basename": "Tutor",
+      "path": "Rand/Tutor.md"
+    },
+    {
+      "basename": "Walks",
+      "path": "3A/Math 239/Week 7/Walks.md"
+    },
+    {
       "basename": "Skip List",
       "path": "3A/CS 240/Week 7/Skip List.md"
     },
@@ -27,10 +43,6 @@
     {
       "basename": "a2q1",
       "path": "3A/CS 240/Assignments/A2/a2q1.md"
-    },
-    {
-      "basename": "Walks",
-      "path": "3A/Math 239/Week 7/Walks.md"
     },
     {
       "basename": "Subgraph",
@@ -177,14 +189,6 @@
       "path": "3A/CS 240/Week 3/Abstract Data Type.md"
     },
     {
-      "basename": "Algorithm Analysis",
-      "path": "3A/CS 240/Week 2/Algorithm Analysis.md"
-    },
-    {
-      "basename": "Run Time Analysis",
-      "path": "3A/CS 240/Week 2/Run Time Analysis.md"
-    },
-    {
       "basename": "Move Semantics",
       "path": "2A/CS 246/Week 5 - OOP/Move Semantics.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Copy Constructor",
       "path": "2A/CS 246/Week 5 - OOP/Copy Constructor.md"
-    },
-    {
-      "basename": "Methods",
-      "path": "2A/CS 246/Week 5 - OOP/Methods.md"
     }
   ],
   "omittedPaths": [],

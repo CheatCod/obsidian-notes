@@ -145,14 +145,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 240/Week 7/Skip List.md",
+                "file": "3A/Math 239/Week 7/Walks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd0e2b19b8775ecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/CS 240/Week 2/Run Time Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -226,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/CS 240/Week 7/Skip List.md",
+                "file": "3A/CS 240/Week 2/Run Time Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/CS 240/Week 7/Skip List.md"
+                "file": "3A/CS 240/Week 2/Run Time Analysis.md"
               }
             }
           },
@@ -269,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/CS 240/Week 7/Skip List.md",
+                "file": "3A/CS 240/Week 2/Run Time Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,17 +309,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bf7e92a394fafa93",
+  "active": "dd0e2b19b8775ecd",
   "lastOpenFiles": [
-    "3A/CS 240/Week 6/AVL Balancing.md",
+    "3A/CS 240/Week 2/Algorithm Analysis.md",
+    "3A/CS 240/Week 2/Run Time Analysis.md",
+    "Rand/Tutor.md",
+    "3A/Math 239/Week 7/Walks.md",
     "3A/CS 240/Week 7/Skip List.md",
+    "3A/CS 240/Week 6/AVL Balancing.md",
     "3A/CS 240/Assignments/A2/a2q5.md",
     "3A/CS 240/Assignments/A2/a2q4.md",
     "3A/CS 240/Assignments/A2/a2p3.md",
-    "3A/CS 240/Assignments/A2/a2q2.md",
-    "3A/CS 240/Assignments/A2/a2q1.md",
-    "3A/Math 239/Week 7/Walks.md",
-    "3A/Math 239/Week 7/Subgraph.md",
-    "3A/Math 239/Week 7/Bipartite Graphs.md"
+    "3A/CS 240/Assignments/A2/a2q2.md"
   ]
 }
