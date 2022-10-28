@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Storage Management",
+      "path": "3A/CS 348/Week 7/Storage Management.md"
+    },
+    {
+      "basename": "Tries",
+      "path": "3A/CS 240/Week 7/Tries.md"
+    },
+    {
       "basename": "Run Time Analysis",
       "path": "3A/CS 240/Week 2/Run Time Analysis.md"
+    },
+    {
+      "basename": "Walks",
+      "path": "3A/Math 239/Week 7/Walks.md"
+    },
+    {
+      "basename": "a2q5",
+      "path": "3A/CS 240/Assignments/A2/a2q5.md"
+    },
+    {
+      "basename": "Subgraph",
+      "path": "3A/Math 239/Week 7/Subgraph.md"
+    },
+    {
+      "basename": "Hit Testing",
+      "path": "3A/CS 349/Week 7/Hit Testing.md"
+    },
+    {
+      "basename": "Copy Assignment Operator",
+      "path": "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
+    },
+    {
+      "basename": "Well Formed Parenthesis",
+      "path": "3A/Math 239/Week 6/Well Formed Parenthesis.md"
+    },
+    {
+      "basename": "Partial Fraction",
+      "path": "3A/Math 239/Week 6/Partial Fraction.md"
+    },
+    {
+      "basename": "AVL Balancing",
+      "path": "3A/CS 240/Week 6/AVL Balancing.md"
+    },
+    {
+      "basename": "Skip List",
+      "path": "3A/CS 240/Week 7/Skip List.md"
     },
     {
       "basename": "Algorithm Analysis",
@@ -11,22 +55,6 @@
     {
       "basename": "Tutor",
       "path": "Rand/Tutor.md"
-    },
-    {
-      "basename": "Walks",
-      "path": "3A/Math 239/Week 7/Walks.md"
-    },
-    {
-      "basename": "Skip List",
-      "path": "3A/CS 240/Week 7/Skip List.md"
-    },
-    {
-      "basename": "AVL Balancing",
-      "path": "3A/CS 240/Week 6/AVL Balancing.md"
-    },
-    {
-      "basename": "a2q5",
-      "path": "3A/CS 240/Assignments/A2/a2q5.md"
     },
     {
       "basename": "a2q4",
@@ -45,20 +73,8 @@
       "path": "3A/CS 240/Assignments/A2/a2q1.md"
     },
     {
-      "basename": "Subgraph",
-      "path": "3A/Math 239/Week 7/Subgraph.md"
-    },
-    {
       "basename": "Bipartite Graphs",
       "path": "3A/Math 239/Week 7/Bipartite Graphs.md"
-    },
-    {
-      "basename": "Hit Testing",
-      "path": "3A/CS 349/Week 7/Hit Testing.md"
-    },
-    {
-      "basename": "Copy Assignment Operator",
-      "path": "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
     },
     {
       "basename": "Static fields",
@@ -71,10 +87,6 @@
     {
       "basename": "Graph Theory Intro",
       "path": "3A/Math 239/Week 6/Graph Theory Intro.md"
-    },
-    {
-      "basename": "Well Formed Parenthesis",
-      "path": "3A/Math 239/Week 6/Well Formed Parenthesis.md"
     },
     {
       "basename": "Recursive Decomp",
@@ -95,10 +107,6 @@
     {
       "basename": "A-5-2",
       "path": "3A/Math 239/Assignments/A5/A-5-2.pdf"
-    },
-    {
-      "basename": "Partial Fraction",
-      "path": "3A/Math 239/Week 6/Partial Fraction.md"
     },
     {
       "basename": "A-5-1",
@@ -191,14 +199,6 @@
     {
       "basename": "Move Semantics",
       "path": "2A/CS 246/Week 5 - OOP/Move Semantics.md"
-    },
-    {
-      "basename": "Single Argument Constructor",
-      "path": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md"
-    },
-    {
-      "basename": "Copy Constructor",
-      "path": "2A/CS 246/Week 5 - OOP/Copy Constructor.md"
     }
   ],
   "omittedPaths": [],
