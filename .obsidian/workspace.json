@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 348/Week 7/Storage Management.md",
+                "file": "3A/Math 239/Week 7/Walks.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/CS 348/Week 7/Storage Management.md",
+                "file": "3A/Math 239/Week 7/Walks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/CS 348/Week 7/Storage Management.md"
+                "file": "3A/Math 239/Week 7/Walks.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/CS 348/Week 7/Storage Management.md",
+                "file": "3A/Math 239/Week 7/Walks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,15 +186,15 @@
   },
   "active": "3d9ce95d5e8442bd",
   "lastOpenFiles": [
+    "3A/Math 239/Assignments/A5/A-5-1.md",
+    "3A/Math 239/Midterm/Midterm.md",
+    "3A/CS 348/Week 7/Storage Management.md",
     "3A/CS 240/Week 7/Tries.md",
     "3A/CS 240/Week 2/Run Time Analysis.md",
     "3A/Math 239/Week 7/Walks.md",
     "3A/CS 240/Assignments/A2/a2q5.md",
     "3A/Math 239/Week 7/Subgraph.md",
     "3A/CS 349/Week 7/Hit Testing.md",
-    "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md",
-    "3A/Math 239/Week 6/Well Formed Parenthesis.md",
-    "3A/Math 239/Week 6/Partial Fraction.md",
-    "3A/CS 240/Week 6/AVL Balancing.md"
+    "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
   ]
 }

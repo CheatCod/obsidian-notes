@@ -56,3 +56,24 @@ Since $V(G)$ is finite, some vertext $z \in V$ must occur more than once.
 Corollary:
 Let $G$ be a non-empty graph, with no cycle, then there exists a vertex with a degree at most 1.
 
+**Proposition:** Let $G=(V,E)$ be a graph
+Let $v,w \in V$ be vertices
+
+Assume that $P$ and $Q$ are two different distinct paths from $v$ to $w$, then $G$ contains a cycle
+
+**Proof:**
+
+Let $P : v = v_0v_1v_2..v_k=w$
+and $Q: v = z_0z_1z_2...z_l = w$
+
+Since $P \neq Q$ there is a unique index $0 \le a < min(k,l)$
+Such that $v_0 = z_0, v_1 = z_1, v_2 = z_2, ..., v_a = z_a$ but $v_{a+1} \neq z_{a+1}$
+Let $B$ be the first index with $a+1 \le b$ and $z_b$ being on the path $P$
+
+Note that the index $b$ must exist because $z_l = w = v_k$ is on $P$
+
+Since $P$ is a path, it has no repeated, there is a unique index $0 \le c \le k$ such that $z_b = v_c$
+
+Since $Q$ is a path, the subscript $c$ satisifies $c \ge a+1$
+
+If not, $c \le a$ then $z_c = v_c = z_b$ and $c \le a le a + 1 \le b$ so $z_c = z_b$ would be a repeated vertext on $Q$
