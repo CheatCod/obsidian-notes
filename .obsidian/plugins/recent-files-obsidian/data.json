@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Q1",
+      "path": "3A/CS 348/Assignment/A2/Q1.md"
+    },
+    {
       "basename": "Walks",
       "path": "3A/Math 239/Week 7/Walks.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Abstract Data Type",
       "path": "3A/CS 240/Week 3/Abstract Data Type.md"
-    },
-    {
-      "basename": "Move Semantics",
-      "path": "2A/CS 246/Week 5 - OOP/Move Semantics.md"
     }
   ],
   "omittedPaths": [],
