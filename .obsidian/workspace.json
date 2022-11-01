@@ -4,155 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "36d06bcd21526b7f",
+        "id": "65efde48fdd2da3a",
         "type": "tabs",
         "children": [
           {
-            "id": "b965ea6fbc1b511b",
+            "id": "751a6af9ad0306f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 240/Week 7/Tries.md",
+                "file": "3A/Math 239/Assignments/A3/A-3-3.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3d9ce95d5e8442bd",
+            "id": "b1cf8467a423f839",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/Math 239/Week 7/Walks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dda08a3f3b89e92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/Math 239/Midterm/Midterm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28d4ccc40e9b3fb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Assignment/A2/Q1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ede0b5bc53034efa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Assignment/A2/Q4/a.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57c58f3119e7d2c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Assignment/A2/Q4/b.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6398d4e16ce5912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Assignment/A2/Q4/c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41ee76cad118eff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Assignment/A2/Q5/c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88787ae3e4b78e89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Assignment/A2/Q5/e.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c9836647c3491a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Assignment/A2/Q4/c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "424f7f99d1ac08e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Assignment/A2/Q5/a.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "286919425feb7789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Week 6/Functional Dependencies.md",
+                "file": "3A/Math 239/Week 3/Composition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/CS 348/Assignment/A2/Q4/c.md",
+                "file": "3A/Math 239/Week 3/Composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/CS 348/Assignment/A2/Q4/c.md"
+                "file": "3A/Math 239/Week 3/Composition.md"
               }
             }
           },
@@ -269,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/CS 348/Assignment/A2/Q4/c.md",
+                "file": "3A/Math 239/Week 3/Composition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c9836647c3491a3",
+  "active": "b1cf8467a423f839",
   "lastOpenFiles": [
-    "3A/CS 348/Assignment/A2/Q4/b.md",
-    "3A/CS 348/Assignment/A2/Q4/c.md",
-    "3A/CS 348/Assignment/A2/Q5/g.md",
-    "3A/CS 348/Assignment/A2/Q5/e.md",
-    "3A/CS 348/Assignment/A2/Q5/c.md",
-    "3A/CS 348/Assignment/A2/Q5/b.md",
-    "3A/CS 348/Assignment/A2/Q5/a.md",
-    "3A/CS 348/Assignment/A2/Q4/a.md",
-    "3A/CS 348/Week 6/Functional Dependencies.md",
-    "3A/CS 348/Assignment/A2/Q1.md"
+    "3A/Math 239/Assignments/A3/A-3-3.md",
+    "3A/Math 239/Assignments/A3/A-3-2.md",
+    "3A/Math 239/Assignments/A4/A-4-4.md",
+    "3A/Math 239/Assignments/A4/A-4-3.md",
+    "3A/Math 239/Assignments/A4/A-4-2.md",
+    "3A/Math 239/Assignments/A4/A-4-1.md",
+    "3A/Math 239/Assignments/A5/A-5-1.md",
+    "3A/Math 239/Assignments/A5/A-5-2.md",
+    "3A/Math 239/Assignments/A5/A-5-3.md",
+    "3A/Math 239/Week 3/Composition.md"
   ]
 }

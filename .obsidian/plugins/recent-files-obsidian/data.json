@@ -1,176 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "c",
-      "path": "3A/CS 348/Assignment/A2/Q4/c.md"
+      "basename": "Composition",
+      "path": "3A/Math 239/Week 3/Composition.md"
     },
     {
-      "basename": "b",
-      "path": "3A/CS 348/Assignment/A2/Q4/b.md"
+      "basename": "A-3-3",
+      "path": "3A/Math 239/Assignments/A3/A-3-3.md"
     },
     {
-      "basename": "g",
-      "path": "3A/CS 348/Assignment/A2/Q5/g.md"
-    },
-    {
-      "basename": "e",
-      "path": "3A/CS 348/Assignment/A2/Q5/e.md"
-    },
-    {
-      "basename": "c",
-      "path": "3A/CS 348/Assignment/A2/Q5/c.md"
-    },
-    {
-      "basename": "b",
-      "path": "3A/CS 348/Assignment/A2/Q5/b.md"
-    },
-    {
-      "basename": "a",
-      "path": "3A/CS 348/Assignment/A2/Q5/a.md"
-    },
-    {
-      "basename": "a",
-      "path": "3A/CS 348/Assignment/A2/Q4/a.md"
-    },
-    {
-      "basename": "Functional Dependencies",
-      "path": "3A/CS 348/Week 6/Functional Dependencies.md"
-    },
-    {
-      "basename": "Q1",
-      "path": "3A/CS 348/Assignment/A2/Q1.md"
-    },
-    {
-      "basename": "Midterm",
-      "path": "3A/Math 239/Midterm/Midterm.md"
-    },
-    {
-      "basename": "A-4-3",
-      "path": "3A/Math 239/Assignments/A4/A-4-3.md"
-    },
-    {
-      "basename": "A-5-3",
-      "path": "3A/Math 239/Assignments/A5/A-5-3.md"
-    },
-    {
-      "basename": "A-5-2",
-      "path": "3A/Math 239/Assignments/A5/A-5-2.md"
-    },
-    {
-      "basename": "A-5-1",
-      "path": "3A/Math 239/Assignments/A5/A-5-1.md"
+      "basename": "A-3-2",
+      "path": "3A/Math 239/Assignments/A3/A-3-2.md"
     },
     {
       "basename": "A-4-4",
       "path": "3A/Math 239/Assignments/A4/A-4-4.md"
     },
     {
-      "basename": "Schema Decomp",
-      "path": "3A/CS 348/Week 6/Schema Decomp.md"
+      "basename": "A-4-3",
+      "path": "3A/Math 239/Assignments/A4/A-4-3.md"
     },
     {
-      "basename": "Walks",
-      "path": "3A/Math 239/Week 7/Walks.md"
+      "basename": "A-4-2",
+      "path": "3A/Math 239/Assignments/A4/A-4-2.md"
     },
     {
-      "basename": "Storage Management",
-      "path": "3A/CS 348/Week 7/Storage Management.md"
+      "basename": "A-4-1",
+      "path": "3A/Math 239/Assignments/A4/A-4-1.md"
     },
     {
-      "basename": "Tries",
-      "path": "3A/CS 240/Week 7/Tries.md"
+      "basename": "A-5-1",
+      "path": "3A/Math 239/Assignments/A5/A-5-1.md"
     },
     {
-      "basename": "Run Time Analysis",
-      "path": "3A/CS 240/Week 2/Run Time Analysis.md"
+      "basename": "A-5-2",
+      "path": "3A/Math 239/Assignments/A5/A-5-2.md"
     },
     {
-      "basename": "a2q5",
-      "path": "3A/CS 240/Assignments/A2/a2q5.md"
+      "basename": "A-5-3",
+      "path": "3A/Math 239/Assignments/A5/A-5-3.md"
     },
     {
-      "basename": "Subgraph",
-      "path": "3A/Math 239/Week 7/Subgraph.md"
+      "basename": "A-3-1",
+      "path": "3A/Math 239/Assignments/A3/A-3-1.md"
     },
     {
-      "basename": "Hit Testing",
-      "path": "3A/CS 349/Week 7/Hit Testing.md"
-    },
-    {
-      "basename": "Copy Assignment Operator",
-      "path": "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
-    },
-    {
-      "basename": "Well Formed Parenthesis",
-      "path": "3A/Math 239/Week 6/Well Formed Parenthesis.md"
-    },
-    {
-      "basename": "Partial Fraction",
-      "path": "3A/Math 239/Week 6/Partial Fraction.md"
-    },
-    {
-      "basename": "AVL Balancing",
-      "path": "3A/CS 240/Week 6/AVL Balancing.md"
-    },
-    {
-      "basename": "Skip List",
-      "path": "3A/CS 240/Week 7/Skip List.md"
-    },
-    {
-      "basename": "Algorithm Analysis",
-      "path": "3A/CS 240/Week 2/Algorithm Analysis.md"
-    },
-    {
-      "basename": "Tutor",
-      "path": "Rand/Tutor.md"
-    },
-    {
-      "basename": "a2q4",
-      "path": "3A/CS 240/Assignments/A2/a2q4.md"
-    },
-    {
-      "basename": "a2p3",
-      "path": "3A/CS 240/Assignments/A2/a2p3.md"
-    },
-    {
-      "basename": "a2q2",
-      "path": "3A/CS 240/Assignments/A2/a2q2.md"
-    },
-    {
-      "basename": "a2q1",
-      "path": "3A/CS 240/Assignments/A2/a2q1.md"
-    },
-    {
-      "basename": "Bipartite Graphs",
-      "path": "3A/Math 239/Week 7/Bipartite Graphs.md"
-    },
-    {
-      "basename": "Static fields",
-      "path": "2A/CS 246/Week 5 - OOP/Static fields.md"
-    },
-    {
-      "basename": "Destructor",
-      "path": "2A/CS 246/Week 5 - OOP/Destructor.md"
-    },
-    {
-      "basename": "Graph Theory Intro",
-      "path": "3A/Math 239/Week 6/Graph Theory Intro.md"
+      "basename": "Power Series",
+      "path": "3A/Math 239/Week 3/Power Series.md"
     },
     {
       "basename": "Recursive Decomp",
       "path": "3A/Math 239/Week 6/Recursive Decomp.md"
     },
     {
-      "basename": "A-5-2",
-      "path": "3A/Math 239/Assignments/A5/A-5-2.pdf"
+      "basename": "Block Decomposition",
+      "path": "3A/Math 239/Week 5/Block Decomposition.md"
     },
     {
-      "basename": "A-5-1",
-      "path": "3A/Math 239/Assignments/A5/A-5-1.pdf"
+      "basename": "A-2-3",
+      "path": "3A/Math 239/Assignments/A2/A-2-3.md"
     },
     {
-      "basename": "A-5-3",
-      "path": "3A/Math 239/Assignments/A5/A-5-3.pdf"
+      "basename": "A-2-2",
+      "path": "3A/Math 239/Assignments/A2/A-2-2.md"
+    },
+    {
+      "basename": "A-2-1",
+      "path": "3A/Math 239/Assignments/A2/A-2-1.md"
     },
     {
       "basename": "A-1-4",
@@ -189,16 +85,120 @@
       "path": "3A/Math 239/Assignments/A1/A-1-1.md"
     },
     {
-      "basename": "Tut3",
-      "path": "3A/CS 240/Tut/Tut3.md"
+      "basename": "A-4-3",
+      "path": "3A/Math 239/Assignments/A4/A-4-3.pdf"
     },
     {
-      "basename": "a1q6",
-      "path": "3A/CS 240/Assignments/A1/a1q6.md"
+      "basename": "A-4-1",
+      "path": "3A/Math 239/Assignments/A4/A-4-1.pdf"
     },
     {
-      "basename": "a1q7",
-      "path": "3A/CS 240/Assignments/A1/a1q7.md"
+      "basename": "A-4-4",
+      "path": "3A/Math 239/Assignments/A4/A-4-4.pdf"
+    },
+    {
+      "basename": "A-4-2",
+      "path": "3A/Math 239/Assignments/A4/A-4-2.pdf"
+    },
+    {
+      "basename": "Partial Fraction",
+      "path": "3A/Math 239/Week 6/Partial Fraction.md"
+    },
+    {
+      "basename": "Well Formed Parenthesis",
+      "path": "3A/Math 239/Week 6/Well Formed Parenthesis.md"
+    },
+    {
+      "basename": "Ambiguity",
+      "path": "3A/Math 239/Week 4/Ambiguity.md"
+    },
+    {
+      "basename": "Binary String",
+      "path": "3A/Math 239/Week 4/Binary String.md"
+    },
+    {
+      "basename": "Generating Series",
+      "path": "3A/Math 239/Week 3/Generating Series.md"
+    },
+    {
+      "basename": "Binomial Series",
+      "path": "3A/Math 239/Week 2/Binomial Series.md"
+    },
+    {
+      "basename": "Multiset",
+      "path": "3A/Math 239/Week 2/Multiset.md"
+    },
+    {
+      "basename": "b",
+      "path": "3A/CS 348/Assignment/A2/Q4/b.md"
+    },
+    {
+      "basename": "c",
+      "path": "3A/CS 348/Assignment/A2/Q4/c.md"
+    },
+    {
+      "basename": "e",
+      "path": "3A/CS 348/Assignment/A2/Q5/e.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "3A/CS 348/Assignment/A2/Q2.md"
+    },
+    {
+      "basename": "Q3",
+      "path": "3A/CS 348/Assignment/A2/Q3.md"
+    },
+    {
+      "basename": "Midterm",
+      "path": "3A/Math 239/Midterm/Midterm.md"
+    },
+    {
+      "basename": "Functional Dependencies",
+      "path": "3A/CS 348/Week 6/Functional Dependencies.md"
+    },
+    {
+      "basename": "a",
+      "path": "3A/CS 348/Assignment/A2/Q5/a.md"
+    },
+    {
+      "basename": "a",
+      "path": "3A/CS 348/Assignment/A2/Q1/a.md"
+    },
+    {
+      "basename": "d",
+      "path": "3A/CS 348/Assignment/A2/Q5/d.md"
+    },
+    {
+      "basename": "c",
+      "path": "3A/CS 348/Assignment/A2/Q5/c.md"
+    },
+    {
+      "basename": "a",
+      "path": "3A/CS 348/Assignment/A2/Q4/a.md"
+    },
+    {
+      "basename": "Walks",
+      "path": "3A/Math 239/Week 7/Walks.md"
+    },
+    {
+      "basename": "b",
+      "path": "3A/CS 348/Assignment/A2/Q5/b.md"
+    },
+    {
+      "basename": "d",
+      "path": "3A/CS 348/Assignment/A2/Q1/d.md"
+    },
+    {
+      "basename": "c",
+      "path": "3A/CS 348/Assignment/A2/Q1/c.md"
+    },
+    {
+      "basename": "b",
+      "path": "3A/CS 348/Assignment/A2/Q1/b.md"
+    },
+    {
+      "basename": "Schema Decomp",
+      "path": "3A/CS 348/Week 6/Schema Decomp.md"
     }
   ],
   "omittedPaths": [],
