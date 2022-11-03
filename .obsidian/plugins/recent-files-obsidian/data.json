@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bridges",
+      "path": "3A/Math 239/Week 8/Bridges.md"
+    },
+    {
       "basename": "Midterm",
       "path": "3A/Math 239/Midterm/Midterm.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "b",
       "path": "3A/CS 348/Assignment/A2/Q1/b.md"
-    },
-    {
-      "basename": "Schema Decomp",
-      "path": "3A/CS 348/Week 6/Schema Decomp.md"
     }
   ],
   "omittedPaths": [],
