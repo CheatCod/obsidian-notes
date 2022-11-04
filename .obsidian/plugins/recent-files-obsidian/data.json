@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Q2",
+      "path": "2A/CS 245/Midterm/Q2.pdf"
+    },
+    {
+      "basename": "Q1",
+      "path": "2A/CS 245/Midterm/Q1.pdf"
+    },
+    {
+      "basename": "Midterm",
+      "path": "2A/CS 245/Midterm/Midterm.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "2A/CS 245/Midterm/Q1.md"
+    },
+    {
+      "basename": "Range Queries",
+      "path": "3A/CS 240/Week 8/Range Queries.md"
+    },
+    {
+      "basename": "Hash",
+      "path": "3A/CS 240/Week 8/Hash.md"
+    },
+    {
       "basename": "Bridges",
       "path": "3A/Math 239/Week 8/Bridges.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "c",
       "path": "3A/CS 348/Assignment/A2/Q5/c.md"
-    },
-    {
-      "basename": "a",
-      "path": "3A/CS 348/Assignment/A2/Q4/a.md"
-    },
-    {
-      "basename": "Walks",
-      "path": "3A/Math 239/Week 7/Walks.md"
-    },
-    {
-      "basename": "b",
-      "path": "3A/CS 348/Assignment/A2/Q5/b.md"
-    },
-    {
-      "basename": "d",
-      "path": "3A/CS 348/Assignment/A2/Q1/d.md"
-    },
-    {
-      "basename": "c",
-      "path": "3A/CS 348/Assignment/A2/Q1/c.md"
-    },
-    {
-      "basename": "b",
-      "path": "3A/CS 348/Assignment/A2/Q1/b.md"
     }
   ],
   "omittedPaths": [],
