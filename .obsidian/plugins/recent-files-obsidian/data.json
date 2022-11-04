@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "a3e",
+      "path": "3A/CS 348/Assignment/A1/q3/a3e.md"
+    },
+    {
+      "basename": "a3c",
+      "path": "3A/CS 348/Assignment/A1/q3/a3c.md"
+    },
+    {
+      "basename": "a3d",
+      "path": "3A/CS 348/Assignment/A1/q3/a3d.md"
+    },
+    {
+      "basename": "a2e",
+      "path": "3A/CS 348/Assignment/A1/q2/a2e.md"
+    },
+    {
+      "basename": "Relational Algebra",
+      "path": "3A/CS 348/Week 2/Relational Algebra.md"
+    },
+    {
+      "basename": "Relational Data Model",
+      "path": "3A/CS 348/Week 2/Relational Data Model.md"
+    },
+    {
+      "basename": "q3b",
+      "path": "3A/CS 348/Assignment/A1/q3/q3b.md"
+    },
+    {
+      "basename": "q3a",
+      "path": "3A/CS 348/Assignment/A1/q3/q3a.md"
+    },
+    {
+      "basename": "b",
+      "path": "3A/CS 348/Assignment/A2/Q1/b.md"
+    },
+    {
+      "basename": "a2d",
+      "path": "3A/CS 348/Assignment/A1/q2/a2d.md"
+    },
+    {
+      "basename": "a2c",
+      "path": "3A/CS 348/Assignment/A1/q2/a2c.md"
+    },
+    {
+      "basename": "q2b",
+      "path": "3A/CS 348/Assignment/A1/q2/q2b.md"
+    },
+    {
+      "basename": "q2a",
+      "path": "3A/CS 348/Assignment/A1/q2/q2a.md"
+    },
+    {
+      "basename": "q1b",
+      "path": "3A/CS 348/Assignment/A1/q1/q1b.md"
+    },
+    {
+      "basename": "q1a",
+      "path": "3A/CS 348/Assignment/A1/q1/q1a.md"
+    },
+    {
+      "basename": "Midterm",
+      "path": "3A/CS 348/Midterm/Midterm.md"
+    },
+    {
+      "basename": "Hash",
+      "path": "3A/CS 240/Week 8/Hash.md"
+    },
+    {
       "basename": "Q2",
       "path": "2A/CS 245/Midterm/Q2.pdf"
     },
@@ -19,10 +87,6 @@
     {
       "basename": "Range Queries",
       "path": "3A/CS 240/Week 8/Range Queries.md"
-    },
-    {
-      "basename": "Hash",
-      "path": "3A/CS 240/Week 8/Hash.md"
     },
     {
       "basename": "Bridges",
@@ -135,70 +199,6 @@
     {
       "basename": "A-4-1",
       "path": "3A/Math 239/Assignments/A4/A-4-1.pdf"
-    },
-    {
-      "basename": "A-4-4",
-      "path": "3A/Math 239/Assignments/A4/A-4-4.pdf"
-    },
-    {
-      "basename": "A-4-2",
-      "path": "3A/Math 239/Assignments/A4/A-4-2.pdf"
-    },
-    {
-      "basename": "Partial Fraction",
-      "path": "3A/Math 239/Week 6/Partial Fraction.md"
-    },
-    {
-      "basename": "Well Formed Parenthesis",
-      "path": "3A/Math 239/Week 6/Well Formed Parenthesis.md"
-    },
-    {
-      "basename": "Ambiguity",
-      "path": "3A/Math 239/Week 4/Ambiguity.md"
-    },
-    {
-      "basename": "Binomial Series",
-      "path": "3A/Math 239/Week 2/Binomial Series.md"
-    },
-    {
-      "basename": "b",
-      "path": "3A/CS 348/Assignment/A2/Q4/b.md"
-    },
-    {
-      "basename": "c",
-      "path": "3A/CS 348/Assignment/A2/Q4/c.md"
-    },
-    {
-      "basename": "e",
-      "path": "3A/CS 348/Assignment/A2/Q5/e.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "3A/CS 348/Assignment/A2/Q2.md"
-    },
-    {
-      "basename": "Q3",
-      "path": "3A/CS 348/Assignment/A2/Q3.md"
-    },
-    {
-      "basename": "Functional Dependencies",
-      "path": "3A/CS 348/Week 6/Functional Dependencies.md"
-    },
-    {
-      "basename": "a",
-      "path": "3A/CS 348/Assignment/A2/Q5/a.md"
-    },
-    {
-      "basename": "a",
-      "path": "3A/CS 348/Assignment/A2/Q1/a.md"
-    },
-    {
-      "basename": "d",
-      "path": "3A/CS 348/Assignment/A2/Q5/d.md"
-    },
-    {
-      "basename": "c",
-      "path": "3A/CS 348/Assignment/A2/Q5/c.md"
     }
   ],
   "omittedPaths": [],
