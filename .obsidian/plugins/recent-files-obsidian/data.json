@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "A-6-2",
+      "path": "3A/Math 239/Assignments/A6/A-6-2.md"
+    },
+    {
+      "basename": "A-6-1",
+      "path": "3A/Math 239/Assignments/A6/A-6-1.md"
+    },
+    {
+      "basename": "Trees",
+      "path": "3A/Math 239/Week 9/Trees.md"
+    },
+    {
+      "basename": "Bridges",
+      "path": "3A/Math 239/Week 8/Bridges.md"
+    },
+    {
       "basename": "a3e",
       "path": "3A/CS 348/Assignment/A1/q3/a3e.md"
     },
@@ -87,10 +103,6 @@
     {
       "basename": "Range Queries",
       "path": "3A/CS 240/Week 8/Range Queries.md"
-    },
-    {
-      "basename": "Bridges",
-      "path": "3A/Math 239/Week 8/Bridges.md"
     },
     {
       "basename": "Midterm",
@@ -183,22 +195,6 @@
     {
       "basename": "A-1-3",
       "path": "3A/Math 239/Assignments/A1/A-1-3.md"
-    },
-    {
-      "basename": "A-1-2",
-      "path": "3A/Math 239/Assignments/A1/A-1-2.md"
-    },
-    {
-      "basename": "A-1-1",
-      "path": "3A/Math 239/Assignments/A1/A-1-1.md"
-    },
-    {
-      "basename": "A-4-3",
-      "path": "3A/Math 239/Assignments/A4/A-4-3.pdf"
-    },
-    {
-      "basename": "A-4-1",
-      "path": "3A/Math 239/Assignments/A4/A-4-1.pdf"
     }
   ],
   "omittedPaths": [],

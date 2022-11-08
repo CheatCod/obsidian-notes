@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 348/Assignment/A1/q3/a3e.md",
+                "file": "3A/Math 239/Week 8/Bridges.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02d80e405973cac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/Math 239/Week 9/Trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a828da74c360a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/Math 239/Assignments/A6/A-6-2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/CS 348/Assignment/A1/q3/a3e.md",
+                "file": "3A/Math 239/Assignments/A6/A-6-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/CS 348/Assignment/A1/q3/a3e.md"
+                "file": "3A/Math 239/Assignments/A6/A-6-2.md"
               }
             }
           },
@@ -185,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/CS 348/Assignment/A1/q3/a3e.md",
+                "file": "3A/Math 239/Assignments/A6/A-6-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,17 +234,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "280cd03231420491",
+  "active": "6a828da74c360a54",
   "lastOpenFiles": [
+    "3A/Math 239/Assignments/A6/c.md",
+    "3A/Math 239/Assignments/A6/A-6-1.md",
+    "3A/Math 239/Assignments/A6/A-6-2.md",
+    "3A/Math 239/Week 9/Trees.md",
+    "3A/Math 239/Week 8/Bridges.md",
+    "3A/CS 348/Assignment/A1/q3/a3e.md",
     "3A/CS 348/Assignment/A1/q3/a3c.md",
     "3A/CS 348/Assignment/A1/q3/a3d.md",
-    "3A/CS 348/Assignment/A1/q3/a3e.md",
     "3A/CS 348/Assignment/A1/q2/a2e.md",
-    "3A/CS 348/Week 2/Relational Algebra.md",
-    "3A/CS 348/Week 2/Relational Data Model.md",
-    "3A/CS 348/Assignment/A1/q3/q3b.md",
-    "3A/CS 348/Assignment/A1/q3/q3a.md",
-    "3A/CS 348/Assignment/A2/Q1/b.md",
-    "3A/CS 348/Assignment/A1/q2/a2d.md"
+    "3A/CS 348/Week 2/Relational Algebra.md"
   ]
 }
