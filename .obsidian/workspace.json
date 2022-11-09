@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/Math 239/Assignments/A6/A-6-2.md",
+                "file": "3A/CS 348/Week 7/Storage Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec836b54c439537b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/CS 348/Week 7/Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Assignments/A6/A-6-2.md",
+                "file": "3A/CS 348/Week 7/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Assignments/A6/A-6-2.md"
+                "file": "3A/CS 348/Week 7/Index.md"
               }
             }
           },
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Assignments/A6/A-6-2.md",
+                "file": "3A/CS 348/Week 7/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,17 +246,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a828da74c360a54",
+  "active": "ec836b54c439537b",
   "lastOpenFiles": [
+    "3A/CS 348/Week 7/Storage Management.md",
+    "3A/Math 239/Assignments/A6/A-6-2.md",
     "3A/Math 239/Assignments/A6/c.md",
     "3A/Math 239/Assignments/A6/A-6-1.md",
-    "3A/Math 239/Assignments/A6/A-6-2.md",
     "3A/Math 239/Week 9/Trees.md",
     "3A/Math 239/Week 8/Bridges.md",
     "3A/CS 348/Assignment/A1/q3/a3e.md",
     "3A/CS 348/Assignment/A1/q3/a3c.md",
     "3A/CS 348/Assignment/A1/q3/a3d.md",
-    "3A/CS 348/Assignment/A1/q2/a2e.md",
-    "3A/CS 348/Week 2/Relational Algebra.md"
+    "3A/CS 348/Assignment/A1/q2/a2e.md"
   ]
 }
