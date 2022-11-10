@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Spanning Trees",
+      "path": "3A/Math 239/Week 9/Spanning Trees.md"
+    },
+    {
+      "basename": "Tree Cont ed",
+      "path": "3A/Math 239/Week 9/Tree Cont ed.md"
+    },
+    {
+      "basename": "Trees",
+      "path": "3A/Math 239/Week 9/Trees.md"
+    },
+    {
       "basename": "Index",
       "path": "3A/CS 348/Week 7/Index.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "A-6-1",
       "path": "3A/Math 239/Assignments/A6/A-6-1.md"
-    },
-    {
-      "basename": "Trees",
-      "path": "3A/Math 239/Week 9/Trees.md"
     },
     {
       "basename": "Bridges",
@@ -191,14 +199,6 @@
     {
       "basename": "A-2-2",
       "path": "3A/Math 239/Assignments/A2/A-2-2.md"
-    },
-    {
-      "basename": "A-2-1",
-      "path": "3A/Math 239/Assignments/A2/A-2-1.md"
-    },
-    {
-      "basename": "A-1-4",
-      "path": "3A/Math 239/Assignments/A1/A-1-4.md"
     }
   ],
   "omittedPaths": [],
