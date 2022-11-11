@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Query Processing",
+      "path": "3A/CS 348/Week 9/Query Processing.md"
+    },
+    {
+      "basename": "Relational Algebra",
+      "path": "3A/CS 348/Week 2/Relational Algebra.md"
+    },
+    {
+      "basename": "Relational Data Model",
+      "path": "3A/CS 348/Week 2/Relational Data Model.md"
+    },
+    {
+      "basename": "Index",
+      "path": "3A/CS 348/Week 9/Index.md"
+    },
+    {
+      "basename": "Storage Management",
+      "path": "3A/CS 348/Week 7/Storage Management.md"
+    },
+    {
       "basename": "Spanning Trees",
       "path": "3A/Math 239/Week 9/Spanning Trees.md"
     },
@@ -11,14 +31,6 @@
     {
       "basename": "Trees",
       "path": "3A/Math 239/Week 9/Trees.md"
-    },
-    {
-      "basename": "Index",
-      "path": "3A/CS 348/Week 7/Index.md"
-    },
-    {
-      "basename": "Storage Management",
-      "path": "3A/CS 348/Week 7/Storage Management.md"
     },
     {
       "basename": "A-6-2",
@@ -47,14 +59,6 @@
     {
       "basename": "a2e",
       "path": "3A/CS 348/Assignment/A1/q2/a2e.md"
-    },
-    {
-      "basename": "Relational Algebra",
-      "path": "3A/CS 348/Week 2/Relational Algebra.md"
-    },
-    {
-      "basename": "Relational Data Model",
-      "path": "3A/CS 348/Week 2/Relational Data Model.md"
     },
     {
       "basename": "q3b",
@@ -195,10 +199,6 @@
     {
       "basename": "A-2-3",
       "path": "3A/Math 239/Assignments/A2/A-2-3.md"
-    },
-    {
-      "basename": "A-2-2",
-      "path": "3A/Math 239/Assignments/A2/A-2-2.md"
     }
   ],
   "omittedPaths": [],
