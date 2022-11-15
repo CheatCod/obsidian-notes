@@ -133,14 +133,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 348/Week 9/Query Processing.md",
+                "file": "3A/Math 239/Week 9/Spanning Trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3265bfd0b2e61aef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/Math 239/Midterm/Midterm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dad69caaab016d5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/Math 239/Week 10/Planar Graphs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -214,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/CS 348/Week 9/Query Processing.md",
+                "file": "3A/Math 239/Week 10/Planar Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/CS 348/Week 9/Query Processing.md"
+                "file": "3A/Math 239/Week 10/Planar Graphs.md"
               }
             }
           },
@@ -257,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/CS 348/Week 9/Query Processing.md",
+                "file": "3A/Math 239/Week 10/Planar Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,17 +306,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b87ed7a68b2f86df",
+  "active": "dad69caaab016d5a",
   "lastOpenFiles": [
+    "3A/Math 239/Midterm/Midterm.md",
+    "3A/Math 239/Week 9/Bipartitions.md",
+    "3A/Math 239/Week 9/Spanning Trees.md",
+    "3A/CS 348/Week 9/Query Processing.md",
     "3A/CS 348/Week 2/Relational Algebra.md",
     "3A/CS 348/Week 2/Relational Data Model.md",
-    "3A/CS 348/Week 9/Query Processing.md",
     "3A/CS 348/Week 9/Index.md",
     "3A/CS 348/Week 7/Storage Management.md",
-    "3A/Math 239/Week 9/Spanning Trees.md",
     "3A/Math 239/Week 9/Tree Cont ed.md",
-    "3A/Math 239/Week 9/Trees.md",
-    "3A/Math 239/Assignments/A6/A-6-2.md",
-    "3A/Math 239/Assignments/A6/c.md"
+    "3A/Math 239/Week 9/Trees.md"
   ]
 }

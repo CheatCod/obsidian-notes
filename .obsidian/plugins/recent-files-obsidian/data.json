@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Planar Graphs",
+      "path": "3A/Math 239/Week 10/Planar Graphs.md"
+    },
+    {
+      "basename": "Midterm",
+      "path": "3A/Math 239/Midterm/Midterm.md"
+    },
+    {
+      "basename": "Bipartitions",
+      "path": "3A/Math 239/Week 9/Bipartitions.md"
+    },
+    {
+      "basename": "Spanning Trees",
+      "path": "3A/Math 239/Week 9/Spanning Trees.md"
+    },
+    {
       "basename": "Query Processing",
       "path": "3A/CS 348/Week 9/Query Processing.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "Storage Management",
       "path": "3A/CS 348/Week 7/Storage Management.md"
-    },
-    {
-      "basename": "Spanning Trees",
-      "path": "3A/Math 239/Week 9/Spanning Trees.md"
     },
     {
       "basename": "Tree Cont ed",
@@ -125,10 +137,6 @@
       "path": "3A/CS 240/Week 8/Range Queries.md"
     },
     {
-      "basename": "Midterm",
-      "path": "3A/Math 239/Midterm/Midterm.md"
-    },
-    {
       "basename": "Multiset",
       "path": "3A/Math 239/Week 2/Multiset.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Recursive Decomp",
       "path": "3A/Math 239/Week 6/Recursive Decomp.md"
-    },
-    {
-      "basename": "Block Decomposition",
-      "path": "3A/Math 239/Week 5/Block Decomposition.md"
-    },
-    {
-      "basename": "A-2-3",
-      "path": "3A/Math 239/Assignments/A2/A-2-3.md"
     }
   ],
   "omittedPaths": [],
