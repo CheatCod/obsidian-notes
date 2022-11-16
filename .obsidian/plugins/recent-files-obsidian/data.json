@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "a4q2",
+      "path": "3A/CS 240/Assignments/A4/a4q2.md"
+    },
+    {
+      "basename": "a4q1",
+      "path": "3A/CS 240/Assignments/A4/a4q1.md"
+    },
+    {
       "basename": "Query Optimization",
       "path": "3A/CS 348/Week 10/Query Optimization.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "A-5-2",
       "path": "3A/Math 239/Assignments/A5/A-5-2.md"
-    },
-    {
-      "basename": "A-5-3",
-      "path": "3A/Math 239/Assignments/A5/A-5-3.md"
-    },
-    {
-      "basename": "A-3-1",
-      "path": "3A/Math 239/Assignments/A3/A-3-1.md"
     }
   ],
   "omittedPaths": [],
