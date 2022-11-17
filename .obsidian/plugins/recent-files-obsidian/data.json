@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "A-7-1",
+      "path": "3A/Math 239/Assignments/A7/A-7-1.md"
+    },
+    {
+      "basename": "a4q3",
+      "path": "3A/CS 240/Assignments/A4/a4q3.md"
+    },
+    {
       "basename": "a4q2",
       "path": "3A/CS 240/Assignments/A4/a4q2.md"
     },
     {
+      "basename": "a4q4",
+      "path": "3A/CS 240/Assignments/A4/a4q4.md"
+    },
+    {
       "basename": "a4q1",
       "path": "3A/CS 240/Assignments/A4/a4q1.md"
+    },
+    {
+      "basename": "AVL Balancing",
+      "path": "3A/CS 240/Week 6/AVL Balancing.md"
     },
     {
       "basename": "Query Optimization",
@@ -183,22 +199,6 @@
     {
       "basename": "A-4-3",
       "path": "3A/Math 239/Assignments/A4/A-4-3.md"
-    },
-    {
-      "basename": "A-4-2",
-      "path": "3A/Math 239/Assignments/A4/A-4-2.md"
-    },
-    {
-      "basename": "A-4-1",
-      "path": "3A/Math 239/Assignments/A4/A-4-1.md"
-    },
-    {
-      "basename": "A-5-1",
-      "path": "3A/Math 239/Assignments/A5/A-5-1.md"
-    },
-    {
-      "basename": "A-5-2",
-      "path": "3A/Math 239/Assignments/A5/A-5-2.md"
     }
   ],
   "omittedPaths": [],
