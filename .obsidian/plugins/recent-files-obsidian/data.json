@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Euler's Formula",
+      "path": "3A/Math 239/Week 10/Euler's Formula.md"
+    },
+    {
+      "basename": "Planar Graphs",
+      "path": "3A/Math 239/Week 10/Planar Graphs.md"
+    },
+    {
       "basename": "A-7-1",
       "path": "3A/Math 239/Assignments/A7/A-7-1.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "Spanning Trees",
       "path": "3A/Math 239/Week 9/Spanning Trees.md"
-    },
-    {
-      "basename": "Planar Graphs",
-      "path": "3A/Math 239/Week 10/Planar Graphs.md"
     },
     {
       "basename": "Bipartitions",
@@ -195,10 +199,6 @@
     {
       "basename": "A-4-4",
       "path": "3A/Math 239/Assignments/A4/A-4-4.md"
-    },
-    {
-      "basename": "A-4-3",
-      "path": "3A/Math 239/Assignments/A4/A-4-3.md"
     }
   ],
   "omittedPaths": [],

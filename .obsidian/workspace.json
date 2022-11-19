@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f6f0ac868b3a923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/Math 239/Week 10/Euler's Formula.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Assignments/A7/A-7-1.md",
+                "file": "3A/Math 239/Week 10/Euler's Formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Assignments/A7/A-7-1.md"
+                "file": "3A/Math 239/Week 10/Euler's Formula.md"
               }
             }
           },
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Assignments/A7/A-7-1.md",
+                "file": "3A/Math 239/Week 10/Euler's Formula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,17 +222,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a69cdec82a7ff757",
+  "active": "5f6f0ac868b3a923",
   "lastOpenFiles": [
+    "3A/Math 239/Week 10/Planar Graphs.md",
+    "3A/Math 239/Week 10/Euler's Formula.md",
+    "3A/Math 239/Assignments/A7/A-7-1.md",
     "3A/CS 240/Assignments/A4/a4q3.md",
     "3A/CS 240/Assignments/A4/a4q2.md",
     "3A/CS 240/Assignments/A4/a4q4.md",
     "3A/CS 240/Assignments/A4/a4q1.md",
     "3A/CS 240/Assignments/A4/Untitled.md",
     "3A/CS 240/Week 6/AVL Balancing.md",
-    "3A/CS 348/Week 10/Query Optimization.md",
-    "3A/CS 348/Midterm/Midterm.md",
-    "3A/CS 348/Week 9/Query Processing.md",
-    "3A/CS 348/Week 9/Index.md"
+    "3A/CS 348/Week 10/Query Optimization.md"
   ]
 }
