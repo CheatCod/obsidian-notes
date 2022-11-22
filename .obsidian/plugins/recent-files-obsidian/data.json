@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Coloring Graph",
+      "path": "3A/Math 239/Week 11/Coloring Graph.md"
+    },
+    {
       "basename": "Euler's Formula",
       "path": "3A/Math 239/Week 10/Euler's Formula.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "A-3-2",
       "path": "3A/Math 239/Assignments/A3/A-3-2.md"
-    },
-    {
-      "basename": "A-4-4",
-      "path": "3A/Math 239/Assignments/A4/A-4-4.md"
     }
   ],
   "omittedPaths": [],
