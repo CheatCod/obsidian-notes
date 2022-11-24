@@ -5,6 +5,10 @@
       "path": "3A/Math 239/Week 11/Coloring Graph.md"
     },
     {
+      "basename": "Untitled",
+      "path": "3A/Math 239/Week 11/Untitled.md"
+    },
+    {
       "basename": "Euler's Formula",
       "path": "3A/Math 239/Week 10/Euler's Formula.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "A-3-3",
       "path": "3A/Math 239/Assignments/A3/A-3-3.md"
-    },
-    {
-      "basename": "A-3-2",
-      "path": "3A/Math 239/Assignments/A3/A-3-2.md"
     }
   ],
   "omittedPaths": [],
