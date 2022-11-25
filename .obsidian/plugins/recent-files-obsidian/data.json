@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "A-8-3",
+      "path": "3A/Math 239/Assignments/A8/A-8-3.md"
+    },
+    {
+      "basename": "A-8-2",
+      "path": "3A/Math 239/Assignments/A8/A-8-2.md"
+    },
+    {
+      "basename": "A-8-1",
+      "path": "3A/Math 239/Assignments/A8/A-8-1.md"
+    },
+    {
+      "basename": "A-7-1",
+      "path": "3A/Math 239/Assignments/A7/A-7-1.md"
+    },
+    {
       "basename": "Coloring Graph",
       "path": "3A/Math 239/Week 11/Coloring Graph.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "Planar Graphs",
       "path": "3A/Math 239/Week 10/Planar Graphs.md"
-    },
-    {
-      "basename": "A-7-1",
-      "path": "3A/Math 239/Assignments/A7/A-7-1.md"
     },
     {
       "basename": "a4q3",
@@ -187,18 +199,6 @@
     {
       "basename": "Generating Series",
       "path": "3A/Math 239/Week 3/Generating Series.md"
-    },
-    {
-      "basename": "Binary String",
-      "path": "3A/Math 239/Week 4/Binary String.md"
-    },
-    {
-      "basename": "Composition",
-      "path": "3A/Math 239/Week 3/Composition.md"
-    },
-    {
-      "basename": "A-3-3",
-      "path": "3A/Math 239/Assignments/A3/A-3-3.md"
     }
   ],
   "omittedPaths": [],
