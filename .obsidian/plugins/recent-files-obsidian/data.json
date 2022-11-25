@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "A-8-1",
+      "path": "3A/Math 239/Assignments/A8/A-8-1.md"
+    },
+    {
       "basename": "A-8-3",
       "path": "3A/Math 239/Assignments/A8/A-8-3.md"
     },
     {
-      "basename": "A-8-2",
-      "path": "3A/Math 239/Assignments/A8/A-8-2.md"
+      "basename": "A-8-4",
+      "path": "3A/Math 239/Assignments/A8/A-8-4.md"
     },
     {
-      "basename": "A-8-1",
-      "path": "3A/Math 239/Assignments/A8/A-8-1.md"
+      "basename": "A-8-2",
+      "path": "3A/Math 239/Assignments/A8/A-8-2.md"
     },
     {
       "basename": "A-7-1",
@@ -195,10 +199,6 @@
     {
       "basename": "Multiset",
       "path": "3A/Math 239/Week 2/Multiset.md"
-    },
-    {
-      "basename": "Generating Series",
-      "path": "3A/Math 239/Week 3/Generating Series.md"
     }
   ],
   "omittedPaths": [],
