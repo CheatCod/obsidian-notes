@@ -10,7 +10,9 @@
 
 # ISAM (Index Sequential Access Method)
 
-Problem: may become unbalanced
+- If an index is too big, we can put another (sparse) index on top of it.
+
+Problem: may become unbalanced after deletion and insertion
 
 # B+ Tree
 

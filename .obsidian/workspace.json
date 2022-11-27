@@ -8,103 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1300d2bd52d84112",
+            "id": "5b67a8841200e372",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 348/Week 10/Query Optimization.md",
+                "file": "3A/CS 348/Assignment/A3/Q3.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e5b2d1d63774e1e0",
+            "id": "bb92cef078b3e6e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 240/Assignments/A4/a4q1.md",
+                "file": "3A/CS 348/Assignment/A3/Q4a.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "120ac9cf29d2fe42",
+            "id": "b7e1e5d8b59e7a60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 240/Assignments/A4/a4q3.md",
+                "file": "3A/CS 348/Assignment/A3/Q4b.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c3ed5aa46534e013",
+            "id": "da8f64ff8606912e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 240/Assignments/A4/a4q3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a69cdec82a7ff757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/Math 239/Assignments/A7/A-7-1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f6f0ac868b3a923",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/Math 239/Week 10/Euler's Formula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73d1f783131660ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/Math 239/Assignments/A7/A-7-1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c485b9a2ca1e198e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/Math 239/Week 11/Matching.md",
+                "file": "3A/CS 348/Assignment/A3/Q1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Week 11/Matching.md",
+                "file": "3A/CS 348/Assignment/A3/Q4a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Week 11/Matching.md"
+                "file": "3A/CS 348/Assignment/A3/Q4a.md"
               }
             }
           },
@@ -221,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Week 11/Matching.md",
+                "file": "3A/CS 348/Assignment/A3/Q4a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,17 +198,54 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c485b9a2ca1e198e",
+  "floating": {
+    "id": "4efa54d3361ed9b2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "afcc0f7caa33a051",
+        "type": "window",
+        "children": [
+          {
+            "id": "67a6eea109ec4efb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c485b9a2ca1e198e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3A/CS 348/Week 9/Index.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1529,
+        "y": 285,
+        "width": 1256,
+        "height": 835,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bb92cef078b3e6e7",
   "lastOpenFiles": [
-    "3A/Math 239/Assignments/A8/A-8-1.md",
-    "3A/Math 239/Assignments/A8/A-8-3.md",
-    "3A/Math 239/Assignments/A8/A-8-4.md",
-    "3A/Math 239/Assignments/A8/A-8-2.md",
+    "3A/CS 348/Assignment/A3/Q4b.md",
+    "3A/CS 348/Assignment/A3/Q4a.md",
+    "3A/CS 348/Assignment/A3/Q3.md",
+    "3A/CS 348/Week 2/Relational Algebra.md",
+    "3A/CS 348/Assignment/A3/Q2.md",
+    "3A/CS 348/Assignment/A3/Q1.md",
+    "3A/CS 348/Week 9/Index.md",
     "3A/Math 239/Assignments/A7/A-7-1.md",
-    "3A/Math 239/Week 11/Coloring Graph.md",
     "3A/Math 239/Week 11/Matching.md",
-    "3A/Math 239/Week 10/Euler's Formula.md",
-    "3A/Math 239/Week 10/Planar Graphs.md",
-    "3A/CS 240/Assignments/A4/a4q3.md"
+    "3A/Math 239/Assignments/A8/A-8-1.md"
   ]
 }

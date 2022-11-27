@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Q4a",
+      "path": "3A/CS 348/Assignment/A3/Q4a.md"
+    },
+    {
+      "basename": "Q4b",
+      "path": "3A/CS 348/Assignment/A3/Q4b.md"
+    },
+    {
+      "basename": "Q3",
+      "path": "3A/CS 348/Assignment/A3/Q3.md"
+    },
+    {
+      "basename": "Relational Algebra",
+      "path": "3A/CS 348/Week 2/Relational Algebra.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "3A/CS 348/Assignment/A3/Q2.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "3A/CS 348/Assignment/A3/Q1.md"
+    },
+    {
+      "basename": "Index",
+      "path": "3A/CS 348/Week 9/Index.md"
+    },
+    {
+      "basename": "A-7-1",
+      "path": "3A/Math 239/Assignments/A7/A-7-1.md"
+    },
+    {
       "basename": "Matching",
       "path": "3A/Math 239/Week 11/Matching.md"
     },
@@ -19,10 +51,6 @@
     {
       "basename": "A-8-2",
       "path": "3A/Math 239/Assignments/A8/A-8-2.md"
-    },
-    {
-      "basename": "A-7-1",
-      "path": "3A/Math 239/Assignments/A7/A-7-1.md"
     },
     {
       "basename": "Coloring Graph",
@@ -69,10 +97,6 @@
       "path": "3A/CS 348/Week 9/Query Processing.md"
     },
     {
-      "basename": "Index",
-      "path": "3A/CS 348/Week 9/Index.md"
-    },
-    {
       "basename": "String Matching",
       "path": "3A/CS 240/Week 10/String Matching.md"
     },
@@ -103,10 +127,6 @@
     {
       "basename": "Bipartitions",
       "path": "3A/Math 239/Week 9/Bipartitions.md"
-    },
-    {
-      "basename": "Relational Algebra",
-      "path": "3A/CS 348/Week 2/Relational Algebra.md"
     },
     {
       "basename": "Relational Data Model",
@@ -179,26 +199,6 @@
     {
       "basename": "Q2",
       "path": "2A/CS 245/Midterm/Q2.pdf"
-    },
-    {
-      "basename": "Q1",
-      "path": "2A/CS 245/Midterm/Q1.pdf"
-    },
-    {
-      "basename": "Midterm",
-      "path": "2A/CS 245/Midterm/Midterm.md"
-    },
-    {
-      "basename": "Q1",
-      "path": "2A/CS 245/Midterm/Q1.md"
-    },
-    {
-      "basename": "Range Queries",
-      "path": "3A/CS 240/Week 8/Range Queries.md"
-    },
-    {
-      "basename": "Multiset",
-      "path": "3A/Math 239/Week 2/Multiset.md"
     }
   ],
   "omittedPaths": [],
