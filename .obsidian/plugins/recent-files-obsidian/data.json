@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "A5Q2",
+      "path": "3A/CS 240/Assignments/A5/A5Q2.md"
+    },
+    {
+      "basename": "A5Q1",
+      "path": "3A/CS 240/Assignments/A5/A5Q1.md"
+    },
+    {
+      "basename": "String Matching",
+      "path": "3A/CS 240/Week 10/String Matching.md"
+    },
+    {
       "basename": "Q5c",
       "path": "3A/CS 348/Assignment/A3/Q5c.md"
     },
@@ -117,10 +129,6 @@
       "path": "3A/CS 348/Week 9/Query Processing.md"
     },
     {
-      "basename": "String Matching",
-      "path": "3A/CS 240/Week 10/String Matching.md"
-    },
-    {
       "basename": "Midterm",
       "path": "3A/Math 239/Midterm/Midterm.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "b",
       "path": "3A/CS 348/Assignment/A2/Q1/b.md"
-    },
-    {
-      "basename": "a2d",
-      "path": "3A/CS 348/Assignment/A1/q2/a2d.md"
-    },
-    {
-      "basename": "a2c",
-      "path": "3A/CS 348/Assignment/A1/q2/a2c.md"
     }
   ],
   "omittedPaths": [],
