@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 348/Assignment/A3/Q3.md",
+                "file": "3A/CS 348/Assignment/A3/Q3c.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,55 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "3A/CS 348/Assignment/A3/Q3c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ea9f191a06fd33c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/CS 348/Assignment/A3/Q3c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55a468eee085ae51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "3A/CS 348/Assignment/A3/Q5a.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c6f420b78ef4fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/CS 348/Assignment/A3/Q5b.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8260fc840d927d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/CS 348/Assignment/A3/Q5c.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/CS 348/Assignment/A3/Q5a.md",
+                "file": "3A/CS 348/Assignment/A3/Q5c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/CS 348/Assignment/A3/Q5a.md"
+                "file": "3A/CS 348/Assignment/A3/Q5c.md"
               }
             }
           },
@@ -185,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/CS 348/Assignment/A3/Q5a.md",
+                "file": "3A/CS 348/Assignment/A3/Q5c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +286,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 1529,
+        "x": 1304,
         "y": 285,
         "width": 1256,
         "height": 835,
@@ -247,17 +295,17 @@
       }
     ]
   },
-  "active": "db21913128eda92c",
+  "active": "8260fc840d927d8a",
   "lastOpenFiles": [
+    "3A/CS 348/Assignment/A3/Q5b.md",
+    "3A/CS 348/Assignment/A3/Q5a.md",
+    "3A/CS 348/Assignment/A3/Q5c.md",
     "3A/CS 348/Assignment/A3/Q4b.md",
     "3A/CS 348/Assignment/A3/Q4a.md",
-    "3A/CS 348/Assignment/A3/Q3.md",
-    "3A/CS 348/Week 2/Relational Algebra.md",
+    "3A/CS 348/Assignment/A3/Q3c.md",
+    "3A/CS 348/Assignment/A3/Q3a.md",
+    "3A/CS 348/Assignment/A3/Q3b.md",
     "3A/CS 348/Assignment/A3/Q2.md",
-    "3A/CS 348/Assignment/A3/Q1.md",
-    "3A/CS 348/Week 9/Index.md",
-    "3A/Math 239/Assignments/A7/A-7-1.md",
-    "3A/Math 239/Week 11/Matching.md",
-    "3A/Math 239/Assignments/A8/A-8-1.md"
+    "3A/CS 348/Assignment/A3/Q1.md"
   ]
 }

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Q5c",
+      "path": "3A/CS 348/Assignment/A3/Q5c.md"
+    },
+    {
+      "basename": "Q5b",
+      "path": "3A/CS 348/Assignment/A3/Q5b.md"
+    },
+    {
       "basename": "Q5a",
       "path": "3A/CS 348/Assignment/A3/Q5a.md"
     },
@@ -13,12 +21,16 @@
       "path": "3A/CS 348/Assignment/A3/Q4a.md"
     },
     {
-      "basename": "Q3",
-      "path": "3A/CS 348/Assignment/A3/Q3.md"
+      "basename": "Q3c",
+      "path": "3A/CS 348/Assignment/A3/Q3c.md"
     },
     {
-      "basename": "Relational Algebra",
-      "path": "3A/CS 348/Week 2/Relational Algebra.md"
+      "basename": "Q3a",
+      "path": "3A/CS 348/Assignment/A3/Q3a.md"
+    },
+    {
+      "basename": "Q3b",
+      "path": "3A/CS 348/Assignment/A3/Q3b.md"
     },
     {
       "basename": "Q2",
@@ -27,6 +39,10 @@
     {
       "basename": "Q1",
       "path": "3A/CS 348/Assignment/A3/Q1.md"
+    },
+    {
+      "basename": "Relational Algebra",
+      "path": "3A/CS 348/Week 2/Relational Algebra.md"
     },
     {
       "basename": "Index",
@@ -183,22 +199,6 @@
     {
       "basename": "a2c",
       "path": "3A/CS 348/Assignment/A1/q2/a2c.md"
-    },
-    {
-      "basename": "q2b",
-      "path": "3A/CS 348/Assignment/A1/q2/q2b.md"
-    },
-    {
-      "basename": "q2a",
-      "path": "3A/CS 348/Assignment/A1/q2/q2a.md"
-    },
-    {
-      "basename": "q1b",
-      "path": "3A/CS 348/Assignment/A1/q1/q1b.md"
-    },
-    {
-      "basename": "q1a",
-      "path": "3A/CS 348/Assignment/A1/q1/q1a.md"
     }
   ],
   "omittedPaths": [],
