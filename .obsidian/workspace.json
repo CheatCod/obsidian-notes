@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 240/Assignments/A5/A5Q1.md",
+                "file": "3A/CS 240/Assignments/A5/a5q1.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 240/Assignments/A5/A5Q2.md",
+                "file": "3A/CS 240/Assignments/A5/a5q2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3a2f0963da4933f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/CS 240/Assignments/A5/a5q3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7c01fbe65804a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/CS 240/Assignments/A5/a5q4.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -214,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/CS 240/Assignments/A5/A5Q2.md",
+                "file": "3A/CS 240/Assignments/A5/a5q4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/CS 240/Assignments/A5/A5Q2.md"
+                "file": "3A/CS 240/Assignments/A5/a5q4.md"
               }
             }
           },
@@ -257,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/CS 240/Assignments/A5/A5Q2.md",
+                "file": "3A/CS 240/Assignments/A5/a5q4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,26 +334,26 @@
           }
         ],
         "direction": "vertical",
-        "x": 1304,
-        "y": 285,
+        "x": 1188,
+        "y": 342,
         "width": 1256,
-        "height": 835,
+        "height": 836,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "234f6dc452c526d9",
+  "active": "f7c01fbe65804a50",
   "lastOpenFiles": [
-    "3A/CS 240/Assignments/A5/A5Q1.md",
+    "3A/CS 240/Assignments/A5/a5q3.md",
+    "3A/CS 240/Assignments/A5/a5q2.md",
+    "3A/CS 240/Assignments/A5/a5q1.md",
     "3A/CS 240/Week 10/String Matching.md",
     "3A/CS 348/Assignment/A3/Q5c.md",
     "3A/CS 348/Assignment/A3/Q5b.md",
     "3A/CS 348/Assignment/A3/Q5a.md",
     "3A/CS 348/Assignment/A3/Q4b.md",
     "3A/CS 348/Assignment/A3/Q4a.md",
-    "3A/CS 348/Assignment/A3/Q3c.md",
-    "3A/CS 348/Assignment/A3/Q3a.md",
-    "3A/CS 348/Assignment/A3/Q3b.md"
+    "3A/CS 348/Assignment/A3/Q3c.md"
   ]
 }
