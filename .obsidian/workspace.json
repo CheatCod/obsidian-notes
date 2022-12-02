@@ -140,6 +140,18 @@
             }
           },
           {
+            "id": "ce041c6874581511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/CS 240/Week 11/2-4 Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b7e1e5d8b59e7a60",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -238,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/CS 240/Assignments/A5/a5q4.md",
+                "file": "3A/CS 240/Week 11/2-4 Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/CS 240/Assignments/A5/a5q4.md"
+                "file": "3A/CS 240/Week 11/2-4 Tree.md"
               }
             }
           },
@@ -281,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/CS 240/Assignments/A5/a5q4.md",
+                "file": "3A/CS 240/Week 11/2-4 Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,54 +318,17 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "4efa54d3361ed9b2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "afcc0f7caa33a051",
-        "type": "window",
-        "children": [
-          {
-            "id": "67a6eea109ec4efb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c485b9a2ca1e198e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "3A/CS 348/Week 9/Index.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1188,
-        "y": 342,
-        "width": 1256,
-        "height": 836,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f7c01fbe65804a50",
+  "active": "ce041c6874581511",
   "lastOpenFiles": [
+    "3A/CS 348/Week 9/Index.md",
+    "3A/CS 240/Week 11/2-4 Tree.md",
+    "3A/CS 240/Assignments/A5/a5q4.md",
     "3A/CS 240/Assignments/A5/a5q3.md",
     "3A/CS 240/Assignments/A5/a5q2.md",
     "3A/CS 240/Assignments/A5/a5q1.md",
     "3A/CS 240/Week 10/String Matching.md",
     "3A/CS 348/Assignment/A3/Q5c.md",
     "3A/CS 348/Assignment/A3/Q5b.md",
-    "3A/CS 348/Assignment/A3/Q5a.md",
-    "3A/CS 348/Assignment/A3/Q4b.md",
-    "3A/CS 348/Assignment/A3/Q4a.md",
-    "3A/CS 348/Assignment/A3/Q3c.md"
+    "3A/CS 348/Assignment/A3/Q5a.md"
   ]
 }
