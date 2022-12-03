@@ -152,6 +152,18 @@
             }
           },
           {
+            "id": "3406cb2b067e46d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3A/Math 239/Week 11/Hall's Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b7e1e5d8b59e7a60",
             "type": "leaf",
             "state": {
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -250,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/CS 240/Week 11/2-4 Tree.md",
+                "file": "3A/Math 239/Week 11/Hall's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/CS 240/Week 11/2-4 Tree.md"
+                "file": "3A/Math 239/Week 11/Hall's Theorem.md"
               }
             }
           },
@@ -293,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/CS 240/Week 11/2-4 Tree.md",
+                "file": "3A/Math 239/Week 11/Hall's Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,10 +330,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce041c6874581511",
+  "active": "3406cb2b067e46d9",
   "lastOpenFiles": [
-    "3A/CS 348/Week 9/Index.md",
     "3A/CS 240/Week 11/2-4 Tree.md",
+    "3A/CS 348/Week 9/Index.md",
     "3A/CS 240/Assignments/A5/a5q4.md",
     "3A/CS 240/Assignments/A5/a5q3.md",
     "3A/CS 240/Assignments/A5/a5q2.md",

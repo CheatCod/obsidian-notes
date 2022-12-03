@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Hall's Theorem",
+      "path": "3A/Math 239/Week 11/Hall's Theorem.md"
+    },
+    {
       "basename": "2-4 Tree",
       "path": "3A/CS 240/Week 11/2-4 Tree.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "a3d",
       "path": "3A/CS 348/Assignment/A1/q3/a3d.md"
-    },
-    {
-      "basename": "a2e",
-      "path": "3A/CS 348/Assignment/A1/q2/a2e.md"
     }
   ],
   "omittedPaths": [],
