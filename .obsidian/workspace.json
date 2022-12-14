@@ -4,191 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5a60b7537649489e",
+        "id": "30505441c4d8c2a5",
         "type": "tabs",
         "children": [
           {
-            "id": "5b67a8841200e372",
+            "id": "5ab3553fb4c88e00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 348/Assignment/A3/Q3c.md",
+                "file": "3A/Math 239/Final/Office hour.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bb92cef078b3e6e7",
+            "id": "8fd753747abf7dd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/CS 348/Assignment/A3/Q4b.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db21913128eda92c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Assignment/A3/Q3c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ea9f191a06fd33c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Assignment/A3/Q3c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55a468eee085ae51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Assignment/A3/Q5a.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c6f420b78ef4fea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Assignment/A3/Q5b.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8260fc840d927d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 240/Week 10/String Matching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f402c6524185057b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 240/Assignments/A5/a5q1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "234f6dc452c526d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 240/Assignments/A5/a5q2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3a2f0963da4933f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 240/Assignments/A5/a5q3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7c01fbe65804a50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 240/Assignments/A5/a5q4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce041c6874581511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 240/Week 11/2-4 Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3406cb2b067e46d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/Math 239/Week 11/Hall's Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7e1e5d8b59e7a60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Assignment/A3/Q4b.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da8f64ff8606912e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3A/CS 348/Assignment/A3/Q1.md",
+                "file": "3A/Math 239/Final/Final.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Week 11/Hall's Theorem.md",
+                "file": "3A/Math 239/Final/Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Week 11/Hall's Theorem.md"
+                "file": "3A/Math 239/Final/Final.md"
               }
             }
           },
@@ -305,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Week 11/Hall's Theorem.md",
+                "file": "3A/Math 239/Final/Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3406cb2b067e46d9",
+  "active": "8fd753747abf7dd3",
   "lastOpenFiles": [
+    "3A/Math 239/Final/Office hour.md",
+    "3A/CS 348/Assignment/A3/Q1.md",
+    "3A/CS 348/Assignment/A3/Q4b.md",
     "3A/CS 240/Week 11/2-4 Tree.md",
-    "3A/CS 348/Week 9/Index.md",
     "3A/CS 240/Assignments/A5/a5q4.md",
-    "3A/CS 240/Assignments/A5/a5q3.md",
     "3A/CS 240/Assignments/A5/a5q2.md",
-    "3A/CS 240/Assignments/A5/a5q1.md",
-    "3A/CS 240/Week 10/String Matching.md",
-    "3A/CS 348/Assignment/A3/Q5c.md",
     "3A/CS 348/Assignment/A3/Q5b.md",
-    "3A/CS 348/Assignment/A3/Q5a.md"
+    "3A/CS 348/Assignment/A3/Q5a.md",
+    "3A/CS 348/Assignment/A3/Q3c.md",
+    "3A/Math 239/Midterm/Midterm.md"
   ]
 }
