@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/Math 239/Final/Final.md",
+                "file": "3A/Math 239/Midterm/Midterm.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Final/Final.md",
+                "file": "3A/Math 239/Midterm/Midterm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Final/Final.md"
+                "file": "3A/Math 239/Midterm/Midterm.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Final/Final.md",
+                "file": "3A/Math 239/Midterm/Midterm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,6 +176,7 @@
   },
   "active": "8fd753747abf7dd3",
   "lastOpenFiles": [
+    "3A/Math 239/Final/Final.md",
     "3A/Math 239/Final/Office hour.md",
     "3A/CS 348/Assignment/A3/Q1.md",
     "3A/CS 348/Assignment/A3/Q4b.md",
@@ -184,7 +185,6 @@
     "3A/CS 240/Assignments/A5/a5q2.md",
     "3A/CS 348/Assignment/A3/Q5b.md",
     "3A/CS 348/Assignment/A3/Q5a.md",
-    "3A/CS 348/Assignment/A3/Q3c.md",
-    "3A/Math 239/Midterm/Midterm.md"
+    "3A/CS 348/Assignment/A3/Q3c.md"
   ]
 }
