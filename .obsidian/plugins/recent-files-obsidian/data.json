@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Generating Series",
+      "path": "3A/Math 239/Week 3/Generating Series.md"
+    },
+    {
+      "basename": "Composition",
+      "path": "3A/Math 239/Week 3/Composition.md"
+    },
+    {
+      "basename": "Block Decomposition",
+      "path": "3A/Math 239/Week 5/Block Decomposition.md"
+    },
+    {
+      "basename": "Midterm",
+      "path": "3A/Math 239/Midterm/Midterm.md"
+    },
+    {
       "basename": "Final",
       "path": "3A/Math 239/Final/Final.md"
     },
@@ -27,10 +43,6 @@
     {
       "basename": "Trees",
       "path": "3A/Math 239/Week 9/Trees.md"
-    },
-    {
-      "basename": "Midterm",
-      "path": "3A/Math 239/Midterm/Midterm.md"
     },
     {
       "basename": "Q1",
@@ -187,18 +199,6 @@
     {
       "basename": "Relational Data Model",
       "path": "3A/CS 348/Week 2/Relational Data Model.md"
-    },
-    {
-      "basename": "A-6-2",
-      "path": "3A/Math 239/Assignments/A6/A-6-2.md"
-    },
-    {
-      "basename": "A-6-1",
-      "path": "3A/Math 239/Assignments/A6/A-6-1.md"
-    },
-    {
-      "basename": "a3e",
-      "path": "3A/CS 348/Assignment/A1/q3/a3e.md"
     }
   ],
   "omittedPaths": [],

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/Math 239/Final/Final.md",
+                "file": "3A/Math 239/Week 3/Generating Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Final/Final.md",
+                "file": "3A/Math 239/Week 3/Generating Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Final/Final.md"
+                "file": "3A/Math 239/Week 3/Generating Series.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Final/Final.md",
+                "file": "3A/Math 239/Week 3/Generating Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,15 +176,15 @@
   },
   "active": "8fd753747abf7dd3",
   "lastOpenFiles": [
-    "3A/Math 239/Final/Office hour.md",
+    "3A/Math 239/Week 3/Composition.md",
+    "3A/Math 239/Week 3/Generating Series.md",
+    "3A/Math 239/Week 5/Block Decomposition.md",
+    "3A/Math 239/Midterm/Midterm.md",
     "3A/Math 239/Final/Final.md",
+    "3A/Math 239/Final/Office hour.md",
     "3A/Math 239/Week 10/Euler's Formula.md",
     "3A/Math 239/Week 10/Planar Graphs.md",
     "3A/Math 239/Week 9/Bipartitions.md",
-    "3A/Math 239/Week 9/Tree Cont ed.md",
-    "3A/Math 239/Week 9/Trees.md",
-    "3A/Math 239/Midterm/Midterm.md",
-    "3A/CS 348/Assignment/A3/Q1.md",
-    "3A/CS 348/Assignment/A3/Q4b.md"
+    "3A/Math 239/Week 9/Tree Cont ed.md"
   ]
 }
