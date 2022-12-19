@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Midterm",
-      "path": "3A/Math 239/Midterm/Midterm.md"
-    },
-    {
       "basename": "Final",
       "path": "3A/Math 239/Final/Final.md"
     },
     {
       "basename": "Office hour",
       "path": "3A/Math 239/Final/Office hour.md"
+    },
+    {
+      "basename": "Euler's Formula",
+      "path": "3A/Math 239/Week 10/Euler's Formula.md"
+    },
+    {
+      "basename": "Planar Graphs",
+      "path": "3A/Math 239/Week 10/Planar Graphs.md"
+    },
+    {
+      "basename": "Bipartitions",
+      "path": "3A/Math 239/Week 9/Bipartitions.md"
+    },
+    {
+      "basename": "Tree Cont ed",
+      "path": "3A/Math 239/Week 9/Tree Cont ed.md"
+    },
+    {
+      "basename": "Trees",
+      "path": "3A/Math 239/Week 9/Trees.md"
+    },
+    {
+      "basename": "Midterm",
+      "path": "3A/Math 239/Midterm/Midterm.md"
     },
     {
       "basename": "Q1",
@@ -117,14 +137,6 @@
       "path": "3A/Math 239/Week 11/Coloring Graph.md"
     },
     {
-      "basename": "Euler's Formula",
-      "path": "3A/Math 239/Week 10/Euler's Formula.md"
-    },
-    {
-      "basename": "Planar Graphs",
-      "path": "3A/Math 239/Week 10/Planar Graphs.md"
-    },
-    {
       "basename": "a4q3",
       "path": "3A/CS 240/Assignments/A4/a4q3.md"
     },
@@ -165,10 +177,6 @@
       "path": "3A/CS 240/Week 8/Hash.md"
     },
     {
-      "basename": "Trees",
-      "path": "3A/Math 239/Week 9/Trees.md"
-    },
-    {
       "basename": "Storage Management",
       "path": "3A/CS 348/Week 7/Storage Management.md"
     },
@@ -177,16 +185,8 @@
       "path": "3A/Math 239/Week 9/Spanning Trees.md"
     },
     {
-      "basename": "Bipartitions",
-      "path": "3A/Math 239/Week 9/Bipartitions.md"
-    },
-    {
       "basename": "Relational Data Model",
       "path": "3A/CS 348/Week 2/Relational Data Model.md"
-    },
-    {
-      "basename": "Tree Cont ed",
-      "path": "3A/Math 239/Week 9/Tree Cont ed.md"
     },
     {
       "basename": "A-6-2",
