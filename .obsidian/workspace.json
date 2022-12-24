@@ -35,9 +35,11 @@
             "id": "03693cc8e7aa2bc7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.8"
+                "file": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Week 3/Generating Series.md",
+                "file": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Week 3/Generating Series.md"
+                "file": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md"
               }
             }
           },
@@ -159,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Week 3/Generating Series.md",
+                "file": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,6 +200,7 @@
   },
   "active": "03693cc8e7aa2bc7",
   "lastOpenFiles": [
+    "2A/CS 246/Week 5 - OOP/Constructor.md",
     "3A/Math 239/Week 3/Composition.md",
     "3A/Math 239/Week 3/Generating Series.md",
     "3A/Math 239/Week 5/Block Decomposition.md",
@@ -206,7 +209,6 @@
     "3A/Math 239/Final/Office hour.md",
     "3A/Math 239/Week 10/Euler's Formula.md",
     "3A/Math 239/Week 10/Planar Graphs.md",
-    "3A/Math 239/Week 9/Bipartitions.md",
-    "3A/Math 239/Week 9/Tree Cont ed.md"
+    "3A/Math 239/Week 9/Bipartitions.md"
   ]
 }
