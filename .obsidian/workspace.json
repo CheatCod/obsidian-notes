@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8e2695367708f40",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,7 +208,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03693cc8e7aa2bc7",
+  "active": "d8e2695367708f40",
   "lastOpenFiles": [
     "2A/CS 246/Week 5 - OOP/Constructor.md",
     "3A/Math 239/Week 3/Composition.md",
