@@ -37,24 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
+                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d8e2695367708f40",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "myL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
+                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md"
+                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
               }
             }
           },
@@ -171,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
+                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,17 +198,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8e2695367708f40",
+  "active": "03693cc8e7aa2bc7",
   "lastOpenFiles": [
-    "2A/CS 246/Week 5 - OOP/Constructor.md",
-    "3A/Math 239/Week 3/Composition.md",
-    "3A/Math 239/Week 3/Generating Series.md",
-    "3A/Math 239/Week 5/Block Decomposition.md",
-    "3A/Math 239/Midterm/Midterm.md",
-    "3A/Math 239/Final/Final.md",
-    "3A/Math 239/Final/Office hour.md",
-    "3A/Math 239/Week 10/Euler's Formula.md",
-    "3A/Math 239/Week 10/Planar Graphs.md",
-    "3A/Math 239/Week 9/Bipartitions.md"
+    "2A/CS 246/Week 7 - polymorphism/Inheritance.md",
+    "2A/CS 246/Week 6  - design patterns/Iterator.md",
+    "2A/CS 246/Week 6  - design patterns/Friend Classes and Functions.md",
+    "2A/CS 246/Week 6  - design patterns/Accessor and Mutator.md",
+    "2A/CS 246/Week 6  - design patterns/Invariants and Encapsulation.md",
+    "2A/CS 246/Week 5 - OOP/Member operators.md",
+    "2A/CS 246/Week 5 - OOP/Rules for replacing default compiler operations.md",
+    "2A/CS 246/Week 5 - OOP/Static fields.md",
+    "2A/CS 246/Week 5 - OOP/Copy&Move Elission.md",
+    "2A/CS 246/Week 5 - OOP/Move Semantics.md"
   ]
 }

@@ -1,12 +1,116 @@
 {
   "recentFiles": [
     {
+      "basename": "Object slicing & polymorphism",
+      "path": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
+    },
+    {
+      "basename": "Inheritance",
+      "path": "2A/CS 246/Week 7 - polymorphism/Inheritance.md"
+    },
+    {
+      "basename": "Iterator",
+      "path": "2A/CS 246/Week 6  - design patterns/Iterator.md"
+    },
+    {
+      "basename": "Friend Classes and Functions",
+      "path": "2A/CS 246/Week 6  - design patterns/Friend Classes and Functions.md"
+    },
+    {
+      "basename": "Accessor and Mutator",
+      "path": "2A/CS 246/Week 6  - design patterns/Accessor and Mutator.md"
+    },
+    {
+      "basename": "Invariants and Encapsulation",
+      "path": "2A/CS 246/Week 6  - design patterns/Invariants and Encapsulation.md"
+    },
+    {
+      "basename": "Member operators",
+      "path": "2A/CS 246/Week 5 - OOP/Member operators.md"
+    },
+    {
+      "basename": "Rules for replacing default compiler operations",
+      "path": "2A/CS 246/Week 5 - OOP/Rules for replacing default compiler operations.md"
+    },
+    {
+      "basename": "Static fields",
+      "path": "2A/CS 246/Week 5 - OOP/Static fields.md"
+    },
+    {
+      "basename": "Copy&Move Elission",
+      "path": "2A/CS 246/Week 5 - OOP/Copy&Move Elission.md"
+    },
+    {
+      "basename": "Move Semantics",
+      "path": "2A/CS 246/Week 5 - OOP/Move Semantics.md"
+    },
+    {
+      "basename": "Copy Assignment Operator",
+      "path": "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
+    },
+    {
+      "basename": "Copy Constructor",
+      "path": "2A/CS 246/Week 5 - OOP/Copy Constructor.md"
+    },
+    {
       "basename": "Single Argument Constructor",
       "path": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md"
     },
     {
+      "basename": "A3",
+      "path": "2A/CS 246/Week 5 - OOP/A3.md"
+    },
+    {
+      "basename": "Methods",
+      "path": "2A/CS 246/Week 5 - OOP/Methods.md"
+    },
+    {
       "basename": "Constructor",
       "path": "2A/CS 246/Week 5 - OOP/Constructor.md"
+    },
+    {
+      "basename": "Cohesion & Coupling",
+      "path": "2A/CS 246/Week 5 - OOP/Cohesion & Coupling.md"
+    },
+    {
+      "basename": "Classes",
+      "path": "2A/CS 246/Week 5 - OOP/Classes.md"
+    },
+    {
+      "basename": "Seperate Compilation",
+      "path": "2A/CS 246/Week 4 - preprocessing/Seperate Compilation.md"
+    },
+    {
+      "basename": "Week 5 - OOP",
+      "path": "2A/CS 246/Week 5 - OOP/Week 5 - OOP.md"
+    },
+    {
+      "basename": "Preprocessor",
+      "path": "2A/CS 246/Week 4 - preprocessing/Preprocessor.md"
+    },
+    {
+      "basename": "Preprocessor guards",
+      "path": "2A/CS 246/Week 4 - preprocessing/Preprocessor guards.md"
+    },
+    {
+      "basename": "Make",
+      "path": "2A/CS 246/Week 4 - preprocessing/Make.md"
+    },
+    {
+      "basename": "Week 4 - preprocessing",
+      "path": "2A/CS 246/Week 4 - preprocessing/Week 4 - preprocessing.md"
+    },
+    {
+      "basename": "Object file",
+      "path": "2A/CS 246/Chunks/Object file.md"
+    },
+    {
+      "basename": "Linking",
+      "path": "2A/CS 246/Chunks/Linking.md"
+    },
+    {
+      "basename": "Keyword-extern",
+      "path": "2A/CS 246/Chunks/Keyword-extern.md"
     },
     {
       "basename": "Generating Series",
@@ -95,110 +199,6 @@
     {
       "basename": "a5q3",
       "path": "3A/CS 240/Assignments/A5/a5q3.md"
-    },
-    {
-      "basename": "a5q1",
-      "path": "3A/CS 240/Assignments/A5/a5q1.md"
-    },
-    {
-      "basename": "String Matching",
-      "path": "3A/CS 240/Week 10/String Matching.md"
-    },
-    {
-      "basename": "Q5c",
-      "path": "3A/CS 348/Assignment/A3/Q5c.md"
-    },
-    {
-      "basename": "Q4a",
-      "path": "3A/CS 348/Assignment/A3/Q4a.md"
-    },
-    {
-      "basename": "Q3a",
-      "path": "3A/CS 348/Assignment/A3/Q3a.md"
-    },
-    {
-      "basename": "Q3b",
-      "path": "3A/CS 348/Assignment/A3/Q3b.md"
-    },
-    {
-      "basename": "Q2",
-      "path": "3A/CS 348/Assignment/A3/Q2.md"
-    },
-    {
-      "basename": "Relational Algebra",
-      "path": "3A/CS 348/Week 2/Relational Algebra.md"
-    },
-    {
-      "basename": "A-7-1",
-      "path": "3A/Math 239/Assignments/A7/A-7-1.md"
-    },
-    {
-      "basename": "Matching",
-      "path": "3A/Math 239/Week 11/Matching.md"
-    },
-    {
-      "basename": "A-8-1",
-      "path": "3A/Math 239/Assignments/A8/A-8-1.md"
-    },
-    {
-      "basename": "A-8-3",
-      "path": "3A/Math 239/Assignments/A8/A-8-3.md"
-    },
-    {
-      "basename": "A-8-4",
-      "path": "3A/Math 239/Assignments/A8/A-8-4.md"
-    },
-    {
-      "basename": "A-8-2",
-      "path": "3A/Math 239/Assignments/A8/A-8-2.md"
-    },
-    {
-      "basename": "Coloring Graph",
-      "path": "3A/Math 239/Week 11/Coloring Graph.md"
-    },
-    {
-      "basename": "a4q3",
-      "path": "3A/CS 240/Assignments/A4/a4q3.md"
-    },
-    {
-      "basename": "a4q2",
-      "path": "3A/CS 240/Assignments/A4/a4q2.md"
-    },
-    {
-      "basename": "a4q4",
-      "path": "3A/CS 240/Assignments/A4/a4q4.md"
-    },
-    {
-      "basename": "a4q1",
-      "path": "3A/CS 240/Assignments/A4/a4q1.md"
-    },
-    {
-      "basename": "AVL Balancing",
-      "path": "3A/CS 240/Week 6/AVL Balancing.md"
-    },
-    {
-      "basename": "Query Optimization",
-      "path": "3A/CS 348/Week 10/Query Optimization.md"
-    },
-    {
-      "basename": "Midterm",
-      "path": "3A/CS 348/Midterm/Midterm.md"
-    },
-    {
-      "basename": "Query Processing",
-      "path": "3A/CS 348/Week 9/Query Processing.md"
-    },
-    {
-      "basename": "Bridges",
-      "path": "3A/Math 239/Week 8/Bridges.md"
-    },
-    {
-      "basename": "Hash",
-      "path": "3A/CS 240/Week 8/Hash.md"
-    },
-    {
-      "basename": "Storage Management",
-      "path": "3A/CS 348/Week 7/Storage Management.md"
     }
   ],
   "omittedPaths": [],
