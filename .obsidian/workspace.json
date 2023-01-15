@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4eec7dc96175e90c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rand/Reddit Posts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
+                "file": "Rand/Reddit Posts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
+                "file": "Rand/Reddit Posts.md"
               }
             }
           },
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
+                "file": "Rand/Reddit Posts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +210,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03693cc8e7aa2bc7",
+  "active": "4eec7dc96175e90c",
   "lastOpenFiles": [
+    "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
     "2A/CS 246/Week 7 - polymorphism/Inheritance.md",
     "2A/CS 246/Week 6  - design patterns/Iterator.md",
     "2A/CS 246/Week 6  - design patterns/Friend Classes and Functions.md",
@@ -208,7 +221,6 @@
     "2A/CS 246/Week 5 - OOP/Member operators.md",
     "2A/CS 246/Week 5 - OOP/Rules for replacing default compiler operations.md",
     "2A/CS 246/Week 5 - OOP/Static fields.md",
-    "2A/CS 246/Week 5 - OOP/Copy&Move Elission.md",
-    "2A/CS 246/Week 5 - OOP/Move Semantics.md"
+    "2A/CS 246/Week 5 - OOP/Copy&Move Elission.md"
   ]
 }

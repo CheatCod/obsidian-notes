@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Reddit Posts",
+      "path": "Rand/Reddit Posts.md"
+    },
+    {
       "basename": "Object slicing & polymorphism",
       "path": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Index",
       "path": "3A/CS 348/Week 9/Index.md"
-    },
-    {
-      "basename": "a5q3",
-      "path": "3A/CS 240/Assignments/A5/a5q3.md"
     }
   ],
   "omittedPaths": [],
