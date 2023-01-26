@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Reddit Posts",
-      "path": "Rand/Reddit Posts.md"
+      "basename": "A-3-3",
+      "path": "3A/Math 239/Assignments/A3/A-3-3.md"
+    },
+    {
+      "basename": "A-3-2",
+      "path": "3A/Math 239/Assignments/A3/A-3-2.md"
     },
     {
       "basename": "Object slicing & polymorphism",
       "path": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
+    },
+    {
+      "basename": "A-3-1",
+      "path": "3A/Math 239/Assignments/A3/A-3-1.md"
+    },
+    {
+      "basename": "Composition",
+      "path": "3A/Math 239/Week 3/Composition.md"
+    },
+    {
+      "basename": "Generating Series",
+      "path": "3A/Math 239/Week 3/Generating Series.md"
+    },
+    {
+      "basename": "A-2-3",
+      "path": "3A/Math 239/Assignments/A2/A-2-3.md"
+    },
+    {
+      "basename": "A-2-2",
+      "path": "3A/Math 239/Assignments/A2/A-2-2.md"
+    },
+    {
+      "basename": "A-2-1",
+      "path": "3A/Math 239/Assignments/A2/A-2-1.md"
+    },
+    {
+      "basename": "Power Series",
+      "path": "3A/Math 239/Week 3/Power Series.md"
+    },
+    {
+      "basename": "Midterm",
+      "path": "3A/Math 239/Midterm/Midterm.md"
+    },
+    {
+      "basename": "Reddit Posts",
+      "path": "Rand/Reddit Posts.md"
     },
     {
       "basename": "Inheritance",
@@ -117,20 +157,8 @@
       "path": "2A/CS 246/Chunks/Keyword-extern.md"
     },
     {
-      "basename": "Generating Series",
-      "path": "3A/Math 239/Week 3/Generating Series.md"
-    },
-    {
-      "basename": "Composition",
-      "path": "3A/Math 239/Week 3/Composition.md"
-    },
-    {
       "basename": "Block Decomposition",
       "path": "3A/Math 239/Week 5/Block Decomposition.md"
-    },
-    {
-      "basename": "Midterm",
-      "path": "3A/Math 239/Midterm/Midterm.md"
     },
     {
       "basename": "Final",
@@ -171,34 +199,6 @@
     {
       "basename": "2-4 Tree",
       "path": "3A/CS 240/Week 11/2-4 Tree.md"
-    },
-    {
-      "basename": "a5q4",
-      "path": "3A/CS 240/Assignments/A5/a5q4.md"
-    },
-    {
-      "basename": "a5q2",
-      "path": "3A/CS 240/Assignments/A5/a5q2.md"
-    },
-    {
-      "basename": "Q5b",
-      "path": "3A/CS 348/Assignment/A3/Q5b.md"
-    },
-    {
-      "basename": "Q5a",
-      "path": "3A/CS 348/Assignment/A3/Q5a.md"
-    },
-    {
-      "basename": "Q3c",
-      "path": "3A/CS 348/Assignment/A3/Q3c.md"
-    },
-    {
-      "basename": "Hall's Theorem",
-      "path": "3A/Math 239/Week 11/Hall's Theorem.md"
-    },
-    {
-      "basename": "Index",
-      "path": "3A/CS 348/Week 9/Index.md"
     }
   ],
   "omittedPaths": [],
