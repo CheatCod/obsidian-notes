@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Reddit Posts",
+      "path": "Rand/Reddit Posts.md"
+    },
+    {
+      "basename": "Lodestone",
+      "path": "Rand/Lodestone.md"
+    },
+    {
       "basename": "A-3-3",
       "path": "3A/Math 239/Assignments/A3/A-3-3.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "Midterm",
       "path": "3A/Math 239/Midterm/Midterm.md"
-    },
-    {
-      "basename": "Reddit Posts",
-      "path": "Rand/Reddit Posts.md"
     },
     {
       "basename": "Inheritance",
@@ -195,10 +199,6 @@
     {
       "basename": "Q4b",
       "path": "3A/CS 348/Assignment/A3/Q4b.md"
-    },
-    {
-      "basename": "2-4 Tree",
-      "path": "3A/CS 240/Week 11/2-4 Tree.md"
     }
   ],
   "omittedPaths": [],

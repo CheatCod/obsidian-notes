@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/Math 239/Assignments/A3/A-3-3.md",
+                "file": "Rand/Reddit Posts.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Assignments/A3/A-3-3.md",
+                "file": "Rand/Reddit Posts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Assignments/A3/A-3-3.md"
+                "file": "Rand/Reddit Posts.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Assignments/A3/A-3-3.md",
+                "file": "Rand/Reddit Posts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,15 +212,15 @@
   },
   "active": "4eec7dc96175e90c",
   "lastOpenFiles": [
+    "Rand/Lodestone.md",
+    "3A/Math 239/Assignments/A3/A-3-3.md",
     "3A/Math 239/Assignments/A3/A-3-2.md",
     "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
-    "3A/Math 239/Assignments/A3/A-3-3.md",
     "3A/Math 239/Assignments/A3/A-3-1.md",
     "3A/Math 239/Week 3/Composition.md",
     "3A/Math 239/Week 3/Generating Series.md",
     "3A/Math 239/Assignments/A2/A-2-3.md",
     "3A/Math 239/Assignments/A2/A-2-2.md",
-    "3A/Math 239/Assignments/A2/A-2-1.md",
-    "3A/Math 239/Week 3/Power Series.md"
+    "3A/Math 239/Assignments/A2/A-2-1.md"
   ]
 }
