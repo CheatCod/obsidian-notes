@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Loops & Conditions",
+      "path": "Rand/Tutor/Loops & Conditions.md"
+    },
+    {
+      "basename": "Variable Scoping",
+      "path": "Rand/Tutor/Variable Scoping.md"
+    },
+    {
+      "basename": "Tutor",
+      "path": "Rand/Tutor.md"
+    },
+    {
       "basename": "Reddit Posts",
       "path": "Rand/Reddit Posts.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Tree Cont ed",
       "path": "3A/Math 239/Week 9/Tree Cont ed.md"
-    },
-    {
-      "basename": "Trees",
-      "path": "3A/Math 239/Week 9/Trees.md"
-    },
-    {
-      "basename": "Q1",
-      "path": "3A/CS 348/Assignment/A3/Q1.md"
-    },
-    {
-      "basename": "Q4b",
-      "path": "3A/CS 348/Assignment/A3/Q4b.md"
     }
   ],
   "omittedPaths": [],
