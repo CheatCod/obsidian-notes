@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Object slicing & polymorphism",
+      "path": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
+    },
+    {
+      "basename": "Move & Copy with Inheritance",
+      "path": "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
+    },
+    {
+      "basename": "Abstract Class",
+      "path": "2A/CS 246/Week 7 - polymorphism/Abstract Class.md"
+    },
+    {
       "basename": "Loops & Conditions",
       "path": "Rand/Tutor/Loops & Conditions.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "A-3-2",
       "path": "3A/Math 239/Assignments/A3/A-3-2.md"
-    },
-    {
-      "basename": "Object slicing & polymorphism",
-      "path": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
     },
     {
       "basename": "A-3-1",
@@ -191,14 +199,6 @@
     {
       "basename": "Planar Graphs",
       "path": "3A/Math 239/Week 10/Planar Graphs.md"
-    },
-    {
-      "basename": "Bipartitions",
-      "path": "3A/Math 239/Week 9/Bipartitions.md"
-    },
-    {
-      "basename": "Tree Cont ed",
-      "path": "3A/Math 239/Week 9/Tree Cont ed.md"
     }
   ],
   "omittedPaths": [],

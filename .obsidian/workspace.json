@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rand/Tutor/Loops & Conditions.md",
+                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.0078125,
-    "collapsed": true
+    "width": 300.0078125
   },
   "right": {
     "id": "8119af8b5c1d2920",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rand/Tutor/Loops & Conditions.md",
+                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rand/Tutor/Loops & Conditions.md"
+                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
               }
             }
           },
@@ -149,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rand/Tutor/Loops & Conditions.md",
+                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,15 +187,15 @@
   },
   "active": "a758b969d8682c1c",
   "lastOpenFiles": [
-    "Rand/Tutor/Variable Scoping.md",
+    "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md",
+    "2A/CS 246/Week 7 - polymorphism/Abstract Class.md",
+    "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
     "Rand/Tutor/Loops & Conditions.md",
+    "Rand/Tutor/Variable Scoping.md",
     "Rand/Tutor.md",
     "Rand/Reddit Posts.md",
     "Rand/Lodestone.md",
     "3A/Math 239/Assignments/A3/A-3-3.md",
-    "3A/Math 239/Assignments/A3/A-3-2.md",
-    "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
-    "3A/Math 239/Assignments/A3/A-3-1.md",
-    "3A/Math 239/Week 3/Composition.md"
+    "3A/Math 239/Assignments/A3/A-3-2.md"
   ]
 }
