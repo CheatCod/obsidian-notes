@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Copy Constructor",
+      "path": "2A/CS 246/Week 5 - OOP/Copy Constructor.md"
+    },
+    {
       "basename": "Object slicing & polymorphism",
       "path": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "Copy Assignment Operator",
       "path": "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
-    },
-    {
-      "basename": "Copy Constructor",
-      "path": "2A/CS 246/Week 5 - OOP/Copy Constructor.md"
     },
     {
       "basename": "Single Argument Constructor",
