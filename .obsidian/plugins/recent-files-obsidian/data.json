@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Object slicing & polymorphism",
+      "path": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
+    },
+    {
       "basename": "Copy Constructor",
       "path": "2A/CS 246/Week 5 - OOP/Copy Constructor.md"
     },
     {
-      "basename": "Object slicing & polymorphism",
-      "path": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
+      "basename": "Destructor",
+      "path": "2A/CS 246/Week 5 - OOP/Destructor.md"
+    },
+    {
+      "basename": "Single Argument Constructor",
+      "path": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md"
     },
     {
       "basename": "Move & Copy with Inheritance",
@@ -121,10 +129,6 @@
       "path": "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
     },
     {
-      "basename": "Single Argument Constructor",
-      "path": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md"
-    },
-    {
       "basename": "A3",
       "path": "2A/CS 246/Week 5 - OOP/A3.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Euler's Formula",
       "path": "3A/Math 239/Week 10/Euler's Formula.md"
-    },
-    {
-      "basename": "Planar Graphs",
-      "path": "3A/Math 239/Week 10/Planar Graphs.md"
     }
   ],
   "omittedPaths": [],

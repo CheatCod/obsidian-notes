@@ -35,9 +35,11 @@
             "id": "6528e0f35465b500",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "2A/CS 246/Week 5 - OOP/Copy Constructor.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -136,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Copy Constructor.md",
+                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Copy Constructor.md"
+                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
               }
             }
           },
@@ -179,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Copy Constructor.md",
+                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,8 +218,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6528e0f35465b500",
+  "active": "914e96105618b067",
   "lastOpenFiles": [
+    "2A/CS 246/Week 5 - OOP/Destructor.md",
+    "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
+    "2A/CS 246/Week 5 - OOP/Copy Constructor.md",
     "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md",
     "2A/CS 246/Week 7 - polymorphism/Abstract Class.md",
     "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
