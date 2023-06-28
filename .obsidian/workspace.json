@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Copy Constructor.md",
+                "file": "2A/CS 246/Week 5 - OOP/Member operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
+                "file": "2A/CS 246/Week 5 - OOP/Member operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
+                "file": "2A/CS 246/Week 5 - OOP/Member operators.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
+                "file": "2A/CS 246/Week 5 - OOP/Member operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,14 +218,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "914e96105618b067",
+  "active": "6528e0f35465b500",
   "lastOpenFiles": [
+    "2A/CS 246/Week 5 - OOP/Rules for replacing default compiler operations.md",
+    "2A/CS 246/Week 5 - OOP/Static fields.md",
+    "2A/CS 246/Week 5 - OOP/Copy&Move Elission.md",
+    "2A/CS 246/Week 5 - OOP/Move Semantics.md",
+    "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md",
+    "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
     "2A/CS 246/Week 5 - OOP/Destructor.md",
     "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
     "2A/CS 246/Week 5 - OOP/Copy Constructor.md",
     "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md",
     "2A/CS 246/Week 7 - polymorphism/Abstract Class.md",
-    "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
     "Rand/Tutor/Loops & Conditions.md",
     "Rand/Tutor/Variable Scoping.md",
     "Rand/Tutor.md",

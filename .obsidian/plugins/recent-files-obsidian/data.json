@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Member operators",
+      "path": "2A/CS 246/Week 5 - OOP/Member operators.md"
+    },
+    {
+      "basename": "Rules for replacing default compiler operations",
+      "path": "2A/CS 246/Week 5 - OOP/Rules for replacing default compiler operations.md"
+    },
+    {
+      "basename": "Static fields",
+      "path": "2A/CS 246/Week 5 - OOP/Static fields.md"
+    },
+    {
+      "basename": "Copy&Move Elission",
+      "path": "2A/CS 246/Week 5 - OOP/Copy&Move Elission.md"
+    },
+    {
+      "basename": "Move Semantics",
+      "path": "2A/CS 246/Week 5 - OOP/Move Semantics.md"
+    },
+    {
+      "basename": "Copy Assignment Operator",
+      "path": "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
+    },
+    {
       "basename": "Object slicing & polymorphism",
       "path": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
     },
@@ -103,30 +127,6 @@
     {
       "basename": "Invariants and Encapsulation",
       "path": "2A/CS 246/Week 6  - design patterns/Invariants and Encapsulation.md"
-    },
-    {
-      "basename": "Member operators",
-      "path": "2A/CS 246/Week 5 - OOP/Member operators.md"
-    },
-    {
-      "basename": "Rules for replacing default compiler operations",
-      "path": "2A/CS 246/Week 5 - OOP/Rules for replacing default compiler operations.md"
-    },
-    {
-      "basename": "Static fields",
-      "path": "2A/CS 246/Week 5 - OOP/Static fields.md"
-    },
-    {
-      "basename": "Copy&Move Elission",
-      "path": "2A/CS 246/Week 5 - OOP/Copy&Move Elission.md"
-    },
-    {
-      "basename": "Move Semantics",
-      "path": "2A/CS 246/Week 5 - OOP/Move Semantics.md"
-    },
-    {
-      "basename": "Copy Assignment Operator",
-      "path": "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md"
     },
     {
       "basename": "A3",
