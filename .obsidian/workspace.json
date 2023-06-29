@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Copy Constructor.md",
+                "file": "2A/CS 246/Week 5 - OOP/Move Semantics.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Member operators.md",
+                "file": "2A/CS 246/Week 5 - OOP/Move Semantics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Member operators.md"
+                "file": "2A/CS 246/Week 5 - OOP/Move Semantics.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Member operators.md",
+                "file": "2A/CS 246/Week 5 - OOP/Move Semantics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,17 +218,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6528e0f35465b500",
+  "active": "47b9a5f1a430f74b",
   "lastOpenFiles": [
+    "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md",
+    "2A/CS 246/Week 5 - OOP/Destructor.md",
+    "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
+    "2A/CS 246/Week 5 - OOP/Copy Constructor.md",
+    "2A/CS 246/Week 5 - OOP/Member operators.md",
     "2A/CS 246/Week 5 - OOP/Rules for replacing default compiler operations.md",
     "2A/CS 246/Week 5 - OOP/Static fields.md",
     "2A/CS 246/Week 5 - OOP/Copy&Move Elission.md",
     "2A/CS 246/Week 5 - OOP/Move Semantics.md",
-    "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md",
     "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
-    "2A/CS 246/Week 5 - OOP/Destructor.md",
-    "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
-    "2A/CS 246/Week 5 - OOP/Copy Constructor.md",
     "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md",
     "2A/CS 246/Week 7 - polymorphism/Abstract Class.md",
     "Rand/Tutor/Loops & Conditions.md",
