@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a758b969d8682c1c",
+            "id": "cb57f09d5e932c16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47b9a5f1a430f74b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Move Semantics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6528e0f35465b500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Member operators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "264c7e6e04026b45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rand/Tutor/Variable Scoping.md",
+                "file": "3B/Stats 231/Week 0/Empirical Study.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Move Semantics.md",
+                "file": "3B/Stats 231/Week 0/Empirical Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Move Semantics.md"
+                "file": "3B/Stats 231/Week 0/Empirical Study.md"
               }
             }
           },
@@ -181,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2A/CS 246/Week 5 - OOP/Move Semantics.md",
+                "file": "3B/Stats 231/Week 0/Empirical Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,26 +181,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47b9a5f1a430f74b",
+  "active": "914e96105618b067",
   "lastOpenFiles": [
+    "3B/Music246/Week 0",
+    "3B/Music246",
+    "3B/CS341/Week 0/Bentley's Problem.md",
+    "3B/Stats 231/Week 0/Empirical Study.md",
+    "3B/Stats 231/Week 0",
+    "3B/Stats 231",
+    "3B/CS341/Week 0/Models of Computation.md",
+    "3B/CS350/Week 0/Type of OS.md",
+    "3B/CS341/Week 0",
+    "3B/CS341",
+    "3B/CS350/Week 0",
+    "3A/Math 239/Week 2/Binomial Series.md",
+    "3A/Math 239/Week 2/Multiset.md",
+    "3A/Math 239/Midterm/Midterm.md",
+    "2A/CS 246/Week 7 - polymorphism/Abstract Class.md",
+    "3B/CS350",
+    "3B",
+    "2A/CS 246/Week 6  - design patterns/Friend Classes and Functions.md",
+    "2A/CS 246/Week 6  - design patterns/Invariants and Encapsulation.md",
+    "2A/CS 246/Week 5 - OOP/Member operators.md",
+    "2A/CS 246/Week 5 - OOP/Rules for replacing default compiler operations.md",
+    "2A/CS 246/Week 5 - OOP/Copy&Move Elission.md",
+    "2A/CS 246/Week 5 - OOP/Static fields.md",
+    "2A/CS 246/Week 5 - OOP/Move Semantics.md",
     "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md",
     "2A/CS 246/Week 5 - OOP/Destructor.md",
     "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
     "2A/CS 246/Week 5 - OOP/Copy Constructor.md",
-    "2A/CS 246/Week 5 - OOP/Member operators.md",
-    "2A/CS 246/Week 5 - OOP/Rules for replacing default compiler operations.md",
-    "2A/CS 246/Week 5 - OOP/Static fields.md",
-    "2A/CS 246/Week 5 - OOP/Copy&Move Elission.md",
-    "2A/CS 246/Week 5 - OOP/Move Semantics.md",
     "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
     "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md",
-    "2A/CS 246/Week 7 - polymorphism/Abstract Class.md",
     "Rand/Tutor/Loops & Conditions.md",
     "Rand/Tutor/Variable Scoping.md",
     "Rand/Tutor.md",
-    "Rand/Reddit Posts.md",
-    "Rand/Lodestone.md",
-    "3A/Math 239/Assignments/A3/A-3-3.md",
-    "3A/Math 239/Assignments/A3/A-3-2.md"
+    "Rand/Reddit Posts.md"
   ]
 }
