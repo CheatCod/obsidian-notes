@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3B/Stats 231/Week 0/Empirical Study.md",
+                "file": "3B/Music246/Week 0/The four functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3B/Stats 231/Week 0/Empirical Study.md",
+                "file": "3B/Music246/Week 0/The four functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3B/Stats 231/Week 0/Empirical Study.md"
+                "file": "3B/Music246/Week 0/The four functions.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3B/Stats 231/Week 0/Empirical Study.md",
+                "file": "3B/Music246/Week 0/The four functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,12 +181,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "914e96105618b067",
+  "active": "cb57f09d5e932c16",
   "lastOpenFiles": [
+    "3B/Music246/Week 0/Apollo 13.md",
+    "3B/Music246/Week 0/The four functions.md",
+    "3B/Music246/Week 0/Musical Cues.md",
+    "3B/Stats 231/Week 0/Empirical Study.md",
     "3B/Music246/Week 0",
     "3B/Music246",
     "3B/CS341/Week 0/Bentley's Problem.md",
-    "3B/Stats 231/Week 0/Empirical Study.md",
     "3B/Stats 231/Week 0",
     "3B/Stats 231",
     "3B/CS341/Week 0/Models of Computation.md",
@@ -214,8 +217,6 @@
     "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
     "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md",
     "Rand/Tutor/Loops & Conditions.md",
-    "Rand/Tutor/Variable Scoping.md",
-    "Rand/Tutor.md",
-    "Rand/Reddit Posts.md"
+    "Rand/Tutor/Variable Scoping.md"
   ]
 }
