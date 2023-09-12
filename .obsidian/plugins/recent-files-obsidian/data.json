@@ -1,6 +1,94 @@
 {
   "recentFiles": [
     {
+      "basename": "Midterm",
+      "path": "3A/Math 239/Midterm/Midterm.md"
+    },
+    {
+      "basename": "Office hour",
+      "path": "3A/Math 239/Final/Office hour.md"
+    },
+    {
+      "basename": "Final",
+      "path": "3A/Math 239/Final/Final.md"
+    },
+    {
+      "basename": "A-8-4",
+      "path": "3A/Math 239/Assignments/A8/A-8-4.md"
+    },
+    {
+      "basename": "A-8-3",
+      "path": "3A/Math 239/Assignments/A8/A-8-3.md"
+    },
+    {
+      "basename": "A-8-2",
+      "path": "3A/Math 239/Assignments/A8/A-8-2.md"
+    },
+    {
+      "basename": "A-8-1",
+      "path": "3A/Math 239/Assignments/A8/A-8-1.md"
+    },
+    {
+      "basename": "A-7-1",
+      "path": "3A/Math 239/Assignments/A7/A-7-1.md"
+    },
+    {
+      "basename": "A-6-1",
+      "path": "3A/Math 239/Assignments/A6/A-6-1.md"
+    },
+    {
+      "basename": "A-5-3",
+      "path": "3A/Math 239/Assignments/A5/A-5-3.md"
+    },
+    {
+      "basename": "A-5-2",
+      "path": "3A/Math 239/Assignments/A5/A-5-2.md"
+    },
+    {
+      "basename": "A-5-1",
+      "path": "3A/Math 239/Assignments/A5/A-5-1.md"
+    },
+    {
+      "basename": "A-4-4",
+      "path": "3A/Math 239/Assignments/A4/A-4-4.md"
+    },
+    {
+      "basename": "A-4-2",
+      "path": "3A/Math 239/Assignments/A4/A-4-2.md"
+    },
+    {
+      "basename": "A-4-1",
+      "path": "3A/Math 239/Assignments/A4/A-4-1.md"
+    },
+    {
+      "basename": "A-3-2",
+      "path": "3A/Math 239/Assignments/A3/A-3-2.md"
+    },
+    {
+      "basename": "A-3-3",
+      "path": "3A/Math 239/Assignments/A3/A-3-3.md"
+    },
+    {
+      "basename": "A-3-1",
+      "path": "3A/Math 239/Assignments/A3/A-3-1.md"
+    },
+    {
+      "basename": "Composition",
+      "path": "3A/Math 239/Week 3/Composition.md"
+    },
+    {
+      "basename": "Generating Series",
+      "path": "3A/Math 239/Week 3/Generating Series.md"
+    },
+    {
+      "basename": "Multiset",
+      "path": "3A/Math 239/Week 2/Multiset.md"
+    },
+    {
+      "basename": "Binomial Series",
+      "path": "3A/Math 239/Week 2/Binomial Series.md"
+    },
+    {
       "basename": "The four functions",
       "path": "3B/Music246/Week 0/The four functions.md"
     },
@@ -27,22 +115,6 @@
     {
       "basename": "Type of OS",
       "path": "3B/CS350/Week 0/Type of OS.md"
-    },
-    {
-      "basename": "Generating Series",
-      "path": "3A/Math 239/Week 3/Generating Series.md"
-    },
-    {
-      "basename": "Binomial Series",
-      "path": "3A/Math 239/Week 2/Binomial Series.md"
-    },
-    {
-      "basename": "Multiset",
-      "path": "3A/Math 239/Week 2/Multiset.md"
-    },
-    {
-      "basename": "Midterm",
-      "path": "3A/Math 239/Midterm/Midterm.md"
     },
     {
       "basename": "Abstract Class",
@@ -121,84 +193,12 @@
       "path": "Rand/Lodestone.md"
     },
     {
-      "basename": "A-3-3",
-      "path": "3A/Math 239/Assignments/A3/A-3-3.md"
-    },
-    {
-      "basename": "A-3-2",
-      "path": "3A/Math 239/Assignments/A3/A-3-2.md"
-    },
-    {
-      "basename": "A-3-1",
-      "path": "3A/Math 239/Assignments/A3/A-3-1.md"
-    },
-    {
-      "basename": "Composition",
-      "path": "3A/Math 239/Week 3/Composition.md"
-    },
-    {
       "basename": "A-2-3",
       "path": "3A/Math 239/Assignments/A2/A-2-3.md"
     },
     {
       "basename": "A-2-2",
       "path": "3A/Math 239/Assignments/A2/A-2-2.md"
-    },
-    {
-      "basename": "A-2-1",
-      "path": "3A/Math 239/Assignments/A2/A-2-1.md"
-    },
-    {
-      "basename": "Power Series",
-      "path": "3A/Math 239/Week 3/Power Series.md"
-    },
-    {
-      "basename": "Inheritance",
-      "path": "2A/CS 246/Week 7 - polymorphism/Inheritance.md"
-    },
-    {
-      "basename": "Iterator",
-      "path": "2A/CS 246/Week 6  - design patterns/Iterator.md"
-    },
-    {
-      "basename": "Accessor and Mutator",
-      "path": "2A/CS 246/Week 6  - design patterns/Accessor and Mutator.md"
-    },
-    {
-      "basename": "A3",
-      "path": "2A/CS 246/Week 5 - OOP/A3.md"
-    },
-    {
-      "basename": "Methods",
-      "path": "2A/CS 246/Week 5 - OOP/Methods.md"
-    },
-    {
-      "basename": "Constructor",
-      "path": "2A/CS 246/Week 5 - OOP/Constructor.md"
-    },
-    {
-      "basename": "Cohesion & Coupling",
-      "path": "2A/CS 246/Week 5 - OOP/Cohesion & Coupling.md"
-    },
-    {
-      "basename": "Classes",
-      "path": "2A/CS 246/Week 5 - OOP/Classes.md"
-    },
-    {
-      "basename": "Seperate Compilation",
-      "path": "2A/CS 246/Week 4 - preprocessing/Seperate Compilation.md"
-    },
-    {
-      "basename": "Week 5 - OOP",
-      "path": "2A/CS 246/Week 5 - OOP/Week 5 - OOP.md"
-    },
-    {
-      "basename": "Preprocessor",
-      "path": "2A/CS 246/Week 4 - preprocessing/Preprocessor.md"
-    },
-    {
-      "basename": "Preprocessor guards",
-      "path": "2A/CS 246/Week 4 - preprocessing/Preprocessor guards.md"
     }
   ],
   "omittedPaths": [],

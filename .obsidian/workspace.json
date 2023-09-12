@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3B/Music246/Week 0/The four functions.md",
+                "file": "3A/Math 239/Midterm/Midterm.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3B/Music246/Week 0/The four functions.md",
+                "file": "3A/Math 239/Midterm/Midterm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3B/Music246/Week 0/The four functions.md"
+                "file": "3A/Math 239/Midterm/Midterm.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3B/Music246/Week 0/The four functions.md",
+                "file": "3A/Math 239/Midterm/Midterm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,10 +181,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb57f09d5e932c16",
+  "active": "914e96105618b067",
   "lastOpenFiles": [
-    "3B/Music246/Week 0/Apollo 13.md",
+    "3A/Math 239/Final/Office hour.md",
+    "3A/Math 239/Final/Final.md",
+    "3A/Math 239/Assignments/A8/A-8-4.md",
+    "3A/Math 239/Assignments/A8/A-8-3.md",
+    "3A/Math 239/Assignments/A8/A-8-2.md",
+    "3A/Math 239/Assignments/A8/A-8-1.md",
+    "3A/Math 239/Assignments/A7/A-7-1.md",
+    "3A/Math 239/Assignments/A6/A-6-1.md",
+    "3A/Math 239/Assignments/A5/A-5-3.md",
+    "3A/Math 239/Assignments/A5/A-5-2.md",
+    "3A/Math 239/Assignments/A5/A-5-1.md",
+    "3A/Math 239/Assignments/A4/A-4-4.md",
+    "3A/Math 239/Assignments/A4/A-4-2.md",
+    "3A/Math 239/Assignments/A4/A-4-1.md",
+    "3A/Math 239/Assignments/A3/A-3-2.md",
+    "3A/Math 239/Assignments/A3/A-3-3.md",
+    "3A/Math 239/Assignments/A3/A-3-1.md",
+    "3A/Math 239/Week 3/Composition.md",
+    "3A/Math 239/Week 3/Generating Series.md",
+    "3A/Math 239/Week 2/Multiset.md",
+    "3A/Math 239/Week 2/Binomial Series.md",
     "3B/Music246/Week 0/The four functions.md",
+    "3B/Music246/Week 0/Apollo 13.md",
     "3B/Music246/Week 0/Musical Cues.md",
     "3B/Stats 231/Week 0/Empirical Study.md",
     "3B/Music246/Week 0",
@@ -192,31 +213,10 @@
     "3B/CS341/Week 0/Bentley's Problem.md",
     "3B/Stats 231/Week 0",
     "3B/Stats 231",
-    "3B/CS341/Week 0/Models of Computation.md",
-    "3B/CS350/Week 0/Type of OS.md",
     "3B/CS341/Week 0",
     "3B/CS341",
     "3B/CS350/Week 0",
-    "3A/Math 239/Week 2/Binomial Series.md",
-    "3A/Math 239/Week 2/Multiset.md",
-    "3A/Math 239/Midterm/Midterm.md",
-    "2A/CS 246/Week 7 - polymorphism/Abstract Class.md",
     "3B/CS350",
-    "3B",
-    "2A/CS 246/Week 6  - design patterns/Friend Classes and Functions.md",
-    "2A/CS 246/Week 6  - design patterns/Invariants and Encapsulation.md",
-    "2A/CS 246/Week 5 - OOP/Member operators.md",
-    "2A/CS 246/Week 5 - OOP/Rules for replacing default compiler operations.md",
-    "2A/CS 246/Week 5 - OOP/Copy&Move Elission.md",
-    "2A/CS 246/Week 5 - OOP/Static fields.md",
-    "2A/CS 246/Week 5 - OOP/Move Semantics.md",
-    "2A/CS 246/Week 5 - OOP/Copy Assignment Operator.md",
-    "2A/CS 246/Week 5 - OOP/Destructor.md",
-    "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md",
-    "2A/CS 246/Week 5 - OOP/Copy Constructor.md",
-    "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md",
-    "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md",
-    "Rand/Tutor/Loops & Conditions.md",
-    "Rand/Tutor/Variable Scoping.md"
+    "3B"
   ]
 }
