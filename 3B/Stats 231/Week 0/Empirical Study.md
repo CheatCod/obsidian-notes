@@ -40,3 +40,27 @@ Ex. hair colour, university program
 **Complex** variates are more unusual, and include open-minded responses to a survey questions. Analyzing complex variates often require conversion to another variates
 
 When making decisions about the type of a variate, 
+
+
+## Attribute
+
+
+## Types of Empirical studies
+
+### Sample Surveys
+
+Information is obtained about a **finite** population by selecting a 'representative' sample of units from the population and determining the variates of interest for each unit in the sample
+
+Example: Student course perception surveys
+
+
+
+### Observational studies
+
+Information about a population or process is collected *without any attempt to change one or more variates* for the sample units.
+
+### Experimental studies
+
+In contrast to observational studies, an experimental study is one in which the experimenter intervenes and changes or sets the value of one or more variates for the units of the study
+
+fk around and find out

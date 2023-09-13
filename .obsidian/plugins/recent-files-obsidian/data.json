@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Data Summaries",
+      "path": "3B/Stats 231/Week 0/Data Summaries.md"
+    },
+    {
+      "basename": "Empirical Study",
+      "path": "3B/Stats 231/Week 0/Empirical Study.md"
+    },
+    {
+      "basename": "Recurrence Relations",
+      "path": "3B/CS341/Week 0/Recurrence Relations.md"
+    },
+    {
+      "basename": "Well Formed Parenthesis",
+      "path": "3A/Math 239/Week 6/Well Formed Parenthesis.md"
+    },
+    {
+      "basename": "Recursive Decomp",
+      "path": "3A/Math 239/Week 6/Recursive Decomp.md"
+    },
+    {
+      "basename": "Partial Fraction",
+      "path": "3A/Math 239/Week 6/Partial Fraction.md"
+    },
+    {
+      "basename": "Generating Series",
+      "path": "3A/Math 239/Week 3/Generating Series.md"
+    },
+    {
+      "basename": "Divide-And-Conquer",
+      "path": "3B/CS341/Week 0/Divide-And-Conquer.md"
+    },
+    {
+      "basename": "Bentley's Problem",
+      "path": "3B/CS341/Week 0/Bentley's Problem.md"
+    },
+    {
+      "basename": "Models of Computation",
+      "path": "3B/CS341/Week 0/Models of Computation.md"
+    },
+    {
+      "basename": "Type of OS",
+      "path": "3B/CS350/Week 0/Type of OS.md"
+    },
+    {
       "basename": "Midterm",
       "path": "3A/Math 239/Midterm/Midterm.md"
     },
@@ -77,10 +121,6 @@
       "path": "3A/Math 239/Week 3/Composition.md"
     },
     {
-      "basename": "Generating Series",
-      "path": "3A/Math 239/Week 3/Generating Series.md"
-    },
-    {
       "basename": "Multiset",
       "path": "3A/Math 239/Week 2/Multiset.md"
     },
@@ -99,22 +139,6 @@
     {
       "basename": "Musical Cues",
       "path": "3B/Music246/Week 0/Musical Cues.md"
-    },
-    {
-      "basename": "Empirical Study",
-      "path": "3B/Stats 231/Week 0/Empirical Study.md"
-    },
-    {
-      "basename": "Bentley's Problem",
-      "path": "3B/CS341/Week 0/Bentley's Problem.md"
-    },
-    {
-      "basename": "Models of Computation",
-      "path": "3B/CS341/Week 0/Models of Computation.md"
-    },
-    {
-      "basename": "Type of OS",
-      "path": "3B/CS350/Week 0/Type of OS.md"
     },
     {
       "basename": "Abstract Class",
@@ -175,30 +199,6 @@
     {
       "basename": "Loops & Conditions",
       "path": "Rand/Tutor/Loops & Conditions.md"
-    },
-    {
-      "basename": "Variable Scoping",
-      "path": "Rand/Tutor/Variable Scoping.md"
-    },
-    {
-      "basename": "Tutor",
-      "path": "Rand/Tutor.md"
-    },
-    {
-      "basename": "Reddit Posts",
-      "path": "Rand/Reddit Posts.md"
-    },
-    {
-      "basename": "Lodestone",
-      "path": "Rand/Lodestone.md"
-    },
-    {
-      "basename": "A-2-3",
-      "path": "3A/Math 239/Assignments/A2/A-2-3.md"
-    },
-    {
-      "basename": "A-2-2",
-      "path": "3A/Math 239/Assignments/A2/A-2-2.md"
     }
   ],
   "omittedPaths": [],

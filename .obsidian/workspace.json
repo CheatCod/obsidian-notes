@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3A/Math 239/Midterm/Midterm.md",
+                "file": "3B/Stats 231/Week 0/Data Summaries.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3A/Math 239/Midterm/Midterm.md",
+                "file": "3B/Stats 231/Week 0/Data Summaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3A/Math 239/Midterm/Midterm.md"
+                "file": "3B/Stats 231/Week 0/Data Summaries.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3A/Math 239/Midterm/Midterm.md",
+                "file": "3B/Stats 231/Week 0/Data Summaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,8 +181,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "914e96105618b067",
+  "active": "cb57f09d5e932c16",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230912153925.png",
+    "Attachments/Pasted image 20230912153731.png",
+    "Attachments/Pasted image 20230912153308.png",
+    "3B/Stats 231/Week 0/Empirical Study.md",
+    "3B/Stats 231/Week 0/Data Summaries.md",
+    "3B/CS341/Week 0/Recurrence Relations.md",
+    "3A/Math 239/Week 6/Well Formed Parenthesis.md",
+    "3A/Math 239/Week 6/Recursive Decomp.md",
+    "3A/Math 239/Week 6/Partial Fraction.md",
+    "3A/Math 239/Week 3/Generating Series.md",
+    "3B/CS341/Week 0/Divide-And-Conquer.md",
+    "3B/CS341/Week 0/Bentley's Problem.md",
+    "3B/CS341/Week 0/Models of Computation.md",
+    "3B/CS350/Week 0/Type of OS.md",
+    "3A/Math 239/Midterm/Midterm.md",
+    "3B/CS350/Week 1",
     "3A/Math 239/Final/Office hour.md",
     "3A/Math 239/Final/Final.md",
     "3A/Math 239/Assignments/A8/A-8-4.md",
@@ -196,21 +212,8 @@
     "3A/Math 239/Assignments/A5/A-5-1.md",
     "3A/Math 239/Assignments/A4/A-4-4.md",
     "3A/Math 239/Assignments/A4/A-4-2.md",
-    "3A/Math 239/Assignments/A4/A-4-1.md",
-    "3A/Math 239/Assignments/A3/A-3-2.md",
-    "3A/Math 239/Assignments/A3/A-3-3.md",
-    "3A/Math 239/Assignments/A3/A-3-1.md",
-    "3A/Math 239/Week 3/Composition.md",
-    "3A/Math 239/Week 3/Generating Series.md",
-    "3A/Math 239/Week 2/Multiset.md",
-    "3A/Math 239/Week 2/Binomial Series.md",
-    "3B/Music246/Week 0/The four functions.md",
-    "3B/Music246/Week 0/Apollo 13.md",
-    "3B/Music246/Week 0/Musical Cues.md",
-    "3B/Stats 231/Week 0/Empirical Study.md",
     "3B/Music246/Week 0",
     "3B/Music246",
-    "3B/CS341/Week 0/Bentley's Problem.md",
     "3B/Stats 231/Week 0",
     "3B/Stats 231",
     "3B/CS341/Week 0",
