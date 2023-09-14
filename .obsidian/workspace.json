@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3B/Stats 231/Week 0/Data Summaries.md",
+                "file": "3B/Music246/Week 1/Talking about Film Music.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3B/Stats 231/Week 0/Data Summaries.md",
+                "file": "3B/Music246/Week 1/Talking about Film Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3B/Stats 231/Week 0/Data Summaries.md"
+                "file": "3B/Music246/Week 1/Talking about Film Music.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3B/Stats 231/Week 0/Data Summaries.md",
+                "file": "3B/Music246/Week 1/Talking about Film Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,12 +183,28 @@
   },
   "active": "cb57f09d5e932c16",
   "lastOpenFiles": [
+    "3B/Music246/Week 0/The four functions.md",
+    "3B/Music246/Week 1/Talking about Film Music.md",
+    "3B/Music246/Week 1",
+    "3B/Stats 231/Week 0/Data Summaries.md",
+    "Attachments/Pasted image 20230914153407.png",
+    "Attachments/Pasted image 20230914152451.png",
+    "Attachments/Pasted image 20230914152332.png",
+    "Attachments/Pasted image 20230914151848.png",
+    "3B/CS341/Week 0/Matrix Multiplication.md",
+    "3B/CS341/Week 0/Multiprecision Multiplication.md",
+    "3B/CS341/Week 0/Dominating points.md",
+    "3B/CS341/Week 0/Recurrence Relations.md",
+    "Attachments/Pasted image 20230914131844.png",
+    "Attachments/Pasted image 20230914131841.png",
+    "Attachments/Pasted image 20230914131456.png",
+    "3B/CS350/Week 0/Processes.md",
+    "3B/CS350/Week 0/Type of OS.md",
+    "3B/CS350/Week 0/Untitled",
     "Attachments/Pasted image 20230912153925.png",
     "Attachments/Pasted image 20230912153731.png",
     "Attachments/Pasted image 20230912153308.png",
     "3B/Stats 231/Week 0/Empirical Study.md",
-    "3B/Stats 231/Week 0/Data Summaries.md",
-    "3B/CS341/Week 0/Recurrence Relations.md",
     "3A/Math 239/Week 6/Well Formed Parenthesis.md",
     "3A/Math 239/Week 6/Recursive Decomp.md",
     "3A/Math 239/Week 6/Partial Fraction.md",
@@ -196,7 +212,6 @@
     "3B/CS341/Week 0/Divide-And-Conquer.md",
     "3B/CS341/Week 0/Bentley's Problem.md",
     "3B/CS341/Week 0/Models of Computation.md",
-    "3B/CS350/Week 0/Type of OS.md",
     "3A/Math 239/Midterm/Midterm.md",
     "3B/CS350/Week 1",
     "3A/Math 239/Final/Office hour.md",
@@ -207,19 +222,12 @@
     "3A/Math 239/Assignments/A8/A-8-1.md",
     "3A/Math 239/Assignments/A7/A-7-1.md",
     "3A/Math 239/Assignments/A6/A-6-1.md",
-    "3A/Math 239/Assignments/A5/A-5-3.md",
-    "3A/Math 239/Assignments/A5/A-5-2.md",
-    "3A/Math 239/Assignments/A5/A-5-1.md",
-    "3A/Math 239/Assignments/A4/A-4-4.md",
-    "3A/Math 239/Assignments/A4/A-4-2.md",
     "3B/Music246/Week 0",
     "3B/Music246",
     "3B/Stats 231/Week 0",
     "3B/Stats 231",
     "3B/CS341/Week 0",
     "3B/CS341",
-    "3B/CS350/Week 0",
-    "3B/CS350",
-    "3B"
+    "3B/CS350/Week 0"
   ]
 }

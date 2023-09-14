@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Talking about Film Music",
+      "path": "3B/Music246/Week 1/Talking about Film Music.md"
+    },
+    {
+      "basename": "The four functions",
+      "path": "3B/Music246/Week 0/The four functions.md"
+    },
+    {
       "basename": "Data Summaries",
       "path": "3B/Stats 231/Week 0/Data Summaries.md"
     },
     {
-      "basename": "Empirical Study",
-      "path": "3B/Stats 231/Week 0/Empirical Study.md"
+      "basename": "Matrix Multiplication",
+      "path": "3B/CS341/Week 0/Matrix Multiplication.md"
+    },
+    {
+      "basename": "Multiprecision Multiplication",
+      "path": "3B/CS341/Week 0/Multiprecision Multiplication.md"
+    },
+    {
+      "basename": "Dominating points",
+      "path": "3B/CS341/Week 0/Dominating points.md"
     },
     {
       "basename": "Recurrence Relations",
       "path": "3B/CS341/Week 0/Recurrence Relations.md"
+    },
+    {
+      "basename": "Processes",
+      "path": "3B/CS350/Week 0/Processes.md"
+    },
+    {
+      "basename": "Type of OS",
+      "path": "3B/CS350/Week 0/Type of OS.md"
+    },
+    {
+      "basename": "Empirical Study",
+      "path": "3B/Stats 231/Week 0/Empirical Study.md"
     },
     {
       "basename": "Well Formed Parenthesis",
@@ -39,10 +67,6 @@
     {
       "basename": "Models of Computation",
       "path": "3B/CS341/Week 0/Models of Computation.md"
-    },
-    {
-      "basename": "Type of OS",
-      "path": "3B/CS350/Week 0/Type of OS.md"
     },
     {
       "basename": "Midterm",
@@ -129,10 +153,6 @@
       "path": "3A/Math 239/Week 2/Binomial Series.md"
     },
     {
-      "basename": "The four functions",
-      "path": "3B/Music246/Week 0/The four functions.md"
-    },
-    {
       "basename": "Apollo 13",
       "path": "3B/Music246/Week 0/Apollo 13.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Destructor",
       "path": "2A/CS 246/Week 5 - OOP/Destructor.md"
-    },
-    {
-      "basename": "Single Argument Constructor",
-      "path": "2A/CS 246/Week 5 - OOP/Single Argument Constructor.md"
-    },
-    {
-      "basename": "Copy Constructor",
-      "path": "2A/CS 246/Week 5 - OOP/Copy Constructor.md"
-    },
-    {
-      "basename": "Object slicing & polymorphism",
-      "path": "2A/CS 246/Week 7 - polymorphism/Object slicing & polymorphism.md"
-    },
-    {
-      "basename": "Move & Copy with Inheritance",
-      "path": "2A/CS 246/Week 7 - polymorphism/Move & Copy with Inheritance.md"
-    },
-    {
-      "basename": "Loops & Conditions",
-      "path": "Rand/Tutor/Loops & Conditions.md"
     }
   ],
   "omittedPaths": [],

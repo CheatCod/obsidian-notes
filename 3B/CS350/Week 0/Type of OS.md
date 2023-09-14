@@ -29,6 +29,10 @@ library os is a library of services
 	- Not jumping to the instruction address
 - The kernel supplies well-defined system call interface, the application setup syscall arguments and **trap** to the kernel 
 
+Kernel lives in a location of ram that user mode program does not have access to, so must use the syscall interface for kernel to take over.
+
+
+
 # Processes
 
 Processes are one of the abstractions that are commonly part of an operating system, which could also include threads, synchronization, address spaces and file systems.

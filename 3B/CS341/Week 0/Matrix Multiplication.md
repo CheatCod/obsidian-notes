@@ -1,0 +1,1 @@
+Similar to Karatsuba's algorithm, get rid of one multiplication

@@ -61,6 +61,8 @@ Data that look uniform have a sample kurtosis close to 1.8
 
 --- 
 
+# Gaussian Data
+
 We are often interested in whether a gaussian model is appropriate for a particular sample.
 
 - Is the sample mean close to the sample median?
@@ -68,4 +70,79 @@ We are often interested in whether a gaussian model is appropriate for a particu
 - Is the sample skewness close to 0
 - Is the sample kurtosis close to 3
 
-Side project idea: a note taking app that records and transcribe the audio as you are taking note and uses LLM to integrate notes to the transcription
+
+Statements to use when describing whether data appear to be from a Gaussian distribution:
+
+- The sample mean and median reasonably similar
+- The skewness is reasonably close to 0
+- Approx 95% of observations lie within 2 standard deviations of the mean
+
+
+# Non-Gaussian Data
+
+Any one of the numerical summaries(mean, median, mode, sample variance, sample std, range, etc) taken on its own does **NOT** provide a good summary of the entire set
+
+A useful data summary is provided by the **five number summary**
+
+- The minimum
+- The lower quartile
+- The median
+- The upper (third) quartile
+- The maximum
+
+The minimum and maximum gives us a good way to catch bad data
+
+# Graphical Summaries
+
+## Histograms
+
+Histograms allow us to compare the distribution of a dataset with a p.d.f
+
+An empirical c.d.f, in contrast, lets us compare the distribution of a dataset with c.d.f. of a random variable
+
+## Box Plots
+
+Boxplots can help demonstrate skewness
+
+![[Pasted image 20230914151848.png]]
+
+## Run chart
+
+A run chart gives a graphical summary of data which are varying over time
+
+![[Pasted image 20230914152332.png]]
+
+## Scatterplot
+
+![[Pasted image 20230914152451.png]]
+
+## Correlation
+
+The sample correlation gives us a numerical summary of a **bivariate** dataset.
+
+The sample correlation takes values between -1 and +1, it is a measure of the **linear** relationship between x and y.
+
+If the value of $r$ is close to 1 then we say that there is a strong positive linear relationship between the two variates.
+
+**Notes:**
+
+- A strong linear relationship is not necessarily a **casual** relationship
+- Just because $r = 0$ does not mean that x and y are unrelated, merely that they are **uncorrelated**
+![[Pasted image 20230914153407.png]]
+
+## Bivariate Categorical Data
+
+The **relative risk** is the relative change in magnitude from one data to another.
+
+For ex.
+
+"Students with a Canadian hometown are over 3 times as likely to
+like hockey!
+214"
+
+Pie Charts may be tempting, but human are bad at interpreting area, especially area and angular judgement
+
+
+
+
+%% Side project idea: a note taking app that records and transcribe the audio as you are taking note and uses LLM to integrate notes to the transcription %%

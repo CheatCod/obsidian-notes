@@ -20,6 +20,10 @@ $an^2 + bn + c$ for some unknown constant $a,b,c$
 
 So you can carry the unknowns into the proof, the unknowns complete the proof
 
+**Note:** need to take care of floor and ceilings, since the +1 and -1 happens at every level of the recurrence.
+
+If can't assume power of 2, we can do analysis on the closest power of 2 smaller and power of 2 bigger and find a $\Theta$ bound that way.
+
 
 ## Master Theorem
 
