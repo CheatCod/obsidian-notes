@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3B/Stats 231/Assignments/A1.md",
+                "file": "3B/Stats 231/Assignments/1A.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3B/Stats 231/Assignments/A1.md",
+                "file": "3B/Stats 231/Assignments/1A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3B/Stats 231/Assignments/A1.md"
+                "file": "3B/Stats 231/Assignments/1A.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3B/Stats 231/Assignments/A1.md",
+                "file": "3B/Stats 231/Assignments/1A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,8 +206,10 @@
   },
   "active": "ce7cedaa586f82d1",
   "lastOpenFiles": [
+    "3B/Stats 231/Week 1/Data Summaries.md",
+    "3B/Stats 231/Assignments/1A.md",
+    "Attachments/Pasted image 20230918135020.png",
     "2A/Stat 230/Hypergeometric distribution.md",
-    "3B/Stats 231/Assignments/A1.md",
     "2A/Stat 230/Sample Space.md",
     "2A/Stat 230/Probability Function.md",
     "2A/Stat 230/Random Variables.md",
@@ -235,7 +237,6 @@
     "3A/Math 239/Week 4/Ambiguity.md",
     "3A/Math 239/Week 4/Binary String.md",
     "3A/Math 239/Week 3/Power Series.md",
-    "3A/Math 239/Week 3/Composition.md",
     "3B/CS341/Tut 1",
     "3B/Music246/Week 1",
     "Attachments/Pasted image 20230914153407.png",
@@ -248,7 +249,6 @@
     "3B/CS350/Week 0/Untitled",
     "Attachments/Pasted image 20230912153925.png",
     "Attachments/Pasted image 20230912153731.png",
-    "Attachments/Pasted image 20230912153308.png",
     "3B/CS350/Week 1",
     "3B/Music246/Week 0",
     "3B/Music246"
