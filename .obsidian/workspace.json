@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce7cedaa586f82d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3B/Stats 231/Assignments/A1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3B/Stats 231/TUT 1/Probability Fundamentals.md",
+                "file": "3B/Stats 231/Assignments/A1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3B/Stats 231/TUT 1/Probability Fundamentals.md"
+                "file": "3B/Stats 231/Assignments/A1.md"
               }
             }
           },
@@ -144,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3B/Stats 231/TUT 1/Probability Fundamentals.md",
+                "file": "3B/Stats 231/Assignments/A1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,6 +171,16 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c84b3c48dd9c96b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -181,53 +204,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "115b7c0bd1520464",
+  "active": "ce7cedaa586f82d1",
   "lastOpenFiles": [
+    "2A/Stat 230/Hypergeometric distribution.md",
+    "3B/Stats 231/Assignments/A1.md",
+    "2A/Stat 230/Sample Space.md",
+    "2A/Stat 230/Probability Function.md",
+    "2A/Stat 230/Random Variables.md",
+    "2A/Stat 230/Cumulative Distribution Function.md",
+    "2A/Stat 230/Week 12/Moment Generating Functions.md",
+    "2A/Stat 230/Week 12/Normal Approximation to Binomial.md",
+    "2A/Stat 230/Week 12/Continuity Correction.md",
+    "2A/Stat 230/Week 12/Central Limit Theorem.md",
+    "2A/Stat 230/Week 9/Normal Distribution.md",
+    "2A/Stat 230/Week 9/Computer Generation of R.Vs..md",
+    "2A/Stat 230/Week 8/Exponential Distribution.md",
+    "2A/Stat 230/Week 8/Moments and Continuous Uniform Distribution.md",
+    "2A/Stat 230/Week 8/Distributions of Transformed R.V..md",
+    "2A/Stat 230/Week 7/Continuous Distributions.md",
+    "2A/Stat 230/Week 7/Variance of Standard Distribution.md",
+    "2A/Stat 230/Week 6/Variance and Standard Deviation.md",
+    "2A/Stat 230/Week 6/Expect value of a Function.md",
+    "2A/Stat 230/Week 6/Expected Value of p.f.s.md",
+    "2A/Stat 230/Week 6/Expected Value.md",
+    "3B/Stats 231/Assignments/A1",
+    "3B/Stats 231/Assignments",
+    "3A/Untitled",
     "3B/Stats 231/TUT 1/Probability Fundamentals.md",
     "3B/Stats 231/TUT 1",
     "3A/Math 239/Week 4/Ambiguity.md",
     "3A/Math 239/Week 4/Binary String.md",
     "3A/Math 239/Week 3/Power Series.md",
     "3A/Math 239/Week 3/Composition.md",
-    "3A/Math 239/Week 3/Generating Series.md",
-    "3A/Math 239/Week 2/Multiset.md",
-    "3A/Math 239/Week 2/Binomial Series.md",
-    "3A/Math 239/Midterm/Midterm.md",
-    "3A/Math 239/Week 7/Walks.md",
-    "3A/Math 239/Week 7/Subgraph.md",
-    "3A/Math 239/Week 6/Well Formed Parenthesis.md",
-    "3A/Math 239/Week 6/Partial Fraction.md",
-    "3B/CS341/Week 1/Recurrence Relations.md",
-    "3B/Music246/Week 1/Talking about Film Music.md",
     "3B/CS341/Tut 1",
-    "3B/Music246/Week 0/The four functions.md",
     "3B/Music246/Week 1",
-    "3B/Stats 231/Week 1/Data Summaries.md",
     "Attachments/Pasted image 20230914153407.png",
     "Attachments/Pasted image 20230914152451.png",
     "Attachments/Pasted image 20230914152332.png",
     "Attachments/Pasted image 20230914151848.png",
-    "3B/CS341/Week 1/Matrix Multiplication.md",
-    "3B/CS341/Week 1/Multiprecision Multiplication.md",
-    "3B/CS341/Week 1/Dominating points.md",
     "Attachments/Pasted image 20230914131844.png",
     "Attachments/Pasted image 20230914131841.png",
     "Attachments/Pasted image 20230914131456.png",
-    "3B/CS350/Week 0/Processes.md",
-    "3B/CS350/Week 0/Type of OS.md",
     "3B/CS350/Week 0/Untitled",
     "Attachments/Pasted image 20230912153925.png",
     "Attachments/Pasted image 20230912153731.png",
     "Attachments/Pasted image 20230912153308.png",
-    "3B/Stats 231/Week 1/Empirical Study.md",
-    "3A/Math 239/Week 6/Recursive Decomp.md",
-    "3B/CS341/Week 1/Divide-And-Conquer.md",
-    "3B/CS341/Week 1/Bentley's Problem.md",
     "3B/CS350/Week 1",
     "3B/Music246/Week 0",
-    "3B/Music246",
-    "3B/Stats 231/Week 1",
-    "3B/Stats 231",
-    "3B/CS341/Week 1"
+    "3B/Music246"
   ]
 }

@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "A1",
+      "path": "3B/Stats 231/Assignments/A1.md"
+    },
+    {
+      "basename": "Hypergeometric distribution",
+      "path": "2A/Stat 230/Hypergeometric distribution.md"
+    },
+    {
+      "basename": "Sample Space",
+      "path": "2A/Stat 230/Sample Space.md"
+    },
+    {
+      "basename": "Probability Function",
+      "path": "2A/Stat 230/Probability Function.md"
+    },
+    {
+      "basename": "Random Variables",
+      "path": "2A/Stat 230/Random Variables.md"
+    },
+    {
+      "basename": "Cumulative Distribution Function",
+      "path": "2A/Stat 230/Cumulative Distribution Function.md"
+    },
+    {
+      "basename": "Moment Generating Functions",
+      "path": "2A/Stat 230/Week 12/Moment Generating Functions.md"
+    },
+    {
+      "basename": "Normal Approximation to Binomial",
+      "path": "2A/Stat 230/Week 12/Normal Approximation to Binomial.md"
+    },
+    {
+      "basename": "Continuity Correction",
+      "path": "2A/Stat 230/Week 12/Continuity Correction.md"
+    },
+    {
+      "basename": "Central Limit Theorem",
+      "path": "2A/Stat 230/Week 12/Central Limit Theorem.md"
+    },
+    {
+      "basename": "Normal Distribution",
+      "path": "2A/Stat 230/Week 9/Normal Distribution.md"
+    },
+    {
+      "basename": "Computer Generation of R.Vs.",
+      "path": "2A/Stat 230/Week 9/Computer Generation of R.Vs..md"
+    },
+    {
+      "basename": "Exponential Distribution",
+      "path": "2A/Stat 230/Week 8/Exponential Distribution.md"
+    },
+    {
+      "basename": "Moments and Continuous Uniform Distribution",
+      "path": "2A/Stat 230/Week 8/Moments and Continuous Uniform Distribution.md"
+    },
+    {
+      "basename": "Distributions of Transformed R.V.",
+      "path": "2A/Stat 230/Week 8/Distributions of Transformed R.V..md"
+    },
+    {
+      "basename": "Continuous Distributions",
+      "path": "2A/Stat 230/Week 7/Continuous Distributions.md"
+    },
+    {
+      "basename": "Variance of Standard Distribution",
+      "path": "2A/Stat 230/Week 7/Variance of Standard Distribution.md"
+    },
+    {
+      "basename": "Variance and Standard Deviation",
+      "path": "2A/Stat 230/Week 6/Variance and Standard Deviation.md"
+    },
+    {
+      "basename": "Expect value of a Function",
+      "path": "2A/Stat 230/Week 6/Expect value of a Function.md"
+    },
+    {
+      "basename": "Expected Value of p.f.s",
+      "path": "2A/Stat 230/Week 6/Expected Value of p.f.s.md"
+    },
+    {
+      "basename": "Expected Value",
+      "path": "2A/Stat 230/Week 6/Expected Value.md"
+    },
+    {
       "basename": "Probability Fundamentals",
       "path": "3B/Stats 231/TUT 1/Probability Fundamentals.md"
     },
@@ -115,90 +199,6 @@
     {
       "basename": "Final",
       "path": "3A/Math 239/Final/Final.md"
-    },
-    {
-      "basename": "A-8-4",
-      "path": "3A/Math 239/Assignments/A8/A-8-4.md"
-    },
-    {
-      "basename": "A-8-3",
-      "path": "3A/Math 239/Assignments/A8/A-8-3.md"
-    },
-    {
-      "basename": "A-8-2",
-      "path": "3A/Math 239/Assignments/A8/A-8-2.md"
-    },
-    {
-      "basename": "A-8-1",
-      "path": "3A/Math 239/Assignments/A8/A-8-1.md"
-    },
-    {
-      "basename": "A-7-1",
-      "path": "3A/Math 239/Assignments/A7/A-7-1.md"
-    },
-    {
-      "basename": "A-6-1",
-      "path": "3A/Math 239/Assignments/A6/A-6-1.md"
-    },
-    {
-      "basename": "A-5-3",
-      "path": "3A/Math 239/Assignments/A5/A-5-3.md"
-    },
-    {
-      "basename": "A-5-2",
-      "path": "3A/Math 239/Assignments/A5/A-5-2.md"
-    },
-    {
-      "basename": "A-5-1",
-      "path": "3A/Math 239/Assignments/A5/A-5-1.md"
-    },
-    {
-      "basename": "A-4-4",
-      "path": "3A/Math 239/Assignments/A4/A-4-4.md"
-    },
-    {
-      "basename": "A-4-2",
-      "path": "3A/Math 239/Assignments/A4/A-4-2.md"
-    },
-    {
-      "basename": "A-4-1",
-      "path": "3A/Math 239/Assignments/A4/A-4-1.md"
-    },
-    {
-      "basename": "A-3-2",
-      "path": "3A/Math 239/Assignments/A3/A-3-2.md"
-    },
-    {
-      "basename": "A-3-3",
-      "path": "3A/Math 239/Assignments/A3/A-3-3.md"
-    },
-    {
-      "basename": "A-3-1",
-      "path": "3A/Math 239/Assignments/A3/A-3-1.md"
-    },
-    {
-      "basename": "Apollo 13",
-      "path": "3B/Music246/Week 0/Apollo 13.md"
-    },
-    {
-      "basename": "Musical Cues",
-      "path": "3B/Music246/Week 0/Musical Cues.md"
-    },
-    {
-      "basename": "Abstract Class",
-      "path": "2A/CS 246/Week 7 - polymorphism/Abstract Class.md"
-    },
-    {
-      "basename": "Friend Classes and Functions",
-      "path": "2A/CS 246/Week 6  - design patterns/Friend Classes and Functions.md"
-    },
-    {
-      "basename": "Invariants and Encapsulation",
-      "path": "2A/CS 246/Week 6  - design patterns/Invariants and Encapsulation.md"
-    },
-    {
-      "basename": "Member operators",
-      "path": "2A/CS 246/Week 5 - OOP/Member operators.md"
     }
   ],
   "omittedPaths": [],
