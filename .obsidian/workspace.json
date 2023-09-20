@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3B/Stats 231/Assignments/1A.md",
+                "file": "3B/Stats 231/Week 2/Statistical Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3B/Stats 231/Assignments/1A.md",
+                "file": "3B/Stats 231/Week 2/Statistical Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3B/Stats 231/Assignments/1A.md"
+                "file": "3B/Stats 231/Week 2/Statistical Models.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3B/Stats 231/Assignments/1A.md",
+                "file": "3B/Stats 231/Week 2/Statistical Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,17 @@
   },
   "active": "ce7cedaa586f82d1",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230919150828.png",
+    "3B/Stats 231/Week 2/Data Analysis and Statistical Inference.md",
+    "3B/Stats 231/Week 2/Statistical Models.md",
     "3B/Stats 231/Week 1/Data Summaries.md",
+    "3B/CS341/Week 2/Selection Problem.md",
+    "3B/Stats 231/Week 2",
+    "Attachments/Pasted image 20230919141256.png",
+    "Attachments/Pasted image 20230919131615.png",
+    "3B/CS350/Week 2/File Descriptor.md",
+    "3B/CS341/Week 2",
+    "3B/CS350/Week 1/Processes.md",
     "3B/Stats 231/Assignments/1A.md",
     "Attachments/Pasted image 20230918135020.png",
     "2A/Stat 230/Hypergeometric distribution.md",
@@ -227,16 +237,10 @@
     "2A/Stat 230/Week 7/Variance of Standard Distribution.md",
     "2A/Stat 230/Week 6/Variance and Standard Deviation.md",
     "2A/Stat 230/Week 6/Expect value of a Function.md",
-    "2A/Stat 230/Week 6/Expected Value of p.f.s.md",
-    "2A/Stat 230/Week 6/Expected Value.md",
     "3B/Stats 231/Assignments/A1",
     "3B/Stats 231/Assignments",
     "3A/Untitled",
-    "3B/Stats 231/TUT 1/Probability Fundamentals.md",
     "3B/Stats 231/TUT 1",
-    "3A/Math 239/Week 4/Ambiguity.md",
-    "3A/Math 239/Week 4/Binary String.md",
-    "3A/Math 239/Week 3/Power Series.md",
     "3B/CS341/Tut 1",
     "3B/Music246/Week 1",
     "Attachments/Pasted image 20230914153407.png",
@@ -247,10 +251,6 @@
     "Attachments/Pasted image 20230914131841.png",
     "Attachments/Pasted image 20230914131456.png",
     "3B/CS350/Week 0/Untitled",
-    "Attachments/Pasted image 20230912153925.png",
-    "Attachments/Pasted image 20230912153731.png",
-    "3B/CS350/Week 1",
-    "3B/Music246/Week 0",
-    "3B/Music246"
+    "3B/CS350/Week 2"
   ]
 }
