@@ -75,6 +75,7 @@ Statements to use when describing whether data appear to be from a Gaussian dist
 
 - The sample mean and median reasonably similar
 - The skewness is reasonably close to 0
+- Kurtosis is reasonably close to 3
 - Approx 95% of observations lie within 2 standard deviations of the mean
 
 
