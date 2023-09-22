@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Checking Model Fit",
+      "path": "3B/Stats 231/Week 2/Checking Model Fit.md"
+    },
+    {
+      "basename": "Statistical Models",
+      "path": "3B/Stats 231/Week 2/Statistical Models.md"
+    },
+    {
+      "basename": "Greedy",
+      "path": "3B/CS341/Week 2/Greedy.md"
+    },
+    {
+      "basename": "Closest Pair",
+      "path": "3B/CS341/Week 2/Closest Pair.md"
+    },
+    {
+      "basename": "Selection Problem",
+      "path": "3B/CS341/Week 2/Selection Problem.md"
+    },
+    {
+      "basename": "Threads",
+      "path": "3B/CS350/Week 2/Threads.md"
+    },
+    {
+      "basename": "Preempt",
+      "path": "3B/CS350/Week 2/Preempt.md"
+    },
+    {
+      "basename": "Scheduling",
+      "path": "3B/CS350/Week 2/Scheduling.md"
+    },
+    {
+      "basename": "File Descriptor",
+      "path": "3B/CS350/Week 2/File Descriptor.md"
+    },
+    {
       "basename": "1A",
       "path": "3B/Stats 231/Assignments/1A.md"
     },
@@ -9,20 +45,8 @@
       "path": "3B/Stats 231/Week 1/Data Summaries.md"
     },
     {
-      "basename": "Statistical Models",
-      "path": "3B/Stats 231/Week 2/Statistical Models.md"
-    },
-    {
       "basename": "Data Analysis and Statistical Inference",
       "path": "3B/Stats 231/Week 2/Data Analysis and Statistical Inference.md"
-    },
-    {
-      "basename": "Selection Problem",
-      "path": "3B/CS341/Week 2/Selection Problem.md"
-    },
-    {
-      "basename": "File Descriptor",
-      "path": "3B/CS350/Week 2/File Descriptor.md"
     },
     {
       "basename": "Processes",
@@ -175,30 +199,6 @@
     {
       "basename": "Matrix Multiplication",
       "path": "3B/CS341/Week 1/Matrix Multiplication.md"
-    },
-    {
-      "basename": "Multiprecision Multiplication",
-      "path": "3B/CS341/Week 1/Multiprecision Multiplication.md"
-    },
-    {
-      "basename": "Dominating points",
-      "path": "3B/CS341/Week 1/Dominating points.md"
-    },
-    {
-      "basename": "Type of OS",
-      "path": "3B/CS350/Week 1/Type of OS.md"
-    },
-    {
-      "basename": "Empirical Study",
-      "path": "3B/Stats 231/Week 1/Empirical Study.md"
-    },
-    {
-      "basename": "Recursive Decomp",
-      "path": "3A/Math 239/Week 6/Recursive Decomp.md"
-    },
-    {
-      "basename": "Divide-And-Conquer",
-      "path": "3B/CS341/Week 1/Divide-And-Conquer.md"
     }
   ],
   "omittedPaths": [],

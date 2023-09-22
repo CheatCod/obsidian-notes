@@ -44,3 +44,36 @@ P(Y = 10; \theta = 0.25) = 0.042
 $$
 We say that the data is approx. 4 times more likely if $\theta = 0.4$ than if $\theta = 0.25$
 
+# Log Likelihood
+
+Often it is easier to maximize the log likelihood function rather than the likelihood function
+
+
+# Example
+
+two polls were conducted in
+2010 and 2011, each surveying 2000 Canadian adults asking whether they agreed with the statement “University and college teachers earn too much.” The results are summarized as:
+
+• 2010: n1 = 1500, y1 = 390 agreed with the statement.
+• 2011: n2 = 2000, y2 = 540 agreed with the statement.
+
+
+...
+
+
+*Unless otherwise stated, it is sufficient to solve the derivative to 0 to get the maximum, due to the nature of the probability models we work with.*
+
+
+
+# Likelihood for continuous random variables
+
+
+...
+
+
+
+# Invariance property of maximum likelihood estimates
+
+**invariance property**:
+
+If $\hat{\theta}$ is the likelihood estimate of $\theta$, then $g(\hat{\theta})$ is the maximum likelihood estimate of $g(\theta)$

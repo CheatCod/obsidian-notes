@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3B/Stats 231/Assignments/1A.md",
+                "file": "3B/Stats 231/Week 2/Checking Model Fit.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3B/Stats 231/Assignments/1A.md",
+                "file": "3B/Stats 231/Week 2/Checking Model Fit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3B/Stats 231/Assignments/1A.md"
+                "file": "3B/Stats 231/Week 2/Checking Model Fit.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3B/Stats 231/Assignments/1A.md",
+                "file": "3B/Stats 231/Week 2/Checking Model Fit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,23 +218,29 @@
   },
   "active": "ce7cedaa586f82d1",
   "lastOpenFiles": [
-    "3B/Stats 231/Week 1/Data Summaries.md",
+    "3B/Stats 231/Week 2/Statistical Models.md",
+    "3B/Stats 231/Week 2/Checking Model Fit.md",
+    "3B/CS341/Week 2/Greedy.md",
+    "3B/CS341/Week 2/Closest Pair.md",
+    "Attachments/Pasted image 20230921131208.png",
+    "Attachments/Pasted image 20230921130856.png",
+    "Attachments/Pasted image 20230921130723.png",
+    "3B/CS341/Week 2/Selection Problem.md",
+    "3B/CS350/Week 2/Threads.md",
+    "Attachments/Pasted image 20230921124224.png",
+    "3B/CS350/Week 2/Preempt.md",
+    "3B/CS350/Week 2/Scheduling.md",
+    "3B/CS350/Week 2/File Descriptor.md",
     "3B/Stats 231/Assignments/1A.md",
+    "3B/Stats 231/Week 1/Data Summaries.md",
     "Attachments/Pasted image 20230920204425.png",
     "Attachments/Pasted image 20230920204420.png",
     "Attachments/Pasted image 20230920204408.png",
     "Attachments/Pasted image 20230920204403.png",
     "Attachments/Pasted image 20230920204150.png",
     "Attachments/Pasted image 20230920204145.png",
-    "Attachments/Pasted image 20230920203337.png",
-    "3B/Stats 231/Week 2/Statistical Models.md",
-    "Attachments/Pasted image 20230919150828.png",
     "3B/Stats 231/Week 2/Data Analysis and Statistical Inference.md",
-    "3B/CS341/Week 2/Selection Problem.md",
     "3B/Stats 231/Week 2",
-    "Attachments/Pasted image 20230919141256.png",
-    "Attachments/Pasted image 20230919131615.png",
-    "3B/CS350/Week 2/File Descriptor.md",
     "3B/CS341/Week 2",
     "3B/CS350/Week 1/Processes.md",
     "2A/Stat 230/Hypergeometric distribution.md",
@@ -250,11 +256,6 @@
     "2A/Stat 230/Week 9/Computer Generation of R.Vs..md",
     "2A/Stat 230/Week 8/Exponential Distribution.md",
     "2A/Stat 230/Week 8/Moments and Continuous Uniform Distribution.md",
-    "2A/Stat 230/Week 8/Distributions of Transformed R.V..md",
-    "2A/Stat 230/Week 7/Continuous Distributions.md",
-    "2A/Stat 230/Week 7/Variance of Standard Distribution.md",
-    "2A/Stat 230/Week 6/Variance and Standard Deviation.md",
-    "2A/Stat 230/Week 6/Expect value of a Function.md",
     "3B/Stats 231/Assignments/A1",
     "3B/Stats 231/Assignments",
     "3A/Untitled",
