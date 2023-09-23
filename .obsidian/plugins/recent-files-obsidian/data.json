@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Film",
+      "path": "3B/Music246/Week 2/Film.md"
+    },
+    {
       "basename": "Checking Model Fit",
       "path": "3B/Stats 231/Week 2/Checking Model Fit.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "File Descriptor",
       "path": "3B/CS350/Week 2/File Descriptor.md"
-    },
-    {
-      "basename": "1A",
-      "path": "3B/Stats 231/Assignments/1A.md"
     },
     {
       "basename": "Data Summaries",
@@ -195,10 +195,6 @@
     {
       "basename": "The four functions",
       "path": "3B/Music246/Week 0/The four functions.md"
-    },
-    {
-      "basename": "Matrix Multiplication",
-      "path": "3B/CS341/Week 1/Matrix Multiplication.md"
     }
   ],
   "omittedPaths": [],

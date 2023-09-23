@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 23,
   "enabledCssSnippets": [
     "clutter-free-headings",
     "notation-colour-blocks",
@@ -8,7 +8,7 @@
   ],
   "translucency": false,
   "cssTheme": "Things",
-  "theme": "obsidian",
+  "theme": "system",
   "baseFontSizeAction": true,
   "accentColor": ""
 }

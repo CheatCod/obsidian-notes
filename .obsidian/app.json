@@ -1,7 +1,6 @@
 {
   "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A4",
+    "pageSize": "A3",
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100
@@ -14,8 +13,5 @@
   "vimMode": false,
   "autoConvertHtml": false,
   "legacyEditor": false,
-  "livePreview": true,
-  "spellcheckDictionary": [
-    "JavaFX applications"
-  ]
+  "livePreview": true
 }

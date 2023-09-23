@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "5eac6d3b54de0a6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "231c69c6ece042b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9db6de3f1f3da515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3B/CS341/Week 2/Greedy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efed8c39c28a951f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c5ce5d58b5aa8bde",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "0eca3ffe6188a512",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTimeReverse"
+          }
+        }
+      },
+      {
+        "id": "c80335f97825a0c9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e896211cd57d6dca",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "44942428e1118c79",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ea7665306573fabf",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "f5e2d00703be0493",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "3B/CS341/Week 2/Greedy.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "89885f27ec67f475",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "3B/CS341/Week 2/Greedy.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4a498c72421335e7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "3B/CS341/Week 2/Greedy.md"
+          }
+        }
+      },
+      {
+        "id": "2240316f8c691b7d",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "9db6de3f1f3da515",
+  "lastOpenFiles": [
+    "3A/Math 239/Week 6/Recursive Decomp.md",
+    "3A/Math 239/Week 5/Binary String Exvlusion.md",
+    "3A/Math 239/Week 5/Block Decomposition.md",
+    "3A/Math 239/Assignments/A4/A-4-2.md",
+    "3A/Math 239/Assignments/A4/A-4-3.md",
+    "3A/Math 239/Week 4/Ambiguity.md",
+    "3A/Math 239/Week 4/Binary String.md",
+    "3A/Math 239/Week 3/Composition.md",
+    "3A/Math 239/Assignments/A4/A-4-4.pdf",
+    "3A/Math 239/Assignments/A4/A-4-4.md"
+  ]
+}

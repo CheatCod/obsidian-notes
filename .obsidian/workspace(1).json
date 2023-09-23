@@ -11,8 +11,12 @@
             "id": "e8967407d3391dfa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3B/Stats 231/Assignments/A1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "8dc8a31ac03f199e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3B/Stats 231/Assignments/A1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +131,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "3B/Stats 231/Assignments/A1.md"
+              }
+            }
+          },
+          {
+            "id": "22c8dd756b072f0e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -130,14 +153,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
   "active": "e8967407d3391dfa",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Attachments/Pasted image 20230922015241.png",
+    "Attachments/Pasted image 20230922012421.png",
+    "Attachments/Pasted image 20230922011340.png",
+    "3B/Music246/Week 2/Film.md",
+    "3B/Music246/Week 1/Talking about Film Music.md",
+    "3B/Music246/Week 2/Western Classical Music History.md",
+    "3B/CS341/Week 2/Closest Pair.md",
+    "3B/CS341/Week 1/Models of Computation.md",
+    "3B/Stats 231/Week 2/Data Analysis and Statistical Inference.md",
+    "3B/Music246/Week 0/The four functions.md",
+    "Attachments/Pasted image 20220929212346.png",
+    "Attachments/Pasted image 20220909110528.png",
+    "Attachments/Pasted image 20221127203723.png",
+    "Attachments/Pasted image 20221004091409.png",
+    "Attachments/Pasted image 20221127203623.png",
+    "Attachments/Pasted image 20221127203720.png",
+    "Attachments/Pasted image 20221116165000.png",
+    "Attachments/Pasted image 20220929212345.png",
+    "3A/Math 239/Assignments/A4/A-4-1.pdf",
+    "3A/Math 239/Assignments/A4/A-4-4.pdf",
+    "3A/Math 239/Assignments/A5/A-5-3.pdf",
+    "3A/Math 239/Assignments/A4/A-4-2.pdf",
+    "3A/Math 239/Assignments/A4/A-4-3.pdf",
+    "3A/Math 239/Assignments/A5/A-5-2.pdf",
+    "3B/CS341/Week 1/Recurrence Relations.md",
+    "3B/Stats 231/Week 1/Data Summaries.md",
+    "3B/Stats 231/Week 2/Statistical Models.md",
+    "3B/Stats 231/Week 1/Empirical Study.md",
+    "3B/Stats 231/TUT 1/Probability Fundamentals.md",
+    "3B/CS350/Week 1/Type of OS.md",
+    "3B/Stats 231/Assignments/A1.md",
+    "3B/CS341/Week 2/Selection Problem.md",
+    "3B/CS350/Week 2/Threads.md",
+    "3B/CS350/Week 1/Processes.md",
+    "3B/CS341/Week 1/Bentley's Problem.md",
+    "3B/Music246/Week 0/Apollo 13.md",
+    "3B/CS350/Week 2/File Descriptor.md",
+    "3A/Math 239/Assignments/A5/A-5-1.pdf",
+    "3B/CS350/Week 2/Preempt.md",
+    "3B/CS341/Week 1/Dominating points.md",
+    "3B/CS341/Week 1/Multiprecision Multiplication.md",
+    "3B/Music246/Week 0/Musical Cues.md",
+    "3B/CS341/Week 1/Divide-And-Conquer.md",
+    "3B/Music246/Week 2"
+  ]
 }
