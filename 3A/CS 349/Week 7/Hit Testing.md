@@ -1,0 +1,1 @@
+Create region around border so user can click on it easier 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3B/Stats 231/Assignments/A1.md",
+                "file": "3B/CS341/Week 1/Recurrence Relations.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3B/Stats 231/Assignments/A1.md",
+                "file": "3B/CS341/Week 1/Recurrence Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3B/Stats 231/Assignments/A1.md",
+                "file": "3B/CS341/Week 1/Recurrence Relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3B/Stats 231/Assignments/A1.md"
+                "file": "3B/CS341/Week 1/Recurrence Relations.md"
               }
             }
           },
@@ -166,16 +166,37 @@
   },
   "active": "e8967407d3391dfa",
   "lastOpenFiles": [
+    "3B/CS341/Week 1/Bentley's Problem.md",
+    "3B/CS341/Week 1/Recurrence Relations.md",
+    "3A/CS 240/Assignments/A1/a1q1.md",
+    "2B/CS 240/Assignments/A1/Q5.md",
+    "2B/CS 240/Assignments/A1/Q4.md",
+    "2B/CS 240/Assignments/A1/Q3.md",
+    "2B/CS 240/Assignments/A1/Q2.md",
+    "2B/CS 240/Assignments/A1/Q1.md",
+    "3A/CS 240/Assignments/A1/a1q2.md",
+    "3A/CS 240/Assignments/A1/a1q5.md",
+    "3A/CS 240/Assignments/A1/a1q4.md",
+    "3A/CS 240/Assignments/A1/a1q3.md",
+    "3A/CS 240/Week 2/Algorithm Analysis.md",
+    "3A/CS 240/Week 1/Intro.md",
+    "3A/CS 240/Week 2/Run Time Analysis.md",
+    "3A/CS 240/Week 2/Algorithm Design.md",
+    "3B/Stats 231/Assignments/A1.md",
+    "3A/Math 239/Week 11/Coloring Graph.md",
+    "3A/Math 239/Week 4/Binary String.md",
+    "3A/Math 239/Week 4/Ambiguity.md",
+    "Rand/Tutor/Loops & Conditions.md",
+    "3A/CS 348/Midterm/Midterm.md",
+    "3A/Math 239/Week 11/Hall's Theorem.md",
+    "3A/CS 240/Week 4/Sorting & Randomized Algo.md",
+    "3A/Math 239/Week 2/Multiset.md",
+    "3A/CS 348/Week 4/SQL, Triggers, VIew, Indexes.md",
+    "3A/Math 239/Week 3/Generating Series.html",
+    "3A/Math 239/Week 3/Generating Series.docx",
     "Attachments/Pasted image 20230922015241.png",
     "Attachments/Pasted image 20230922012421.png",
     "Attachments/Pasted image 20230922011340.png",
-    "3B/Music246/Week 2/Film.md",
-    "3B/Music246/Week 1/Talking about Film Music.md",
-    "3B/Music246/Week 2/Western Classical Music History.md",
-    "3B/CS341/Week 2/Closest Pair.md",
-    "3B/CS341/Week 1/Models of Computation.md",
-    "3B/Stats 231/Week 2/Data Analysis and Statistical Inference.md",
-    "3B/Music246/Week 0/The four functions.md",
     "Attachments/Pasted image 20220929212346.png",
     "Attachments/Pasted image 20220909110528.png",
     "Attachments/Pasted image 20221127203723.png",
@@ -183,32 +204,13 @@
     "Attachments/Pasted image 20221127203623.png",
     "Attachments/Pasted image 20221127203720.png",
     "Attachments/Pasted image 20221116165000.png",
-    "Attachments/Pasted image 20220929212345.png",
     "3A/Math 239/Assignments/A4/A-4-1.pdf",
     "3A/Math 239/Assignments/A4/A-4-4.pdf",
     "3A/Math 239/Assignments/A5/A-5-3.pdf",
     "3A/Math 239/Assignments/A4/A-4-2.pdf",
     "3A/Math 239/Assignments/A4/A-4-3.pdf",
     "3A/Math 239/Assignments/A5/A-5-2.pdf",
-    "3B/CS341/Week 1/Recurrence Relations.md",
-    "3B/Stats 231/Week 1/Data Summaries.md",
-    "3B/Stats 231/Week 2/Statistical Models.md",
-    "3B/Stats 231/Week 1/Empirical Study.md",
-    "3B/Stats 231/TUT 1/Probability Fundamentals.md",
-    "3B/CS350/Week 1/Type of OS.md",
-    "3B/Stats 231/Assignments/A1.md",
-    "3B/CS341/Week 2/Selection Problem.md",
-    "3B/CS350/Week 2/Threads.md",
-    "3B/CS350/Week 1/Processes.md",
-    "3B/CS341/Week 1/Bentley's Problem.md",
-    "3B/Music246/Week 0/Apollo 13.md",
-    "3B/CS350/Week 2/File Descriptor.md",
     "3A/Math 239/Assignments/A5/A-5-1.pdf",
-    "3B/CS350/Week 2/Preempt.md",
-    "3B/CS341/Week 1/Dominating points.md",
-    "3B/CS341/Week 1/Multiprecision Multiplication.md",
-    "3B/Music246/Week 0/Musical Cues.md",
-    "3B/CS341/Week 1/Divide-And-Conquer.md",
     "3B/Music246/Week 2"
   ]
 }

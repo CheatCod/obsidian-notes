@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "Recurrence Relations",
+      "path": "3B/CS341/Week 1/Recurrence Relations.md"
+    },
+    {
+      "basename": "Bentley's Problem",
+      "path": "3B/CS341/Week 1/Bentley's Problem.md"
+    },
+    {
+      "basename": "a1q1",
+      "path": "3A/CS 240/Assignments/A1/a1q1.md"
+    },
+    {
+      "basename": "Q5",
+      "path": "2B/CS 240/Assignments/A1/Q5.md"
+    },
+    {
+      "basename": "Q4",
+      "path": "2B/CS 240/Assignments/A1/Q4.md"
+    },
+    {
+      "basename": "Q3",
+      "path": "2B/CS 240/Assignments/A1/Q3.md"
+    },
+    {
+      "basename": "Q2",
+      "path": "2B/CS 240/Assignments/A1/Q2.md"
+    },
+    {
+      "basename": "Q1",
+      "path": "2B/CS 240/Assignments/A1/Q1.md"
+    },
+    {
+      "basename": "a1q2",
+      "path": "3A/CS 240/Assignments/A1/a1q2.md"
+    },
+    {
+      "basename": "a1q5",
+      "path": "3A/CS 240/Assignments/A1/a1q5.md"
+    },
+    {
+      "basename": "a1q4",
+      "path": "3A/CS 240/Assignments/A1/a1q4.md"
+    },
+    {
+      "basename": "a1q3",
+      "path": "3A/CS 240/Assignments/A1/a1q3.md"
+    },
+    {
+      "basename": "Algorithm Analysis",
+      "path": "3A/CS 240/Week 2/Algorithm Analysis.md"
+    },
+    {
+      "basename": "Intro",
+      "path": "3A/CS 240/Week 1/Intro.md"
+    },
+    {
+      "basename": "Run Time Analysis",
+      "path": "3A/CS 240/Week 2/Run Time Analysis.md"
+    },
+    {
+      "basename": "Algorithm Design",
+      "path": "3A/CS 240/Week 2/Algorithm Design.md"
+    },
+    {
       "basename": "A1",
       "path": "3B/Stats 231/Assignments/A1.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "Expected Value",
       "path": "2A/Stat 230/Week 6/Expected Value.md"
-    },
-    {
-      "basename": "Probability Fundamentals",
-      "path": "3B/Stats 231/TUT 1/Probability Fundamentals.md"
-    },
-    {
-      "basename": "Ambiguity",
-      "path": "3A/Math 239/Week 4/Ambiguity.md"
-    },
-    {
-      "basename": "Binary String",
-      "path": "3A/Math 239/Week 4/Binary String.md"
-    },
-    {
-      "basename": "Power Series",
-      "path": "3A/Math 239/Week 3/Power Series.md"
-    },
-    {
-      "basename": "Composition",
-      "path": "3A/Math 239/Week 3/Composition.md"
-    },
-    {
-      "basename": "Generating Series",
-      "path": "3A/Math 239/Week 3/Generating Series.md"
-    },
-    {
-      "basename": "Multiset",
-      "path": "3A/Math 239/Week 2/Multiset.md"
-    },
-    {
-      "basename": "Binomial Series",
-      "path": "3A/Math 239/Week 2/Binomial Series.md"
-    },
-    {
-      "basename": "Midterm",
-      "path": "3A/Math 239/Midterm/Midterm.md"
-    },
-    {
-      "basename": "Walks",
-      "path": "3A/Math 239/Week 7/Walks.md"
-    },
-    {
-      "basename": "Subgraph",
-      "path": "3A/Math 239/Week 7/Subgraph.md"
-    },
-    {
-      "basename": "Well Formed Parenthesis",
-      "path": "3A/Math 239/Week 6/Well Formed Parenthesis.md"
-    },
-    {
-      "basename": "Partial Fraction",
-      "path": "3A/Math 239/Week 6/Partial Fraction.md"
-    },
-    {
-      "basename": "Recurrence Relations",
-      "path": "3B/CS341/Week 1/Recurrence Relations.md"
-    },
-    {
-      "basename": "Talking about Film Music",
-      "path": "3B/Music246/Week 1/Talking about Film Music.md"
-    },
-    {
-      "basename": "The four functions",
-      "path": "3B/Music246/Week 0/The four functions.md"
     }
   ],
   "omittedPaths": [],
