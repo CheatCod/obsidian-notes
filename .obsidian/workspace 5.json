@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "5eac6d3b54de0a6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "29a722c6ddc38828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "115b7c0bd1520464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3B/Stats 231/TUT 1/Probability Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce7cedaa586f82d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3B/Music246/Week 2/Film.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cf5b44e2a76f52d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3B/Stats 231/Week 1/Data Summaries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce442a914b1e10d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "136a00237a00001a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "914e96105618b067",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "8c915065c2e0200b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "myL",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a749424b8aca911",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbf894acba9972a6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2dbf44b37f4a8c05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.0078125
+  },
+  "right": {
+    "id": "8119af8b5c1d2920",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8ac60dab6c144d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbf760c867f418a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3B/Music246/Week 2/Film.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c17adaf8508b0719",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3B/Music246/Week 2/Film.md"
+              }
+            }
+          },
+          {
+            "id": "8fe06cf89ec90e13",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "17ed260359549960",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad3602903c4e137e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3B/Music246/Week 2/Film.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56735f9fec94c048",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2c84b3c48dd9c96b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ce7cedaa586f82d1",
+  "lastOpenFiles": [
+    "3B/CS341/Week 1/lec",
+    "Attachments/Pasted image 20230922015241.png",
+    "3B/Stats 231/Assignments/A1.md",
+    "Attachments/Pasted image 20230922012421.png",
+    "Attachments/Pasted image 20230922011340.png",
+    "3B/Stats 231/Week 2/Checking Model Fit.md",
+    "3B/Music246/Week 2/Western Classical Music History.md",
+    "3B/Music246/Week 2/Film.md",
+    "3B/Music246/Week 2",
+    "3B/Stats 231/Week 2/Statistical Models.md",
+    "3B/CS341/Week 2/Greedy.md",
+    "3B/CS341/Week 2/Closest Pair.md",
+    "Attachments/Pasted image 20230921131208.png",
+    "Attachments/Pasted image 20230921130856.png",
+    "Attachments/Pasted image 20230921130723.png",
+    "3B/CS341/Week 2/Selection Problem.md",
+    "3B/CS350/Week 2/Threads.md",
+    "Attachments/Pasted image 20230921124224.png",
+    "3B/CS350/Week 2/Preempt.md",
+    "3B/CS350/Week 2/Scheduling.md",
+    "3B/CS350/Week 2/File Descriptor.md",
+    "3B/Stats 231/Assignments/1A.md",
+    "3B/Stats 231/Week 1/Data Summaries.md",
+    "Attachments/Pasted image 20230920204425.png",
+    "Attachments/Pasted image 20230920204420.png",
+    "Attachments/Pasted image 20230920204408.png",
+    "3B/Stats 231/Week 2/Data Analysis and Statistical Inference.md",
+    "3B/Stats 231/Week 2",
+    "3B/CS341/Week 2",
+    "3B/CS350/Week 1/Processes.md",
+    "2A/Stat 230/Hypergeometric distribution.md",
+    "2A/Stat 230/Sample Space.md",
+    "2A/Stat 230/Probability Function.md",
+    "2A/Stat 230/Random Variables.md",
+    "2A/Stat 230/Cumulative Distribution Function.md",
+    "2A/Stat 230/Week 12/Moment Generating Functions.md",
+    "2A/Stat 230/Week 12/Normal Approximation to Binomial.md",
+    "2A/Stat 230/Week 12/Continuity Correction.md",
+    "2A/Stat 230/Week 12/Central Limit Theorem.md",
+    "3B/Stats 231/Assignments/A1",
+    "3B/Stats 231/Assignments",
+    "3A/Untitled",
+    "3B/Stats 231/TUT 1",
+    "3B/CS341/Tut 1",
+    "3B/Music246/Week 1",
+    "3B/CS350/Week 0/Untitled"
+  ]
+}
